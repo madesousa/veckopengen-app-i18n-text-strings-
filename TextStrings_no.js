@@ -1,4 +1,4 @@
-export var TextStrings = {
+module.exports = {
     child_dashboard_event_list_show_week_report: "Visa veckorapport",
     child_dashboard_event_list_show_year_report: "Visa årsrapport",
     child_weekly_report_header: "Din veckorapport",
