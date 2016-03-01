@@ -17,7 +17,7 @@ module.exports = {
     your: "din",
     its: "sin",
     currency_prefix :"",
-    currency_suffix: " kr",
+    currency_suffix: " kr", 
     percent_suffix: "%",
     n_days: "%1$d dagar",
     tomorrow: "imorgon",
