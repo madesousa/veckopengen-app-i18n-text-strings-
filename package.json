@@ -1,0 +1,28 @@
+{
+  "name": "veckopengen-i18n",
+  "version": "1.0.0",
+  "description": "Localozed Test Strings for veckopengen-app",
+  "main": "TextStrings_en.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec",
+    "lint" : "eslint ."
+  },
+  "repository" : {
+    "type": "git",
+    "url": "git+https://github.com/Barnpengar/i18n.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barnpengar/i18n/issues"
+  },
+  "homepage": "https://github.com/Barnpengar/i18n#readme",
+  "devDependencies": {
+    "babel-eslint": "^5.0.0",
+    "eslint": "^2.2.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
