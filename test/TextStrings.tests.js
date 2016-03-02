@@ -1,5 +1,5 @@
 var expect = require("chai").expect
-var getTextStrings = require("../TextStrings")
+var getTextStrings = require("../index")
 
 describe("TextStrings", () => {
 	it("it should return sv", () => {
