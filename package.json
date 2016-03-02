@@ -1,5 +1,5 @@
 {
-  "name": "veckopengen-i18n",
+  "name": "veckopengen-app-i18n",
   "version": "1.0.0",
   "description": "Localozed Test Strings for veckopengen-app",
   "main": "TextStrings_en.js",
@@ -9,14 +9,14 @@
   },
   "repository" : {
     "type": "git",
-    "url": "git+https://github.com/Barnpengar/i18n.git"
+    "url": "git+https://github.com/Barnpengar/veckopengen-app-i18n.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Barnpengar/i18n/issues"
+    "url": "https://github.com/Barnpengar/veckopengen-app-i18n/issues"
   },
-  "homepage": "https://github.com/Barnpengar/i18n#readme",
+  "homepage": "https://github.com/Barnpengar/veckopengen-app-i18n#readme",
   "devDependencies": {
     "babel-eslint": "^5.0.0",
     "eslint": "^2.2.0",
