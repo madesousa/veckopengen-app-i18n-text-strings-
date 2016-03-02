@@ -2,7 +2,7 @@
   "name": "veckopengen-app-i18n",
   "version": "1.0.0",
   "description": "Localozed Test Strings for veckopengen-app",
-  "main": "TextStrings_en.js",
+  "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec",
     "lint" : "eslint ."
