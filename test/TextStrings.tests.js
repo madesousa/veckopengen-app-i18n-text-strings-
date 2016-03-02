@@ -11,6 +11,6 @@ describe("TextStrings", () => {
 	})
 
 	it("it should return no", () => {
-		expect(getTextStrings("no")).to.not.equal(undefined)
+		expect(getTextStrings("no")).to.not.equal(undefined) 
 	})
 })
