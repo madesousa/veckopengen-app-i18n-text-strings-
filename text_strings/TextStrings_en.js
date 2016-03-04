@@ -349,5 +349,13 @@ module.exports = {
     trans_deposit_allowance_to_transactional_account : "Kommande %1$s sattes in",
     trans_withdraw_allowance_from_transactional_account : "Förra %1$s togs ut",
     trans_assignment_was_cancelled : "%1$d drog tillbaka godkänd uppgift",
-    header_notifications_promo : "Notifications"
+    notifications_promo_header : "Notifikationer",
+    notifications_promo_skip : "Skip",
+    notifications_promo_text : "Aktivera pushnotiser för att få reda på viktiga händelser i applikationen",
+    notifications_promo_button_text : "Aktivera pushnotiser",
+    notifications_promo_push_header : "Veckopengen",
+    notifications_promo_push_text_parent : "Ditt barn har utfört uppgiften klipp gräsmattan",
+    notifications_promo_push_text_child : "Du har fått en sparbonus på 10kr i spargrisen!",
+    notifications_promo_push_time : "5 m sedan"
+
 }
