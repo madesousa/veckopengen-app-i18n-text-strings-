@@ -348,5 +348,6 @@ module.exports = {
     trans_deposit_intrest_to_savings_account : "Sparbonusen sattes in i spargrisen",
     trans_deposit_allowance_to_transactional_account : "%1$sen sattes in",
     trans_withdraw_allowance_from_transactional_account : "Förra %1$s togs ut",
-    trans_assignment_was_cancelled : "%1$d drog tillbaka godkänd uppgift"
+    trans_assignment_was_cancelled : "%1$d drog tillbaka godkänd uppgift",
+    header_notifications_promo : "Notifikationer"
 }
