@@ -1,5 +1,6 @@
 module.exports = {
     child_dashboard_event_list_show_week_report: "Visa veckorapport",
+    child_dashboard_event_list_show_month_report : "Visa månadsrapport",
     child_dashboard_event_list_show_year_report: "Visa årsrapport",
     child_weekly_report_header: "Din veckorapport",
     child_yearly_report_header: "Årsrapport %1$d",

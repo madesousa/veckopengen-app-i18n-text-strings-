@@ -1,6 +1,7 @@
 module.exports = {
     child_dashboard_event_list_show_week_report: "Vis ukerapport",
     child_dashboard_event_list_show_year_report: "Vis ukerapport",
+    child_dashboard_event_list_show_month_report : "Visa månadsrapport",
     child_weekly_report_header: "Din ukerapport",
     child_yearly_report_header: "Årsrapport %1$d",
     age: "%1$d år",
