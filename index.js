@@ -1,6 +1,6 @@
-var TextStrings_sv = require("./text_strings/TextStrings_sv") 
-var TextStrings_no = require("./text_strings/TextStrings_no") 
-var TextStrings_en = require("./text_strings/TextStrings_en") 
+var TextStrings_sv = require("./text_strings/TextStrings_sv.json") 
+var TextStrings_no = require("./text_strings/TextStrings_no.json") 
+var TextStrings_en = require("./text_strings/TextStrings_en.json")
 
 module.exports = lang => {
 	if (lang === "sv")
