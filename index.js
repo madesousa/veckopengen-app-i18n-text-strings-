@@ -9,7 +9,7 @@ module.exports = lang => {
 	if (lang.indexOf("en") !== -1)
 		return TextStrings_en
 
-	if (lang.indexOf("no") !== -1)
+	if (lang.indexOf("nb") || lang.indexOf("nn") !== -1)
 		return TextStrings_no
 
 	return undefined
