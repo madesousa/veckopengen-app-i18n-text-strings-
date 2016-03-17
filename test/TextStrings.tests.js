@@ -10,8 +10,12 @@ describe("TextStrings", () => {
 		expect(getTextStrings("en")).to.not.equal(undefined)
 	})
 
-	it("it should return no", () => {
-		expect(getTextStrings("no")).to.not.equal(undefined)
+	it("it should return nb", () => {
+		expect(getTextStrings("nb")).to.not.equal(undefined)
+	})
+
+	it("it should return nn", () => {
+		expect(getTextStrings("nn")).to.not.equal(undefined)
 	})
 
 	it("all textstrings in sv should have a row in en", () => {
@@ -26,10 +30,10 @@ describe("TextStrings", () => {
 		})
 	})
 
-	it("all textstrings in sv should have a row in no", () => {
+	it("all textstrings in sv should have a row in nb", () => {
 		var se = getTextStrings("sv")
 		var keys = Object.keys(se)
-		var no = getTextStrings("no")
+		var no = getTextStrings("nb")
 		keys.forEach(key => {
 			var str = no[key]
 			if (!str && str !== "")
