@@ -3,13 +3,13 @@ var TextStrings_no = require("./text_strings/TextStrings_no.json")
 var TextStrings_en = require("./text_strings/TextStrings_en.json")
 
 module.exports = lang => {
-	if (lang === "sv")
+	if (lang.indexOf("sv") !== -1)
 		return TextStrings_sv
 
-	if (lang === "en")
+	if (lang.indexOf("en") !== -1)
 		return TextStrings_en
 
-	if (lang === "no")
+	if (lang.indexOf("no") !== -1)
 		return TextStrings_no
 
 	return undefined
