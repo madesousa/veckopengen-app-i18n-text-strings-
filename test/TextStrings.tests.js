@@ -41,5 +41,4 @@ describe("TextStrings", () => {
 			expect(no[key]).to.not.equal(undefined)
 		})
 	})
-
 })
