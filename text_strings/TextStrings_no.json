@@ -208,6 +208,7 @@
     "profile_available_tasks_empty_child": "Du har ingen nye oppgaver",
     "profile_locked_tasks": "Utførte oppgaver",
     "profile_locked_tasks_empty": "Ingen oppgaver er utført enda",
+    "profile_locked_goals": "Utførte sparemål",
     "profile_connect_child": "Koble sammen med %1$d",
     "profile_task_meta_text_requires_photo": "Bildebevis kreves",
     "profile_task_meta_text_shared_assignment": "Førstemann til mølla",

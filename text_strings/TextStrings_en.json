@@ -208,6 +208,7 @@
     "profile_available_tasks_empty_child": "Du har inga nya uppgifter",
     "profile_locked_tasks": "Utförda uppgifter",
     "profile_locked_tasks_empty": "Inga utförda uppgifter än",
+    "profile_locked_goals": "Utförda sparmål",
     "profile_connect_child": "Koppla ihop med %1$d",
     "profile_task_meta_text_requires_photo": "Bildbevis krävs",
     "profile_task_meta_text_shared_assignment": "Först till kvarn",
