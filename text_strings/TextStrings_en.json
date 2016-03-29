@@ -387,5 +387,5 @@
     "dashboard_intrest_added" : "Fick %d kr i sparbonus",
     "archive_goal": "Arkivera sparmål",
     "notifications_interest_deposit_title": "Grattis!",
-    "notifications_interest_deposit_text": "Du har fått %s%s i sparbonus!"
+    "notifications_interest_deposit_text": "Du har fått %d %s i sparbonus!"
 }
