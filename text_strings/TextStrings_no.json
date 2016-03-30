@@ -387,5 +387,9 @@
     "dashboard_intrest_added" : "Fikk %d kr i sparebonus",
     "archive_goal": "Arkiver sparemål",
     "notifications_interest_deposit_title": "Grattis!",
-    "notifications_interest_deposit_text": "Du har fått %d%s i sparbonus!"
+    "notifications_interest_deposit_text": "Du har fått %d%s i sparbonus!",
+    "notifications_task_done_title": "Grattis!",
+    "notifications_task_done_text_wallet_weekly": "Du har fått %d%s i belöning till veckopengen!",
+    "notifications_task_done_text_wallet_monthly": "Du har fått %d%s i belöning till månadspengen!",
+    "notifications_task_done_text_bank": "Du har fått %d%s i belöning till spargrisen!"
 }
