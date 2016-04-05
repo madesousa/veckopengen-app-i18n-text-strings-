@@ -389,9 +389,7 @@
     "notifications_interest_deposit_title": "Grattis!",
     "notifications_interest_deposit_text": "Du har fått %d%s i sparbonus!",
     "notifications_task_done_title": "Klirrr!",
-    "notifications_task_done_text_wallet_weekly": "%s blev godkänd och du har inkasserat %d%s!",
-    "notifications_task_done_text_wallet_monthly": "%s blev godkänd och du har inkasserat %d%s!",
-    "notifications_task_done_text_bank": "%s blev godkänd och du har inkasserat %d%s!",
+    "notifications_task_done_text": "%s blev godkänd och du har inkasserat %d%s!",
     "notification_no_weekly_payment_reminder_text" : "Bravo, Veckopengen är utbetalad för den här veckan!",
     "notification_no_monthly_payment_reminder_text" : "Bravo, Månadspengen är utbetalad för den här månaden!"
 }
