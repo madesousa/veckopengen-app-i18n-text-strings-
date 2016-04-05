@@ -391,5 +391,7 @@
     "notifications_task_done_title": "Grattis!",
     "notifications_task_done_text_wallet_weekly": "Du har fått %d%s i belöning till veckopengen!",
     "notifications_task_done_text_wallet_monthly": "Du har fått %d%s i belöning till månadspengen!",
-    "notifications_task_done_text_bank": "Du har fått %d%s i belöning till spargrisen!"
+    "notifications_task_done_text_bank": "Du har fått %d%s i belöning till spargrisen!",
+    "notification_no_weekly_payment_reminder_text" : "Bravo, Veckopengen är utbetalad för den här veckan!",
+    "notification_no_monthly_payment_reminder_text" : "Bravo, Månadspengen är utbetalad för den här månaden!"
 }
