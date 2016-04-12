@@ -319,6 +319,7 @@
     "child_settings_edit_interest_title": "Ändra sparränta",
     "child_settings_invite_parent_title": "Koppla in en till förälder",
     "child_settings_invite_parent_instructions": "Bjud in genom telefonnummer eller e-post.",
+    "child_settings_nav_add_data_tracking_task" : "Lägg till Surfkoll",
     "invite_error_title": "Fel vid inbjudan",
     "invite_error_text": "Kan inte aktivera inbjudan. Du behöver få en ny inbjudan skickad till dig.",
     "edit_allowance_title": "Ändra %1$s",

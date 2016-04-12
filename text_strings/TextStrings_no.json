@@ -319,6 +319,7 @@
     "child_settings_edit_interest_title": "Endre sparerente",
     "child_settings_invite_parent_title": "Koble deg sammen med enda en forelder",
     "child_settings_invite_parent_instructions": "Inviter gjennom telefonnummer eller e-post.",
+    "child_settings_nav_add_data_tracking_task" : "Lägg till Surfkoll",
     "invite_error_title": "Feil under invitasjon",
     "invite_error_text": "Kan ikke aktivere invitasjonen. Du må få en ny invitasjon sendt til deg.",
     "edit_allowance_title": "Endre %1$s",
