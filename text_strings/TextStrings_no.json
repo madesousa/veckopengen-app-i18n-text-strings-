@@ -358,6 +358,7 @@
     "child_yearly_report_reward_header": "Belønninger",
     "child_yearly_report_saved_header": "Lagret",
     "child_yearly_report_saved_interest_header": "Sparebonus",
+    "child_yearly_report_footer": "Grymt bra jobbat!",
     "trans_payout_from_savings_account": "%1$d betalte ut fra sparegrisen",
     "trans_payout_from_transactional_account": "%1$d betalte ut fra %2$s",
     "trans_payout_reached_savings_goal": "%1$d betalte ut et sparemål",
