@@ -416,5 +416,6 @@
     "notification_no_weekly_payment_reminder_text" : "Bravo, Ukepengene er utbetalt for den her uken!",
     "notification_no_monthly_payment_reminder_text" : "Bravo, Månedspengene er utbetalt for den her måneden!",
     "overview_child_item_setup_text" : "Najs! Du är snart klar, tryck här!",
-    "child_settings_select_trustly_acount" : "Länka Trustly konto (beta)"
+    "child_settings_select_trustly_acount" : "Länka Trustly konto (beta)",
+    "overview_child_item_add_task" : "Skapa"
 }
