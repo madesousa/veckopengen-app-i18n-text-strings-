@@ -415,5 +415,6 @@
     "notifications_task_done_text": "%s blev godkänd och du har inkasserat %d%s!",
     "notification_no_weekly_payment_reminder_text" : "Bravo, Veckopengen är utbetalad för den här veckan!",
     "notification_no_monthly_payment_reminder_text" : "Bravo, Månadspengen är utbetalad för den här månaden!",
-    "overview_child_item_setup_text" : "Najs! Du är snart klar, tryck här!"
+    "overview_child_item_setup_text" : "Najs! Du är snart klar, tryck här!",
+    "child_settings_select_trustly_acount" : "Länka Trustly konto (beta)"
 }
