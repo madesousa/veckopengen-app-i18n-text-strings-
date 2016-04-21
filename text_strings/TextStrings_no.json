@@ -133,7 +133,7 @@
     "child_editor_money_day": "Velg dag",
     "child_editor_money_reminder": "Vi påminner deg når tiden er inne for å\ngi ut %1$sen.",
     "child_editor_interest_title": "Sparegrisen",
-    "child_editor_interest_instructions": "I sparegrisen kan ditt barn\nspare av sine %1$s.\nVil du oppmuntre til å spare setter\n du en rente som gjør at pengene i\nSparegrisen øker litt hver %2$s.",
+    "child_editor_interest_instructions": "I sparegrisen kan barnet\nspare av sine %1$s.\nVil du oppmuntre til sparing setter\n du en rente som gjør at pengene i\nSparegrisen øker litt hver %2$s.",
     "child_editor_interest_example": "Med %1$c i sparegrisen vokser \nsparingen med %2$c på en %3$s.",
     "child_editor_interest_set": "Sett sparerente",
     "child_editor_interest_button": "Ferdig",
