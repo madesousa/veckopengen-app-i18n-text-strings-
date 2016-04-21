@@ -131,7 +131,7 @@
     "child_editor_money_amount_warning_text": "Ettersom du senker %1$ss %2$s med mer enn %3$s så blir saldoen for %2$sen negativ.\n\nDu kan gjøre en innsetting i sparegrisen og deretter overføre penger til %2$sen eller høye summen igjen for å tilbakestille kontosaldoen.",
     "child_editor_money_amount_warning_ok": "Jeg forstår",
     "child_editor_money_day": "Velg dag",
-    "child_editor_money_reminder": "Vi påminner deg når tiden er inne for å\ngi ut %1$sen.",
+    "child_editor_money_reminder": "Vi minner deg på når tiden er inne for å\ngi ut %1$sen.",
     "child_editor_interest_title": "Sparegrisen",
     "child_editor_interest_instructions": "I sparegrisen kan barnet\nspare av sine %1$s.\nVil du oppmuntre til sparing setter\n du en rente som gjør at pengene i\nSparegrisen øker litt hver %2$s.",
     "child_editor_interest_example": "Med %1$c i sparegrisen vokser \nsparingen med %2$c på en %3$s.",
