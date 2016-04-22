@@ -179,6 +179,7 @@
     "signup_child_invite_error_title": "Något gick fel",
     "signup_child_invite_error_text": "Vi kunde inte skicka din inbjudan. Kontrollera din uppkoppling och försök igen.",
     "add_task_choose_participants": "Välj deltagare",
+    "edit_task_choose_participants": "Deltagare",
     "add_task_first_come_first_served": "Först till kvarn",
     "add_task_reward": "Belöning",
     "add_task_recurring_every_week": "Återkommer varje vecka",
@@ -417,5 +418,6 @@
     "notification_no_monthly_payment_reminder_text" : "Bravo, Månadspengen är utbetalad för den här månaden!",
     "overview_child_item_setup_text" : "Najs! Du är snart klar, tryck här!",
     "child_settings_select_trustly_acount" : "Länka Trustly konto (beta)",
-    "overview_child_item_add_task" : "Skapa"
+    "overview_child_item_add_task" : "Skapa",
+    "edit_task_choose_participants": "Deltagare"
 }
