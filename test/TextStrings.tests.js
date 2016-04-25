@@ -1,5 +1,5 @@
 var expect = require("chai").expect
-var getTextStrings = require("../index")
+var getTextStrings = require("../index").getTextStrings
 
 var compareKeys = (lang1, lang2) => {
 	var firstLang = getTextStrings(lang1)
