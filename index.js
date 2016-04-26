@@ -6,15 +6,15 @@ var countryCodes2PhoneNumberPrefixes = require("./countryCodes2PhoneNumberPrefix
 var getTextStrings = lang => {
 	lang = lang.substring(0, 2)
 	if (lang.indexOf("sv") !== -1)
-		return TextStrings_no
+		return TextStrings_sv
 
 	if (lang.indexOf("en") !== -1)
-		return TextStrings_no
+		return TextStrings_en
 
 	if (lang.indexOf("nb") !== -1 || lang.indexOf("nn") !== -1)
 		return TextStrings_no
 
-	return TextStrings_no
+	return TextStrings_en
 }
 
 var getPhoneNumberPrefix = countryCode => parseInt(countryCodes2PhoneNumberPrefixes[countryCode.toUpperCase()])
