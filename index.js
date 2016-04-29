@@ -1,6 +1,6 @@
 var TextStrings_sv = require("./text_strings/TextStrings_sv.json")
 var TextStrings_no = require("./text_strings/TextStrings_no.json")
-var TextStrings_en = require("./text_strings/TextStrings_en.json")
+var TextStrings_en = require("./text_strings/TextStrings_en.json") 
 var countryCodes2PhoneNumberPrefixes = require("./countryCodes2PhoneNumberPrefixes.json")
 
 var getTextStrings = lang => {
