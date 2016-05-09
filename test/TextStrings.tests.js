@@ -1,5 +1,7 @@
 var expect = require("chai").expect
 var getTextStrings = require("../index").getTextStrings
+var langs = ["da","fi","is","sv","nb","nn"]
+
 
 var compareKeys = (lang1, lang2) => {
 	var firstLang = getTextStrings(lang1)
@@ -12,29 +14,14 @@ var compareKeys = (lang1, lang2) => {
 	})
 }
 
+var getTextStrings
+
 describe("TextStrings", () => {
-	it("it should return sv", () => {
-		expect(getTextStrings("sv")).to.not.equal(undefined)
-	})
-
-	it("it should return en", () => {
-		expect(getTextStrings("en")).to.not.equal(undefined)
-	})
-
-	it("it should return nb", () => {
-		expect(getTextStrings("nb")).to.not.equal(undefined)
-	})
-
-	it("it should return nn", () => {
-		expect(getTextStrings("nn")).to.not.equal(undefined)
+	it("it should return Text Strings", () => {
+		langs.forEach(lang => expect(getTextStrings(lang)).to.not.equal(undefined, "Cant find TextStrings for: " + lang))
 	})
 
 	it("all textstrings should have a equivalent string in all other languages", () => {
-			compareKeys("sv", "en")
-			compareKeys("sv", "nb")
-			compareKeys("en", "sv")
-			compareKeys("en", "nb")
-			compareKeys("nb", "sv")
-			compareKeys("nb", "en")
+		langs.forEach(lang1 => langs.forEach(lang2 => compareKeys(lang1, lang2)))
 	})
 })
