@@ -421,5 +421,6 @@
     "overview_child_item_setup_text" : "Nice! Du er snart klar, tryk her!",
     "child_settings_select_trustly_acount" : "Link Trustly konto (beta)",
     "overview_child_item_add_task" : "Opret",
-    "edit_task_choose_participants": "Deltagere"
+    "edit_task_choose_participants": "Deltagere",
+    "overview_next_allowance" : "Nästa veckopeng"
 }
