@@ -421,5 +421,7 @@
     "child_settings_select_trustly_acount" : "Link en Trustly konto (beta)",
     "overview_child_item_add_task" : "Skap",
     "edit_task_choose_participants": "Deltagare",
-    "overview_next_allowance" : "Nästa veckopeng"
+    "overview_next_allowance" : "Nästa veckopeng",
+    "overview_new_notifications" : "Nya händelser",
+    "profile_add_cost" : "Nytt Utlägg"
 }
