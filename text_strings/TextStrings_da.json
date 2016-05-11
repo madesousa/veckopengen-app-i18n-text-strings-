@@ -136,7 +136,7 @@
     "child_editor_money_reminder_monthly": "Vi påminner dig när det är dags att\nge ut månadspengen.",
     "child_editor_interest_title": "Sparegrisen",
     "child_editor_interest_instructions": "I sparegrisen kan dit barn\nopspare sine %1$s.\nVil du motivere lysten til at spare op\n sætter du en rente, som gør at pengerne i\nSparegrisen øges lidt hver %2$s.",
-    "child_editor_interest_example": "Med %1$c i sparegrisen vokser \nopsparingen med %2$c på en %3$s.",
+    "child_editor_interest_example": "Med %1$c i sparegrisen vokser \nopsparingen med <boldGreen>%2$c</boldGreen> på en %3$s.",
     "child_editor_interest_set": "Vælg rente",
     "child_editor_interest_button": "Klar",
     "child_editor_data_tracking_instructions" : "Her sætter du en grænse for %1$ds mobilssurf. Du kan efterfølgende enkelt følge, hvor stor en del af ugens surfgrænse er blevet brugt.",
