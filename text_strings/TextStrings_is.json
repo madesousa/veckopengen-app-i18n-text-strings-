@@ -423,6 +423,11 @@
     "overview_child_item_add_task" : "Skapa",
     "edit_task_choose_participants": "Deltagare",
     "overview_next_allowance" : "Nästa veckopeng",
-        "overview_new_notifications" : "Nya händelser",
-        "profile_add_cost" : "Nytt Utlägg"
+    "overview_new_notifications" : "Nya händelser",
+    "profile_add_cost" : "Nytt Utlägg",
+    "expense_popover_title" : "Utlägg åt %1$d",
+    "expense_popover_charachters_left" : "%1$d tecken kvar",
+    "expense_popover_max_charachters" : "Max %1$d tecken",
+    "expense_popover_add_message" : "Lägg till meddelande",
+    "ready" : "Klar"
 }
