@@ -434,5 +434,7 @@
     "notification_weekly_payment_received": "Du har fått din veckopeng!",
     "notification_weekly_payment_sent": "{name} har fått sin veckopeng.",
     "notification_monthly_payment_received": "Du har fått din månadspeng!",
-    "notification_monthly_payment_sent": "{name} har fått sin månadspeng."
+    "notification_monthly_payment_sent": "{name} har fått sin månadspeng.",
+    "short_ok":"Ok",
+    "next_payOut" : "%1$d nästa %2$s"
 }
