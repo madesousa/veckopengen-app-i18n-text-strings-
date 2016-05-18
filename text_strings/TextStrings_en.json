@@ -429,5 +429,9 @@
     "expense_popover_max_charachters" : "Max %1$d tecken",
     "expense_popover_add_message" : "Lägg till meddelande",
     "ready" : "Klar",
-    "child_dashboard_my_money" : "Mina Pengar"
+    "child_dashboard_my_money" : "Mina Pengar",
+    "notification_weekly_payment_received": "Du har fått din veckopeng!",
+    "notification_weekly_payment_sent": "{name} har fått sin veckopeng.",
+    "notification_monthly_payment_received": "Du har fått din månadspeng!",
+    "notification_monthly_payment_sent": "{name} har fått sin månadspeng."
 }
