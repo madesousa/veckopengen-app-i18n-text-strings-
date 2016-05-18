@@ -429,6 +429,6 @@
     "expense_popover_charachters_left" : "%1$d tecken kvar",
     "expense_popover_max_charachters" : "Max %1$d tecken",
     "expense_popover_add_message" : "Lägg till meddelande",
-    "ready" : "Klar"
-
+    "ready" : "Klar",
+    "child_dashboard_my_money" : "Mina Pengar"
 }
