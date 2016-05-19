@@ -395,7 +395,7 @@
     "push_payment_monthly_payment_reminder_parent_text" : "Idag ska %s få sin månadspeng",
     "push_payment_monthly_payment_reminder_child_text" : "Idag ska du få din månadspeng",
     "push_update_recurring_new_task" : "Spana in! Du har fått en ny uppgift!",
-    "push_update_recurring_new_tasks" : "Kolla! Du har fått %d nya uppgifter!",
+    "push_update_recurring_new_tasks" : "Kolla! Du har fått nya uppgifter!",
     "push_new_allowance_added" : "Hurra! Nu har veckopengen fyllts på igen!",
     "push_invite_accepted" : "%s accepterade precis din inbjudan!",
     "push_new_assignment" : "Yihaa! Du har fått en ny uppgift!",
