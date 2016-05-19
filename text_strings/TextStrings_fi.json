@@ -436,5 +436,7 @@
     "notification_monthly_payment_received": "Du har fått din månadspeng!",
     "notification_monthly_payment_sent": "{name} har fått sin månadspeng.",
     "short_ok":"Ok",
-    "next_payOut" : "%1$d nästa %2$s"
+    "next_payOut" : "%1$d nästa %2$s",
+    "put_in_pig_later_poover":"Lägg i spargrisen om %1$d dagar",
+    "put_in_pig_now_poover":"Läggs i spargrisen idag"
 }
