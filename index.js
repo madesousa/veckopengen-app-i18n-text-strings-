@@ -14,7 +14,7 @@ var getTextStrings = lang => {
 		case "sv" : return TextStrings_sv
 		case "nb" : return TextStrings_no
 		case "nn" : return TextStrings_no
-		default : 	return TextStrings_en 
+		default : 	return TextStrings_sv 
 	}
 }
 
