@@ -437,5 +437,7 @@
     "short_ok":"Ok",
     "next_payOut" : "%1$d nästa %2$s",
     "put_in_pig_later_poover":"Lägg i spargrisen om %1$d dagar",
-    "put_in_pig_now_poover":"Läggs i spargrisen idag"
+    "put_in_pig_now_poover":"Läggs i spargrisen idag",
+    "expense_popover_title_child" : "Utlägg av förälder",
+    "expense_popover_description_child" : "Hur mycket pengar har du fått?"
 }
