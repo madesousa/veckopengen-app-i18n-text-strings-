@@ -456,5 +456,9 @@
     "aint_no_money_month_payed":"månad den",
     "expense_popover_title_child" : "Utlägg av förälder",
     "expense_popover_description_child" : "Hur mycket pengar har du fått?",
-    "overview_approve_assignment" : "Bedöm godkänd uppgift"
+    "overview_approve_assignment" : "Bedöm godkänd uppgift",
+    "notification_payment_sent_title" : "Har veckopengen betalats ut kontant?",
+    "notification_payment_sent_text" : "{name} fick {amount} {currency} i spargrisen {datetime}. Har du betalat ut den kontant?",
+    "notification_payment_sent_mark_payment" : "Ja, markera utbetalning",
+    "notification_payment_sent_leave_in_pig_bank" : "Nej, låt den lägga kvar i spargrisen"
 }
