@@ -201,10 +201,7 @@
     "profile_allowance_payout_n_days_suffix": "igjen",
     "profile_add_task": "Ny oppgave",
     "profile_add_goal": "Nytt sparemål",
-    "profile_tasks": "Oppgaver",
-    "profile_savings_goals": "Sparemål",
     "profile_goals_empty": "På tide å starte sparingen til noe?",
-    "profile_report": "Hendelser",
     "report_allowance": "%1$sen",
     "report_allowance_remaining": "Gjenstående fra tidligere",
     "report_allowance_assignments": "Oppgaver",
@@ -460,5 +457,8 @@
     "notification_payment_sent_title" : "Har veckopengen betalats ut kontant?",
     "notification_payment_sent_text" : "{name} fick {amount} {currency} i spargrisen {datetime}. Har du betalat ut den kontant?",
     "notification_payment_sent_mark_payment" : "Ja, markera utbetalning",
-    "notification_payment_sent_leave_in_pig_bank" : "Nej, låt den lägga kvar i spargrisen"
+    "notification_payment_sent_leave_in_pig_bank" : "Nej, låt den lägga kvar i spargrisen",
+    "profile_tasks": "Uppgifter",
+    "profile_savings_goals": "Köplista",
+    "profile_report": "Transaktioner"
 }
