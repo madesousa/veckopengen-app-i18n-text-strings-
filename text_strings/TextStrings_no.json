@@ -455,7 +455,7 @@
     "expense_popover_description_child" : "Hvor mye penger har du fått?",
     "overview_approve_assignment" : "Bedøm godkjent oppgave",
     "notification_payment_sent_title" : "Har ukepengene blitt utbetalt kontant?",
-    "notification_payment_sent_text" : "{name} fikk {amount} {currency} i sparegrisen {datetime}. Har du betalt ut dem kontant?",
+    "notification_payment_sent_text" : "%s fick %s %s i spargrisen. Har du betalat ut den kontant?",
     "notification_payment_sent_mark_payment" : "Ja, marker utbetaling",
     "notification_payment_sent_leave_in_pig_bank" : "Nei, la den ligge igjen i sparegrisen",
     "profile_tasks": "Oppgaver",

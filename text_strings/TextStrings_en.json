@@ -438,7 +438,7 @@
     "expense_popover_title_child" : "Disbursements from parents",
     "expense_popover_description_child" : "How much money have you recieved?",
     "notification_payment_sent_title" : "Has the weekly pocket money been paid out in cash?",
-    "notification_payment_sent_text" : "{name} recieved {amount} {currency} in the piggy bank {datetime}. Did you pay it out in cash?",
+    "notification_payment_sent_text" : "%s fick %s %s i spargrisen. Har du betalat ut den kontant?",
     "notification_payment_sent_mark_payment" : "Yes, mark the pay out",
     "notification_payment_sent_leave_in_pig_bank" : "No, leave it in the piggy bank",
     "profile_tasks": "Tasks",
