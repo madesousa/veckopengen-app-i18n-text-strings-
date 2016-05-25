@@ -443,5 +443,7 @@
     "notification_payment_sent_leave_in_pig_bank" : "No, leave it in the piggy bank",
     "profile_tasks": "Tasks",
     "profile_savings_goals": "Shopping list",
-    "profile_report": "Transactions"
+    "profile_report": "Transactions",
+    "overview_approve_assignment" : "Klar med %1$s"
+}
 }

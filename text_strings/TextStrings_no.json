@@ -460,5 +460,7 @@
     "notification_payment_sent_leave_in_pig_bank" : "Nei, la den ligge igjen i sparegrisen",
     "profile_tasks": "Oppgaver",
     "profile_savings_goals": "Kjøpeliste",
-    "profile_report": "Transaksjoner"
+    "profile_report": "Transaksjoner",
+    "overview_approve_assignment" : "Klar med %1$s"
+}
 }
