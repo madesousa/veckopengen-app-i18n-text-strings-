@@ -415,7 +415,6 @@
     "notifications_task_done_text": "%s blev godkänd och du har inkasserat %d%s!",
     "notification_no_weekly_payment_reminder_text" : "Bravo, Veckopengen är utbetalad för den här veckan!",
     "notification_no_monthly_payment_reminder_text" : "Bravo, Månadspengen är utbetalad för den här månaden!",
-    "overview_child_item_setup_text" : "Najs! Du är snart klar, tryck här!",
     "child_settings_select_trustly_acount" : "Länka Trustly konto (beta)",
     "overview_child_item_add_task" : "Skapa",
     "edit_task_choose_participants": "Deltagare",
@@ -454,7 +453,6 @@
     "aint_no_money_month_payed":"månad den",
     "expense_popover_title_child" : "Utlägg av förälder",
     "expense_popover_description_child" : "Hur mycket pengar har du fått?",
-    "overview_approve_assignment" : "Bedöm godkänd uppgift",
     "notification_payment_sent_title" : "Har veckopengen betalats ut kontant?",
     "notification_payment_sent_text" : "%s fick %s %s i spargrisen. Har du betalat ut den kontant?",
     "notification_payment_sent_mark_payment" : "Ja, markera utbetalning",
@@ -462,6 +460,6 @@
     "profile_tasks": "Uppgifter",
     "profile_savings_goals": "Köplista",
     "profile_report": "Transaktioner",
-    "overview_approve_assignment" : "Klar med %1$s"
-}
+    "overview_approve_assignment" : "Klar med %1$s",
+    "overview_child_item_setup_text" : "Är inte färdigskapad än!"
 }

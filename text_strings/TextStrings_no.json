@@ -414,7 +414,6 @@
     "notifications_task_done_text": "%s ble godkjent og du har inkassert %d%s!",
     "notification_no_weekly_payment_reminder_text" : "Bravo, Ukepengene er utbetalt for den her uken!",
     "notification_no_monthly_payment_reminder_text" : "Bravo, Månedspengene er utbetalt for den her måneden!",
-    "overview_child_item_setup_text" : "Hærlig! Du er snart klar, trykk her!",
     "child_settings_select_trustly_acount" : "Link en Trustly konto (beta)",
     "overview_child_item_add_task" : "Skap",
     "edit_task_choose_participants": "Deltagare",
@@ -453,7 +452,6 @@
     "aint_no_money_month_payed":"måneden den",
     "expense_popover_title_child" : "Utlegg av foreldre",
     "expense_popover_description_child" : "Hvor mye penger har du fått?",
-    "overview_approve_assignment" : "Bedøm godkjent oppgave",
     "notification_payment_sent_title" : "Har ukepengene blitt utbetalt kontant?",
     "notification_payment_sent_text" : "%s fick %s %s i spargrisen. Har du betalat ut den kontant?",
     "notification_payment_sent_mark_payment" : "Ja, marker utbetaling",
@@ -461,6 +459,6 @@
     "profile_tasks": "Oppgaver",
     "profile_savings_goals": "Kjøpeliste",
     "profile_report": "Transaksjoner",
-    "overview_approve_assignment" : "Klar med %1$s"
-}
+    "overview_approve_assignment" : "Klar med %1$s",
+    "overview_child_item_setup_text" : "Är inte färdigskapad än!"
 }

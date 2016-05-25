@@ -415,7 +415,6 @@
     "notifications_task_done_text": "%s blev godkendt og du har indkasseret %d%s!",
     "notification_no_weekly_payment_reminder_text" : "Bravo, ugepengene er udbetalt for denne uge!",
     "notification_no_monthly_payment_reminder_text" : "Bravo, månedspengene er udbetalt for denne måned!",
-    "overview_child_item_setup_text" : "Nice! Du er snart klar, tryk her!",
     "child_settings_select_trustly_acount" : "Link Trustly konto (beta)",
     "overview_child_item_add_task" : "Opret",
     "edit_task_choose_participants": "Deltagere",
@@ -462,6 +461,6 @@
     "profile_tasks": "Uppgifter",
     "profile_savings_goals": "Köplista",
     "profile_report": "Transaktioner",
-    "overview_approve_assignment" : "Klar med %1$s"
-}
+    "overview_approve_assignment" : "Klar med %1$s",
+    "overview_child_item_setup_text" : "Är inte färdigskapad än!"
 }

@@ -414,7 +414,6 @@
     "notifications_task_done_text": "%s was approved and you have cashed in %d%s!",
     "notification_no_weekly_payment_reminder_text" : "Bravo! The weekly pocket money has been paid out.",
     "notification_no_monthly_payment_reminder_text" : "Bravo! The monthly pocket money has been paid out.",
-    "overview_child_item_setup_text" : "YiHaaaa! You are almost ready, Press here!",
     "child_settings_select_trustly_acount" : "Link to trustly account (beta)",
     "overview_child_item_add_task" : "Create",
     "edit_task_choose_participants": "Participants",
@@ -444,6 +443,6 @@
     "profile_tasks": "Tasks",
     "profile_savings_goals": "Shopping list",
     "profile_report": "Transactions",
-    "overview_approve_assignment" : "Klar med %1$s"
-}
+    "overview_approve_assignment" : "Klar med %1$s",
+    "overview_child_item_setup_text" : "Är inte färdigskapad än!"
 }
