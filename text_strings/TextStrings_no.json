@@ -460,5 +460,6 @@
     "profile_savings_goals": "Sparmål",
     "profile_report": "Transaksjoner",
     "overview_approve_assignment" : "Klar med %1$s",
-    "overview_child_item_setup_text" : "Är inte färdigskapad än!"
+    "overview_child_item_setup_text" : "Är inte färdigskapad än!",
+    "child_dashboard_my_kids_money" : "%1$d pengar"
 }
