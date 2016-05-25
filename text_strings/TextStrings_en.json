@@ -441,7 +441,7 @@
     "notification_payment_sent_mark_payment" : "Yes, mark the pay out",
     "notification_payment_sent_leave_in_pig_bank" : "No, leave it in the piggy bank",
     "profile_tasks": "Tasks",
-    "profile_savings_goals": "Shopping list",
+    "profile_savings_goals": "Sparmål",
     "profile_report": "Transactions",
     "overview_approve_assignment" : "Klar med %1$s",
     "overview_child_item_setup_text" : "Är inte färdigskapad än!"

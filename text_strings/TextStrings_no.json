@@ -457,7 +457,7 @@
     "notification_payment_sent_mark_payment" : "Ja, marker utbetaling",
     "notification_payment_sent_leave_in_pig_bank" : "Nei, la den ligge igjen i sparegrisen",
     "profile_tasks": "Oppgaver",
-    "profile_savings_goals": "Kjøpeliste",
+    "profile_savings_goals": "Sparmål",
     "profile_report": "Transaksjoner",
     "overview_approve_assignment" : "Klar med %1$s",
     "overview_child_item_setup_text" : "Är inte färdigskapad än!"
