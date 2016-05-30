@@ -464,5 +464,6 @@
     "overview_child_item_setup_text" : "Är inte färdigskapad än!",
     "child_dashboard_my_kids_money" : "%1$d pengar",
     "trans_transfer_allowance_to_savings_account" : "%1$s överfördes till spargrisen",
-    "overview_child_item_not_connected_text" : "Är inte ihopkopplad än"
+    "overview_child_item_not_connected_text" : "Är inte ihopkopplad än",
+    "dashboard_title_transactions":"Familjens transaktioner"
 }
