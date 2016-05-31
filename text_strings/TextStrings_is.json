@@ -464,7 +464,7 @@
     "overview_child_item_setup_text" : "Är inte färdigskapad än!",
     "child_dashboard_my_kids_money" : "%1$d pengar",
     "trans_transfer_allowance_to_savings_account" : "%1$s överfördes till spargrisen",
-    "overview_child_item_not_connected_text" : "Är inte ihopkopplad än",
+    "overview_child_item_not_connected_text" : "Glöm inte att koppla ihop",
     "dashboard_title_transactions":"Familjens transaktioner",
     "new_update_headline":"Nyheter i den här uppdateringen!",
     "new_update_text_1":"1. Vecko- eller månadspengen läggs <b>automatiskt</b> till i spargrisen om den inte betalas ut.",
