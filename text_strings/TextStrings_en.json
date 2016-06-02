@@ -453,5 +453,14 @@
     "new_update_text_1":"1. Vecko- eller månadspengen läggs <b>automatiskt</b> till i spargrisen om den inte betalas ut.",
     "new_update_text_2":"2. Föräldrar kan lägga till <b>utlägg</b> som drar pengar från spargrisen.",
     "new_update_text_3":"3. Spargrisen får <b>mer plats!</b>",
-    "new_update_ready_text":"Kul, då är jag redo!"
+    "new_update_ready_text":"Kul, då är jag redo!",
+    "no_cost_trustly":"och nej, det kostar inget",
+    "trustly_read_more":"Läs mer",
+    "trustly_add_account":"Lägg till bankkonto",
+    "trustly_info_list_1":"Säker överföring med trustly",
+    "trustly_info_list_2":"Direkt till ditt barns konto",
+    "trustly_info_list_3":"Verifiering med mobilt bank ID",
+    "trustly_info_list_4":"Du följer alla utbetalningar enkelt i \"Händelser\"",
+    "trustly_already_account_child":"Har ditt barn redan ett bankkonto?",
+    "trustly_register_info_text":"Registrera ditt och ditt barns bankkonto så betalas veckopengen ut automatiskt"
 }
