@@ -481,5 +481,7 @@
     "trustly_already_account_child":"Har ditt barn redan ett bankkonto?",
     "trustly_register_info_text":"Registrera ditt och ditt barns bankkonto så betalas veckopengen ut automatiskt",
     "trustly_big_info_text_1":"Automatisk utbetalning sker till ditt barns konto varje %1$s. Pengarna som ditt barn ska få i %2$s dras från ditt konto på %3$s.",
-    "trustly_big_info_text_2":"Du kan enkelt följa alla överföringar under fliken \"Transaktioner\" på din startsida."
+    "trustly_big_info_text_2":"Du kan enkelt följa alla överföringar under fliken \"Transaktioner\" på din startsida.",
+    "your_trustly_account":"Ditt bankkonto: %1$s",
+    "childs_trustly_account":"%1$s bankkonto: %2$s"
 }
