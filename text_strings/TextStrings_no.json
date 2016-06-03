@@ -483,5 +483,6 @@
     "trustly_big_info_text_2":"Du kan enkelt följa alla överföringar under fliken \"Transaktioner\" på din startsida.",
     "your_trustly_account":"Ditt bankkonto:",
     "childs_trustly_account":"%1$d bankkonto:",
-    "not_from_sweden":"Not from sweden?"
+    "not_from_sweden":"Not from sweden?",
+    "general_search":"sök"
 }
