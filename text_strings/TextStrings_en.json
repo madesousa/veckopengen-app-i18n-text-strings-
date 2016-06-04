@@ -406,7 +406,7 @@
     "dashboard_insertion_by_other" : "%s has put %d kr into the piggy bank",
     "push_full_allowance_paid_out_by_parent" : "%s marked right now that you have recieved your %s",
     "push_partial_allowance_paid_out_by_parent" : "%s marked right now that you have recieved %d kr of your %s",
-    "dashboard_intrest_added" : "Recieved %d kr i savings bonus",
+    "dashboard_interest_added" : "Recieved %d kr i savings bonus",
     "archive_goal": "Put savings goal in the archive",
     "notifications_interest_deposit_title": "Congratulations!",
     "notifications_interest_deposit_text": "You have recieved %d%s savings bonus!",

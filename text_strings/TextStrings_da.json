@@ -407,7 +407,7 @@
     "dashboard_insertion_by_other" : "%s har sat %d kr ind på Sparegrisen",
     "push_full_allowance_paid_out_by_parent" : "%s har lige markeret, at du har fået dine %s",
     "push_partial_allowance_paid_out_by_parent" : "%s har lige markeret, at du har fået %d kr af dine %s",
-    "dashboard_intrest_added" : "Fik %d kr i opsparingsbonus",
+    "dashboard_interest_added" : "Fik %d kr i opsparingsbonus",
     "archive_goal": "Arkivér opsparingsmål",
     "notifications_interest_deposit_title": "Tillykke!",
     "notifications_interest_deposit_text": "Du har fået %d%s i opsparingsbonus!",

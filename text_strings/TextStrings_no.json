@@ -406,7 +406,7 @@
     "dashboard_insertion_by_other" : "%s har satt inn %d kr i Sparegrisen",
     "push_full_allowance_paid_out_by_parent" : "%s markerte akkurat at du fått dine %s",
     "push_partial_allowance_paid_out_by_parent" : "%s markerte akkurat at du fått %d kr av dine %s",
-    "dashboard_intrest_added" : "Fikk %d kr i sparebonus",
+    "dashboard_interest_added" : "Fikk %d kr i sparebonus",
     "archive_goal": "Arkiver sparemål",
     "notifications_interest_deposit_title": "Gratulerer!",
     "notifications_interest_deposit_text": "Du har fått %d%s i sparebonus!",
