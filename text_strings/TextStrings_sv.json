@@ -408,6 +408,7 @@
     "push_full_allowance_paid_out_by_parent" : "%s markerade precis att du fått din %s",
     "push_partial_allowance_paid_out_by_parent" : "%s markerade precis att du fått %d kr av din %s",
     "dashboard_intrest_added" : "Fick %d kr i sparbonus",
+    "dashboard_interest_added" : "Fick %d kr i sparbonus",
     "archive_goal": "Arkivera sparmål",
     "notifications_interest_deposit_title": "Grattis!",
     "notifications_interest_deposit_text": "Du har fått %d%s i sparbonus!",
@@ -488,5 +489,7 @@
     "general_search":"sök",
     "child_dashboard_request_assignment" : "Ge mig ny uppgift",
     "child_dashboard_request_assignment_message_delivered" : "Meddelande skickat",
-    "child_dashboard_request_assignment_push" : "%1$d vill ha en ny uppgift!"
+    "child_dashboard_request_assignment_push" : "%1$d vill ha en ny uppgift!",
+    "general_search":"sök",
+    "popover_new_make_withdrawal_child":"Nytt utlägg av förälder"
 }
