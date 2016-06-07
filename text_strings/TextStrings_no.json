@@ -485,5 +485,8 @@
     "childs_trustly_account":"%1$d bankkonto:",
     "not_from_sweden":"Not from sweden?",
     "general_search":"sök",
-    "popover_new_make_withdrawal_child":"Nytt utlägg av förälder"
+    "popover_new_make_withdrawal_child":"Nytt utlägg av förälder",
+    "child_dashboard_request_assignment" : "Ge mig ny uppgift",
+    "child_dashboard_request_assignment_message_delivered" : "Meddelande skickat",
+    "child_dashboard_request_assignment_push" : "%1$d vill ha en ny uppgift!"
 }
