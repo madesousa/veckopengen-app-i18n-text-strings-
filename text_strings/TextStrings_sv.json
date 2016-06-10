@@ -99,7 +99,7 @@
     "signin_code": "Kod",
     "signin_button": "Logga in",
     "signin_code_invalid_title": "Har du ett konto?",
-    "signin_code_invalid_text": "Vi kan inte hitta ditt konto. Kontrollera att dina uppgifter stämmer och försök igen.",
+    "signin_code_invalid_text": "Vi kan inte hitta ditt konto (%1$d). Kontrollera att dina uppgifter stämmer och försök igen.",
     "signin_code_error_title": "Verifieringsfel",
     "signin_code_error_text": "Fel vid verifieringen av telefonnummer / e-post. Kontrollera din Internetuppkoppling.",
     "signin_token_invalid_title": "Stämmer koden?",
