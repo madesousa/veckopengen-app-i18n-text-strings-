@@ -439,6 +439,7 @@
     "interest_rate":"%1$d sparerente er <b>%2$d%</b>",
     "next_bonus":"Neste bonus er <b>%1$d kr</b>",
     "n_days_to_bonus":"<b>%1$d dager</b> til sparebonus",
+    "bonus_today":"<b>Sparbonus</b> lades till idag",
     "popover_adult_slider_text1":"Så regnes din sparebonus ut",
     "popover_child_slider_text1":"motsvarer",
     "new_calculated_savings_popover_parent_slide1":"%1$d x %2$d% = %3$d kr",
