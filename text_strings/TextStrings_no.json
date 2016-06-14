@@ -491,5 +491,6 @@
     "child_dashboard_request_assignment_message_delivered" : "Meddelande skickat",
     "child_dashboard_request_assignment_push" : "%1$d vill ha en ny uppgift!",
     "listview_footer_get_more" : "Hämta fler",
-    "trans_allowance_to_external_account" : "%1$s överfördes till %2$d bankkonto"
+    "trans_allowance_to_external_account" : "%1$s överfördes till %2$d bankkonto",
+    "todays_bonus":"Dagens bonus blev <b>%1$d kr</b>"
 }
