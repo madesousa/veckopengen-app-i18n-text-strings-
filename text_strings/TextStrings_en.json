@@ -476,5 +476,6 @@
     "listview_footer_get_more" : "Hämta fler",
     "trans_allowance_to_external_account" : "%1$s överfördes till %2$d bankkonto",
     "bonus_today":"<b>Sparbonus</b> lades till idag",
-    "todays_bonus":"Dagens bonus blev <b>%1$d kr</b>"
+    "todays_bonus":"Dagens bonus blev <b>%1$d kr</b>",
+    "expense_popover_instructions":"Ange summa att dra från spargrisen"
 }
