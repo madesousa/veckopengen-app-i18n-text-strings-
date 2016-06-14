@@ -495,5 +495,6 @@
     "listview_footer_get_more" : "Hämta fler",
     "trans_allowance_to_external_account" : "%1$d överförde %1$s till bankkonto",
     "todays_bonus":"Dagens bonus blev <b>%1$d kr</b>",
-    "expense_popover_instructions":"Ange summa att dra från spargrisen"
+    "expense_popover_instructions":"Ange summa att dra från spargrisen",
+    "popover_allowance_payed":"Har redan förts över till spargrisen"
 }
