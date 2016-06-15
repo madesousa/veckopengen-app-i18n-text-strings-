@@ -181,7 +181,6 @@
     "signup_child_invite_error_title": "Något gick fel",
     "signup_child_invite_error_text": "Vi kunde inte skicka din inbjudan. Kontrollera din uppkoppling och försök igen.",
     "add_task_choose_participants": "Välj deltagare",
-    "edit_task_choose_participants": "Deltagare",
     "add_task_first_come_first_served": "Först till kvarn",
     "add_task_reward": "Belöning",
     "add_task_recurring_every_week": "Återkommer varje vecka",
@@ -506,5 +505,6 @@
     "trustly_account_settings_delete":"Radera och avsluta överföringar",
     "trustly_settings_add":"Lägg till bankkonto",
     "trustly_settings_my_account":"Mitt bankkonto",
-    "trustly_child_settings_trans":"Bankonto och överföringar"
+    "trustly_child_settings_trans":"Bankonto och överföringar",
+    "push_account_selected" : "Ditt bankkonto har länkats med veckopengen"
 }

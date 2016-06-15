@@ -477,7 +477,6 @@
     "trans_allowance_to_external_account" : "%1$s överfördes till %2$d bankkonto",
     "bonus_today":"<b>Sparbonus</b> lades till idag",
     "todays_bonus":"Dagens bonus blev <b>%1$d kr</b>",
-    "expense_popover_instructions":"Ange summa att dra från spargrisen",
     "popover_allowance_payed":"Har redan förts över till spargrisen",
     "trustly_settings_monthly_low_day":":a",
     "trustly_settings_monthly_high_day":":e",
@@ -489,5 +488,7 @@
     "trustly_account_settings_delete":"Radera och avsluta överföringar",
     "trustly_settings_add":"Lägg till bankkonto",
     "trustly_settings_my_account":"Mitt bankkonto",
-    "trustly_child_settings_trans":"Bankonto och överföringar"
+    "trustly_child_settings_trans":"Bankonto och överföringar",
+    "expense_popover_instructions":"Ange summa att dra från spargrisen",
+    "push_account_selected" : "Ditt bankkonto har länkats med veckopengen"
 }

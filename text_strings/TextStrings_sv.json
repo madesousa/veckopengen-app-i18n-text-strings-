@@ -495,6 +495,7 @@
     "trans_allowance_to_external_account" : "%1$s överfördes till %2$d bankkonto",
     "todays_bonus":"Dagens bonus blev <b>%1$d kr</b>",
     "expense_popover_instructions":"Ange summa att dra från spargrisen",
+    "push_account_selected" : "Ditt bankkonto har länkats med veckopengen",
     "popover_allowance_payed":"Har redan förts över till spargrisen",
     "trustly_settings_monthly_low_day":":a",
     "trustly_settings_monthly_high_day":":e",
