@@ -501,5 +501,11 @@
     "trustly_settings_monthly_high_day":":e",
     "autogiro":"Aktivera autogiro:",
     "on":"på ",
-    "on_the":"den "
+    "on_the":"den ",
+    "trustly_account_settings_from":"Registrera annat konto för utbetalningar",
+    "trustly_account_settings_to":"Registrera annat konto för insättningar",
+    "trustly_account_settings_delete":"Radera och avsluta överföringar",
+    "trustly_settings_add":"Lägg till bankkonto",
+    "trustly_settings_my_account":"Mitt bankkonto",
+    "trustly_child_settings_trans":"Bankonto och överföringar"
 }
