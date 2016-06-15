@@ -133,7 +133,7 @@
     "child_editor_money_amount_warning_ok": "Jag förstår",
     "child_editor_money_day": "Välj dag",
     "child_editor_money_reminder_weekly": "Veckopengen läggs i barnets spargris på %1$s",
-    "child_editor_money_reminder_monthly": "Månadspengen läggs i barnets spargris den %1$d:e",
+    "child_editor_money_reminder_monthly": "Månadspengen läggs i barnets spargris den %1$d%2$s",
     "child_editor_interest_title": "Spargrisen",
     "child_editor_interest_instructions": "I spargrisen kan ditt barn\nspara av sin %1$s.\nVill du sporra till sparande sätter\n du en ränta som gör att pengarna i\nSpargrisen ökar lite varje %2$s.",
     "child_editor_interest_example": "Med %1$c i spargrisen växer \nsparandet med <boldGreen>%2$c</boldGreen> på en %3$s.",
@@ -481,7 +481,7 @@
     "trustly_info_list_4":"Du följer enkelt alla utbetalningar i \n \"Händelser\"",
     "trustly_already_account_child":"Har ditt barn redan ett bankkonto?",
     "trustly_register_info_text":"Registrera ditt och ditt barns bankkonto så betalas veckopengen ut automatiskt",
-    "trustly_big_info_text_1":"Automatisk utbetalning sker till ditt barns konto varje %1$d. Pengarna som ditt barn ska få i %2$s dras från ditt konto på %3$d.",
+    "trustly_big_info_text_1":"Automatisk utbetalning sker till ditt barns konto varje %1$d. Pengarna som ditt barn ska få i %2$s dras från ditt konto %3$d.",
     "trustly_big_info_text_2":"Du kan enkelt följa alla överföringar under fliken \"Transaktioner\" på din startsida.",
     "your_trustly_account":"Ditt bankkonto:",
     "childs_trustly_account":"%1$d bankkonto:",
@@ -495,5 +495,10 @@
     "trans_allowance_to_external_account" : "%1$s överfördes till %2$d bankkonto",
     "todays_bonus":"Dagens bonus blev <b>%1$d kr</b>",
     "expense_popover_instructions":"Ange summa att dra från spargrisen",
-    "popover_allowance_payed":"Har redan förts över till spargrisen"
+    "popover_allowance_payed":"Har redan förts över till spargrisen",
+    "trustly_settings_monthly_low_day":":a",
+    "trustly_settings_monthly_high_day":":e",
+    "autogiro":"Aktivera autogiro:",
+    "on":"på ",
+    "on_the":"den "
 }
