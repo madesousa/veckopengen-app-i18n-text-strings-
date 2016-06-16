@@ -506,5 +506,7 @@
     "trustly_account_settings_delete":"Radera och avsluta överföringar",
     "trustly_settings_add":"Lägg till bankkonto",
     "trustly_settings_my_account":"Mitt bankkonto",
-    "trustly_child_settings_trans":"Bankonto och överföringar"
+    "trustly_child_settings_trans":"Bankonto och överföringar",
+    "push_direct_debit_mandate_enabled" : "Ditt Autogiromandat har nu aktiverats",
+    "push_direct_debit_mandate_disasbled" : "Ditt Autogiromandat har nu avaktiverats"
 }
