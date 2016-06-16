@@ -444,7 +444,7 @@
     "profile_savings_goals": "Sparmål",
     "profile_report": "Transactions",
     "overview_approve_assignment" : "Done with \"%1$d\"",
-    "overview_child_item_setup_text" : "Är inte färdigskapad än!",
+    "overview_child_item_setup_text" : "Has not been completely created yet!",
     "child_dashboard_my_kids_money" : "%1$d money",
     "trans_transfer_allowance_to_savings_account" : "%1$s was transfered to the piggy bank",
     "overview_child_item_not_connected_text" : "Don't forget to connect",
@@ -469,13 +469,13 @@
     "childs_trustly_account":"%1$d bank account:",
     "not_from_sweden":"Not from sweden?",
     "general_search":"search",
-    "popover_new_make_withdrawal_child":"Nytt utlägg av förälder",
+    "popover_new_make_withdrawal_child":"New expenses by parent",
     "child_dashboard_request_assignment" : "Give me a new task",
     "child_dashboard_request_assignment_message_delivered" : "Message sent",
     "child_dashboard_request_assignment_push" : "%1$d wants a new task!",
     "listview_footer_get_more" : "Get more",
     "trans_allowance_to_external_account" : "%1$s was transfered %2$d to bank account",
-    "bonus_today":"<b>Sparbonus</b> lades till idag",
+    "bonus_today":"<b>Sparbonus</b> was added today",
     "todays_bonus":"Todays bonus was <b>%1$d kr</b>",
     "popover_allowance_payed":"Has already been transfered to the piggy bank",
     "trustly_settings_monthly_low_day":":a",
@@ -491,6 +491,6 @@
     "trustly_child_settings_trans":"Bank account and transfers",
     "expense_popover_instructions":"Choose an amount to be drawn from the piggy bank",
     "push_account_selected" : "Your bank account has been connected to Gimi",
-    "push_direct_debit_mandate_enabled" : "Ditt Autogiromandat har nu aktiverats",
-    "push_direct_debit_mandate_disasbled" : "Ditt Autogiromandat har nu avaktiverats"
+    "push_direct_debit_mandate_enabled" : "Your direct debit mandate has now been activated",
+    "push_direct_debit_mandate_disasbled" : "Your direct mandate has now been unactivated"
 }
