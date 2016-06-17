@@ -508,5 +508,12 @@
     "trustly_settings_my_account":"Min bankkonto",
     "trustly_child_settings_trans":"Bankonto og overføringer",
     "push_direct_debit_mandate_enabled" : "Ditt Autogiromandat har blitt aktivert",
-    "push_direct_debit_mandate_disasbled" : "Ditt Autogiromandat har blitt avaktivert"
+    "push_direct_debit_mandate_disasbled" : "Ditt Autogiromandat har blitt avaktivert",
+    "trustly_account_settings_from":"Registrera annat konto för utbetalningar",
+    "trustly_account_settings_to":"Registrera annat konto för insättningar",
+    "trustly_account_settings_delete":"Radera och avsluta överföringar",
+    "trustly_settings_add":"Lägg till bankkonto",
+    "trustly_settings_my_account":"Mitt bankkonto",
+    "trustly_child_settings_trans":"Bankonto och överföringar",
+    "put_in_pig_tomorrow_poover":"Läggs i spargrisen imorgon"
 }

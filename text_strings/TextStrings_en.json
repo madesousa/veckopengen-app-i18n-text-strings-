@@ -492,5 +492,17 @@
     "expense_popover_instructions":"Choose an amount to be drawn from the piggy bank",
     "push_account_selected" : "Your bank account has been connected to Gimi",
     "push_direct_debit_mandate_enabled" : "Your direct debit mandate has now been activated",
-    "push_direct_debit_mandate_disasbled" : "Your direct mandate has now been unactivated"
+    "push_direct_debit_mandate_disasbled" : "Your direct mandate has now been unactivated",
+    "autogiro":"Aktivera autogiro:",
+    "on":"på ",
+    "on_the":"den ",
+    "trustly_account_settings_from":"Registrera annat konto för utbetalningar",
+    "trustly_account_settings_to":"Registrera annat konto för insättningar",
+    "trustly_account_settings_delete":"Radera och avsluta överföringar",
+    "trustly_settings_add":"Lägg till bankkonto",
+    "trustly_settings_my_account":"Mitt bankkonto",
+    "trustly_child_settings_trans":"Bankonto och överföringar",
+    "expense_popover_instructions":"Ange summa att dra från spargrisen",
+    "push_account_selected" : "Ditt bankkonto har länkats med veckopengen",
+    "put_in_pig_tomorrow_poover":"Läggs i spargrisen imorgon"
 }

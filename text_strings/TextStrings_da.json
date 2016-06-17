@@ -508,5 +508,13 @@
     "trustly_child_settings_trans":"Bankonto og overførsler",
     "push_account_selected" : "Din bankkonto er koblet sammen med Veckopengen",
     "push_direct_debit_mandate_enabled" : "Dit Autogiromandat er nu aktiveret",
-    "push_direct_debit_mandate_disasbled" : "Dit Autogiromandat er nu deaktiveret"
+    "push_direct_debit_mandate_disasbled" : "Dit Autogiromandat er nu deaktiveret",
+    "trustly_account_settings_from":"Registrera annat konto för utbetalningar",
+    "trustly_account_settings_to":"Registrera annat konto för insättningar",
+    "trustly_account_settings_delete":"Radera och avsluta överföringar",
+    "trustly_settings_add":"Lägg till bankkonto",
+    "trustly_settings_my_account":"Mitt bankkonto",
+    "trustly_child_settings_trans":"Bankonto och överföringar",
+    "push_account_selected" : "Ditt bankkonto har länkats med veckopengen",
+    "put_in_pig_tomorrow_poover":"Läggs i spargrisen imorgon"
 }
