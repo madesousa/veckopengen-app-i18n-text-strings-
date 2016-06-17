@@ -499,7 +499,7 @@
     "popover_allowance_payed":"Har redan förts över till spargrisen",
     "trustly_settings_monthly_low_day":":a",
     "trustly_settings_monthly_high_day":":e",
-    "autogiro":"Aktivera autogiro:",
+    "autogiro":"Slå på automatiska överföringar",
     "on":"på ",
     "on_the":"den ",
     "trustly_account_settings_from":"Registrera annat konto för utbetalningar",
@@ -510,6 +510,12 @@
     "trustly_child_settings_trans":"Bankonto och överföringar",
     "push_direct_debit_mandate_enabled" : "Ditt autogiromandat har nu aktiverats",
     "push_direct_debit_mandate_disasbled" : "Ditt autogiromandat har nu avaktiverats",
-    "put_in_pig_tomorrow_poover":"Läggs i spargrisen imorgon"
+    "put_in_pig_tomorrow_poover":"Läggs i spargrisen imorgon",
+    "trustly_settings_child_headline":"Registrerade bankkonton för %1$d",
+    "update_settings":"Uppdatera inställningar",
+    "trustly_settings_information":"Information",
+    "pay_day_disclaimer":"Om den angivna dagen är på en röd dag flyttas överföringen och blir en dag tidigare",
+    "trustly_settings_pay_day_head":"Dag för överföring av pengar",
+    "trustly_settings_turn_off_autogiro":"Slå av för att tillfälligt avsluta överföringar"
 
 }
