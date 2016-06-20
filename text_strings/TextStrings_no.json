@@ -530,5 +530,20 @@
     "trustly_parent_settings_text3":"Du kan enkelt avslutte overføringer til et barn gjennom å gå inn på 'Bankkonto og overføringer' under et barn sine innstillinger",
     "trustly_parent_settings_trustly_text":"Alle kontooverføringer skjer med Trustly som er lagt under 'Finansinspektionen'",
     "trustly_account_connected_headline":"Din konto har blitt registrert!",
-    "trustly_connected_account_info":"Ukepengene blir nå utbetalt automatisk til din konto hver fredag. Nå kan du derfor overføre pengene fra sparegrisen din til dine ukepenger og plassere dine belønninger direkte i ukepengene."
+    "trustly_connected_account_info":"Ukepengene blir nå utbetalt automatisk til din konto hver fredag. Nå kan du derfor overføre pengene fra sparegrisen din til dine ukepenger og plassere dine belønninger direkte i ukepengene.",
+    "trustly_news_headline":"Nyhet!",
+    "trustly_news_headline_info":"Nu kan du addera automatisk överföring av vecko- eller månadspengen.",
+    "trustly_news_info_1":"Vecko- eller månadspengen överförs automatiskt från ditt till ditt barns konto automatiskt",
+    "trustly_news_info_2":"Pengarna överförs dagen före vecko- eller månadspeng.",
+    "trustly_news_info_3":"De automatiska överföringarna sker automatiskt",
+    "trustly_cancel_yes":"Ja, jag är säker",
+    "trustly_cancel_no":"Nej",
+    "trustly_cancel_all_transactions":"Vill du avsluta alla dina automatiska överföringar?",
+    "trustly_cancel_all_transactions_no_regret":"Detta går inte att ångra.",
+    "trustly_registred_account":"Registrerade bankkonton",
+    "need_update_headline":"Denna version av veckopengen har upphört. Vänligen gå till App Store för att uppdatera.",
+    "need_update_link":"Uppdatera veckopengen",
+    "need_update_text":"Uppdateringen kommer vara kostnadsfri.",
+    "error_message":"Något blev fel... Försök lite senare igen :)"
+
 }
