@@ -539,5 +539,11 @@
     "need_update_headline":"Denna version av veckopengen har upphört. Vänligen gå till App Store för att uppdatera.",
     "need_update_link":"Uppdatera veckopengen",
     "need_update_text":"Uppdateringen kommer vara kostnadsfri.",
-    "error_message":"Något blev fel... Försök lite senare igen :)"
+    "error_message":"Något blev fel... Försök lite senare igen :)",
+    "secure_loading_info_text":"För säker registrering av %1$d bankkonto",
+    "secure_loading_headline":"Går in i säker zon...",
+    "your2":"ditt",
+    "add_childname_account":"Lägg till %1$d bankkonto",
+    "trustly_success_text":"Registreringen genomfördes med lyckat resultat",
+    "add_childname_account_later":"Lägg till %1$d bankkonto senare"
 }
