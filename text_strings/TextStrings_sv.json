@@ -546,5 +546,7 @@
     "your2":"ditt",
     "add_childname_account":"Lägg till %1$d bankkonto",
     "trustly_success_text":"Registreringen genomfördes med lyckat resultat",
-    "add_childname_account_later":"Lägg till %1$d bankkonto senare"
+    "add_childname_account_later":"Lägg till senare",
+    "add_your_account":"Lägg till ditt bankkonto"
+
 }
