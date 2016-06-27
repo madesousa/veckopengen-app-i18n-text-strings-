@@ -534,6 +534,11 @@
     "trustly_info_list_5":"Verifiering med Mobilt Bank ID",
     "trustly_info_list_6":"Tryggt och säkert med Trustly",
     "trustly_add_account_popover_desc_parent":"Som förälder kommer du nu få registrera ditt bankkonto där pengarna kommer dras ifrån.",
-    "trustly_add_account_popover_desc_child":"Som förälder kommer du nu få registrera ditt barns bankkonto dit pengarna kommer att överföras."
+    "trustly_add_account_popover_desc_child":"Som förälder kommer du nu få registrera ditt barns bankkonto dit pengarna kommer att överföras.",
+    "trustly_upcomming_transactions":"KOMMANDE",
+    "trustly_done_transactions":"UTFÖRDA",
+    "trustly_overview_sort_all":"Alla",
+    "trustly_overview_sort_bank":"Banköverföringar",
+    "trustly_overview_sort_expenses":"Utlägg"
 
 }
