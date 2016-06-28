@@ -555,6 +555,27 @@
     "trustly_done_transactions":"UTFÖRDA",
     "trustly_overview_sort_all":"Alla",
     "trustly_overview_sort_bank":"Banköverföringar",
-    "trustly_overview_sort_expenses":"Utlägg"
+    "trustly_overview_sort_expenses":"Utlägg",
+    "trustly_item_spec_bank_success_receipt_headline":"Kvitto",
+    "trustly_item_spec_bank_success_receipt_info":"Överföringen genomfördes med lyckat resultat.",
+    "trustly_item_spec_bank_success_receipt_from_account":"Från konto: %1$d",
+    "trustly_item_spec_bank_success_receipt_to_account":"Till konto: %1$d",
+    "trustly_item_spec_bank_success_receipt_from_account_info":"%1$s kr debiterades %2$d",
+    "trustly_item_spec_bank_success_receipt_to_account_info":"%1$s kr sattes in %2$d",
+    "from_capitalized": "Från",
+    "to_capitalized": "Till",
+    "added_by":"Tillagd av",
+    "approved_by":"Godkänd av",
+    "note":"Anteckning",
+    "no_note":"Ingen anteckning",
+    "withdrawal_from":"Drogs från",
+    "withdrawl_from_pig":"Utlägg från spargrisen",
+    "task":"Uppgift",
+    "bank_transaction":"Banköverföring",
+    "automatic_transaction_type_text":"Automatisk överföring av ",
+    "recurring_to_pig":"%1$d till spargrisen",
+    "transaction_to_pig":"Insättning utav %1$d",
+    "deposit":"insättning",
+    "deposit_to_pig":"Insättning i spargrisen"
 
 }
