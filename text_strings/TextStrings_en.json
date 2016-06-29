@@ -566,6 +566,13 @@
     "new_payday_text_trustly":"För att %1$d ska betalas ut tillförlitligt ber vi dig välja en vardag som passar. Vi föreslår fredagar, men du kan välja vilken vardag du vill.",
     "trustly_notify_when_done":"<b>Vi notifierar dig</b> så snart automatiska överföringar är igång",
     "trustly_activation_time_text":"Vi slutflör nu anslutningen mellan ditt och ditt barns bankkonto. <b>Det tar mindre än 3 dagar.</b>",
-    "both_child_and_parent_connected_head":"Ditt och ditt barns bankkonto ansluts nu"
+    "both_child_and_parent_connected_head":"Ditt och ditt barns bankkonto ansluts nu",
+    "mail_for_support":"Maila oss för support",
+    "failed_connection":"Anslutningen misslyckades!",
+    "failed_connection_desc":"Registreringen av ditt bankkonto gick inte igenom. det kan bero på att:",
+    "failed_connection_reason_1":"- XXXXXXXX",
+    "failed_connection_reason_2":"- XXXXXXXX",
+    "failed_connection_reason_3":"- XXXXXXXX",
+    "failed_connection_ending":"Vänligen justera något av ovanstående och försök igen."
 
 }
