@@ -560,6 +560,12 @@
     "recurring_to_pig":"%1$d till spargrisen",
     "transaction_to_pig":"Insättning utav %1$d",
     "deposit":"insättning",
-    "deposit_to_pig":"Insättning i spargrisen"
+    "deposit_to_pig":"Insättning i spargrisen",
+    "child_name_account_registred":"%1$d konto har registrerats!",
+    "choose_new_day":"Välj en ny dag",
+    "new_payday_text_trustly":"För att %1$d ska betalas ut tillförlitligt ber vi dig välja en vardag som passar. Vi föreslår fredagar, men du kan välja vilken vardag du vill.",
+    "trustly_notify_when_done":"<b>Vi notifierar dig</b> så snart automatiska överföringar är igång",
+    "trustly_activation_time_text":"Vi slutflör nu anslutningen mellan ditt och ditt barns bankkonto. <b>Det tar mindre än 3 dagar.</b>",
+    "both_child_and_parent_connected_head":"Ditt och ditt barns bankkonto ansluts nu"
 
 }
