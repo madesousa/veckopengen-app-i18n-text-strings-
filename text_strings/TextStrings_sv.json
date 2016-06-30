@@ -438,7 +438,7 @@
     "popover_new_make_insertion":"Ny insättning",
     "popover_new_make_withdrawal":"Nytt utlägg",
     "interest_rate":"%1$d sparränta är <b>%2$d%</b>",
-    "next_bonus":"Nästa bonus är <b>%1$d kr</b>",
+    "next_bonus":"Nästa sparbonus är <b>%1$d kr</b>",
     "n_days_to_bonus":"<b>%1$d dagar</b> till sparbonus",
     "bonus_today":"<b>Sparbonus</b> lades till idag",
     "popover_adult_slider_text1":"Så räknas din sparbonus ut",
@@ -465,7 +465,7 @@
     "overview_child_item_setup_text" : "Är inte färdigskapad än",
     "child_dashboard_my_kids_money" : "%1$d pengar",
     "trans_transfer_allowance_to_savings_account" : "%1$s överfördes till spargrisen",
-    "overview_child_item_not_connected_text" : "Glöm inte att koppla ihop",
+    "overview_child_item_not_connected_text" : "Koppla ihop",
     "dashboard_title_transactions":"Familjens transaktioner",
     "new_update_headline":"Nyheter i den här uppdateringen!",
     "new_update_text_1":"1. Vecko- eller månadspengen läggs <b>automatiskt</b> till i spargrisen om den inte betalas ut.",
@@ -594,6 +594,7 @@
     "trustly_transacations_future":"Kommande transaktion",
     "trustly_transacations_done":"Utförd transaktion",
     "trustly_transacations_pending":"Pågående transaktion",
-    "trustly_transacations_cancelled":"Avbruten transaktion"
-
+    "trustly_transacations_cancelled":"Avbruten transaktion",
+    "no_money_pig_parent_head":"Välkommen till %1$d spargris",
+    "no_money_pig_parent_text":"Den fylls på varje %1$d %2$d%3$d med %4$d. Gör en insättning eller ge ut uppgifter för att snabbare få den att växa."
 }

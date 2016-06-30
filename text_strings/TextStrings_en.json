@@ -577,6 +577,8 @@
     "trustly_transacations_future":"Kommande transaktion",
     "trustly_transacations_done":"Utförd transaktion",
     "trustly_transacations_pending":"Pågående transaktion",
-    "trustly_transacations_cancelled":"Avbruten transaktion"
+    "trustly_transacations_cancelled":"Avbruten transaktion",
+    "no_money_pig_parent_head":"Välkommen till %1$d spargris",
+    "no_money_pig_parent_text":"Den fylls på varje %1$d %2$d%3$d med %4$d. Gör en insättning eller ge ut uppgifter för att snabbare få den att växa."
 
 }
