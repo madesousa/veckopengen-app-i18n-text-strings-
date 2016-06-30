@@ -589,6 +589,10 @@
     "failed_connection_reason_1":"- XXXXXXXX",
     "failed_connection_reason_2":"- XXXXXXXX",
     "failed_connection_reason_3":"- XXXXXXXX",
-    "failed_connection_ending":"Vänligen justera något av ovanstående och försök igen."
+    "failed_connection_ending":"Vänligen justera något av ovanstående och försök igen.",
+    "trustly_transacations_future":"Kommande transaktion",
+    "trustly_transacations_done":"Utförd transaktion",
+    "trustly_transacations_pending":"Pågående transaktion",
+    "trustly_transacations_cancelled":"Avbruten transaktion"
 
 }
