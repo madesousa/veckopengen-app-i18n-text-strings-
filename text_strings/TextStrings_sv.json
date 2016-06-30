@@ -596,5 +596,7 @@
     "trustly_transacations_pending":"Pågående transaktion",
     "trustly_transacations_cancelled":"Avbruten transaktion",
     "no_money_pig_parent_head":"Välkommen till %1$d spargris",
-    "no_money_pig_parent_text":"Den fylls på varje %1$d %2$d%3$d med %4$d. Gör en insättning eller ge ut uppgifter för att snabbare få den att växa."
+    "no_money_pig_parent_text":"Den fylls på varje %1$d %2$d%3$d med %4$d. Gör en insättning eller ge ut uppgifter för att snabbare få den att växa.",
+    "parent_settings_change":"Ändra mina uppgifter",
+    "new_account_value":"(Nu %1$d kr)"
 }
