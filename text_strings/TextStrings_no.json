@@ -597,7 +597,8 @@
     "no_money_pig_parent_head":"Velkommen til %1$d sparegris",
     "no_money_pig_parent_text":"Den fylles på hver %1$d %2$d%3$d med %4$d. Gjør en insetting eller gi ut oppgaver for å få den til å vokse raskere.",
     "parent_settings_change":"Endre mine opplysninger",
-    "new_account_value":"(Nå %1$d kr)"
+    "new_account_value":"(Nå %1$d kr)",
+    "trustly_item_spec_bank_success_receipt_to_account_info_today":"%1$d kr sätts in idag"
 
 
 }

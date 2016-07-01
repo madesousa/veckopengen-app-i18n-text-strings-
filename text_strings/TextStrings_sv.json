@@ -492,7 +492,7 @@
     "child_dashboard_request_assignment_message_delivered" : "Meddelande skickat",
     "child_dashboard_request_assignment_push" : "%1$d vill ha en ny uppgift!",
     "listview_footer_get_more" : "Hämta fler",
-    "trans_allowance_to_external_account" : "%1$s överfördes till %2$d bankkonto",
+    "trans_allowance_to_external_account" : "%1$d överfördes till %2$d bankkonto",
     "todays_bonus":"Dagens bonus blev <b>%1$d kr</b>",
     "expense_popover_instructions":"Ange summa att dra från spargrisen",
     "push_account_selected" : "Ditt bankkonto har länkats med veckopengen",
@@ -561,8 +561,8 @@
     "trustly_item_spec_bank_success_receipt_info":"Överföringen genomfördes med lyckat resultat.",
     "trustly_item_spec_bank_success_receipt_from_account":"Från konto: %1$d",
     "trustly_item_spec_bank_success_receipt_to_account":"Till konto: %1$d",
-    "trustly_item_spec_bank_success_receipt_from_account_info":"%1$s kr debiterades %2$d",
-    "trustly_item_spec_bank_success_receipt_to_account_info":"%1$s kr sattes in %2$d",
+    "trustly_item_spec_bank_success_receipt_from_account_info":"%1$d kr debiterades %2$d",
+    "trustly_item_spec_bank_success_receipt_to_account_info":"%1$d kr sattes in %3$d",
     "from_capitalized": "Från",
     "to_capitalized": "Till",
     "added_by":"Tillagd av",
@@ -598,5 +598,6 @@
     "no_money_pig_parent_head":"Välkommen till %1$d spargris",
     "no_money_pig_parent_text":"Den fylls på varje %1$d %2$d%3$d med %4$d. Gör en insättning eller ge ut uppgifter för att snabbare få den att växa.",
     "parent_settings_change":"Ändra mina uppgifter",
-    "new_account_value":"(Nu %1$d kr)"
+    "new_account_value":"(Nu %1$d kr)",
+    "trustly_item_spec_bank_success_receipt_to_account_info_today":"%1$d kr sätts in idag"
 }
