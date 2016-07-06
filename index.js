@@ -4,12 +4,12 @@ var TextStrings_is = require("./text_strings/TextStrings_is.json")
 var TextStrings_sv = require("./text_strings/TextStrings_sv.json")
 var TextStrings_no = require("./text_strings/TextStrings_no.json")
 var TextStrings_en = require("./text_strings/TextStrings_en.json")
-var CountryCodes = require('./CountryCodes.json') //Lägg i globals
+var CountryCodes = require("./CountryCodes.json") //Lägg i globals
 
 var countryCodes2PhoneNumberPrefixes = require("./countryCodes2PhoneNumberPrefixes.json")
 
 var getTextStrings = lang => {
-	switch(lang.substring(0, 2)) {
+	switch (lang.substring(0, 2)) {
 		case "da" : return TextStrings_da
 		case "fi" : return TextStrings_fi
 		case "is" : return TextStrings_is
