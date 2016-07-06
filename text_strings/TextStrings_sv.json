@@ -575,12 +575,6 @@
     "trustly_activation_time_text":"Vi slutflör nu anslutningen mellan ditt och ditt barns bankkonto. <b>Det tar mindre än 3 dagar.</b>",
     "both_child_and_parent_connected_head":"Ditt och ditt barns bankkonto ansluts nu",
     "mail_for_support":"Maila oss för support",
-    "failed_connection":"Anslutningen misslyckades!",
-    "failed_connection_desc":"Registreringen av ditt bankkonto gick inte igenom. det kan bero på att:",
-    "failed_connection_reason_1":"- XXXXXXXX",
-    "failed_connection_reason_2":"- XXXXXXXX",
-    "failed_connection_reason_3":"- XXXXXXXX",
-    "failed_connection_ending":"Vänligen justera något av ovanstående och försök igen.",
     "trustly_transacations_future":"Kommande transaktion",
     "trustly_transacations_done":"Utförd transaktion",
     "trustly_transacations_pending":"Pågående transaktion",
@@ -601,5 +595,8 @@
     "child_overview_item_pending_trustly_connection" : "Anslutning av bankkonton pågår",
     "trustly_parent_account_connected_headline" : "Överföringar är aktiverade!",
     "trustly_parent_connected_account_info_1" : "%s kommer automatiskt att betals ut på <b>%s<b>. Pengarna dras från ditt konto på <b>%s</b> och är på barnets konto på <b>%s</b>.",
-    "trustly_parent_connected_account_info_2" : "Du följer enkelt alla överföringar under Familjens transaktioner."
+    "trustly_parent_connected_account_info_2" : "Du följer enkelt alla överföringar under Familjens transaktioner.",
+    "failed_connection":"Anslutningen misslyckades!",
+    "failed_connection_desc":"Det gick inte att sätta upp en automatisk överföring mellan bankkonton:",
+    "failed_connection_ending":"Vänligen försök ansluta med ett annat bankkonto eller försök igen."
 }
