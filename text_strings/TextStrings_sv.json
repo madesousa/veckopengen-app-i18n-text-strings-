@@ -598,5 +598,8 @@
     "new_update_text_4":"Smidig och säker kontoregistrering med Bank ID",
     "new_update_text_5":"Fungerar med alla banker",
     "new_update_ready_text":"Kom igång!",
-    "child_overview_item_pending_trustly_connection" : "Anslutning av bankkonton pågår"
+    "child_overview_item_pending_trustly_connection" : "Anslutning av bankkonton pågår",
+    "trustly_parent_account_connected_headline" : "",
+    "trustly_parent_connected_account_info_1" : "trustly_parent_connected_account_info_1",
+    "trustly_parent_connected_account_info_2" : "trustly_parent_connected_account_info_2"
 }
