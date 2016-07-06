@@ -502,8 +502,8 @@
     "trustly_parent_settings_text2":"You can easily follow all transfers under'transaktioner' at your start page.",
     "trustly_parent_settings_text3":"You can easily end transfers to a child by going into 'Bankkonto och överföringar' under a childs settings",
     "trustly_parent_settings_trustly_text":"All account transfers happens with Trustly which is controled by Finansinspektionen",
-    "trustly_account_connected_headline":"Your account has been registered!",
-    "trustly_connected_account_info":"The weekly pocket money will now automatically be paid out to your account every friday. You can therefore now transfer money from your piggy bank to your weekly pocket money and place rewards directly into the weekly pocket money.",
+    "trustly_child_account_connected_headline":"Your account has been registered!",
+    "trustly_child_connected_account_info":"The weekly pocket money will now automatically be paid out to your account every friday. You can therefore now transfer money from your piggy bank to your weekly pocket money and place rewards directly into the weekly pocket money.",
     "trustly_editor_start_title" : "Start",
     "trustly_cancel_yes":"Yes, i am sure",
     "trustly_cancel_no":"No",
@@ -580,5 +580,6 @@
     "new_update_text_3":"Direkt till ditt barns bankkonto",
     "new_update_text_4":"Smidig och säker kontoregistrering med Bank ID",
     "new_update_text_5":"Fungerar med alla banker",
-    "new_update_ready_text":"Kom igång!"
+    "new_update_ready_text":"Kom igång!",
+    "child_overview_item_pending_trustly_connection" : "Anslutning av bankkonton pågår"
 }

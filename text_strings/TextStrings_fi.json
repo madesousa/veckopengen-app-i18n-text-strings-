@@ -518,8 +518,8 @@
     "trustly_parent_settings_text2":"Du kan enkelt följa alla överföringar under fliken 'transaktioner' på din startsida.",
     "trustly_parent_settings_text3":"Du kan enkelt avsluta överföringar till ett barn genom att gå in på 'Bankkonto och överföringar' undet ett barns inställningar",
     "trustly_parent_settings_trustly_text":"Alla kontoöverföringar sker med Trustly som står under Finansinspektionen",
-    "trustly_account_connected_headline":"Ditt konto har registrerats!",
-    "trustly_connected_account_info":"Nu betalas Veckopengen ut till ditt konto automatiskt varje fredag. Nu kan du därför föra över pengarna från din spargris till din veckopeng och placera dina belöningar direkt i veckopengen.",
+    "trustly_child_account_connected_headline":"Ditt konto har registrerats!",
+    "trustly_child_connected_account_info":"Nu betalas Veckopengen ut till ditt konto automatiskt varje fredag. Nu kan du därför föra över pengarna från din spargris till din veckopeng och placera dina belöningar direkt i veckopengen.",
     "trustly_editor_start_title" : "Start",
     "trustly_cancel_yes":"Ja, jag är säker",
     "trustly_cancel_no":"Nej",
@@ -596,5 +596,6 @@
     "new_update_text_3":"Direkt till ditt barns bankkonto",
     "new_update_text_4":"Smidig och säker kontoregistrering med Bank ID",
     "new_update_text_5":"Fungerar med alla banker",
-    "new_update_ready_text":"Kom igång!"
+    "new_update_ready_text":"Kom igång!",
+    "child_overview_item_pending_trustly_connection" : "Anslutning av bankkonton pågår"
 }
