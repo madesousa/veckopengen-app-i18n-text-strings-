@@ -417,7 +417,6 @@
     "notification_no_monthly_payment_reminder_text" : "Bravo, Månadspengen är utbetalad för den här månaden!",
     "child_settings_select_trustly_acount" : "Länka Trustly konto (beta)",
     "overview_child_item_add_task" : "Skapa",
-    "overview_next_allowance" : "Nästa veckopeng",
     "overview_new_notifications" : "Nya händelser",
     "profile_add_cost" : "Nytt Utlägg",
     "expense_popover_title" : "Utlägg åt %1$d",
@@ -597,5 +596,9 @@
     "trustly_parent_connected_account_info_2" : "Du följer enkelt alla överföringar under Familjens transaktioner.",
     "failed_connection":"Anslutningen misslyckades!",
     "failed_connection_desc":"Det gick inte att sätta upp en automatisk överföring mellan bankkonton:",
-    "failed_connection_ending":"Vänligen försök ansluta med ett annat bankkonto eller försök igen."
+    "failed_connection_ending":"Vänligen försök ansluta med ett annat bankkonto eller försök igen.",
+    "overview_child_item_payed_out" : "Utbetalad",
+    "overview_next_allowance" : "%1$s om %1$d dagar",
+    "overview_next_allowance_today" : "%1$s idag",
+    "overview_next_allowance_tomorrow" : "%1$s imorgon"
 }

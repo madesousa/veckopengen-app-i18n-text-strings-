@@ -417,7 +417,6 @@
     "child_settings_select_trustly_acount" : "Link to trustly account (beta)",
     "overview_child_item_add_task" : "Create",
     "edit_task_choose_participants": "Participants",
-    "overview_next_allowance" : "Next weeekly pocket money",
     "overview_new_notifications" : "New actions",
     "profile_add_cost" : "New disbursements",
     "expense_popover_title" : "Disbursements for %1$d",
@@ -581,5 +580,9 @@
     "trustly_parent_connected_account_info_2" : "Du följer enkelt alla överföringar under Familjens transaktioner.",
     "failed_connection":"Anslutningen misslyckades!",
     "failed_connection_desc":"Det gick inte att sätta upp en automatisk överföring mellan bankkonton:",
-    "failed_connection_ending":"Vänligen försök ansluta med ett annat bankkonto eller försök igen."
+    "failed_connection_ending":"Vänligen försök ansluta med ett annat bankkonto eller försök igen.",
+    "overview_child_item_payed_out" : "Utbetalad",
+    "overview_next_allowance" : "%1$s om %1$d dagar",
+    "overview_next_allowance_today" : "%1$s idag",
+    "overview_next_allowance_tomorrow" : "%1$s imorgon"
 }
