@@ -431,8 +431,6 @@
     "notification_monthly_payment_sent": "{name} has recieved their weekley pocket money.",
     "short_ok":"Ok",
     "next_payOut" : "%1$d next %2$s",
-    "put_in_pig_later_poover":"Put into the piggy bank in %1$d days",
-    "put_in_pig_now_poover":"Put into the piggy bank today",
     "expense_popover_title_child" : "Disbursements from parents",
     "expense_popover_description_child" : "How much money have you recieved?",
     "notification_payment_sent_title" : "Has the weekly pocket money been paid out in cash?",
@@ -487,7 +485,6 @@
     "push_account_selected" : "Your bank account has been connected to Gimi",
     "push_direct_debit_mandate_enabled" : "Your direct debit mandate has now been activated",
     "push_direct_debit_mandate_disasbled" : "Your direct mandate has now been unactivated",
-    "put_in_pig_tomorrow_poover":"Put in the piggy bank tomorrow",
     "trustly_settings_child_headline":"Registered bank account for %1$d",
     "update_settings":"Update settings",
     "trustly_settings_information":"Information",
@@ -586,5 +583,8 @@
     "overview_next_allowance_today" : "%1$s idag",
     "overview_next_allowance_tomorrow" : "%1$s imorgon",
 "overview_child_item_not_payed_out" : "Ej utbetalad",
-"child_dashboard_next_allowance" : "Nästa %1$s"
+"child_dashboard_next_allowance" : "Nästa %1$s",
+"put_in_pig_tomorrow_poover":"Läggs i spargrisen imorgon",
+"put_in_pig_later_poover":"Læg i sparegrisen om %1$d dage",
+"put_in_pig_now_poover":"Læg i sparegrisen i dag"
 }

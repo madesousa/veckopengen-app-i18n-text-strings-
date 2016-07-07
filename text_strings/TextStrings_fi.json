@@ -431,8 +431,6 @@
     "notification_monthly_payment_sent": "{name} har fått sin månadspeng.",
     "short_ok":"Ok",
     "next_payOut" : "%1$d nästa %2$s",
-    "put_in_pig_later_poover":"Lägg i spargrisen om %1$d dagar",
-    "put_in_pig_now_poover":"Läggs i spargrisen idag",
     "popover_new_make_insertion":"Ny insättning",
     "popover_new_make_withdrawal":"Nytt utlägg",
     "interest_rate":"%1$d sparränta är <b>%2$d%</b>",
@@ -503,7 +501,6 @@
     "push_account_selected" : "Ditt bankkonto har länkats med veckopengen",
     "push_direct_debit_mandate_enabled" : "Ditt Autogiromandat har nu aktiverats",
     "push_direct_debit_mandate_disasbled" : "Ditt Autogiromandat har nu avaktiverats",
-    "put_in_pig_tomorrow_poover":"Läggs i spargrisen imorgon",
     "trustly_settings_child_headline":"Registrerade bankkonton för %1$d",
     "update_settings":"Uppdatera inställningar",
     "trustly_settings_information":"Information",
@@ -602,5 +599,8 @@
     "overview_next_allowance_today" : "%1$s idag",
     "overview_next_allowance_tomorrow" : "%1$s imorgon",
 "overview_child_item_not_payed_out" : "Ej utbetalad",
-"child_dashboard_next_allowance" : "Nästa %1$s"
+"child_dashboard_next_allowance" : "Nästa %1$s",
+"put_in_pig_tomorrow_poover":"Läggs i spargrisen imorgon",
+"put_in_pig_later_poover":"Læg i sparegrisen om %1$d dage",
+"put_in_pig_now_poover":"Læg i sparegrisen i dag"
 }
