@@ -585,5 +585,6 @@
     "overview_next_allowance" : "%1$s om %1$d dagar",
     "overview_next_allowance_today" : "%1$s idag",
     "overview_next_allowance_tomorrow" : "%1$s imorgon",
-"overview_child_item_not_payed_out" : "Ej utbetalad"
+"overview_child_item_not_payed_out" : "Ej utbetalad",
+"child_dashboard_next_allowance" : "Nästa %1$s"
 }
