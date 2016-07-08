@@ -585,6 +585,16 @@
     "overview_child_item_not_payed_out" : "Ej utbetalad",
     "child_dashboard_next_allowance" : "Nästa %1$s",
     "put_in_pig_tomorrow_poover":"Läggs i spargrisen imorgon",
-    "put_in_pig_later_poover":"Læg i sparegrisen om %1$d dage",
-    "put_in_pig_now_poover":"Læg i sparegrisen i dag"
+    "put_in_pig_later_popover_child":"%1$d dagar kvar till nästa %2$s",
+"put_in_pig_later_popover_parent":"%1$d dagar kvar",
+    "put_in_pig_now_poover":"Læg i sparegrisen i dag",
+    "time_to_payout_popover_header_parent" : "%1$d%2$d %3$s",
+    "time_to_payout_popover_header_child_0_day_left" : "DAGS FÖR VECKOPENG!",
+    "time_to_payout_popover_header_child_1_day_left" : "Yey! Imorgon händer det",
+    "time_to_payout_popover_header_child_2_day_left" : "Håll ut! Snart veckopeng",
+    "time_to_payout_popover_header_child_3_day_left" : "Det börjar närma sig!",
+    "time_to_payout_popover_header_child_4_day_left" : "Den som väntar på nått gott",
+    "time_to_payout_popover_header_child_5_day_left" : "Tick tack, tick tack",
+    "time_to_payout_popover_header_child_6_day_left" : "Ett tag kvar ..",
+    "time_to_payout_popover_header_child_no_balance" : "Bra att du har sparat!"
 }
