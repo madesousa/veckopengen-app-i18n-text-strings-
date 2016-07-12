@@ -597,9 +597,14 @@
     "time_to_payout_popover_header_child_5_day_left" : "Tick tack, tick tack",
     "time_to_payout_popover_header_child_6_day_left" : "Some time left until allowance",
     "time_to_payout_popover_header_child_no_balance" : "Great, you have been saving!",
-    "time_to_payout_today_in_cash_popover_header_no_balance" : "%1$s have been paid out",
     "time_to_payout_today_in_cash_popover_header" : "Today it is %1$s",
     "time_to_payout_today_in_cash_popover_text" : "%1$d got <b>%2$c</b> in %3$s.",
     "time_to_payout_today_in_cash_popover_header_no_transaction" : "%1$s have been saved.",
-    "time_to_payout_today_in_cash_popover_text_no_transaction" : "%1$d have got %2$s %3$s."
+    "time_to_payout_today_in_cash_popover_text_no_transaction" : "%1$d have got %2$s %3$s.",
+    "time_to_payout_today_to_external_bankaccount_popover_header_parent" : "Idag har %1$d fått veckopengen",
+    "time_to_payout_today_to_external_bankaccount_popover_header_child" : "Idag har du fått veckopengen",
+    "time_to_payout_today_to_external_bankaccount_popover_text_parent" : "%1$s har betalats ut till %2$ds bankkonto. Se kvitto under transaktioner.",
+    "time_to_payout_today_to_external_bankaccount_popover_text_child" : "%1$s har betalats ut till ditt bankkonto.",
+    "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction" : "%1$s har sparats.",
+    "nice" : "Nice"
 }
