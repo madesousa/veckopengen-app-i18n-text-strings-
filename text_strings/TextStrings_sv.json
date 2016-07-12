@@ -629,5 +629,6 @@
     "time_to_payout_today_to_external_bankaccount_popover_text_failed_child" : "%1$s kunde inte betalas ut till ditt bankkonto. %2$d kommer kunna sätta in dina pengar i din spargris istället.",
     "your_parent" : "Din föräler",
     "nice" : "Nice",
-    "be_ware" : "OBS!"
+    "be_ware" : "OBS!",
+    "time_to_payout_today_to_external_bankaccount_transfer_button" : "Sätt in %1$s i spargrisen istället"
 }
