@@ -623,5 +623,11 @@
     "time_to_payout_today_to_external_bankaccount_popover_text_parent" : "%1$s har betalats ut till %2$ds bankkonto. Se kvitto under transaktioner.",
     "time_to_payout_today_to_external_bankaccount_popover_text_child" : "%1$s har betalats ut till ditt bankkonto.",
     "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction" : "%1$s har sparats.",
-    "nice" : "Nice"
+    "time_to_payout_today_to_external_bankaccount_popover_header_failed_parent" : "%1$ds %2$s betalades inte ut",
+    "time_to_payout_today_to_external_bankaccount_popover_header_failed_child" : "Din %1$s betalades inte ut",
+    "time_to_payout_today_to_external_bankaccount_popover_text_failed_parent" : "%1$s kunde inte betalas ut till bankkontot. Gå till transaktioner för att se vad som gått fel och för att lägga veckopengen i spargrisen istället.",
+    "time_to_payout_today_to_external_bankaccount_popover_text_failed_child" : "%1$s kunde inte betalas ut till ditt bankkonto. %2$d kommer kunna sätta in dina pengar i din spargris istället.",
+    "your_parent" : "Din föräler",
+    "nice" : "Nice",
+    "be_ware" : "OBS!"
 }
