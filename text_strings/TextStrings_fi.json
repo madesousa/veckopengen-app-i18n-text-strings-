@@ -559,7 +559,7 @@
     "task":"Uppgift",
     "bank_transaction":"Banköverföring",
     "automatic_transaction_type_text":"Automatisk överföring av ",
-    "recurring_to_pig":"%1$d till spargrisen",
+    "recurring_to_pig":"%1$s till spargrisen",
     "transaction_to_pig":"Insättning utav %1$d",
     "deposit":"insättning",
     "deposit_to_pig":"Insättning i spargrisen",
