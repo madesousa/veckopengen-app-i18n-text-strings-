@@ -632,5 +632,6 @@
     "be_ware" : "OBS!",
     "time_to_payout_today_to_external_bankaccount_transfer_button" : "Sätt in %1$s i spargrisen istället",
     "trustly_receipt_error_text" : "Viktigt Felmeddelande",
-    "trustly_receipt_error_description" : "Pengarna kunde inte dras från förälders bankkonto. Antingen fanns det inte ett disponibelt belopp eller har kontot avslutats. För support har vi skickat ut ett mail"
+    "trustly_receipt_error_description" : "Pengarna kunde inte dras från förälders bankkonto. Antingen fanns det inte ett disponibelt belopp eller har kontot avslutats. För support har vi skickat ut ett mail.",
+    "trustly_receipt_error_description_refund" : "Pengarna drogs från förälders konto, men kunde inte betalas ut till barnets konto. En återbetalning av pengarna sker och vår support har skickat ut ett mail till dig."
 }

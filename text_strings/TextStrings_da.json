@@ -602,7 +602,7 @@
     "child_dashboard_next_allowance" : "Nästa %1$s",
     "put_in_pig_tomorrow_poover":"Läggs i spargrisen imorgon",
     "put_in_pig_later_popover_child":"%1$d dagar kvar till nästa %2$s",
-"put_in_pig_later_popover_parent":"%1$d dagar kvar",
+    "put_in_pig_later_popover_parent":"%1$d dagar kvar",
     "put_in_pig_now_poover":"Læg i sparegrisen i dag",
     "time_to_payout_popover_header_parent" : "%1$d%2$d %3$s",
     "time_to_payout_popover_header_child_0_day_left" : "DAGS FÖR VECKOPENG!",
@@ -631,5 +631,6 @@
     "be_ware" : "OBS!",
     "time_to_payout_today_to_external_bankaccount_transfer_button" : "Sätt in %1$s i spargrisen istället",
     "trustly_receipt_error_text" : "Viktigt Felmeddelande",
-    "trustly_receipt_error_description" : "Pengarna kunde inte dras från förälders bankkonto. Antingen fanns det inte ett disponibelt belopp eller har kontot avslutats. För support har vi skickat ut ett mail"
+    "trustly_receipt_error_description" : "Pengarna kunde inte dras från förälders bankkonto. Antingen fanns det inte ett disponibelt belopp eller har kontot avslutats. För support har vi skickat ut ett mail.",
+    "trustly_receipt_error_description_refund" : "Pengarna drogs från förälders konto, men kunde inte betalas ut till barnets konto. En återbetalning av pengarna sker och vår support har skickat ut ett mail till dig."
 }
