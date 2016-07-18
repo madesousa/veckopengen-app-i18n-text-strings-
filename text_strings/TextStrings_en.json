@@ -635,7 +635,7 @@
     "trustly_receipt_error_description" : "The money could not be deducted from the parent's bank. Either there were not a disposable amount or have the account was closed. For support, we sent out an email.",
     "trustly_receipt_error_description_refund" : "The money was drawn from the parents' account, but could not be paid to the child's account. A refund of the money is made and our support has sent out an email to you.",
     "overview_text_trustly_payout_completed_parent": "{amount} kr in {recurring} has been transfered",
-    "push_text_trustly_payout_completed_parent":"{amount} has been trnsfered to {name}",
+    "push_text_trustly_payout_completed_parent":"{amount} has been transfered to {name}",
     "push_text_trustly_payout_completed_child":"Your pocket money has been paid",
     "overview_text_trustly_failed_parent": "The transaction of {recurring} failed",
     "push_text_trustly_failed_parent":"The transaction of {name}s {recurring} failed",
