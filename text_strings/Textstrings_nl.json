@@ -670,5 +670,6 @@
     "monthly_allowance_pre_payout_notification": "Idag är det månadspeng!",
     "trustly_charge_over_limit_email_subject": "Viktigt meddelande om utbetalning.",
     "trustly_charge_failed_email_subject": "Meddelande om misslyckad utbetalning.",
-    "trustly_payout_failed_email_subject": "Meddelande om misslyckad utbetalning och refund."
+    "trustly_payout_failed_email_subject": "Meddelande om misslyckad utbetalning och refund.",
+    "transaction" : "överföring"
 }
