@@ -665,10 +665,10 @@
     "transactions_help_page_content_12" : "transactions_help_page_content_12",
     "transactions_help_page_title_13" : "transactions_help_page_title_13",
     "transactions_help_page_content_13" : "transactions_help_page_content_13",
-    "weekly_allowance_pre_payout_notification": "Idag är det veckopeng!",
-    "monthly_allowance_pre_payout_notification": "Idag är det månadspeng!",
-    "trustly_charge_over_limit_email_subject": "Viktigt meddelande om utbetalning.",
-    "trustly_charge_failed_email_subject": "Meddelande om misslyckad utbetalning.",
-    "trustly_payout_failed_email_subject": "Meddelande om misslyckad utbetalning och refund.",
-    "transaction" : "överföring"
+    "weekly_allowance_pre_payout_notification": "I dag er det ukepenger!",
+    "monthly_allowance_pre_payout_notification": "I dag er det månedspenger!",
+    "trustly_charge_over_limit_email_subject": "Viktig melding om utbetalingen.",
+    "trustly_charge_failed_email_subject": "Melding om mislykket utbetaling.",
+    "trustly_payout_failed_email_subject": "Melding om mislykket utbetaling og refusjon.",
+    "transaction" : "overføring"
 }
