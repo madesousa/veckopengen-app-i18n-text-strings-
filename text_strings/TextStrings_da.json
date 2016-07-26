@@ -670,5 +670,8 @@
     "trustly_charge_over_limit_email_subject": "Vigtig meddelelse om udbetaling.",
     "trustly_charge_failed_email_subject": "Meddelelse om mislykket udbetaling.",
     "trustly_payout_failed_email_subject": "Meddelelse om mislykket udbetaling og refundering.",
-    "transaction" : "overførsel"
+    "transaction" : "overførsel",
+    "create_account":"Skapa konto",
+    "signup_connect_family_member":"Koppla ihop med familjemedlem",
+    "terms_conditions":"Genom att fortsätta accepterar du Veckopengens \n <b>Användarvillkor och Integritetspolicy</b>"
 }

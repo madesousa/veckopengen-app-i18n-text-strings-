@@ -670,5 +670,8 @@
     "trustly_charge_over_limit_email_subject": "Tärkeä tiedote maksusta.",
     "trustly_charge_failed_email_subject": "Ilmoitus maksun epäonnistumisesta.",
     "trustly_payout_failed_email_subject": "Ilmoitus maksun epäonnistumisesta ja palautuksesta.",
-    "transaction" : "tilisiirto"
+    "transaction" : "tilisiirto",
+    "create_account":"Skapa konto",
+    "signup_connect_family_member":"Koppla ihop med familjemedlem",
+    "terms_conditions":"Genom att fortsätta accepterar du Veckopengens \n <b>Användarvillkor och Integritetspolicy</b>"
 }
