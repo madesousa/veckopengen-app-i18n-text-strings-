@@ -673,5 +673,7 @@
     "transaction" : "tilisiirto",
     "create_account":"Skapa konto",
     "signup_connect_family_member":"Koppla ihop med familjemedlem",
-    "terms_conditions":"Genom att fortsätta accepterar du Veckopengens \n <b>Användarvillkor och Integritetspolicy</b>"
+    "terms_conditions":"Genom att fortsätta accepterar du Veckopengens \n <b>Användarvillkor och Integritetspolicy</b>",
+    "transaction_from_transactionalAccount_to_savingsAccount":"Överföring av %1$s till spargrisen",
+    "one_day_to_bonus" : "Sparbonusen betalas ut imorgon"
 }

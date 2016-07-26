@@ -604,7 +604,7 @@
     "put_in_pig_tomorrow_poover":"Läggs i spargrisen imorgon",
     "put_in_pig_later_popover_child":"%1$d dagar kvar till nästa %2$s",
     "put_in_pig_later_popover_parent":"%1$d dagar kvar",
-    "put_in_pig_now_poover":"Læg i sparegrisen i dag",
+    "put_in_pig_now_poover":"Läggs i sparegrisen i dag",
     "time_to_payout_popover_header_parent" : "%1$d%2$d %3$s",
     "time_to_payout_popover_header_child_0_day_left" : "DAGS FÖR VECKOPENG!",
     "time_to_payout_popover_header_child_1_day_left" : "Yey! Imorgon händer det",
@@ -674,5 +674,7 @@
     "transaction" : "överföring",
     "create_account":"Skapa konto",
     "signup_connect_family_member":"Koppla ihop med familjemedlem",
-    "terms_conditions":"Genom att fortsätta accepterar du Veckopengens \n <b>Användarvillkor och Integritetspolicy</b>"
+    "terms_conditions":"Genom att fortsätta accepterar du Veckopengens \n <b>Användarvillkor och Integritetspolicy</b>",
+    "transaction_from_transactionalAccount_to_savingsAccount":"Överföring av %1$s till spargrisen",
+    "one_day_to_bonus" : "Sparbonusen betalas ut imorgon"
 }
