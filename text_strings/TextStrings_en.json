@@ -596,7 +596,7 @@
     "failed_connection_desc":"Failed to set up an automatic transfer between bank accounts:",
     "failed_connection_ending":"Please try to connect with another bank account or try again.",
     "overview_child_item_payed_out" : "Paid",
-    "overview_next_allowance" : "%1$s in %1$d days",
+    "overview_next_allowance" : "%1$s in %2$d days",
     "overview_next_allowance_today" : "%1$s today",
     "overview_next_allowance_tomorrow" : "%1$s tomorrow",
     "overview_child_item_not_payed_out" : "Not paid",

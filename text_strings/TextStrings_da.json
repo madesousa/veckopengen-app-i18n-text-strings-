@@ -595,7 +595,7 @@
     "failed_connection_desc":"Det var ikke muligt at opsætte en automatisk overførsel mellem bankkontiene:",
     "failed_connection_ending":"Forsøg venligt at tilslutte en anden bankkonto eller forsøg igen.",
     "overview_child_item_payed_out" : "Udbetalt",
-    "overview_next_allowance" : "%1$s om %1$d dage",
+    "overview_next_allowance" : "%1$s om %2$d dage",
     "overview_next_allowance_today" : "%1$s i dag",
     "overview_next_allowance_tomorrow" : "%1$s i morgon",
     "overview_child_item_not_payed_out" : "Ikke udbetalt",
