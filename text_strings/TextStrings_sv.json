@@ -676,5 +676,8 @@
     "signup_connect_family_member":"Koppla ihop med familjemedlem",
     "terms_conditions":"Genom att fortsätta accepterar du Veckopengens \n <b>Användarvillkor och Integritetspolicy</b>",
     "transaction_from_transactionalAccount_to_savingsAccount":"Överföring av %1$s till spargrisen",
-    "one_day_to_bonus" : "Sparbonusen betalas ut imorgon"
+    "one_day_to_bonus" : "Sparbonusen betalas ut imorgon",
+    "dashboard_child_welcome":"Du är registrerad!",
+    "dashboard_child_welcome_desc":"För att komma igång behöver du vara ihopkopplad med en förälder.",
+    "signup_child_invite":"Bjud in en förälder"
 }
