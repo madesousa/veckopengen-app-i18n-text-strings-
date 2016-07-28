@@ -1,15 +1,14 @@
-var TextStrings_da = require("./text_strings/TextStrings_da.json")
-var TextStrings_fi = require("./text_strings/TextStrings_fi.json")
-var TextStrings_is = require("./text_strings/TextStrings_is.json")
-var TextStrings_sv = require("./text_strings/TextStrings_sv.json")
-var TextStrings_no = require("./text_strings/TextStrings_no.json")
-var TextStrings_en = require("./text_strings/TextStrings_en.json")
-var CountryCodes = require("./CountryCodes.json") //Lägg i globals
-var Currencies = require("./Currencies.json")
+import TextStrings_da from "./text_strings/TextStrings_da.json"
+import TextStrings_fi from "./text_strings/TextStrings_fi.json"
+import TextStrings_is from "./text_strings/TextStrings_is.json"
+import TextStrings_sv from "./text_strings/TextStrings_sv.json"
+import TextStrings_no from "./text_strings/TextStrings_no.json"
+import TextStrings_en from "./text_strings/TextStrings_en.json"
+import CountryCodes from "./CountryCodes.json"
+import Currencies from "./Currencies.json"
+import countryCodes2PhoneNumberPrefixes from "./countryCodes2PhoneNumberPrefixes.json"
 
-var countryCodes2PhoneNumberPrefixes = require("./countryCodes2PhoneNumberPrefixes.json")
-
-var getTextStrings = lang => {
+export let getTextStrings = lang => {
 	switch (lang.substring(0, 2)) {
 		case "da" : return TextStrings_da
 		case "fi" : return TextStrings_fi
@@ -22,16 +21,20 @@ var getTextStrings = lang => {
 	}
 }
 
-var getCountries = (countries) => {
+export let getCountries = (countries) => {
 	return CountryCodes
 }
 
-var getPhoneNumberPrefix = countryCode => parseInt(countryCodes2PhoneNumberPrefixes[countryCode.toUpperCase()])
-var getCountryCodeFromLocale = locale => locale.slice(-2)
-var getCurrencies = () => Currencies
+export let getPhoneNumberPrefix = countryCode => parseInt(countryCodes2PhoneNumberPrefixes[countryCode.toUpperCase()])
+export let getCountryCodeFromLocale = locale => locale.slice(-2)
+export let getCurrencies = () => Currencies
 
-module.exports.getTextStrings = getTextStrings
-module.exports.getPhoneNumberPrefix = getPhoneNumberPrefix
-module.exports.getCountryCodeFromLocale = getCountryCodeFromLocale
-module.exports.getCountries = getCountries
-module.exports.getCurrencies = getCurrencies
+export let getDefaultCurrency = (userCountryCode) => {
+  switch (userCountryCode) {
+    case "SE" : return 121 //SEK
+    case "NOK" : return 101 //NOK
+    case "DK" : return 36 //NOK
+    case "GB" : return 46 //GBP
+    default : return 43 //EUR
+  }
+}
