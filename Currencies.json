@@ -1,0 +1,1661 @@
+[
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 1,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "AED",
+            "name": "UAE Dirham",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 2,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "AFN",
+            "name": "Afghani",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 3,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "ALL",
+            "name": "Lek",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 4,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "AMD",
+            "name": "Armenian Dram",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 5,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "ANG",
+            "name": "Netherlands Antillian Guilder",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 6,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "AOA",
+            "name": "Kwanza",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 7,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "ARS",
+            "name": "Argentine Peso",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 8,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "AUD",
+            "name": "Australian Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 9,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "AWG",
+            "name": "Aruban Guilder",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 10,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "AZN",
+            "name": "Azerbaijanian Manat",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 11,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BAM",
+            "name": "Convertible Marks",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 12,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BBD",
+            "name": "Barbados Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 13,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BDT",
+            "name": "Taka",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 14,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BGN",
+            "name": "Bulgarian Lev",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 15,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BHD",
+            "name": "Bahraini Dinar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 16,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BIF",
+            "name": "Burundi Franc",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 17,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BMD",
+            "name": "Bermudian Dollar (customarily known as Bermuda Dollar)",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 18,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BND",
+            "name": "Brunei Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 19,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BOB",
+            "name": "BOV Boliviano Mvdol",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 20,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BRL",
+            "name": "Brazilian Real",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 21,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BSD",
+            "name": "Bahamian Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 22,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BWP",
+            "name": "Pula",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 23,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BYR",
+            "name": "Belarussian Ruble",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 24,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "BZD",
+            "name": "Belize Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 25,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "CAD",
+            "name": "Canadian Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 26,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "CDF",
+            "name": "Congolese Franc",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 27,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "CHF",
+            "name": "Swiss Franc",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 28,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "CLP",
+            "name": "CLF Chilean Peso Unidades de fomento",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 29,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "CNY",
+            "name": "Yuan Renminbi",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 30,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "COP",
+            "name": "COU Colombian Peso Unidad de Valor Real",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 31,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "CRC",
+            "name": "Costa Rican Colon",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 32,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "CUP",
+            "name": "CUC Cuban Peso Peso Convertible",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 33,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "CVE",
+            "name": "Cape Verde Escudo",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 34,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "CZK",
+            "name": "Czech Koruna",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 35,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "DJF",
+            "name": "Djibouti Franc",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 36,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "DKK",
+            "name": "Danish Krone",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 37,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "DOP",
+            "name": "Dominican Peso",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 38,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "DZD",
+            "name": "Algerian Dinar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 39,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "EEK",
+            "name": "Kroon",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 40,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "EGP",
+            "name": "Egyptian Pound",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 41,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "ERN",
+            "name": "Nakfa",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 42,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "ETB",
+            "name": "Ethiopian Birr",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 43,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "EUR",
+            "name": "Euro",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 44,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "FJD",
+            "name": "Fiji Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 45,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "FKP",
+            "name": "Falkland Islands Pound",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 46,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "GBP",
+            "name": "Pound Sterling",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 47,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "GEL",
+            "name": "Lari",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 48,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "GHS",
+            "name": "Cedi",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 49,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "GIP",
+            "name": "Gibraltar Pound",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 50,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "GMD",
+            "name": "Dalasi",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 51,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "GNF",
+            "name": "Guinea Franc",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 52,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "GTQ",
+            "name": "Quetzal",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 53,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "GYD",
+            "name": "Guyana Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 54,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "HKD",
+            "name": "Hong Kong Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 55,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "HNL",
+            "name": "Lempira",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 56,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "HRK",
+            "name": "Croatian Kuna",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 57,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "HTG",
+            "name": "USD Gourde US Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 58,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "HUF",
+            "name": "Forint",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 59,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "IDR",
+            "name": "Rupiah",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 60,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "ILS",
+            "name": "New Israeli Sheqel",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 61,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "INR",
+            "name": "Indian Rupee",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 63,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "IQD",
+            "name": "Iraqi Dinar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 64,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "IRR",
+            "name": "Iranian Rial",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 65,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "ISK",
+            "name": "Iceland Krona",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 66,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "JMD",
+            "name": "Jamaican Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 67,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "JOD",
+            "name": "Jordanian Dinar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 68,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "JPY",
+            "name": "Yen",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 69,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "KES",
+            "name": "Kenyan Shilling",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 70,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "KGS",
+            "name": "Som",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 71,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "KHR",
+            "name": "Riel",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 72,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "KMF",
+            "name": "Comoro Franc",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 73,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "KPW",
+            "name": "North Korean Won",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 74,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "KRW",
+            "name": "Won",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 75,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "KWD",
+            "name": "Kuwaiti Dinar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 76,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "KYD",
+            "name": "Cayman Islands Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 77,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "KZT",
+            "name": "Tenge",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 78,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "LAK",
+            "name": "Kip",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 79,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "LBP",
+            "name": "Lebanese Pound",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 80,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "LKR",
+            "name": "Sri Lanka Rupee",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 81,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "LRD",
+            "name": "Liberian Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 82,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "LTL",
+            "name": "Lithuanian Litas",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 83,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "LVL",
+            "name": "Latvian Lats",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 84,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "LYD",
+            "name": "Libyan Dinar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 85,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MAD",
+            "name": "Moroccan Dirham",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 86,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MDL",
+            "name": "Moldovan Leu",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 87,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MGA",
+            "name": "Malagasy Ariary",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 88,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MKD",
+            "name": "Denar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 89,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MMK",
+            "name": "Kyat",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 90,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MNT",
+            "name": "Tugrik",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 91,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MOP",
+            "name": "Pataca",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 92,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MRO",
+            "name": "Ouguiya",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 93,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MUR",
+            "name": "Mauritius Rupee",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 94,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MVR",
+            "name": "Rufiyaa",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 95,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MWK",
+            "name": "Kwacha",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 96,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MXN",
+            "name": "MXV Mexican Peso Mexican Unidad de Inversion (UDI)",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 97,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MYR",
+            "name": "Malaysian Ringgit",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 98,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "MZN",
+            "name": "Metical",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 99,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "NGN",
+            "name": "Naira",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 100,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "NIO",
+            "name": "Cordoba Oro",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 101,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "NOK",
+            "name": "Norwegian Krone",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 102,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "NPR",
+            "name": "Nepalese Rupee",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 103,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "NZD",
+            "name": "New Zealand Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 104,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "OMR",
+            "name": "Rial Omani",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 105,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "PAB",
+            "name": "USD Balboa US Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 106,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "PEN",
+            "name": "Nuevo Sol",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 107,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "PGK",
+            "name": "Kina",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 108,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "PHP",
+            "name": "Philippine Peso",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 109,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "PKR",
+            "name": "Pakistan Rupee",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 110,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "PLN",
+            "name": "Zloty",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 111,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "PYG",
+            "name": "Guarani",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 112,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "QAR",
+            "name": "Qatari Rial",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 113,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "RON",
+            "name": "New Leu",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 114,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "RSD",
+            "name": "Serbian Dinar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 115,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "RUB",
+            "name": "Russian Ruble",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 116,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "RWF",
+            "name": "Rwanda Franc",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 117,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "SAR",
+            "name": "Saudi Riyal",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 118,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "SBD",
+            "name": "Solomon Islands Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 119,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "SCR",
+            "name": "Seychelles Rupee",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 120,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "SDG",
+            "name": "Sudanese Pound",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 121,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "SEK",
+            "name": "Swedish Krona",
+            "enabled": true
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 122,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "SGD",
+            "name": "Singapore Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 123,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "SHP",
+            "name": "Saint Helena Pound",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 124,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "SLL",
+            "name": "Leone",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 125,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "SOS",
+            "name": "Somali Shilling",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 126,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "SRD",
+            "name": "Surinam Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 127,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "STD",
+            "name": "Dobra",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 128,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "SVC",
+            "name": "USD El Salvador Colon US Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 129,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "SYP",
+            "name": "Syrian Pound",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 130,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "SZL",
+            "name": "Lilangeni",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 131,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "THB",
+            "name": "Baht",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 132,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "TJS",
+            "name": "Somoni",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 133,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "TMT",
+            "name": "Manat",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 134,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "TND",
+            "name": "Tunisian Dinar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 135,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "TOP",
+            "name": "Pa'anga",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 136,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "TRY",
+            "name": "Turkish Lira",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 137,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "TTD",
+            "name": "Trinidad and Tobago Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 138,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "TWD",
+            "name": "New Taiwan Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 139,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "TZS",
+            "name": "Tanzanian Shilling",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 140,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "UAH",
+            "name": "Hryvnia",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 141,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "UGX",
+            "name": "Uganda Shilling",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 142,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "USD",
+            "name": "US Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 143,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "UYU",
+            "name": "UYI Peso Uruguayo Uruguay Peso en Unidades Indexadas",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 144,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "UZS",
+            "name": "Uzbekistan Sum",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 145,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "VEF",
+            "name": "Bolivar Fuerte",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 146,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "VND",
+            "name": "Dong",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 147,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "VUV",
+            "name": "Vatu",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 148,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "WST",
+            "name": "Tala",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 149,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XAF",
+            "name": "CFA Franc BEAC",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 150,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XAG",
+            "name": "Silver",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 151,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XAU",
+            "name": "Gold",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 152,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XBA",
+            "name": "Bond Markets Units European Composite Unit (EURCO)",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 153,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XBB",
+            "name": "European Monetary Unit (E.M.U.-6)",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 154,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XBC",
+            "name": "European Unit of Account 9(E.U.A.-9)",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 155,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XBD",
+            "name": "European Unit of Account 17(E.U.A.-17)",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 156,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XCD",
+            "name": "East Caribbean Dollar",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 157,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XDR",
+            "name": "SDR",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 158,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XFU",
+            "name": "UIC-Franc",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 159,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XOF",
+            "name": "CFA Franc BCEAO",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 160,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XPD",
+            "name": "Palladium",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 161,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XPF",
+            "name": "CFP Franc",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 162,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XPT",
+            "name": "Platinum",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 163,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "XTS",
+            "name": "Codes specifically reserved for testing purposes",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 164,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "YER",
+            "name": "Yemeni Rial",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 165,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "ZAR",
+            "name": "Rand",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 168,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "ZMK",
+            "name": "Zambian Kwacha",
+            "enabled": false
+        }
+    },
+    {
+        "model": "api.currency",
+        "fields": {
+            "model_id": 169,
+            "created_at": "2016-01-01T00:00:00",
+            "iso_4217_name": "ZWL",
+            "name": "Zimbabwe Dollar",
+            "enabled": false
+        }
+    }]
