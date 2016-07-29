@@ -35,6 +35,7 @@ export let getDefaultCurrency = (userCountryCode) => {
     case "NOK" : return 101 //NOK
     case "DK" : return 36 //NOK
     case "GB" : return 46 //GBP
+		case "US" : return 142 //USD
     default : return 43 //EUR
   }
 }
