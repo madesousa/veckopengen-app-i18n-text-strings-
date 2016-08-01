@@ -676,5 +676,6 @@
     "terms_conditions":"Genom att fortsätta accepterar du Veckopengens \n <b>Användarvillkor och Integritetspolicy</b>",
     "transaction_from_transactionalAccount_to_savingsAccount":"Överföring av %1$s till spargrisen",
     "one_day_to_bonus" : "Sparbonusen betalas ut imorgon",
-    "signup_connect_family_member_break":"Koppla ihop med \n familjemedlem"
+    "signup_connect_family_member_break":"Koppla ihop med \n familjemedlem",
+    "invite_sms":"SMS"
 }
