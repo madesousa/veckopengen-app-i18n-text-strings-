@@ -699,5 +699,8 @@
     "parent_settings_about":"Om Veckopengen",
     "parent_settings_terms":"Användarvillkor",
     "parent_settings_locale_language":"Språk",
-    "parent_settings_locale_time":"Tidszon"
+    "parent_settings_locale_time":"Tidszon",
+    "child_settings_locale_currency":"Valuta",
+    "child_settings_age":"Ålder",
+    "child_settings_connections":"Mina ihopkopplingar"
 }

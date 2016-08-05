@@ -700,5 +700,8 @@
     "parent_settings_about":"About Gimi",
     "parent_settings_terms":"Terms and conditions",
     "parent_settings_locale_language":"Language",
-    "parent_settings_locale_time":"Timezone"
+    "parent_settings_locale_time":"Timezone",
+    "child_settings_locale_currency":"Valuta",
+    "child_settings_age":"Ålder",
+    "child_settings_connections":"Mina ihopkopplingar"
 }
