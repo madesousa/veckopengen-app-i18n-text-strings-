@@ -720,6 +720,10 @@
     "feedback_headline":"Prata med oss!",
     "feedback_feeling_headline":"Hur känner du dig?",
     "feedback_status":"Status",
-    "feedback_send":"skicka"
+    "feedback_send":"skicka",
+    "tabbar_home":"Mina barn",
+    "tabbar_trans":"Transaktioner",
+    "tabbar_premium":"Powers",
+    "tabbar_settings":"Inställningar"
 
 }
