@@ -437,7 +437,7 @@
     "next_bonus":"Nästa sparbonus är <b>%1$d kr</b>",
     "n_days_to_bonus":"<b>%1$d dagar</b> till sparbonus",
     "bonus_today":"<b>Sparbonus</b> lades till idag",
-    "popover_adult_slider_text1":"Så räknas din sparbonus ut",
+    "popover_adult_slider_text1":"Så räknas nästa sparbonus ut",
     "popover_child_slider_text1":"motsvarar",
     "new_calculated_savings_popover_parent_slide1":"%1$d x %2$d% = %3$d kr",
     "new_calculated_savings_popover_child_slide1":"%1$d cheeseburgare",
