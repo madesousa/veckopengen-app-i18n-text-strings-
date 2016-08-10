@@ -724,6 +724,8 @@
     "tabbar_home":"Mina barn",
     "tabbar_trans":"Transaktioner",
     "tabbar_premium":"Powers",
-    "tabbar_settings":"Inställningar"
+    "tabbar_settings":"Inställningar",
+    "create_child_name":"Vad heter ditt barn?",
+    "create_child_nickname":"smeknamn"
 
 }
