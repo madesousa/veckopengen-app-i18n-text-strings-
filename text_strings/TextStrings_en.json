@@ -727,6 +727,8 @@
     "tabbar_settings":"Inställningar",
     "create_child_name":"Vad heter ditt barn?",
     "create_child_nickname":"smeknamn",
-    "user_terms_main":"TEXT AV PHILIP"
+    "user_terms_main":"TEXT AV PHILIP",
+    "create_child_common_recurring_week":"För barn under 11 år är\nveckopeng vanligast.",
+    "create_child_common_recurring_month":"För barn över 11 år är\nmånadspeng vanligast."
 
 }
