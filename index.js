@@ -8,6 +8,7 @@ import CountryCodes from "./CountryCodes.json"
 import Currencies from "./Currencies.json"
 import LanguageCodes from "./LanguageCodes.json"
 import countryCodes2PhoneNumberPrefixes from "./countryCodes2PhoneNumberPrefixes.json"
+var supportedLanguageCodes = ["da","fi","is","sv","nb","nn","en"]
 
 export let getTextStrings = lang => {
 	switch (lang.substring(0, 2)) {
@@ -18,7 +19,7 @@ export let getTextStrings = lang => {
 		case "nb" : return TextStrings_no
 		case "nn" : return TextStrings_no
 		case "en" : return TextStrings_en
-		default : 	return TextStrings_sv
+		default : return TextStrings_sv
 	}
 }
 
@@ -29,7 +30,7 @@ export let getCountries = (countries) => {
 export let getPhoneNumberPrefix = countryCode => parseInt(countryCodes2PhoneNumberPrefixes[countryCode.toUpperCase()])
 export let getCountryCodeFromLocale = locale => locale.slice(-2)
 export let getCurrencies = () => Currencies
-export let getLangugageCodes = () => LanguageCodes
+export let getLangugageCodes = () => LanguageCodes.filter(languageCode => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
 
 export let getDefaultCurrency = (userCountryCode) => {
   switch (userCountryCode) {
