@@ -9,6 +9,7 @@ import Currencies from "./Currencies.json"
 import LanguageCodes from "./LanguageCodes.json"
 import countryCodes2PhoneNumberPrefixes from "./countryCodes2PhoneNumberPrefixes.json"
 var supportedLanguageCodes = ["da","fi","is","sv","nb","nn","en"]
+var supportedCurrencies = ["SEK","NOK","DKK", "GBP","USD", "EUR"]
 
 export let getTextStrings = lang => {
 	switch (lang.substring(0, 2)) {
@@ -23,13 +24,12 @@ export let getTextStrings = lang => {
 	}
 }
 
-export let getCountries = (countries) => {
-	return CountryCodes
-}
+export let getCountries = (countries) => CountryCodes
 
 export let getPhoneNumberPrefix = countryCode => parseInt(countryCodes2PhoneNumberPrefixes[countryCode.toUpperCase()])
 export let getCountryCodeFromLocale = locale => locale.slice(-2)
-export let getCurrencies = () => Currencies
+export let getCurrencies = () => Currencies.filter(currency => supportedCurrencies.indexOf(currency.fields.iso_4217_name) !== -1)
+export let getCurrency = (currencyCode) => getCurrencies().find(currency => currency.fields.iso_4217_name === currencyCode)
 export let getLangugageCodes = () => LanguageCodes.filter(languageCode => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
 
 export let getDefaultCurrency = (userCountryCode) => {
