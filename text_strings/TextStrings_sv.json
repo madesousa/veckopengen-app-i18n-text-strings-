@@ -735,5 +735,6 @@
     "add_child_age_headline":"Hur gammal är %1$d?",
     "sign_up_child_age_headline":"När är du född?",
     "sign_up_child_age_hint":"Det betyder att du är",
-    "sign_up_human_picture_headline":"Hur ser du ut ??"
+    "sign_up_human_picture_headline":"Hur ser du ut?",
+    "add_child_picture_headline":"Hur ser %1$d ut?"
 }
