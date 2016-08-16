@@ -25,7 +25,7 @@ export let getTextStrings = lang => {
 }
 
 export let getCountries = (countries) => CountryCodes
-
+export let getCountry = (countryCode) => CountryCodes.find(country => country.code === countryCode)
 export let getPhoneNumberPrefix = countryCode => parseInt(countryCodes2PhoneNumberPrefixes[countryCode.toUpperCase()])
 export let getCountryCodeFromLocale = locale => locale.slice(-2)
 export let getCurrencies = () => Currencies.filter(currency => supportedCurrencies.indexOf(currency.fields.iso_4217_name) !== -1)
