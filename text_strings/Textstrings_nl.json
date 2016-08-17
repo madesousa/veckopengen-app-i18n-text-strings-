@@ -741,6 +741,7 @@
     "add_child_allowance_intrest_text_monthly":"Med 500 kr i spargrisen blir sparbonusen <boldGreen>%1$d kr</boldGreen> i slutet av månaden",
     "add_child_allowance_intrest_headline":"Vill du ge %1$d en sparränta?",
     "add_child_allowance_intrest_under_headline":"Vanligaste räntan just nu är %1$d%",
-    "common_pluralize_name_ending":"s"
+    "common_pluralize_name_ending":"s",
+    "child_settings_age_year":"%1$d år"
 
 }
