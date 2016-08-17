@@ -702,7 +702,7 @@
     "parent_settings_locale_time":"Tidszon",
     "child_settings_locale_currency":"Valuta",
     "child_settings_age":"Ålder",
-    "child_settings_connections":"Mina ihopkopplingar",
+    "child_settings_connections":"%1$d ihopkopplingar",
     "childs_settings_headline_money":"%1$d pengar",
     "child_settings_allowance_weekly_on":"%1$d kr på %2$d",
     "child_settings_allowance_monthly_on":"%1$d kr den %2$d%3$d",
@@ -742,6 +742,7 @@
     "add_child_allowance_intrest_text_weekly":"Med 100 kr i spargrisen blir sparbonusen <boldGreen>%1$d kr</boldGreen> i slutet av veckan",
     "add_child_allowance_intrest_text_monthly":"Med 500 kr i spargrisen blir sparbonusen <boldGreen>%1$d kr</boldGreen> i slutet av månaden",
     "add_child_allowance_intrest_headline":"Vill du ge %1$d en sparränta?",
-    "add_child_allowance_intrest_under_headline":"Vanligaste räntan just nu är %1$d%"
+    "add_child_allowance_intrest_under_headline":"Vanligaste räntan just nu är %1$d%",
+    "common_pluralize_name_ending":"s"
 
 }
