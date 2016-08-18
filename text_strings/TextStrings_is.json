@@ -744,6 +744,10 @@
     "add_child_allowance_intrest_headline":"Vill du ge %1$d en sparränta?",
     "add_child_allowance_intrest_under_headline":"Vanligaste räntan just nu är %1$d%",
     "common_pluralize_name_ending":"s",
-    "child_settings_age_year":"%1$d år"
+    "child_settings_age_year":"%1$d år",
+    "social_media_share_facebook":"Dela via Facebook",
+    "social_media_share_twitter":"Dela via Twitter",
+    "social_media_share_email":"Dela via E-post",
+    "social_media_share_message":"Dela via Meddelande"
 
 }
