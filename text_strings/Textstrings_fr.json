@@ -771,6 +771,10 @@
     "vp_help_page_title_9" : "Help header 9",
     "vp_help_page_content_9" :"Help content 9",
     "vp_help_page_title_10" :"Help header 10",
-    "vp_help_page_content_10" :"Help content 10"
+    "vp_help_page_content_10" :"Help content 10",
+    "invite_headline":"Välj hur du vill bjuda in eller koppla ihop dig med en familjemedlem.",
+    "invite_with_camera":"Via kamera",
+    "invite_with_email":"Via epost",
+    "invite_with_sms":"Via sms"
 
 }
