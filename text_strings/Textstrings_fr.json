@@ -775,6 +775,7 @@
     "invite_headline":"Välj hur du vill bjuda in eller koppla ihop dig med en familjemedlem.",
     "invite_with_camera":"Via kamera",
     "invite_with_email":"Via epost",
-    "invite_with_sms":"Via sms"
+    "invite_with_sms":"Via sms",
+    "edit_child_interest":"Vill du ändra %1$d sparränta?"
 
 }
