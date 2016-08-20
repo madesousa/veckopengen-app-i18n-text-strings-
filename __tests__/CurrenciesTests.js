@@ -1,10 +1,13 @@
 import {getDefaultCurrency, getCurrencies, getCurrency} from "../index"
+import DefaultCurrencies from "../DefaultCurrencies"
+import ExchangeRates from "../ExchangeRates"
+
 jest.disableAutomock()
 
 describe("TextStrings", () => {
 	it("it should return Currencies",() => {
 		expect(getCurrencies()).not.toEqual(undefined)
-		expect(getCurrencies().length).toEqual(6)
+		expect(getCurrencies().length).toEqual(25)
 	})
 
 	it("should be able to get currency", () => {
@@ -21,7 +24,15 @@ describe("TextStrings", () => {
 	})
 
 	it("it should return default currency", () => {
-		expect(getDefaultCurrency()).toEqual(43) //EUR
+		expect(getDefaultCurrency("FI")).toEqual(43) //EUR
 		expect(getDefaultCurrency("SE")).toEqual(121) //SEK
+		expect(getDefaultCurrency("BE")).toEqual(43) //EUR
+		expect(getDefaultCurrency()).toEqual(43) //EUR
+	})
+
+	Object.keys(DefaultCurrencies).forEach(key => {
+		it(`Should be an exchange rate for ${key} (entry found in default currencies)`, () => {
+				expect(ExchangeRates[DefaultCurrencies[key]]).toBeDefined()
+		})
 	})
 })
