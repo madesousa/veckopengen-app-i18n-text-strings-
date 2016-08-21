@@ -1,5 +1,5 @@
 export default {
-  increment : 0.5,
+  incrementInterval : 0.5,
   cheeseburgerValue : 0.5,
   spotifyValue : 10,
   barcelonaValue : 70,

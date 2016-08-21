@@ -1,4 +1,4 @@
-import {getDefaultCurrency, getCurrencies, getCurrency} from "../index"
+import {getDefaultCurrencyId, getCurrencies, getCurrency} from "../index"
 import DefaultCurrencies from "../DefaultCurrencies"
 import ExchangeRates from "../ExchangeRates"
 
@@ -24,10 +24,10 @@ describe("TextStrings", () => {
 	})
 
 	it("it should return default currency", () => {
-		expect(getDefaultCurrency("FI")).toEqual(43) //EUR
-		expect(getDefaultCurrency("SE")).toEqual(121) //SEK
-		expect(getDefaultCurrency("BE")).toEqual(43) //EUR
-		expect(getDefaultCurrency()).toEqual(43) //EUR
+		expect(getDefaultCurrencyId("FI")).toEqual(43) //EUR
+		expect(getDefaultCurrencyId("SE")).toEqual(121) //SEK
+		expect(getDefaultCurrencyId("BE")).toEqual(43) //EUR
+		expect(getDefaultCurrencyId()).toEqual(43) //EUR
 	})
 
 	Object.keys(DefaultCurrencies).forEach(key => {

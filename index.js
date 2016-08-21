@@ -40,7 +40,11 @@ export let getConfig
 export let getDefaultCurrency = (userCountryCode : string) => {
 	var currency = getCurrency(DefaultCurrencies[userCountryCode])
 
-	if(currency)
-		return currency.fields.model_id
-	return getCurrency("EUR").fields.model_id
+	if (currency)
+		return currency.fields
+	return getCurrency("EUR").fields
+}
+
+export let getDefaultCurrencyId = (userCountryCode : string) => {
+	return getDefaultCurrency(userCountryCode).model_id
 }
