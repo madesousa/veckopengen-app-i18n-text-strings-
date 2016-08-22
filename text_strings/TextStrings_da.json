@@ -780,5 +780,6 @@
     "add_child_task_info_text_bad":"Du har valt <boldRed>%1$d %2$d</boldRed> och %3$d kommer inte att lära sig ta ansvar och att ett bra beteende belönas.",
     "add_child_task_one":"uppgift",
     "add_child_task_multi":"uppgifter",
-    "add_child_task_first":"Lägg till en första uppgift!"
+    "add_child_task_first":"Lägg till en första uppgift!",
+    "add_child_first_tasks_headline":"Vilka är %1$d första uppgifter?"
 }
