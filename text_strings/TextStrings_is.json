@@ -775,6 +775,12 @@
     "invite_with_camera":"Via kamera",
     "invite_with_email":"Via epost",
     "invite_with_sms":"Via sms",
-    "edit_child_interest":"Vill du ändra %1$d sparränta?"
+    "edit_child_interest":"Vill du ändra %1$d sparränta?",
+    "add_child_tasks_info_headline":"Bra gjort!",
+    "add_child_task_info_text_good":"Du har valt <boldGreen>%1$d %2$d</boldGreen> och %3$d kommer att lära sig ta ansvar och att ett bra beteende belönas.",
+    "add_child_task_info_text_bad":"Du har valt <boldRed>%1$d %2$d</boldRed> och %3$d kommer inte att lära sig ta ansvar och att ett bra beteende belönas.",
+    "add_child_task_one":"uppgift",
+    "add_child_task_multi":"uppgifter",
+    "add_child_task_first":"Lägg till en första uppgift!"
 
 }
