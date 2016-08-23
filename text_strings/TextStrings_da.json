@@ -793,6 +793,9 @@
     "show_more":"Visa mer",
     "sign_up_phone_headline":"Vad är ditt telefonnummer?",
     "forgot_automatic_text":"Ej utbetald veckopeng läggs automatiskt i %1$d spargris",
-    "forgot_save_text":"Ej utbetald veckopeng adderas till nästa vecka"
+    "forgot_save_text":"Ej utbetald veckopeng adderas till nästa vecka",
+    "bar_code_scanner_help_text":"Skanna koden från din förälders konto",
+    "top_list_suggestions":"Förslag från topplistan",
+    "sign_up_email'":"Vad är din e-post?"
 
 }
