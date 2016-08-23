@@ -790,5 +790,7 @@
     "feedback_headline":"Prata med oss!",
     "feedback_feeling_headline":"Hur känner du dig?",
     "feedback_status":"Status",
-    "feedback_send":"Skicka"
+    "feedback_send":"Skicka",
+    "signin_instructions_email":"Ange din e-post",
+    "signin_code_sent_email":"Ange koden vi skickat i ett email"
 }

@@ -779,6 +779,8 @@
     "created_child_allowance_weekly":"%1$c på %2$d",
     "plural_weekdays_ending":"ar",
     "created_child_active_tasks":"%1$d aktiva",
-    "invite_and_connect":"Bjud in och koppla ihop"
+    "invite_and_connect":"Bjud in och koppla ihop",
+    "signin_instructions_email":"Ange din e-post",
+    "signin_code_sent_email":"Ange koden vi skickat i ett email"
 
 }
