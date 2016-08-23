@@ -780,5 +780,11 @@
     "overview_connect_family":"Koppla ihop med familjemedlem",
     "qr_code_hint_text":"Skanna den här koden från ditt barns konto så kopplas ni automatiskt ihop!",
     "add_child_autosave_save":"Autospara",
-    "add_child_autosave_next":"Nästa vecka"
+    "add_child_autosave_next":"Nästa vecka",
+    "help":"hjälp",
+    "trustly_failed_headline":"Något gick fel",
+    "show_more":"Visa mer",
+    "sign_up_phone_headline":"Vad är ditt telefonnummer?",
+    "forgot_automatic_text":"Ej utbetald veckopeng läggs automatiskt i %1$d spargris",
+    "forgot_save_text":"Ej utbetald veckopeng adderas till nästa vecka"
 }
