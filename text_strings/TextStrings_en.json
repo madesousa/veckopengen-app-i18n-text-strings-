@@ -773,5 +773,6 @@
     "created_child_allowance_weekly":"%1$c på %2$d",
     "plural_weekdays_ending":"ar",
     "created_child_active_tasks":"%1$d aktiva",
-    "invite_and_connect":"Bjud in och koppla ihop"
+    "invite_and_connect":"Bjud in och koppla ihop",
+    "popover_payout_today_allowance_has_been_payed_out" : "Jag har fått min veckopeng!"
 }

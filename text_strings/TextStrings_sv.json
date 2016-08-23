@@ -790,5 +790,6 @@
     "feedback_headline":"Prata med oss!",
     "feedback_feeling_headline":"Hur känner du dig?",
     "feedback_status":"Status",
-    "feedback_send":"Skicka"
+    "feedback_send":"Skicka",
+    "popover_payout_today_allowance_has_been_payed_out" : "Jag har fått min veckopeng!"
 }
