@@ -782,6 +782,9 @@
     "created_child_active_tasks":"%1$d aktiva",
     "invite_and_connect":"Bjud in och koppla ihop",
     "signin_instructions_email":"Ange din e-post",
-    "signin_code_sent_email":"Ange koden vi skickat i ett email"
+    "signin_code_sent_email":"Ange koden vi skickat i ett email",
+    "add_child_allowance_amount_headline":"Hur mycket ska %1$d få?",
+    "overview_create_child":"Skapa ditt första barn",
+    "overview_connect_family":"Koppla ihop med familjemedlem"
 
 }

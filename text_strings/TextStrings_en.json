@@ -455,7 +455,7 @@
     "child_dashboard_my_kids_money" : "%1$d money",
     "trans_transfer_allowance_to_savings_account" : "%1$s was transfered to the piggy bank",
     "overview_child_item_not_connected_text" : "Don't forget to connect",
-    "dashboard_title_transactions":"The familys transactions",
+    "dashboard_title_transactions":"The family transactions",
     "no_cost_trustly":"and no, it costs nothing",
     "trustly_read_more":"Read more",
     "trustly_add_account":"Add bank account",
@@ -775,5 +775,8 @@
     "created_child_active_tasks":"%1$d aktiva",
     "invite_and_connect":"Bjud in och koppla ihop",
     "signin_instructions_email":"Ange din e-post",
-    "signin_code_sent_email":"Ange koden vi skickat i ett email"
+    "signin_code_sent_email":"Ange koden vi skickat i ett email",
+    "add_child_allowance_amount_headline":"Hur mycket ska %1$d få?",
+    "overview_create_child":"Create your first child",
+    "overview_connect_family":"Connect with a family memeber"
 }
