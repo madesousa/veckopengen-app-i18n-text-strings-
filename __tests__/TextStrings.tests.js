@@ -1,4 +1,5 @@
 import {getTextStrings} from "../index"
+import TextStrings_default from "../text_strings/TextStrings_default.json"
 jest.disableAutomock()
 
 var langs = ["da","fi","is","sv","nb","nn", "en", "fr", "nl"]
@@ -21,5 +22,9 @@ describe("TextStrings", () => {
 
 	it("all textstrings should have a equivalent string in all other languages", () => {
 		langs.forEach(lang1 => langs.forEach(lang2 => compareKeys(lang1, lang2)))
+	})
+
+	it("all languages should have a default textStrings", () => {
+		langs.forEach(lang => compareKeys("default", lang))
 	})
 })

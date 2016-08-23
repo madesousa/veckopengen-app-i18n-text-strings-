@@ -1,7 +1,7 @@
 {
-    "data" : "%1$mb",
-    "mb" : "%d MB",
-    "gb" : "%d GB",
+
+
+
     "data_remaining" : "tilbage i denne %1$s.",
     "data_overused" : "overforbrug",
     "child_dashboard_event_list_show_week_report": "Vis ugerapport",
@@ -10,8 +10,8 @@
     "child_weekly_report_header": "Din ugerapport",
     "child_yearly_report_header": "Årsrapport %1$d",
     "age": "%1$d år",
-    "currency": "%1$c",
-    "proportion": "%1$d/%2$d",
+
+
     "week": "uge",
     "the_week": "ugen",
     "month": "måned",
@@ -23,7 +23,7 @@
     "your": "din",
     "its": "sin",
     "save": "Gemme",
-    "percent_suffix": "%",
+
     "n_days": "%1$d dage",
     "tomorrow": "i morgen",
     "tomorrow_during": "i løbet af i morgen",
@@ -708,17 +708,7 @@
     "child_settings_interest_rate":"Sparränta",
     "percentage_rate":"%1$d %",
     "child_settings_autosave_allowance":"Autospara ej utbetald %1$d",
-    "feedback_happy":"Glad",
-    "feedback_thankful":"Tacksam",
-    "feedback_nice":"Snäll",
-    "feedback_mad":"Arg",
-    "feedback_irritable":"Irriterad",
-    "feedback_sad":"Ledsen",
-    "feedback_frustrated":"Frustrerad",
     "feedback_headline":"Prata med oss!",
-    "feedback_feeling_headline":"Hur känner du dig?",
-    "feedback_status":"Status",
-    "feedback_send":"skicka",
     "tabbar_home":"Mina barn",
     "tabbar_trans":"Transaktioner",
     "tabbar_premium":"Powers",

@@ -1,7 +1,7 @@
 {
-    "data" : "%1$mb",
-    "mb" : "%d MB",
-    "gb" : "%d GB",
+
+
+
     "data_remaining" : "kvar denna %1$s.",
     "data_overused" : "överanvändning",
     "child_dashboard_event_list_show_week_report": "Visa veckorapport",
@@ -10,8 +10,8 @@
     "child_weekly_report_header": "Din veckorapport",
     "child_yearly_report_header": "Årsrapport %1$d",
     "age": "%1$d år",
-    "currency": "%1$c",
-    "proportion": "%1$d/%2$d",
+
+
     "week": "vecka",
     "the_week": "veckan",
     "month": "månad",
@@ -23,7 +23,7 @@
     "your": "din",
     "its": "sin",
     "save": "Spara",
-    "percent_suffix": "%",
+
     "n_days": "%1$d dagar",
     "tomorrow": "imorgon",
     "tomorrow_during": "under morgondagen",
@@ -709,17 +709,7 @@
     "child_settings_interest_rate":"Sparränta",
     "percentage_rate":"%1$d %",
     "child_settings_autosave_allowance":"Autospara ej utbetald %1$d",
-    "feedback_happy":"Glad",
-    "feedback_thankful":"Tacksam",
-    "feedback_nice":"Snäll",
-    "feedback_mad":"Arg",
-    "feedback_irritable":"Irriterad",
-    "feedback_sad":"Ledsen",
-    "feedback_frustrated":"Frustrerad",
     "feedback_headline":"Prata med oss!",
-    "feedback_feeling_headline":"Hur känner du dig?",
-    "feedback_status":"Status",
-    "feedback_send":"skicka",
     "tabbar_home":"Mina barn",
     "tabbar_trans":"Transaktioner",
     "tabbar_premium":"Powers",
@@ -789,6 +779,16 @@
     "created_child_allowance_weekly":"%1$c på %2$d",
     "plural_weekdays_ending":"ar",
     "created_child_active_tasks":"%1$d aktiva",
-    "invite_and_connect":"Bjud in och koppla ihop"
-
+    "invite_and_connect":"Bjud in och koppla ihop",
+    "feedback_happy":"Glad",
+    "feedback_thankful":"Tacksam",
+    "feedback_nice":"Snäll",
+    "feedback_mad":"Arg",
+    "feedback_irritable":"Irriterad",
+    "feedback_sad":"Ledsen",
+    "feedback_frustrated":"Frustrerad",
+    "feedback_headline":"Prata med oss!",
+    "feedback_feeling_headline":"Hur känner du dig?",
+    "feedback_status":"Status",
+    "feedback_send":"Skicka"
 }

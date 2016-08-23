@@ -5,6 +5,7 @@ import TextStrings_is from "./text_strings/TextStrings_is.json"
 import TextStrings_sv from "./text_strings/TextStrings_sv.json"
 import TextStrings_no from "./text_strings/TextStrings_no.json"
 import TextStrings_en from "./text_strings/TextStrings_en.json"
+import TextStrings_default from "./text_strings/TextStrings_default.json"
 
 import CountryCodes from "./CountryCodes.json"
 import Currencies from "./Currencies.json"
@@ -16,14 +17,15 @@ var supportedCurrencies = Object.values(DefaultCurrencies)
 
 export let getTextStrings = (lang : string) => {
 	switch (lang.substring(0, 2)) {
-		case "da" : return TextStrings_da
-		case "fi" : return TextStrings_fi
-		case "is" : return TextStrings_is
-		case "sv" : return TextStrings_sv
-		case "nb" : return TextStrings_no
-		case "nn" : return TextStrings_no
-		case "en" : return TextStrings_en
-		default : return TextStrings_sv
+		case "da" : return {...TextStrings_default, ...TextStrings_da}
+		case "fi" : return {...TextStrings_default, ...TextStrings_fi}
+		case "is" : return {...TextStrings_default, ...TextStrings_is}
+		case "nb" : return {...TextStrings_default, ...TextStrings_no}
+		case "nn" : return {...TextStrings_default, ...TextStrings_no}
+		case "en" : return {...TextStrings_default, ...TextStrings_en}
+		case "default" : return TextStrings_default //used in tests
+		case "sv" :
+		default : return {...TextStrings_default, ...TextStrings_sv}
 	}
 }
 

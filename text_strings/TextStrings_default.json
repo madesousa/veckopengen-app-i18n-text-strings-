@@ -5,7 +5,6 @@
     "currency": "%1$c",
     "proportion": "%1$d/%2$d",
     "percent_suffix": "%",
-    "feedback_header" : "Leave Feedback",
     "feedback_happy":"Glad",
     "feedback_thankful":"Tacksam",
     "feedback_nice":"Snäll",
@@ -16,5 +15,5 @@
     "feedback_headline":"Prata med oss!",
     "feedback_feeling_headline":"Hur känner du dig?",
     "feedback_status":"Status",
-    "feedback_send":"skicka"
+    "feedback_send":"Skicka"
 }
