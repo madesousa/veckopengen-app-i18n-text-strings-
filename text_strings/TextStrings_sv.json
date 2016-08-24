@@ -809,5 +809,6 @@
     "top_list_suggestions":"Förslag från topplistan",
     "sign_up_email":"Vad är din e-post?",
     "feedback_send":"Skicka",
-    "popover_payout_today_allowance_has_been_payed_out" : "Jag har fått min veckopeng!"
+    "popover_payout_today_allowance_has_been_payed_out" : "Jag har fått min veckopeng!",
+    "transactions_no_expenses" : "Inga utlägg än :)!"
 }

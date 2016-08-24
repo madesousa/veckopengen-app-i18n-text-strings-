@@ -791,5 +791,6 @@
     "bar_code_scanner_help_text":"Skanna koden från din förälders konto",
     "top_list_suggestions":"Förslag från topplistan",
     "sign_up_email":"Vad är din e-post?",
-    "popover_payout_today_allowance_has_been_payed_out" : "Jag har fått min veckopeng!"
+    "popover_payout_today_allowance_has_been_payed_out" : "Jag har fått min veckopeng!",
+    "transactions_no_expenses" : "No expenses yet :)!"
 }
