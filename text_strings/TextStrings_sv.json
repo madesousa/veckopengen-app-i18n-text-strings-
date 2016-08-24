@@ -812,5 +812,7 @@
     "popover_payout_today_allowance_has_been_payed_out" : "Jag har fått min veckopeng!",
     "transactions_no_expenses" : "Inga utlägg än :)!",
     "push_withdrawal_child": "{parent} drog {amount} {currency} från spargrisen",
-    "push_withdrawal_parent": "{parent} drog {amount} {currency} från {child}s spargris"
+    "push_withdrawal_parent": "{parent} drog {amount} {currency} från {child}s spargris",
+    "edit_child_email":"Vad är %1$d email?",
+    "edit_child_phone":"Vad är %1$d mobilnummer?"
 }
