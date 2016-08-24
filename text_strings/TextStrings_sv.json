@@ -816,5 +816,6 @@
     "edit_child_email":"Vad är %1$d email?",
     "edit_child_phone":"Vad är %1$d mobilnummer?",
     "user_terms_link":"http://veckopengen.se/villkor/",
-    "about_us_link":"http://veckopengen.se/om-oss/"
+    "about_us_link":"http://veckopengen.se/om-oss/",
+    "faq_link_string":"http://veckopengen.se/faq/"
 }
