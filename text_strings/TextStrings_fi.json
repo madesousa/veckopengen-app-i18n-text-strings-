@@ -791,5 +791,7 @@
     "sign_up_email":"Vad är din e-post?",
     "invite_and_connect":"Bjud in och koppla ihop",
     "popover_payout_today_allowance_has_been_payed_out" : "Jag har fått min veckopeng!",
-    "transactions_no_expenses" : "Inga utlägg än :)!"
+    "transactions_no_expenses" : "Inga utlägg än :)!",
+    "push_withdrawal_child": "{parent} drog {amount} {currency} från spargrisen",
+    "push_withdrawal_parent": "{parent} drog {amount} {currency} från {child}s spargris"
 }
