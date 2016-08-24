@@ -796,5 +796,7 @@
     "push_withdrawal_child": "{parent} drog {amount} {currency} från spargrisen",
     "push_withdrawal_parent": "{parent} drog {amount} {currency} från {child}s spargris",
     "edit_child_email":"Vad är %1$d email?",
-    "edit_child_phone":"Vad är %1$d mobilnummer?"
+    "edit_child_phone":"Vad är %1$d mobilnummer?",
+    "user_terms_link":"http://gimitheapp.com/terms/",
+    "about_us_link":"http://gimitheapp.com/about-us/"
 }
