@@ -821,5 +821,7 @@
     "connect_to_parent_not_logged_in_email_header" : "Har du fått ett email?",
     "connect_to_parent_not_logged_in_email_text" : "Gå till mailet och tryck på länken för att bli ihopkopplad med din familjemedlem",
     "connect_to_parent_not_logged_in_sms_header" : "Har du fått ett sms?",
-    "connect_to_parent_not_logged_in_sms_text" : "Gå till sms:et och tryck på länken för att bli ihopkopplad med din familjemedlem"
+    "connect_to_parent_not_logged_in_sms_text" : "Gå till sms:et och tryck på länken för att bli ihopkopplad med din familjemedlem",
+    "connect_email_header" : "Bjud in med ett mail",
+    "connect_sms_header" : "Bjud in med ett sms"
 }
