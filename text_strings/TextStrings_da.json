@@ -784,7 +784,7 @@
     "signin_code_sent_email":"Ange koden vi skickat i ett email",
     "overview_create_child":"Skapa ditt första barn",
     "overview_connect_family":"Koppla ihop med familjemedlem",
-    "qr_code_hint_text":"Skanna den här koden från ditt barns konto så kopplas ni automatiskt ihop!",
+    "qr_code_hint_text":"När koden scannas av ditt barn kopplas ni ihop! Barnet når Koppla ihop med familjemedlem direkt från startsidan",
     "add_child_autosave_save":"Autospara",
     "add_child_autosave_next":"Nästa vecka",
     "help":"hjälp",
