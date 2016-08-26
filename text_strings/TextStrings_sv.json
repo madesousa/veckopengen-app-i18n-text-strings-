@@ -827,5 +827,6 @@
     "popover_payout_today_allowance_has_been_payed_out_parent" : "Jag har betalat på annat sätt",
     "withdraw_from_transactional_account_popover_header" : "Ange summa att dra från veckopengen",
     "expense_popover_description_parent" : "Hur mycket pengar har betalats ut?",
-    "add_child_allowance_text":"Hur ofta ska %1$d få pengar?"
+    "add_child_allowance_text":"Hur ofta ska %1$d få pengar?",
+    "what_to_do_with_money" : "Vad vill du göra med pengarna?"
 }

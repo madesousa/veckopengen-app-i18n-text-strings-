@@ -797,7 +797,6 @@
     "top_list_suggestions":"Förslag från topplistan",
     "sign_up_email":"Vad är din e-post?",
     "invite_and_connect":"Bjud in och koppla ihop",
-
     "transactions_no_expenses" : "Inga utlägg än :)!",
     "push_withdrawal_child": "{parent} drog {amount} {currency} från spargrisen",
     "push_withdrawal_parent": "{parent} drog {amount} {currency} från {child}s spargris",
@@ -816,5 +815,6 @@
     "popover_payout_today_allowance_has_been_payed_out_parent" : "Jag har betalat på annat sätt",
     "withdraw_from_transactional_account_popover_header" : "Ange summa att dra från %1$s",
     "expense_popover_description_parent" : "Hur mycket pengar har betalats ut?",
-    "add_child_allowance_text":"Hur ofta ska %1$d få pengar?"
+    "add_child_allowance_text":"Hur ofta ska %1$d få pengar?",
+    "what_to_do_with_money" : "Vad vill du göra med pengarna?"
 }
