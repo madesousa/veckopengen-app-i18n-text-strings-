@@ -814,5 +814,5 @@
     "popover_payout_today_allowance_has_been_payed_out_child" : "Jeg har fått mine %1$s!",
     "popover_payout_today_allowance_has_been_payed_out_parent" : "Jag har betalat på annat sätt",
     "withdraw_from_transactional_account_popover_header" : "Ange summa att dra från veckopengen",
-    "expense_popover_description_parent" : "Hur mycket pengar har betlats ut?"
+    "expense_popover_description_parent" : "Hur mycket pengar har betalats ut?"
 }
