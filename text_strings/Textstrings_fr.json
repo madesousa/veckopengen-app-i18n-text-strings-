@@ -798,7 +798,7 @@
     "top_list_suggestions":"Förslag från topplistan",
     "sign_up_email":"Vad är din e-post?",
     "invite_and_connect":"Bjud in och koppla ihop",
-    "popover_payout_today_allowance_has_been_payed_out" : "Jag har fått min veckopeng!",
+
     "transactions_no_expenses" : "Inga utlägg än :)!",
     "push_withdrawal_child": "{parent} drog {amount} {currency} från spargrisen",
     "push_withdrawal_parent": "{parent} drog {amount} {currency} från {child}s spargris",
@@ -812,6 +812,10 @@
     "connect_to_parent_not_logged_in_sms_header" : "Har du fått ett sms?",
     "connect_to_parent_not_logged_in_sms_text" : "Gå till sms:et och tryck på länken för att bli ihopkopplad med din familjemedlem",
     "connect_email_header" : "Bjud in med ett mail",
-    "connect_sms_header" : "Bjud in med ett sms"
+    "connect_sms_header" : "Bjud in med ett sms",
+    "popover_payout_today_allowance_has_been_payed_out_child" : "Jag har fått %1$s!",
+    "popover_payout_today_allowance_has_been_payed_out_parent" : "Jag har betalat på annat sätt",
+    "withdraw_from_transactional_account_popover_header" : "Ange summa att dra från veckopengen",
+    "expense_popover_description_parent" : "Hur mycket pengar har betlats ut?"
 
 }
