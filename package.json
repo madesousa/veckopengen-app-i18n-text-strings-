@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Barnpengar/veckopengen-app-i18n#readme",
   "devDependencies": {
-    "jest-cli": "14.0.0"
+    "jest-cli": "14.1.0"
   }
 }
