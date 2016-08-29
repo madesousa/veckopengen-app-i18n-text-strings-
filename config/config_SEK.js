@@ -9,5 +9,6 @@ export default {
   defaultAssignmentValue : 5,
   numberInputMax : 9999,
   numberInputMin : -9999,
-  animationValueMultiplier : 1
+  animationValueMultiplier : 1,
+  numberOfDecimals : 0
 }
