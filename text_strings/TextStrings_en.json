@@ -811,5 +811,7 @@
     "withdraw_from_transactional_account_popover_header" : "Enter the amount to withdraw from the allowance",
     "expense_popover_description_parent" : "How much money have been paid out?",
     "add_child_allowance_text":"How often should %1$d get money?",
-    "what_to_do_with_money" : "What do you wish to do with the money?"
+    "what_to_do_with_money" : "What do you wish to do with the money?",
+    "parent_settings_general":"Generellt",
+    "parent_settings_about_app":"Om appen"
 }

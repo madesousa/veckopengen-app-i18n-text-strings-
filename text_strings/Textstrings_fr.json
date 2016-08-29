@@ -314,7 +314,7 @@
     "transfer_to_savings_parent_instructions": "Du kan överföra upp till <boldGreen>%1$c</boldGreen>",
     "transfer_server_error_title": "Överföringen misslyckades",
     "transfer_server_error_text": "Överföringen kunde inte genomföras på grund av ett oväntat fel. Kontrollera din anslutning och försök igen.",
-    "child_settings_title": "Inställningar",
+    "child_settings_title": "%1$d Inställningar",
     "child_settings_nav_edit_allowance": "Ändra %1$s",
     "child_settings_nav_edit_interest": "Ändra sparränta",
     "child_settings_nav_add_parent": "Koppla in en till förälder",
@@ -818,6 +818,8 @@
     "withdraw_from_transactional_account_popover_header" : "Ange summa att dra från veckopengen",
     "expense_popover_description_parent" : "Hur mycket pengar har betalats ut?",
     "add_child_allowance_text":"Hur ofta ska %1$d få pengar?",
-    "what_to_do_with_money" : "Vad vill du göra med pengarna?"
+    "what_to_do_with_money" : "Vad vill du göra med pengarna?",
+    "parent_settings_general":"Generellt",
+    "parent_settings_about_app":"Om appen"
 
 }
