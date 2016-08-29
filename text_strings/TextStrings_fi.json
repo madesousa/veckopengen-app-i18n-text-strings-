@@ -814,5 +814,6 @@
     "parent_settings_general":"Generellt",
     "parent_settings_about_app":"Om appen",
     "main_website_link":"http://gimitheapp.com/",
-    "push_goal_created": "{human} har skapat sparmålet {goal}."
+    "push_goal_created": "{human} har skapat sparmålet {goal}.",
+    "push_timed_assignment_rejected": "Tyvärr, du han inte med {task}."
 }
