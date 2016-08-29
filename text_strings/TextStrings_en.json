@@ -813,5 +813,6 @@
     "add_child_allowance_text":"How often should %1$d get money?",
     "what_to_do_with_money" : "What do you wish to do with the money?",
     "parent_settings_general":"Generellt",
-    "parent_settings_about_app":"Om appen"
+    "parent_settings_about_app":"Om appen",
+    "main_website_link":"http://gimitheapp.com/"
 }

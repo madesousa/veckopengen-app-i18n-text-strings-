@@ -817,6 +817,7 @@
     "add_child_allowance_text":"Hur ofta ska %1$d få pengar?",
     "what_to_do_with_money" : "Vad vill du göra med pengarna?",
     "parent_settings_general":"Generellt",
-    "parent_settings_about_app":"Om appen"
+    "parent_settings_about_app":"Om appen",
+    "main_website_link":"http://gimitheapp.com/"
 
 }
