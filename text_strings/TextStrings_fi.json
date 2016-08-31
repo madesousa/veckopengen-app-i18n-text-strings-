@@ -659,6 +659,8 @@
     "transactions_help_page_content_13" : "transactions_help_page_content_13",
     "weekly_allowance_pre_payout_notification": "Tänään on viikkorahapäivä!",
     "monthly_allowance_pre_payout_notification": "Tänään on kuukausirahapäivä!",
+    "weekly_allowance_parent_pre_payout_notification": "Dags för {child}s veckopeng!",
+    "monthly_allowance_parent_pre_payout_notification": "Dags för {child}s månadspeng!",
     "trustly_charge_over_limit_email_subject": "Tärkeä tiedote maksusta.",
     "trustly_charge_failed_email_subject": "Ilmoitus maksun epäonnistumisesta.",
     "trustly_payout_failed_email_subject": "Ilmoitus maksun epäonnistumisesta ja palautuksesta.",

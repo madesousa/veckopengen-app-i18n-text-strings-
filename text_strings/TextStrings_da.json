@@ -665,6 +665,8 @@
     "transactions_help_page_content_13" : "transactions_help_page_content_13",
     "weekly_allowance_pre_payout_notification": "I dag er der ugepenge!",
     "monthly_allowance_pre_payout_notification": "I dag er der månedspenge!",
+    "weekly_allowance_parent_pre_payout_notification": "Dags för {child}s veckopeng!",
+    "monthly_allowance_parent_pre_payout_notification": "Dags för {child}s månadspeng!",
     "trustly_charge_over_limit_email_subject": "Vigtig meddelelse om udbetaling.",
     "trustly_charge_failed_email_subject": "Meddelelse om mislykket udbetaling.",
     "trustly_payout_failed_email_subject": "Meddelelse om mislykket udbetaling og refundering.",

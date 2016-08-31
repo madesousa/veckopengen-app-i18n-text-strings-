@@ -666,6 +666,8 @@
     "transactions_help_page_content_13" :"Nej, så snart en överföring har påbörjats, vilket sker dagen innan barnet ska få sin vecko- eller månadspeng, så kan du inte ångra överföringen. Däremot kan du välja att slå av automatiska överföringar när du vill vilket du gör under ditt barns inställningar under rubriken ”Bankkonton och överföringar”.",
     "weekly_allowance_pre_payout_notification": "Idag är det veckopeng!",
     "monthly_allowance_pre_payout_notification": "Idag är det månadspeng!",
+    "weekly_allowance_parent_pre_payout_notification": "Dags för {child}s veckopeng!",
+    "monthly_allowance_parent_pre_payout_notification": "Dags för {child}s månadspeng!",
     "trustly_charge_over_limit_email_subject": "Viktigt meddelande om utbetalning.",
     "trustly_charge_failed_email_subject": "Meddelande om misslyckad utbetalning.",
     "trustly_payout_failed_email_subject": "Meddelande om misslyckad utbetalning och refund.",
