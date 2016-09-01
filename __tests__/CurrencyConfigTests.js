@@ -13,7 +13,7 @@ describe("Config", () => {
 		supportedCurrencies.forEach((x) =>
 			supportedCurrencies.forEach(y =>
 				Object.keys(getCurrencyConfig(x)).forEach((xKey =>
-					Object.keys(getCurrencyConfig(y)).forEach((yKey => expect(getCurrencyConfig(x)[yKey]).toBeDefined(`Have you configured ${yKey} on currecy ${x}?`)))
+					Object.keys(getCurrencyConfig(y)).forEach((yKey => expect(getCurrencyConfig(x)[yKey]).not.toEqual(undefined, `Have you configured ${yKey} on currecy ${x}?`)))
 					))
 				)
 			)
