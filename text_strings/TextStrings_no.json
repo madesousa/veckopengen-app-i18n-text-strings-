@@ -819,15 +819,15 @@
     "expense_popover_description_parent" : "Hvor mye penger har blitt utbetalt?",
     "add_child_allowance_text":"Hvor ofte skal %1$d få penger?",
     "what_to_do_with_money" : "Hva vil du gjøre med pengene?",
-    "parent_settings_general":"Generellt",
+    "parent_settings_general":"Generelt",
     "parent_settings_about_app":"Om appen",
     "main_website_link":"http://no.gimitheapp.com/",
-    "push_goal_created": "{human} har skapat sparmålet {goal}.",
-    "push_timed_assignment_expired": "Tyvärr, du han inte med {task}.",
+    "push_goal_created": "{human} har opprettet sparemålet {goal}.",
+    "push_timed_assignment_expired": "Dessverre, du følgte ikke med {task}.",
     "gimi_startpage_slide1_text":"Togeather you can learn about pocket money and how to keep or spending it",
     "gimi_startpage_slide2_text":"Join thousands of families that will change the way we see money today",
     "gimi_startpage_slide3_text":"Give young people the financial freedom and responsibility they deserve",
     "general_yes":"Ja",
-    "general_no":"Nej",
-    "add_child_age_hint":"Det betyder att %1$d är"
+    "general_no":"Nei",
+    "add_child_age_hint":"Det betyr at %1$d er"
 }
