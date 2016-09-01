@@ -824,5 +824,7 @@
     "gimi_startpage_slide3_text":"Give young people the financial freedom and responsibility they deserve",
     "general_yes":"Yes",
     "general_no":"No",
-    "add_child_age_hint":"It means %1$d is"
+    "add_child_age_hint":"It means %1$d is",
+    "weekly_allowance_update_notification_text": "Har gått över till veckopeng.",
+    "monthly_allowance_update_notification_text": "Har gått över till månadspeng."
 }
