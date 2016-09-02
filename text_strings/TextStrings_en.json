@@ -704,7 +704,7 @@
     "child_settings_allowance_monthly_on":"%1$c the %2$d%3$d",
     "child_settings_interest_rate":"Interest rate",
     "percentage_rate":"%1$d %",
-    "child_settings_autosave_allowance":"Autosave %1$d that hasn't been given out",
+    "child_settings_autosave_allowance":"Autosave %1$d",
     "feedback_headline":"Talk to us about anything!",
     "tabbar_home":"My Children",
     "tabbar_trans":"Transactions",
