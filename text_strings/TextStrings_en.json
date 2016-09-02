@@ -451,7 +451,7 @@
     "profile_savings_goals": "Savings Goals",
     "profile_report": "Transactions",
     "overview_approve_assignment" : "Done with \"%1$d\"",
-    "overview_child_item_setup_text" : "Has not been completely created yet!",
+    "overview_child_item_setup_text" : "Set up profile!",
     "child_dashboard_my_kids_money" : "%1$d money",
     "trans_transfer_allowance_to_savings_account" : "%1$s was transfered to the piggy bank",
     "overview_child_item_not_connected_text" : "Don't forget to connect",
