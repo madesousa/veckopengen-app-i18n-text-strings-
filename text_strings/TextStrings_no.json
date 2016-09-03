@@ -830,6 +830,6 @@
     "general_yes":"Ja",
     "general_no":"Nei",
     "add_child_age_hint":"Det betyr at %1$d er",
-    "weekly_allowance_update_notification_text": "Har gått över till veckopeng.",
-    "monthly_allowance_update_notification_text": "Har gått över till månadspeng."
+    "weekly_allowance_update_notification_text": "Har gått over til ukepenger.",
+    "monthly_allowance_update_notification_text": "Har gått over til månedspenger."
 }
