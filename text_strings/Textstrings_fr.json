@@ -833,5 +833,15 @@
     "general_no":"Nej",
     "add_child_age_hint":"Det betyder att %1$d är",
     "weekly_allowance_update_notification_text": "Har gått över till veckopeng.",
-    "monthly_allowance_update_notification_text": "Har gått över till månadspeng."
+    "monthly_allowance_update_notification_text": "Har gått över till månadspeng.",
+    "data_tracking_assignment_threshold_1_parent": "{child} har surfat upp 50% utav totala surfmängden.",
+    "data_tracking_assignment_threshold_1_child": "Du har surfat upp 50% utav totala surfmängden!",
+    "data_tracking_assignment_threshold_2_parent": "{child} har surfat upp 75% utav totala surfmängden.",
+    "data_tracking_assignment_threshold_2_child": "Du har surfat upp 75% utav totala surfmängden!",
+    "data_tracking_assignment_threshold_3_parent": "{child} har surfat upp 90% utav totala surfmängden.",
+    "data_tracking_assignment_threshold_3_child": "Du har surfat upp 90% utav totala surfmängden!",
+    "data_tracking_assignment_threshold_4_parent": "{child} har surfat upp 100% utav totala surfmängden.",
+    "data_tracking_assignment_threshold_4_child": "Du har surfat upp 100% utav totala surfmängden!",
+    "data_tracking_assignment_complete_parent": "{child} har klarat sin surfpott uppgift.",
+    "data_tracking_assignment_complete_child": "Du har klarat din surfpott uppgift!"
 }
