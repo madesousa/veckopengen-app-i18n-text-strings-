@@ -715,7 +715,6 @@
     "user_terms_main":"TEXT AV PHILIP",
     "create_child_common_recurring_week":"For children under 11 years old \nis weekly allowance the most common.",
     "create_child_common_recurring_month":"For children over 11 years old \nis monthly allowance the most common.",
-    "error_message_email_in_use" : "The phonenumber you entered is already in use",
     "error_message_phone_no_in_use" : "The phonenumber you entered is already in use",
     "add_child_age_headline":"How old is %1$d?",
     "sign_up_child_age_headline":"When are you born?",
@@ -864,5 +863,6 @@
 
     "premum_slider_title_small_d":"Kom igång",
     "premum_slider_title_medium_d":"spara 34%",
-    "premum_slider_title_large_d":"Årspaketet"
+    "premum_slider_title_large_d":"Årspaketet",
+    "error_message_email_in_use" : "Stated email is already in use"
 }

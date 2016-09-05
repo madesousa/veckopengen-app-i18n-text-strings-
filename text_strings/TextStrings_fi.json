@@ -714,7 +714,6 @@
     "user_terms_main":"VIESTI PHILIPILTÄ",
     "create_child_common_recurring_week":"Alle 11-vuotiaille\nviikkoraha on yleisin.",
     "create_child_common_recurring_month":"Yli 11-vuotiaill\nkuukausiraha on yleisin.",
-    "error_message_email_in_use" : "Antamasi sähköpostiosoite on jo käytössä",
     "error_message_phone_no_in_use" : "Antamasi puhelinnumero on jo käytössä",
     "add_child_age_headline":"Kuinka vanha on %1$d?",
     "sign_up_child_age_headline":"Milloin olet syntynyt?",
@@ -863,5 +862,6 @@
 
     "premum_slider_title_small_d":"Kom igång",
     "premum_slider_title_medium_d":"spara 34%",
-    "premum_slider_title_large_d":"Årspaketet"
+    "premum_slider_title_large_d":"Årspaketet",
+    "error_message_email_in_use" : "Stated email is already in use"
 }

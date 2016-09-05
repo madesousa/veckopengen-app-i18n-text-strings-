@@ -720,7 +720,6 @@
     "user_terms_main":"TEKST AF PHILIP",
     "create_child_common_recurring_week":"For børn under 11 år er \n ugepenge mest almindeligt.",
     "create_child_common_recurring_month":"For børn over 11 år er \n månedspenge mest almindeligt.",
-    "error_message_email_in_use" : "Telefonnummeret, du har oplyst, er allerede i brug",
     "error_message_phone_no_in_use" : "Telefonnummeret, du har oplyst, er allerede i brug",
     "add_child_age_headline":"Hvor gammel er %1$d?",
     "sign_up_child_age_headline":"Hvornår er du født?",
@@ -869,5 +868,6 @@
 
     "premum_slider_title_small_d":"Kom igång",
     "premum_slider_title_medium_d":"spara 34%",
-    "premum_slider_title_large_d":"Årspaketet"
+    "premum_slider_title_large_d":"Årspaketet",
+    "error_message_email_in_use" : "Stated email is already in use"
 }

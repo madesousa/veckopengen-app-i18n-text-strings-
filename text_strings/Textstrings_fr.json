@@ -722,7 +722,6 @@
     "user_terms_main":"TEXT AV PHILIP",
     "create_child_common_recurring_week":"För barn under 11 år är\nveckopeng vanligast.",
     "create_child_common_recurring_month":"För barn över 11 år är\nmånadspeng vanligast.",
-    "error_message_email_in_use" : "Telefonnumret du angett används redan",
     "error_message_phone_no_in_use" : "Telefonnumret du angett används redan",
     "add_child_age_headline":"Hur gammal är %1$d?",
     "sign_up_child_age_headline":"När är du född?",
@@ -871,5 +870,6 @@
 
     "premum_slider_title_small_d":"Kom igång",
     "premum_slider_title_medium_d":"spara 34%",
-    "premum_slider_title_large_d":"Årspaketet"
+    "premum_slider_title_large_d":"Årspaketet",
+    "error_message_email_in_use" : "Stated email is already in use"
 }

@@ -721,7 +721,6 @@
     "user_terms_main":"TEKST AV PHILIP",
     "create_child_common_recurring_week":"For barn under 11 år er\nukepenger mest vanlig.",
     "create_child_common_recurring_month":"For barn over 11 år er\nmånedspenger mest vanlig.",
-    "error_message_email_in_use" : "Telefonnummeret du har angitt er allerede i bruk",
     "error_message_phone_no_in_use" : "Telefonnummeret du har angitt er allerede i bruk",
     "add_child_age_headline":"Hvor gammel er %1$d?",
     "sign_up_child_age_headline":"Når er du født?",
@@ -869,5 +868,6 @@
 
     "premum_slider_title_small_d":"Kom igång",
     "premum_slider_title_medium_d":"spara 34%",
-    "premum_slider_title_large_d":"Årspaketet"
+    "premum_slider_title_large_d":"Årspaketet",
+    "error_message_email_in_use" : "Emailen du har angitt er allerede i bruk",
 }
