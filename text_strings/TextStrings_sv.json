@@ -853,5 +853,15 @@
     "data_tracking_assignment_threshold_4_parent": "{child} har surfat upp 100% utav totala surfmängden.",
     "data_tracking_assignment_threshold_4_child": "Du har surfat upp 100% utav totala surfmängden!",
     "data_tracking_assignment_complete_parent": "{child} har klarat sin surfpott uppgift.",
-    "data_tracking_assignment_complete_child": "Du har klarat din surfpott uppgift!"
+    "data_tracking_assignment_complete_child": "Du har klarat din surfpott uppgift!",
+    "error_maintenance_title":"Ursäkta röran, vi bygger om!",
+    "error_maintenance_desc":"Arbetet kommer snart vara klart, och då kan du använda veckopengen som vanligt!",
+    "popover_premium_great":"TOPPEN!",
+    "popover_premium_great_desc":"Vi skickar mail till dig så snart du kan börja använda Premium popovers",
+    "premium_popover_not_ready_title":"Premium Powers är tyvärr inte klart än",
+    "premium_popover_not_ready_desc":"Men eftersom du klickade dig hit ger vi dig gärna förtur till Premium Powers och 1 månad gratis användning så snart vi har färdigställt alla våra superfuntioner",
+    "premium_popover_not_ready_button_text":"Ge mig förtur och 1 månad gratis",
+    "button_text_continue":"Fortsätt",
+    "premium_popover_terms_title":"Prenumerationsvillkor",
+    "premium_popover_terms_desc":"Vill du prenummera på Premium powers? \nPrenumerationen kommer att förnyas automatiskt efter %1$d månad till en kostand av %2$c"
 }
