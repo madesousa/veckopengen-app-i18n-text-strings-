@@ -853,5 +853,23 @@
     "premium_popover_not_ready_button_text":"Ge mig förtur och 1 månad gratis",
     "button_text_continue":"Fortsätt",
     "premium_popover_terms_title":"Prenumerationsvillkor",
-    "premium_popover_terms_desc":"Vill du prenummera på Premium powers? \nPrenumerationen kommer att förnyas automatiskt efter %1$d månad till en kostand av %2$c"
+    "premium_popover_terms_desc":"Vill du prenummera på Premium powers? \nPrenumerationen kommer att förnyas automatiskt efter %1$d månad till en kostand av %2$c",
+    "premium_slide_months":"%1$d månader",
+    "premium_slide_month":"%1$d månad",
+
+    "premum_slider_title_small_a":"Kom igång",
+    "premum_slider_title_medium_a":"spara 34%",
+    "premum_slider_title_large_a":"Årspaketet",
+
+    "premum_slider_title_small_b":"Kom igång",
+    "premum_slider_title_medium_b":"spara 34%",
+    "premum_slider_title_large_b":"Årspaketet",
+
+    "premum_slider_title_small_c":"Kom igång",
+    "premum_slider_title_medium_c":"spara 34%",
+    "premum_slider_title_large_c":"Årspaketet",
+
+    "premum_slider_title_small_d":"Kom igång",
+    "premum_slider_title_medium_d":"spara 34%",
+    "premum_slider_title_large_d":"Årspaketet"
 }
