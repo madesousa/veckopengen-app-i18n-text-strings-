@@ -12,7 +12,7 @@ import Currencies from "./Currencies.json"
 import LanguageCodes from "./LanguageCodes.json"
 import countryCodes2PhoneNumberPrefixes from "./countryCodes2PhoneNumberPrefixes.json"
 import DefaultCurrencies from "./DefaultCurrencies"
-var supportedLanguageCodes = ["da","fi","is","sv","nb","nn","en"]
+var supportedLanguageCodes = ["da","fi","sv","nb","nn","en"]
 var supportedCurrencies = Object.values(DefaultCurrencies)
 
 export let getTextStrings = (lang : string) => {
@@ -22,10 +22,11 @@ export let getTextStrings = (lang : string) => {
 		case "is" : return {...TextStrings_default, ...TextStrings_is}
 		case "nb" : return {...TextStrings_default, ...TextStrings_no}
 		case "nn" : return {...TextStrings_default, ...TextStrings_no}
-		case "en" : return {...TextStrings_default, ...TextStrings_en}
+		case "sv" : return {...TextStrings_default, ...TextStrings_sv}
 		case "default" : return TextStrings_default //used in tests
-		case "sv" :
-		default : return {...TextStrings_default, ...TextStrings_sv}
+		default : return {...TextStrings_default, ...TextStrings_en}
+
+
 	}
 }
 
