@@ -881,5 +881,6 @@
     "premum_slider_title_small_d":"Kom igång",
     "premum_slider_title_medium_d":"spara 34%",
     "premum_slider_title_large_d":"Årspaketet",
-    "error_message_email_in_use" : "Emailaddressen du angett används redan"
+    "error_message_email_in_use" : "Emailaddressen du angett används redan",
+    "feedback_your_message":"Ditt meddelande"
 }
