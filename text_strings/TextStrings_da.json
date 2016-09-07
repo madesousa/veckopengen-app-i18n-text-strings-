@@ -870,5 +870,6 @@
     "premum_slider_title_medium_d":"spara 34%",
     "premum_slider_title_large_d":"Årspaketet",
     "error_message_email_in_use" : "Stated email is already in use",
-    "invite_email_subject": "Inbjudan till Veckopengen"
+    "invite_email_subject": "Inviter til Veckopengen",
+    "login_email_subject": "Log på Veckopengen"
 }
