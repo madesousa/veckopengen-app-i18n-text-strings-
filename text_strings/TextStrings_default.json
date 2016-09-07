@@ -1,7 +1,4 @@
 {
-    "data" : "%1$mb",
-    "mb" : "%1$d MB",
-    "gb" : "%1$d GB",
     "currency": "%1$c",
     "currencyMinus": "-%1$c",
     "currencyPlus": "+%1$c",
