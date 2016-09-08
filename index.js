@@ -3,7 +3,7 @@ import TextStrings_da from "./text_strings/TextStrings_da.json"
 import TextStrings_fi from "./text_strings/TextStrings_fi.json"
 import TextStrings_is from "./text_strings/TextStrings_is.json"
 import TextStrings_sv from "./text_strings/TextStrings_sv.json"
-import TextStrings_no from "./text_strings/TextStrings_no.json"
+import TextStrings_no from "./text_strings/TextStrings_nb.json"
 import TextStrings_en from "./text_strings/TextStrings_en.json"
 import TextStrings_default from "./text_strings/TextStrings_default.json"
 
