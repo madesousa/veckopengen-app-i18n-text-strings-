@@ -807,7 +807,7 @@
     "connect_email_header" : "Lähetä kutsu sähköpostilla",
     "connect_sms_header" : "Lähetä kutsu tekstiviestillä",
     "popover_payout_today_allowance_has_been_payed_out_child" : "Minä sain %1$s!",
-    "popover_payout_today_allowance_has_been_payed_out_parent" : "Maksoin muulla tavalla",
+    "popover_payout_today_allowance_has_been_payed_out_parent" : "Olen maksanut %1$s",
     "withdraw_from_transactional_account_popover_header" : "Syötä viikkorahoista nostettava summa",
     "expense_popover_description_parent" : "Kuinka paljon rahaa on nostettu?",
     "add_child_allowance_text":"Kuinka usein %1$d saa rahaa?",
