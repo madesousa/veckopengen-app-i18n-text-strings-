@@ -808,7 +808,7 @@
     "connect_email_header" : "Invite by email",
     "connect_sms_header" : "Invite by SMS",
     "popover_payout_today_allowance_has_been_payed_out_child" : "I have received %1$s!",
-    "popover_payout_today_allowance_has_been_payed_out_parent" : "I have paid in another way",
+    "popover_payout_today_allowance_has_been_payed_out_parent" : "I have paid %1$s",
     "withdraw_from_transactional_account_popover_header" : "Enter the amount to withdraw from the allowance",
     "expense_popover_description_parent" : "How much money have been paid out?",
     "add_child_allowance_text":"How often should %1$d get money?",
