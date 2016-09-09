@@ -619,7 +619,7 @@
     "time_to_payout_today_to_external_bankaccount_popover_text_failed_parent" : "%1$s ei voitu maksaa pankkitilille. Katso kohdasta Maksusuoritukset, mitä meni vikaan. Voit laittaa viikkorahan säästöpossuun.",
     "time_to_payout_today_to_external_bankaccount_popover_text_failed_child" : "%1$s ei voitu maksaa pnkkitilillesi. %2$d voi laittaa rahasi suoraan säästöpossuun.",
     "your_parent" : "Vanhempasir",
-    "nice" : "Mukavaa",
+    "nice" : "Ok",
     "be_ware" : "HUOM!",
     "time_to_payout_today_to_external_bankaccount_transfer_button" : "Laita %1$s sen sijaan säästöpossuun",
     "trustly_receipt_error_text" : "Tärkeä vikailmoitus",
