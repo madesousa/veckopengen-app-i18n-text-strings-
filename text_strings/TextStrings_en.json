@@ -246,7 +246,7 @@
     "task_editor_save_new": "Send out a task",
     "task_editor_save_edit": "Save",
     "task_editor_remove_task": "Delete task",
-    "task_editor_title_input_hint": "Task (ex. %1$s)",
+    "task_editor_title_input_hint": "Task (e.g. %1$s)",
     "task_editor_title_input_hint_example_1": "Make your bed",
     "task_editor_title_input_hint_example_2": "Clean your room",
     "task_editor_title_input_hint_example_3": "Carry out the trash",
