@@ -240,7 +240,7 @@
     "goal_editor_remove_task": "Delete savings goal",
     "goal_editor_title_input_hint": "What are you saving for?",
     "goal_editor_description_input_hint": "Description (Optional)",
-    "goal_editor_amount": "Amount you have to save",
+    "goal_editor_amount": "Required savings amount",
     "task_editor_title_edit": "Edit task",
     "task_editor_title_new": "New task",
     "task_editor_save_new": "Send out a task",
