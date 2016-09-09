@@ -673,7 +673,7 @@
     "trustly_payout_failed_email_subject": "Melding om mislykket utbetaling og refusjon.",
     "transaction" : "overføring",
     "create_account":"Skap konto",
-    "signup_connect_family_member":"Koble sammen med familiemedlemmer",
+    "signup_connect_family_member":"Sammenkobling med familiemedlem",
     "terms_conditions":"Gjennom å fortsette aksepterer du Gimis\n <b>Användarvillkor och Integritetspolicy</b>",
     "transaction_from_transactionalAccount_to_savingsAccount":"Overføring av %1$s til sparegrisen",
     "one_day_to_bonus" : "Sparebonusen blir utbetalt i morgen",
