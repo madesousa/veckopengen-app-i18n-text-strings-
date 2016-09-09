@@ -206,7 +206,7 @@
     "report_bank_saved": "Previously saved",
     "report_bank_interest": "Saving bonus",
     "report_bank_assignments": "Rewards",
-    "report_bank_transfered_in": "Saved from %1$d",
+    "report_bank_transfered_in": "Saved from %1$s",
     "report_bank_transfered_out": "Transfered to %1$d",
     "report_bank_insertions": "Deposits",
     "report_bank_withdrawals": "Withdrawals",

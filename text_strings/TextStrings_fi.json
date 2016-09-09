@@ -206,7 +206,7 @@
     "report_bank_saved": "Säästetty viime kerran jälkeen",
     "report_bank_interest": "Säästöbonus",
     "report_bank_assignments": "Tehtäviä",
-    "report_bank_transfered_in": "Siirretty %1$d:sta",
+    "report_bank_transfered_in": "Siirretty %1$s",
     "report_bank_transfered_out": "Siirrä %1$d:seen",
     "report_bank_insertions": "Talletettu",
     "report_bank_withdrawals": "Maksettu",
