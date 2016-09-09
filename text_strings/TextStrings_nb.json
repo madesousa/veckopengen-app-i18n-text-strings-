@@ -813,7 +813,7 @@
     "connect_email_header" : "Inviter med en mail",
     "connect_sms_header" : "Inviter med en sms",
     "popover_payout_today_allowance_has_been_payed_out_child" : "Jeg har fått mine %1$s!",
-    "popover_payout_today_allowance_has_been_payed_out_parent" : "Jag har betalt på en annen måte",
+    "popover_payout_today_allowance_has_been_payed_out_parent" : "Jag har betalt %1$s",
     "withdraw_from_transactional_account_popover_header" : "Angi summen som skal dras fra ukepengene",
     "expense_popover_description_parent" : "Hvor mye penger har blitt utbetalt?",
     "add_child_allowance_text":"Hvor ofte skal %1$d få penger?",
