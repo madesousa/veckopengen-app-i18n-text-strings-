@@ -769,7 +769,7 @@
     "add_child_task_first":"Add a first task!",
     "add_child_first_tasks_headline":"What is %1$d first tasks?",
     "created_child_connected":"Connected",
-    "created_child_monster":"You have created a monster!",
+    "created_child_monster":"You have created a child!",
     "created_child_allowance_monthly":"%1$c the %2$d",
     "created_child_allowance_weekly":"%1$c on %2$d",
     "plural_weekdays_ending":"s",
