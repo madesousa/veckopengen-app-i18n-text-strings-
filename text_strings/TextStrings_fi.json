@@ -768,7 +768,7 @@
     "add_child_task_first":"Lisää ensimmäinen tehtävä!",
     "add_child_first_tasks_headline":"Mitkä ovat %1$d:n ensimmäiset tehtävät?",
     "created_child_connected":"Yhdistetty",
-    "created_child_monster":"Olet luonut hirviön!",
+    "created_child_monster":"Olet luonut lapsi!",
     "created_child_allowance_monthly":"%1$c, %2$d",
     "created_child_allowance_weekly":"%1$c, %2$d",
     "plural_weekdays_ending":"sin",
