@@ -879,5 +879,6 @@
     "invite_email_subject": "Inbjudan till Veckopengen",
     "login_email_subject": "Logga in på Veckopengen",
     "forgot_save_text_month":"Ej utbetald månadspeng adderas till nästa månad",
-    "forgot_automatic_text_month":"Ej utbetald månadspeng läggs automatiskt i %1$d spargris"
+    "forgot_automatic_text_month":"Ej utbetald månadspeng läggs automatiskt i %1$d spargris",
+    "savings_calc_child_slider_headline":"Du har råd med"
 }

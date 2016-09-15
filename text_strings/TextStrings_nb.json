@@ -878,5 +878,6 @@
     "invite_email_subject": "Invitasjon til Gimi",
     "login_email_subject": "Logg inn på Gimi",
     "forgot_save_text_month":"Ikke utbetalte månedspenger adderes til neste måned",
-    "forgot_automatic_text_month":"Ikke utbetalte månedspenger legges automatisk i %1$d sparegris"
+    "forgot_automatic_text_month":"Ikke utbetalte månedspenger legges automatisk i %1$d sparegris",
+    "savings_calc_child_slider_headline":"Du har råd med"
 }

@@ -871,5 +871,6 @@
     "invite_email_subject": "Kutsu Gimi-sovellukseen",
     "login_email_subject": "Kirjaudu sisään Gimi-sovellukseen",
     "forgot_save_text_month":"Maksamattomat kuukausiraha lisätään ensi kuukausi",
-    "forgot_automatic_text_month":"Maksamattomat kuukausiraha siirretään automaattisesti %1$d:n säästöpossuun"
+    "forgot_automatic_text_month":"Maksamattomat kuukausiraha siirretään automaattisesti %1$d:n säästöpossuun",
+    "savings_calc_child_slider_headline":"Du har råd med"
 }
