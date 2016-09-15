@@ -850,24 +850,24 @@
     "premium_slide_month":"%1$d månad",
 
     "premum_slider_title_small_a":"BASIC POWERS",
+    "premum_slider_title_medium_a":"BANK POWERS",
+    "premum_slider_title_large_a":"SUPER POWERS",
+    "premum_slider_title_large_a_info":"17% rabatt",
+
+    "premum_slider_title_small_b":"BASIC POWERS",
     "premum_slider_title_medium_b":"BANK POWERS",
+    "premum_slider_title_large_b":"SUPER POWERS",
+    "premum_slider_title_large_b_info":"17% rabatt",
+
+    "premum_slider_title_small_c":"BASIC POWERS",
+    "premum_slider_title_medium_c":"BANK POWERS",
     "premum_slider_title_large_c":"SUPER POWERS",
     "premum_slider_title_large_c_info":"17% rabatt",
 
-    "premum_slider_title_small_a":"BASIC POWERS",
-    "premum_slider_title_medium_b":"BANK POWERS",
-    "premum_slider_title_large_c":"SUPER POWERS",
-    "premum_slider_title_large_c_info":"17% rabatt",
-
-    "premum_slider_title_small_a":"BASIC POWERS",
-    "premum_slider_title_medium_b":"BANK POWERS",
-    "premum_slider_title_large_c":"SUPER POWERS",
-    "premum_slider_title_large_c_info":"17% rabatt",
-
-    "premum_slider_title_small_a":"BASIC POWERS",
-    "premum_slider_title_medium_b":"BANK POWERS",
-    "premum_slider_title_large_c":"SUPER POWERS",
-    "premum_slider_title_large_c_info":"17% rabatt",
+    "premum_slider_title_small_d":"BASIC POWERS",
+    "premum_slider_title_medium_d":"BANK POWERS",
+    "premum_slider_title_large_d":"SUPER POWERS",
+    "premum_slider_title_large_d_info":"17% rabatt",
 
     "error_message_email_in_use" : "Stated email is already in use",
     "invite_email_subject": "Invitation to Gimi",
