@@ -7,12 +7,18 @@ import TextStrings_no from "./text_strings/TextStrings_nb.json"
 import TextStrings_en from "./text_strings/TextStrings_en.json"
 import TextStrings_default from "./text_strings/TextStrings_default.json"
 
+import svLocale from "moment/locale/sv"
+import daLocale from "moment/locale/da"
+import fiLocale from "moment/locale/fi"
+import nbLocale from "moment/locale/nb"
+import enLocale from "moment/locale/en-gb"
+
 import CountryCodes from "./CountryCodes.json"
 import Currencies from "./Currencies.json"
 import LanguageCodes from "./LanguageCodes.json"
 import countryCodes2PhoneNumberPrefixes from "./countryCodes2PhoneNumberPrefixes.json"
 import DefaultCurrencies from "./DefaultCurrencies"
-var supportedLanguageCodes = ["da","fi","sv","nb","en"] //"nn"
+export var supportedLanguageCodes = ["da","fi","sv","nb","en"] //"nn"
 var supportedCurrencies = Object.values(DefaultCurrencies)
 
 export let getTextStrings = (lang : string) => {
@@ -28,6 +34,24 @@ export let getTextStrings = (lang : string) => {
 
 
 	}
+}
+
+export let getMomentLocale = (locale : string) => {
+	let lang = locale.substring(0,2)
+	switch (lang) {
+		case "sv":
+			return svLocale
+		case "da":
+			return daLocale
+		case "fi":
+			return fiLocale
+		case "nb":
+			return nbLocale
+		case "en":
+			return enLocale
+		default: return enLocale
+	}
+
 }
 
 export let getCountries = () => CountryCodes
