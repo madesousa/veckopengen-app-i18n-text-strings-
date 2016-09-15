@@ -854,21 +854,26 @@
     "premium_slide_months":"%1$d måneder",
     "premium_slide_month":"%1$d måned",
 
-    "premum_slider_title_small_a":"Kom i gang",
-    "premum_slider_title_medium_a":"spare 34%",
-    "premum_slider_title_large_a":"Årspakken",
+    "premum_slider_title_small_a":"BASIC POWERS",
+    "premum_slider_title_medium_a":"BANK POWERS",
+    "premum_slider_title_large_a":"SUPER POWERS",
+    "premum_slider_title_large_a_info":"17% rabatt",
 
-    "premum_slider_title_small_b":"Kom i gang",
-    "premum_slider_title_medium_b":"spare 34%",
-    "premum_slider_title_large_b":"Årspakken",
+    "premum_slider_title_small_a":"BASIC POWERS",
+    "premum_slider_title_medium_a":"BANK POWERS",
+    "premum_slider_title_large_a":"SUPER POWERS",
+    "premum_slider_title_large_a_info":"17% rabatt",
 
-    "premum_slider_title_small_c":"Kom i gang",
-    "premum_slider_title_medium_c":"spare 34%",
-    "premum_slider_title_large_c":"Årspakken",
+    "premum_slider_title_small_a":"BASIC POWERS",
+    "premum_slider_title_medium_a":"BANK POWERS",
+    "premum_slider_title_large_a":"SUPER POWERS",
+    "premum_slider_title_large_a_info":"17% rabatt",
 
-    "premum_slider_title_small_d":"Kom i gang",
-    "premum_slider_title_medium_d":"spare 34%",
-    "premum_slider_title_large_d":"Årspakken",
+    "premum_slider_title_small_a":"BASIC POWERS",
+    "premum_slider_title_medium_a":"BANK POWERS",
+    "premum_slider_title_large_a":"SUPER POWERS",
+    "premum_slider_title_large_a_info":"17% rabatt",
+
     "error_message_email_in_use" : "E-mailen du har oppgitt er allerede i bruk",
     "invite_email_subject": "Invitasjon til Gimi",
     "login_email_subject": "Logg inn på Gimi"
