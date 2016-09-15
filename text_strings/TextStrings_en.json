@@ -871,5 +871,7 @@
 
     "error_message_email_in_use" : "Stated email is already in use",
     "invite_email_subject": "Invitation to Gimi",
-    "login_email_subject": "Gimi Login"
+    "login_email_subject": "Gimi Login",
+    "forgot_save_text_month":"Ej utbetald månadspeng adderas till nästa månad",
+    "forgot_automatic_text_month":"Ej utbetald månadspeng läggs automatiskt i %1$d spargris"
 }

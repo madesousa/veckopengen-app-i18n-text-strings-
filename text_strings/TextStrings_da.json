@@ -876,5 +876,7 @@
 
     "error_message_email_in_use" : "Stated email is already in use",
     "invite_email_subject": "Inviter til Gimi",
-    "login_email_subject": "Log på Gimi"
+    "login_email_subject": "Log på Gimi",
+    "forgot_save_text_month":"månedspenge, der ikke er udbetalt, lægges automatisk til næste måned",
+    "forgot_automatic_text_month":"månedspenge, der ikke er udbetalt, lægges automatisk i %1$d sparegris"
 }

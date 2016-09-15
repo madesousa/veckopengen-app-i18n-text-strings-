@@ -876,5 +876,7 @@
 
     "error_message_email_in_use" : "E-mailen du har oppgitt er allerede i bruk",
     "invite_email_subject": "Invitasjon til Gimi",
-    "login_email_subject": "Logg inn på Gimi"
+    "login_email_subject": "Logg inn på Gimi",
+    "forgot_save_text_month":"Ikke utbetalte månedspenger adderes til neste måned",
+    "forgot_automatic_text_month":"Ikke utbetalte månedspenger legges automatisk i %1$d sparegris"
 }
