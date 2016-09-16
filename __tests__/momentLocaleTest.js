@@ -1,7 +1,7 @@
 import {getMomentLocale, supportedLanguageCodes} from "../index"
 jest.disableAutomock()
 
-describe("TextStrings", () => {
+describe("MomentLocale", () => {
 	it("it should return en as default momentLocale",() => {
 		var enLocale = getMomentLocale("en")
 		var supportedLanguageCodesTest = supportedLanguageCodes.filter((lang)=>lang !== "en")
