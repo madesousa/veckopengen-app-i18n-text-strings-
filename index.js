@@ -37,6 +37,8 @@ export let getTextStrings = (lang : string) => {
 }
 
 export let getMomentLocale = (locale : string) => {
+	if (locale === undefined)
+		return enLocale
 	let lang = locale.substring(0,2)
 	switch (lang) {
 		case "sv":
