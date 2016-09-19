@@ -875,6 +875,6 @@
     "forgot_save_text_month":"Ej utbetald månadspeng adderas till nästa månad",
     "forgot_automatic_text_month":"Ej utbetald månadspeng läggs automatiskt i %1$d spargris",
     "savings_calc_child_slider_headline":"Du har råd med",
-    "sign_in_step2_support":"Kontakta vår support",
-    "sing_in_step2_request_again":"Jag har inte fått någon kod"
+    "sign_in_step2_support":"Contact support",
+    "sing_in_step2_request_again":"I did not get any code"
 }
