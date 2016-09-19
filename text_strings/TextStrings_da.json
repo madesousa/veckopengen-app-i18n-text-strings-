@@ -879,5 +879,7 @@
     "login_email_subject": "Log på Gimi",
     "forgot_save_text_month":"månedspenge, der ikke er udbetalt, lægges automatisk til næste måned",
     "forgot_automatic_text_month":"månedspenge, der ikke er udbetalt, lægges automatisk i %1$d sparegris",
-    "savings_calc_child_slider_headline":"Du har råd med"
+    "savings_calc_child_slider_headline":"Du har råd med",
+    "sign_in_step2_support":"Kontakta vår support",
+    "sing_in_step2_request_again":"Jag har inte fått någon kod"
 }

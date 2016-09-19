@@ -872,5 +872,7 @@
     "login_email_subject": "Kirjaudu sisään Gimi-sovellukseen",
     "forgot_save_text_month":"Maksamattomat kuukausiraha lisätään ensi kuukausi",
     "forgot_automatic_text_month":"Maksamattomat kuukausiraha siirretään automaattisesti %1$d:n säästöpossuun",
-    "savings_calc_child_slider_headline":"Du har råd med"
+    "savings_calc_child_slider_headline":"Du har råd med",
+    "sign_in_step2_support":"Kontakta vår support",
+    "sing_in_step2_request_again":"Jag har inte fått någon kod"
 }
