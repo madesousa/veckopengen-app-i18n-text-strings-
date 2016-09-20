@@ -876,5 +876,7 @@
     "forgot_automatic_text_month":"Monthly allowance that´s not paid in time will automatically be put into %1$d piggy bank",
     "savings_calc_child_slider_headline":"You can afford",
     "sign_in_step2_support":"Contact support",
-    "sing_in_step2_request_again":"I did not get any code"
+    "sing_in_step2_request_again":"I did not get any code",
+    "mb":"%1$d MB",
+    "gb":"%1$d GB"
 }

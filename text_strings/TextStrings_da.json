@@ -881,5 +881,7 @@
     "forgot_automatic_text_month":"månedspenge, der ikke er udbetalt, lægges automatisk i %1$d sparegris",
     "savings_calc_child_slider_headline":"Du har råd til",
     "sign_in_step2_support":"Kontakt vores support",
-    "sing_in_step2_request_again":"Jeg har ikke modtaget nogen kode"
+    "sing_in_step2_request_again":"Jeg har ikke modtaget nogen kode",
+    "mb":"%1$d MB",
+    "gb":"%1$d GB"
 }

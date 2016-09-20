@@ -881,5 +881,7 @@
     "forgot_automatic_text_month":"Ikke utbetalte månedspenger legges automatisk i %1$d sparegris",
     "savings_calc_child_slider_headline":"Du har råd med",
     "sign_in_step2_support":"Kontakta vår support",
-    "sing_in_step2_request_again":"Jag har inte fått någon kod"
+    "sing_in_step2_request_again":"Jag har inte fått någon kod",
+    "mb":"%1$d MB",
+    "gb":"%1$d GB"
 }
