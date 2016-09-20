@@ -470,7 +470,7 @@
     "your_trustly_account":"Your bank account:",
     "childs_trustly_account":"%1$d bank account:",
     "general_search":"search",
-    "popover_new_make_withdrawal_child":"New expenses by parent",
+    "popover_new_make_withdrawal_child":"New payment by parent",
     "child_dashboard_request_assignment" : "Give me a new task",
     "child_dashboard_request_assignment_message_delivered" : "Message sent",
     "child_dashboard_request_assignment_push" : "%1$d wants a new task!",
