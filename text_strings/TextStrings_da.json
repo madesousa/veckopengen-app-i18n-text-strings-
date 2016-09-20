@@ -883,5 +883,12 @@
     "sign_in_step2_support":"Kontakt vores support",
     "sing_in_step2_request_again":"Jeg har ikke modtaget nogen kode",
     "mb":"%1$d MB",
-    "gb":"%1$d GB"
+    "gb":"%1$d GB",
+    "add_data_assignment_header":"Sätt en gräns för %1$d mobilsurf och följ surfen varje vecka!",
+    "add_data_assignment_header_data":"SURF PER VECKA (EXKL WIFI)",
+    "add_data_assignment_header_reward":"BELÖNING",
+    "add_data_assignment_data_info":"De flesta <b>%1$d-åringar</b> har en surfpott på <b>%2$d.</b> Läs mer i <b>Surfguiden</b>",
+    "add_data_assignment_reward_info":"Belöningar ges ut <b>på måndagar</b> om %1$d lyckas hålla sig inom sin surfpott.",
+    "navbar_header_add_data":"Surfkoll för %1$d",
+    "navbar_header_add_assignment":"Ny uppgift för %1$d"
 }
