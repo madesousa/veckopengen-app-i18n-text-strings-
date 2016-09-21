@@ -905,5 +905,11 @@
     "navbar_header_add_assignment":"Ny uppgift för %1$d",
     "data_tracking_task_title":"Surfkoll",
     "data_tracking_task_desc":"Surfa mindre än %1$d till på söndag",
-    "create_data_assignment":"Ge ut uppgiften"
+    "create_data_assignment":"Ge ut uppgiften",
+    "data_tracking_popover_header":"Surfpotten",
+    "data_tracking_popover_info":"Du har <boldGreen>%1$d</boldGreen> och <boldGreen>%2$d %3$d</boldGreen> kvar av surfpotten",
+    "data_enough_for":"%1$d räcker till",
+    "data_enough_for_hours":"%1$d timmar %2$d",
+    "data_enough_for_hour":"%1$d timme %2$d",
+    "edit_data_assignment":"Ändra uppgiften"
 }
