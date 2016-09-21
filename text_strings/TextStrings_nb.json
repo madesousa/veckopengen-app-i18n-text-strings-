@@ -460,7 +460,7 @@
     "overview_child_item_setup_text" : "Er ikke ferdigskapt enda!",
     "child_dashboard_my_kids_money" : "%1$d penger",
     "trans_transfer_allowance_to_savings_account" : "%1$s ble overført til spargrisen",
-    "overview_child_item_not_connected_text" : "Glem ikke å koble sammen",
+    "overview_child_item_not_connected_text" : "Koble sammen",
     "dashboard_title_transactions":"Familiens transaksjoner",
     "no_cost_trustly":"og nei, det koster ingenting",
     "trustly_read_more":"Les mer",
