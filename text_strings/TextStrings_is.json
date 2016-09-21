@@ -894,5 +894,7 @@
     "navbar_header_add_assignment":"Ny uppgift för %1$d",
     "data_tracking_task_title":"Surfkoll",
     "data_tracking_task_desc":"Surfa mindre än %1$d till på söndag",
-    "create_data_assignment":"Ge ut uppgiften"
+    "create_data_assignment":"Ge ut uppgiften",
+    "n_day":"%1$d dag",
+    "create_new_assignment":"Skapa ny"
 }

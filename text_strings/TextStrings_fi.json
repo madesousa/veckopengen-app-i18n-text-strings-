@@ -892,5 +892,7 @@
     "data_enough_for":"%1$d räcker till",
     "data_enough_for_hours":"%1$d timmar %2$d",
     "data_enough_for_hour":"%1$d timme %2$d",
-    "edit_data_assignment":"Ändra uppgiften"
+    "edit_data_assignment":"Ändra uppgiften",
+    "n_day":"%1$d dag",
+    "create_new_assignment":"Skapa ny"
 }
