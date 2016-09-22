@@ -896,5 +896,11 @@
     "data_enough_for_hour":"%1$d timme %2$d",
     "edit_data_assignment":"Ändra uppgiften",
     "n_day":"%1$d dag",
-    "create_new_assignment":"Skapa ny"
+    "create_new_assignment":"Skapa ny",
+    "new_data_track_assignment_info_text":"Du har fått i uppgift att inte surfa mer än %1$d i veckan. Om du lyckas hålla dig inom din surfpott när veckan är slut får du <boldGreen>%2$c</boldGreen> i belöning",
+    "new_data_track_assignment_headline":"Du har fått en surfpott",
+    "data_tracking_popover_no_left_headline":"Surfpotten är slut!",
+    "data_tracking_popover_no_left_info_text":"Du har använt %1$d och gått över din surfpott. Du får inte belöningen på <boldRed>%2$c</boldRed> men en ny chans nästa vecka.",
+    "popover_button_read_data_tips":"Läs smarta surftips!",
+    "popover_button_change_data_task":"Ändra i surfkollen"
 }
