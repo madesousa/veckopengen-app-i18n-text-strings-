@@ -1,11 +1,11 @@
 //@flow
-import TextStrings_da from "./text_strings/TextStrings_da.json"
-import TextStrings_fi from "./text_strings/TextStrings_fi.json"
-import TextStrings_is from "./text_strings/TextStrings_is.json"
-import TextStrings_sv from "./text_strings/TextStrings_sv.json"
-import TextStrings_no from "./text_strings/TextStrings_nb.json"
-import TextStrings_en from "./text_strings/TextStrings_en.json"
-import TextStrings_default from "./text_strings/TextStrings_default.json"
+import TextStrings_da from "./text_strings/client/TextStrings_da.json"
+import TextStrings_fi from "./text_strings/client/TextStrings_fi.json"
+import TextStrings_is from "./text_strings/client/TextStrings_is.json"
+import TextStrings_sv from "./text_strings/client/TextStrings_sv.json"
+import TextStrings_no from "./text_strings/client/TextStrings_nb.json"
+import TextStrings_en from "./text_strings/client/TextStrings_en.json"
+import TextStrings_default from "./text_strings/client/TextStrings_default.json"
 
 import svLocale from "moment/locale/sv"
 import daLocale from "moment/locale/da"
@@ -31,8 +31,6 @@ export let getTextStrings = (lang : string) => {
 		case "sv" : return {...TextStrings_default, ...TextStrings_sv}
 		case "default" : return TextStrings_default //used in tests
 		default : return {...TextStrings_default, ...TextStrings_en}
-
-
 	}
 }
 

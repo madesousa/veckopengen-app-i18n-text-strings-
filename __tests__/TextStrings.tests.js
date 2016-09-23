@@ -1,5 +1,5 @@
 import {getTextStrings} from "../index"
-import TextStrings_default from "../text_strings/TextStrings_default.json"
+import TextStrings_default from "../text_strings/client/TextStrings_default.json"
 jest.disableAutomock()
 
 var langs = ["da","fi","is","sv","nb","nn", "en", "fr", "nl"]
