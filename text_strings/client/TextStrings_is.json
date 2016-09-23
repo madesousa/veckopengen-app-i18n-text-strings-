@@ -913,5 +913,17 @@
     "popover_news_data_track_headline":"Nyhet! Surfa lagom!",
     "data_tracking_completed_popover_head":"Du klarade surfpotten!",
     "data_tracking_completed_popover_info":"Du använde %1$d och fick en belöning på <boldGreen>%2$c</boldGreen>",
-    "my_settings_text":"Mina inställningar"
+    "my_settings_text":"Mina inställningar",
+    "premium_content_tracking_headline":"tracking av ditt barns utveckling",
+    "premium_content_tracking_info":"Statistik och kurvor som visar hur ditt barn blir bättre på uppfigter, sparande och sina egna mål.",
+    "premium_content_tasks_headline":"Klart uppgiftspaket",
+    "premium_content_tasks_info":"Du får ett färdigställt paket med uppgifter som är anpassade för ditt barns ålder och som tagits fram av våra experter.",
+    "premium_content_expert_headline":"Expertråd",
+    "premium_content_expert_info":"Expertråd från våra ekonomer, barnterapeuter och familjeforskare.",
+    "premium_content_theme_headline":"val av tema",
+    "premium_content_theme_info":"Ditt barn kan välja hur spargrisen ska se ut och tema i sin egen vy.",
+    "premium_content_support_headline":"premium-support",
+    "premium_content_support_info":"Du får förtur till all support med vårt eget support-team.",
+    "premium_content_transactions_headline":"Kontoöverföringar",
+    "premium_content_transactions_info":"Vecko- eller månadspengen överförs automatiskt till ditt barns bankkonto."
 }
