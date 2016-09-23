@@ -10,5 +10,6 @@ export default {
   numberInputMax : 9999,
   numberInputMin : -9999,
   animationValueMultiplier : 0.1,
-  numberOfDecimals : 0
+  numberOfDecimals : 0,
+  defaultDataTaskReward : 1
 }

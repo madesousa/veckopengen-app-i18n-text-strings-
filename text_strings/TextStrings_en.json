@@ -307,7 +307,7 @@
     "transfer_to_savings_parent_instructions": "You can transfer as much as <boldGreen>%1$c</boldGreen>",
     "transfer_server_error_title": "Transfer failed",
     "transfer_server_error_text": "The transfer didn't succeed because of an unknown problem. Check out your connection and try again.",
-    "child_settings_title": "Settings",
+    "child_settings_title": "%1$d Settings",
     "child_settings_nav_edit_allowance": "Change %1$s",
     "child_settings_nav_edit_interest": "Change interest rate",
     "child_settings_nav_add_parent": "Connect to another parent",
