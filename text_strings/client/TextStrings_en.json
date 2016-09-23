@@ -493,7 +493,7 @@
     "expense_popover_instructions":"Choose an amount to be drawn from the piggy bank",
     "push_account_selected" : "Your bank account has been connected to Gimi",
     "push_direct_debit_mandate_enabled" : "Your direct debit mandate has now been activated",
-    "push_direct_debit_mandate_disasbled" : "Your direct mandate has now been unactivated",
+    "push_direct_debit_mandate_disabled" : "Your direct mandate has now been unactivated",
     "trustly_settings_child_headline":"Registered bank account for %1$d",
     "update_settings":"Update settings",
     "trustly_settings_information":"Information",

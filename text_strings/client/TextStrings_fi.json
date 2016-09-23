@@ -492,7 +492,7 @@
     "trustly_child_settings_trans":"Pankkitili ja tilisiirrot",
     "push_account_selected" : "Pankkitilisi on yhdistettu viikkorahaan",
     "push_direct_debit_mandate_enabled" : "Automaattinen tilisiirto on aktivoitu",
-    "push_direct_debit_mandate_disasbled" : "Automaattinen tilisiirto on nyt aktivoitu",
+    "push_direct_debit_mandate_disabled" : "Automaattinen tilisiirto on nyt aktivoitu",
     "trustly_settings_child_headline":"Rekisteröity %1$d:n pankkitili",
     "update_settings":"Päivitä asetukset",
     "trustly_settings_information":"Tiedot",

@@ -499,7 +499,7 @@
     "trustly_settings_my_account":"Mitt bankkonto",
     "trustly_child_settings_trans":"Bankonto och överföringar",
     "push_direct_debit_mandate_enabled" : "Ditt Autogiromandat har nu aktiverats",
-    "push_direct_debit_mandate_disasbled" : "Ditt Autogiromandat har nu avaktiverats",
+    "push_direct_debit_mandate_disabled" : "Ditt Autogiromandat har nu avaktiverats",
     "trustly_settings_child_headline":"Registrerade bankkonton för %1$d",
     "update_settings":"Uppdatera inställningar",
     "trustly_settings_information":"Information",

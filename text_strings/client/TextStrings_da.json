@@ -498,7 +498,7 @@
     "trustly_child_settings_trans":"Bankonto og overførsler",
     "push_account_selected" : "Din bankkonto er koblet sammen med Gimi",
     "push_direct_debit_mandate_enabled" : "Dit Autogiromandat er nu aktiveret",
-    "push_direct_debit_mandate_disasbled" : "Dit Autogiromandat er nu deaktiveret",
+    "push_direct_debit_mandate_disabled" : "Dit Autogiromandat er nu deaktiveret",
     "trustly_settings_child_headline":"Registreret bankkonto for %1$d",
     "update_settings":"Opdater indstillinger",
     "trustly_settings_information":"Information",
