@@ -277,7 +277,7 @@
     "task_completed_text_child": "Du har klaret en opgave. Hvor vil du lægge dine <boldGreen>%1$c</boldGreen>?",
     "task_completed_title_parent": "Er opgaven udført?",
     "task_completed_text_parent": "Hvor vil %1$d placere sin belønning på <boldGreen>%2$c</boldGreen> ?",
-    "task_completed_action_allowance": "Lommepenge",
+    "task_completed_action_allowance": "Ugepenge",
     "task_completed_action_savings": "Sparegrisen",
     "task_reject_title": "Annullér godkendelsen!",
     "task_reject_text": "Vil du markere opgaven som \"Ikke godkendt\"? Dette vil trække belønningen på %1$s tilbage.",
