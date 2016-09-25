@@ -928,5 +928,6 @@
     "premium_navbar":"Bli superförälder med premium powers",
     "premium_buy":"KÖP",
     "no_data_left":"slut",
-    "remove_data_assingment":"Avsluta"
+    "remove_data_assingment":"Avsluta",
+    "data_tracking_completed_info" : "data_tracking_completed_info"
 }
