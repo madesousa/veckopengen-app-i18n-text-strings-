@@ -945,5 +945,6 @@
     "data_tracking_not_connected_title":"Ihopkoppling krävs",
     "data_tracking_not_connected_info":"Du behöver koppla ihop dig med %1$d för att kunna aktivera Surfkollen.",
     "data_tracking_no_data_title":"Vi ser ingen data än",
-    "data_tracking_no_data_info":"Vi kan tyvärr inte sätta igång Surfkollen då vi inte kan se att %1$d använder någon mobildata. Försök gärna igen om en stund."
+    "data_tracking_no_data_info":"Vi kan tyvärr inte sätta igång Surfkollen då vi inte kan se att %1$d använder någon mobildata. Försök gärna igen om en stund.",
+    "goal_met_text_child": "Du har uppnått sparmålet\n\"%2$d\""
 }
