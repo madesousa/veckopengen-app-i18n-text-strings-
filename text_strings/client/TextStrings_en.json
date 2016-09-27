@@ -845,7 +845,7 @@
     "premium_popover_not_ready_button_text":"Ge mig förtur och 1 månad gratis",
     "button_text_continue":"Fortsätt",
     "premium_popover_terms_title":"Prenumerationsvillkor",
-    "premium_popover_terms_desc":"Vill du prenummera på Premium powers? \nPrenumerationen kommer att förnyas automatiskt efter %1$d månad till en kostand av %2$c",
+    "premium_popover_terms_desc":"Vill du prenummera på Premium powers? \nPrenumerationen kommer att förnyas efter 1 månad till en kostand av %2$c",
     "premium_slide_months":"%1$d månader",
     "premium_slide_month":"%1$d månad",
 
