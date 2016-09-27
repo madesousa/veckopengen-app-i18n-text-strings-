@@ -141,5 +141,15 @@
   "template_description_wash_car": "Tvätta bilen på utsidan och gör rent på insidan",
 
   "template_title_late_sleep": "Inte lagt dig i tid",
-  "template_description_late_sleep": "Om du gått och lagt dig senare än bestämt"
+  "template_description_late_sleep": "Om du gått och lagt dig senare än bestämt",
+
+  "template_title_make_bed": "Bädda sängen",
+  "template_description_make_bed": "",
+
+  "template_title_immigrants": "Samla ihop saker till flyktingar",
+  "template_description_immigrants": "",
+
+  "template_title_help_pet": "Rasta husdjuret",
+  "template_description_help_pet": "",
+
 }
