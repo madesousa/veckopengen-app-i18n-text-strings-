@@ -760,7 +760,7 @@
     "invite_with_camera":"Camera",
     "invite_with_email":"Email",
     "invite_with_sms":"SMS",
-    "edit_child_interest":"Du you want to change %1$d interest rate?",
+    "edit_child_interest":"Do you want to change %1$d interest rate?",
     "add_child_tasks_info_headline":"Well done!",
     "add_child_task_info_text_good":"You have choosen <boldGreen>%1$d %2$d</boldGreen> and %3$d will learn to take responsibility and that good behavior is rewarded.",
     "add_child_task_info_text_bad":"You have choosen <boldRed>%1$d %2$d</boldRed> and %3$d will not learn to take responsibility and that good behavior is rewarded.",
