@@ -31,6 +31,8 @@
   "push_text_trustly_payout_completed_child": "Din veckopeng har betalats ut",
   "push_text_trustly_failed_parent": "Överföringen av {name}s {recurring} misslyckades",
   "push_text_trustly_failed_child": "Överföringen av din {recurring} misslyckades",
+  "push_changed_to_weekly_allowance": "{name} har gått över till veckopeng.",
+  "push_changed_to_monthly_allowance": "{name} har gått över till månadspeng.",
 
   "weekly_allowance_pre_payout_notification": "Idag är det veckopeng!",
   "monthly_allowance_pre_payout_notification": "Idag är det månadspeng!",
@@ -42,14 +44,15 @@
   "notification_weekly_payment_sent": "{name} har fått sin veckopeng.",
   "notification_monthly_payment_received": "Du har fått din månadspeng!",
   "notification_monthly_payment_sent": "{name} har fått sin månadspeng.",
-  "weekly_allowance_update_notification_text": "Har gått över till veckopeng.",
-  "monthly_allowance_update_notification_text": "Har gått över till månadspeng.",
   "notifications_task_done_title": "Klirrr!",
   "notifications_task_done_text": "{task} blev godkänd och du har inkasserat {amount} {currency}!",
   "notification_payment_sent_title": "Har veckopengen betalats ut kontant?",
   "notification_payment_sent_text": "{child} fick {amount} {currency} i spargrisen. Har du betalat ut den kontant?",
 
   "dashboard_interest_added": "Fick {amount} {currency} i sparbonus",
+  "dashboard_changed_to_weekly_allowance": "Har gått över till veckopeng.",
+  "dashboard_changed_to_monthly_allowance": "Har gått över till månadspeng.",
+
   "overview_text_trustly_payout_completed_parent": "{amount} {currency} i {recurring} har överförts",
   "overview_text_trustly_failed_parent": "Överföringen av {recurring} misslyckades",
 

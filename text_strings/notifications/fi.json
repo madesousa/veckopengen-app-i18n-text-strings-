@@ -31,6 +31,8 @@
   "push_text_trustly_payout_completed_child": "Viikkorahasi on maksettu",
   "push_text_trustly_failed_parent": "Rahojen siirto henkilön {name} tilille {recurring} epäonnistui",
   "push_text_trustly_failed_child": "Tilisiirto {recurring} epäonnistui",
+  "push_changed_to_weekly_allowance": "{name} har gått över till veckopeng.",
+  "push_changed_to_monthly_allowance": "{name} har gått över till månadspeng.",
 
   "weekly_allowance_pre_payout_notification": "Tänään on viikkorahapäivä!",
   "monthly_allowance_pre_payout_notification": "Tänään on kuukausirahapäivä!",
@@ -42,14 +44,15 @@
   "notification_weekly_payment_sent": "{name} on saanut viikkorahansa.",
   "notification_monthly_payment_received": "Olet saanut kuukausirahasi!",
   "notification_monthly_payment_sent": "{name} on saanut kuukausirahansa.",
-  "weekly_allowance_update_notification_text": "Ovat siirtyneet viikkoraha.",
-  "monthly_allowance_update_notification_text": "On siirtynyt kuukausiapurahaan.",
   "notifications_task_done_title": "Pling!",
   "notifications_task_done_text": "{task}shyväksyttiin, ja olet bsaanut {amount} {currency}!",
   "notification_payment_sent_title": "Onko viikkoraha maksettu käteisellä?",
   "notification_payment_sent_text": "%s sai %s %s säästöpossuun. Oletko maksanut sen käteisellä?",
 
   "dashboard_interest_added": "Sait {amount} {currency} säästöbonusta",
+  "dashboard_changed_to_weekly_allowance": "Ovat siirtyneet viikkoraha.",
+  "dashboard_changed_to_monthly_allowance": "On siirtynyt kuukausiapurahaan.",
+
   "overview_text_trustly_payout_completed_parent": "{amount} {currency} {recurring} on siirretty",
   "overview_text_trustly_failed_parent": "Rahojen siirto {recurring} epäonnistui",
 

@@ -31,6 +31,8 @@
   "push_text_trustly_payout_completed_child":"Dine ugepenge er blevet udbetalt",
   "push_text_trustly_failed_parent":"Overførslen af {name}s {recurring} mislykkedes",
   "push_text_trustly_failed_child": "Overførslen af din {recurring} mislykkedes",
+  "push_changed_to_weekly_allowance": "{name} er gået over til ugepenge.",
+  "push_changed_to_monthly_allowance": "{name} er gået over til månedspenge.",
 
   "weekly_allowance_pre_payout_notification": "I dag er der ugepenge!",
   "monthly_allowance_pre_payout_notification": "I dag er der månedspenge!",
@@ -42,14 +44,15 @@
   "notification_weekly_payment_sent": "{name} har fået sine ugepenge.",
   "notification_monthly_payment_received": "Du har fået dine månedspenge!",
   "notification_monthly_payment_sent": "{name} har fået sine månedspenge.",
-  "weekly_allowance_update_notification_text": "Er gået over til ugepenge.",
-  "monthly_allowance_update_notification_text": "Er gået over til månedspenge.",
   "notifications_task_done_title": "Ka-tjiiing!",
   "notifications_task_done_text": "{task} blev godkendt og du har indkasseret {amount} {currency}!",
   "notification_payment_sent_title" : "Er ugepengene udbetalt kontant?",
   "notification_payment_sent_text" : "%s fik %s %s i sparegrisen. Har du udbetalt dem kontant?",
 
   "dashboard_interest_added": "Fik {amount} {currency} i opsparingsbonus",
+  "dashboard_changed_to_weekly_allowance": "Er gået over til ugepenge.",
+  "dashboard_changed_to_monthly_allowance": "Er gået over til månedspenge.",
+
   "overview_text_trustly_payout_completed_parent": "{amount} {currency}. i {recurring} er overført",
   "overview_text_trustly_failed_parent": "Overførslen af {recurring} mislykkedes",
 

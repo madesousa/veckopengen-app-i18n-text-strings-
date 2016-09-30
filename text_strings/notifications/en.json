@@ -31,6 +31,8 @@
   "push_text_trustly_payout_completed_child": "Your pocket money has been paid",
   "push_text_trustly_failed_parent": "The transaction of {name}s {recurring} failed",
   "push_text_trustly_failed_child": "The transaction of your {recurring} failed",
+  "push_changed_to_weekly_allowance": "{name} switched to weekly allowance.",
+  "push_changed_to_monthly_allowance": "{name} switched to monthly allowance.",
 
   "weekly_allowance_pre_payout_notification": "Idag är det veckopeng!",
   "monthly_allowance_pre_payout_notification": "Idag är det månadspeng!",
@@ -42,14 +44,15 @@
   "notification_weekly_payment_sent": "{name} has received their weekly pocket money.",
   "notification_monthly_payment_received": "You have received your weekly pocket money!",
   "notification_monthly_payment_sent": "{name} has received their weekley pocket money.",
-  "weekly_allowance_update_notification_text": "Switched to weekly allowance.",
-  "monthly_allowance_update_notification_text": "Switched to monthly allowance.",
   "notifications_task_done_title": "Klirrr!",
   "notifications_task_done_text": "{task} was approved and you have cashed in {amount} {currency}!",
   "notification_payment_sent_title": "Has the weekly pocket money been paid out in cash?",
   "notification_payment_sent_text": "%s fick %s %s i spargrisen. Har du betalat ut den kontant?",
 
   "dashboard_interest_added": "Recieved {amount} {currency} i savings bonus",
+  "dashboard_changed_to_weekly_allowance": "Switched to weekly allowance.",
+  "dashboard_changed_to_monthly_allowance": "Switched to monthly allowance.",
+
   "overview_text_trustly_payout_completed_parent": "{amount} {currency} in {recurring} has been transferred",
   "overview_text_trustly_failed_parent": "The transaction of {recurring} failed",
 
