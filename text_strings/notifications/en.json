@@ -9,6 +9,8 @@
   "push_weekly_interest_added": "Congratulations! This weeks savings bonus has been put into your piggy bank",
   "push_monthly_interest_added": "Congratulations! This months savings bonus has been put into your piggy bank",
   "push_goal_created": "{human} has created the savings goal {goal}.",
+  "push_goal_completed_child": "Du har uppnåt sparmålet {goal}.",
+  "push_goal_completed_parent": "{child} har uppnåt sparmålet {goal}.",
   "push_full_allowance_paid_out_by_parent": "%s marked right now that you have received your %s",
   "push_partial_allowance_paid_out_by_parent": "{parent} has noted that you have received {amount} {currency} of your {allowance_type}",
   "push_withdrawal_child": "{parent} made a withdrawal of {amount} {currency} from the piggy bank",

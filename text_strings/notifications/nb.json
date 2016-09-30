@@ -9,6 +9,8 @@
   "push_weekly_interest_added": "Gratulerer! Ukens sparebonus har blitt lagt i sparegrisen",
   "push_monthly_interest_added": "Gratulerer! Månedens sparebonus har blitt lagt i sparegrisen",
   "push_goal_created": "{human} har opprettet sparemålet {goal}.",
+  "push_goal_completed_child": "Du har uppnåt sparmålet {goal}.",
+  "push_goal_completed_parent": "{child} har uppnåt sparmålet {goal}.",
   "push_full_allowance_paid_out_by_parent": "%s markerte akkurat at du fått dine %s",
   "push_partial_allowance_paid_out_by_parent": "{parent} markerte akkurat at du fått {amount} {currency} av dine {allowance_type}",
   "push_withdrawal_child": "{parent} tok {amount} {currency} fra sparegrisen",
