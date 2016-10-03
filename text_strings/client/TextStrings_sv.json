@@ -557,7 +557,7 @@
     "withdrawl_from_pig":"Utlägg från spargrisen",
     "task":"Uppgift",
     "bank_transaction":"Banköverföring",
-    "automatic_transaction_type_text":"Automatisk överföring av ",
+    "automatic_transaction_type_text":"Automatisk sparande av icke utbetald ",
     "recurring_to_pig":"%1$s till spargrisen",
     "transaction_to_pig":"Insättning utav %1$d",
     "deposit":"insättning",
