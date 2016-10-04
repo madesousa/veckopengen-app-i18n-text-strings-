@@ -937,5 +937,6 @@
     "goal_met_text_child": "Du har uppnått sparmålet\n\"%1$d\"",
     "warning_outdated_version":"Det finns en ny uppdatering tillgänglig",
     "data_enough_for_minutes":"%1$d minuter %2$d",
-    "child_settings_my_connections":"Mina ihopkopplingar"
+    "child_settings_my_connections":"Mina ihopkopplingar",
+    "data_tracking_test_minute":"%1$d min"
 }
