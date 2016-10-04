@@ -557,7 +557,7 @@
     "deposit_to_pig":"Talletus säästöpossuun",
     "child_name_account_registred":"%1$d:n tili on rekisteröity!",
     "choose_new_day":"Valitse uusi päivä",
-    "new_payday_text_trustly":"Jotta %1$ voidaan maksaa luotettavasti, pyydämme sinua valitsemaan sopivan arkipäivän. Ehdotamme perjantaita, mutta voit valita muunkin päivän.",
+    "new_payday_text_trustly":"Jotta %1$d voidaan maksaa luotettavasti, pyydämme sinua valitsemaan sopivan arkipäivän. Ehdotamme perjantaita, mutta voit valita muunkin päivän.",
     "trustly_notify_when_done":"<b>Ilmoitamme sinulle,</b> kun automaattiset tilisiirrot käynnistyvät",
     "trustly_activation_time_text":"Suoritamme loppuun sinun ja lapsesi tilin linkittämisen. <b>Se kestää alle 3 päivää.</b>",
     "both_child_and_parent_connected_head":"Sinun ja lapsesi tilit linkitetään nyt",

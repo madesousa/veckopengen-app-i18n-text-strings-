@@ -9,9 +9,16 @@ var compareKeys = (lang1, lang2) => {
 	var keys = Object.keys(firstLang)
 	var secondLang = getTextStrings(lang2)
 	keys.forEach(key => {
-		var errorMessage = `Lang: '${lang2}', Missing key: '${key}'`
-		expect(secondLang[key]).not.toEqual(undefined,  errorMessage)
-		expect(secondLang[key]).not.toEqual("", errorMessage )
+		var errorMessage
+
+		if(secondLang[key] === undefined || secondLang[key] === "")
+			errorMessage = `Lang: '${lang2}', Missing key: '${key}'`
+
+		expect(errorMessage).toEqual(undefined)
+
+		if(secondLang[key].indexOf("$ ") !== -1)
+			errorMessage = `Lang: '${lang2}', Key: '${key}' has a $ and whitespace, do you mean $s, $d or $c ?`
+		expect(errorMessage).toEqual(undefined)
 	})
 }
 
