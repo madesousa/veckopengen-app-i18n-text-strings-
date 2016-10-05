@@ -896,7 +896,7 @@
     "sing_in_step2_request_again":"Jag har inte fått någon kod",
     "mb":"%1$d MB",
     "gb":"%1$d GB",
-    "add_data_assignment_header":"Sätt en gräns för %1$d mobilsurf och följ surfen varje vecka!",
+    "add_data_assignment_header":"%1$d surfpott",
     "add_data_assignment_header_data":"SURF PER VECKA (EXKL WIFI)",
     "add_data_assignment_header_reward":"BELÖNING",
     "add_data_assignment_data_info":"De flesta <b>%1$d-åringar</b> har en surfpott på <b>%2$d.</b> Läs mer i <b>Surfguiden</b>",
