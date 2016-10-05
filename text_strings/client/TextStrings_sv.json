@@ -950,7 +950,6 @@
     "warning_outdated_version":"Det finns en ny uppdatering tillgänglig",
     "data_enough_for_minutes":"%1$d minuter %2$d",
     "child_settings_my_connections":"Mina ihopkopplingar",
-    "data_tracking_test_minute":"%1$d min"
-
-
+    "data_tracking_test_minute":"%1$d min",
+    "trustly_pending_transactions":"PÅGÅENDE"
 }
