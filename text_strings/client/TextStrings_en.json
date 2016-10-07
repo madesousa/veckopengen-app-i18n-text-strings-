@@ -935,5 +935,6 @@
     "child_settings_my_connections":"Mina ihopkopplingar",
     "data_tracking_test_minute":"%1$d min",
     "trustly_pending_transactions":"PENDING",
-    "reciept_reward_text":"Belöning vid godkänd uppgift"
+    "reciept_reward_text":"Belöning vid godkänd uppgift",
+    "savings_bonus_to_pig_future_date":"Sparbonus sätts in i spargrisen den %1$d"
 }
