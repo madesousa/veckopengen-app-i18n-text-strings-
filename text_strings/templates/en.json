@@ -53,6 +53,9 @@
   "group_name_strict": "Dags att vara sträng",
   "group_description_strict": "5 uppgifter som kan ge avdrag på 17 kr i veckan men också en belöning på 50 kr över tid",
 
+  "group_name_signup": "Signup",
+  "group_description_signup": "Signup tasks",
+
   "template_title_clean_room": "Städa rummet",
   "template_description_clean_room": "Ta undan saker och gör rent",
 
