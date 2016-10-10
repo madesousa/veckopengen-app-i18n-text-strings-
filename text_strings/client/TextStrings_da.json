@@ -884,10 +884,6 @@
     "sing_in_step2_request_again":"Jeg har ikke modtaget nogen kode",
     "mb":"%1$d MB",
     "gb":"%1$d GB",
-    "add_data_assignment_header":"Sätt en gräns för %1$d mobilsurf och följ surfen varje vecka!",
-    "add_data_assignment_header_data":"SURF PER VECKA (EXKL WIFI)",
-    "add_data_assignment_header_reward":"BELÖNING",
-    "add_data_assignment_data_info":"De flesta <b>%1$d-åringar</b> har en surfpott på <b>%2$d.</b> Läs mer i <b>Surfguiden</b>",
     "add_data_assignment_reward_info":"Belöningar ges ut <b>på måndagar</b> om %1$d lyckas hålla sig inom sin surfpott.",
     "navbar_header_add_data":"Surfkoll för %1$d",
     "navbar_header_add_assignment":"Ny uppgift för %1$d",
@@ -946,5 +942,15 @@
     "trustly_pending_desc":"Pengarna dras %1$d och finns på %2$d konto snart",
     "trustly_success_transfer_header":"Utförd banköverföring",
     "trustly_failed_transfer_header":"Misslyckad banköverföring",
-    "transaction_to_recurring":"Överföring till %1$d"
+    "transaction_to_recurring":"Överföring till %1$d",
+    "already_know":"Jag vet redan",
+    "do_our_test":"Gör vårt test",
+    "how_much_data_usage":"Hur mycket ska %1$d få surfa?",
+    "data_usage_test_popover_desc":"Om ni inte har en bestämd surfmängd kan du göra vårt surftest.",
+    "create_data_usage_header":"Ge ut surfpotten",
+    "create_data_usage_desc":"Sätt den mängd mobildata som du tycker %1$d ska hålla sig inom",
+    "add_data_assignment_header":"%1$d surfpott",
+    "add_data_assignment_header_data":"Mobildata per vecka",
+    "add_data_assignment_header_reward":"Belöning på måndagar",
+    "add_data_assignment_data_info":"Läs mer om bra surfbeteende i <b>Surfguiden</b>"
 }
