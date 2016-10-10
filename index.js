@@ -18,7 +18,8 @@ import Currencies from "./Currencies.json"
 import LanguageCodes from "./LanguageCodes.json"
 import countryCodes2PhoneNumberPrefixes from "./countryCodes2PhoneNumberPrefixes.json"
 import DefaultCurrencies from "./DefaultCurrencies"
-export var supportedLanguageCodes = ["da","fi","sv","nb","en"] //"nn"
+export var supportedLanguageCodes = ["da","fi","sv","nb","en"]
+export var languageCodes = ["da","fi","is","sv","nb", "en", "fr", "nl"]
 var supportedCurrencies = Object.values(DefaultCurrencies)
 
 export let getTextStrings = (lang : string) => {
