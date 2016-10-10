@@ -546,7 +546,7 @@
     "trustly_item_spec_bank_success_receipt_from_account":"Från konto: %1$d",
     "trustly_item_spec_bank_success_receipt_to_account":"Till konto: %1$d",
     "trustly_item_spec_bank_success_receipt_from_account_info":"%1$c debiterades %2$d",
-    "trustly_item_spec_bank_success_receipt_to_account_info":"%1$c sattes in %3$d",
+    "trustly_item_spec_bank_success_receipt_to_account_info":"%1$c sattes in %2$d",
     "from_capitalized": "Från",
     "to_capitalized": "Till",
     "added_by":"Tillagd av",
