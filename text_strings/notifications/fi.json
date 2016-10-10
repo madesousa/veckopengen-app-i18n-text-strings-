@@ -4,6 +4,7 @@
   "allowance_recurring_1_definite": "viikkoraha",
   "allowance_recurring_2_definite": "kuukausiraha",
 
+  "push_child_transferred_to_savings": "{child} har sparat {amount} {currency}",
   "push_update_recurring_new_task": "Tule katsomaan! Olet saanut uuden tehtävän!",
   "push_update_recurring_new_tasks": "Katso! Olet saanut uusia tehtäviä!",
   "push_weekly_interest_added": "Onnea! Viikon säästöbonus on laitettu säästöpossuun",

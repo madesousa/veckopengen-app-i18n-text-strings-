@@ -4,6 +4,7 @@
   "allowance_recurring_1_definite": "the weekly allowance",
   "allowance_recurring_2_definite": "the monthly allowance",
 
+  "push_child_transferred_to_savings": "{child} har sparat {amount} {currency}",
   "push_update_recurring_new_task": "Check out! You have got a new task!",
   "push_update_recurring_new_tasks": "Hey! You have got new tasks!",
   "push_weekly_interest_added": "Congratulations! This weeks savings bonus has been put into your piggy bank",

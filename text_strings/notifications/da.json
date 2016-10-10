@@ -4,6 +4,7 @@
   "allowance_recurring_1_definite": "ugepengene",
   "allowance_recurring_2_definite": "månedspengene",
 
+  "push_child_transferred_to_savings": "{child} har sparat {amount} {currency}",
   "push_update_recurring_new_task": "Tjek det ud! Du har fået en ny opgave!",
   "push_update_recurring_new_tasks": "Kig! Du har fået nye opgaver!",
   "push_weekly_interest_added": "Tillykke! Ugens opsparingsbonus er lagt i sparegrisen",

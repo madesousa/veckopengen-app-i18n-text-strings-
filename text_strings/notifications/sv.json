@@ -4,6 +4,7 @@
   "allowance_recurring_1_definite": "veckopengen",
   "allowance_recurring_2_definite": "månadspengen",
 
+  "push_child_transferred_to_savings": "{child} har sparat {amount} {currency}",
   "push_update_recurring_new_task": "Spana in! Du har fått en ny uppgift!",
   "push_update_recurring_new_tasks": "Kolla! Du har fått nya uppgifter!",
   "push_weekly_interest_added": "Grattis! Veckans sparbonus har lagts i spargrisen",
