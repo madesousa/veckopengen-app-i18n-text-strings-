@@ -83,5 +83,7 @@
   "data_tracking_assignment_threshold_3_parent": "{child} on surfannut 90 % sovitusta kokonaismäärästä",
   "data_tracking_assignment_threshold_3_child": "Olet surfannut 90 % sovitusta kokonaismäärästä",
   "data_tracking_assignment_threshold_4_parent": "{child} on surfannut 100 % sovitusta kokonaismäärästä",
-  "data_tracking_assignment_threshold_4_child": "Olet surfannut 100 % sovitusta kokonaismäärästä"
+  "data_tracking_assignment_threshold_4_child": "Olet surfannut 100 % sovitusta kokonaismäärästä",
+
+  "push_trustly_over_limit": "Misslyckade överföring på {amount} {currency}."
 }

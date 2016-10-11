@@ -83,5 +83,7 @@
   "data_tracking_assignment_threshold_3_parent": "{child} har brukt opp 90% av den totale surfemengden.",
   "data_tracking_assignment_threshold_3_child": "Du har brukt opp 90% av den totale surfemengden!",
   "data_tracking_assignment_threshold_4_parent": "{child} har brukt opp 100% av den totale surfemengden.",
-  "data_tracking_assignment_threshold_4_child": "Du har brukt opp 100% av den totale surfemengden!"
+  "data_tracking_assignment_threshold_4_child": "Du har brukt opp 100% av den totale surfemengden!",
+
+  "push_trustly_over_limit": "Misslyckade överföring på {amount} {currency}."
 }
