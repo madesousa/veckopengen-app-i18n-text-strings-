@@ -139,7 +139,7 @@
     "child_editor_interest_set": "Sätt sparränta",
     "child_editor_interest_button": "Klar",
     "child_editor_data_tracking_instructions" : "Här sätter du en gräns för %1$ds mobilssurf. Du följer sedan enkelt hur stor del av veckans surfpott som har utnyttjats.",
-    "child_editor_data_tracking_instructions_2" : "Gå in på <underline>surfguiden!</underline>",
+    "child_editor_data_tracking_instructions_2" : "Läs mer om surfbeteende i <boldBlueUnderline>Surfguiden!</boldBlueUnderline>",
     "child_editor_data_tracking_set" : "Sätt maxgräns per %1$s",
     "child_editor_data_tracking_suggestion": "De flesta %1$d-åringar har idag en maxgräns på %2$d per %3$s.",
     "child_item_see_profile": "Visa profil",

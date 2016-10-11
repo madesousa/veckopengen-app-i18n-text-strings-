@@ -133,7 +133,7 @@
     "child_editor_interest_set": " Set an interest rate",
     "child_editor_interest_button": "Done",
     "child_editor_data_tracking_instructions" : "Put a limit for %1$ds mobile surf. Then you can easily follow how much of your weekly MB surf that has been used.",
-    "child_editor_data_tracking_instructions_2" : "Click into <underline>surfguiden!</underline>",
+    "child_editor_data_tracking_instructions_2" : "Click into <boldBlueUnderline>Surfguide!</boldBlueUnderline>",
     "child_editor_data_tracking_set" : "Put a maximum limit for every %1$s",
     "child_editor_data_tracking_suggestion": "Most %1$d-year olds has today got a maximum limit at %2$d for every %3$s.",
     "child_item_see_profile": "Show profile",

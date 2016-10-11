@@ -139,7 +139,7 @@
     "child_editor_interest_set": "Setja sparivexti",
     "child_editor_interest_button": "búið",
     "child_editor_data_tracking_instructions" : "Hér setur þú mörk fyrir %1$ds net í gsm símanum.Þú fylgist svo létt með hversu mikið af neti hefur verið notað í vikunni",
-    "child_editor_data_tracking_instructions_2" : "farðu inn á <underline>surfguiden!</underline>",
+    "child_editor_data_tracking_instructions_2" : "farðu inn á <boldBlueUnderline>Surfguiden!</boldBlueUnderline>",
     "child_editor_data_tracking_set" : "Settu hámark %1$s",
     "child_editor_data_tracking_suggestion": "flestir %1$d-ára hafa í dag hámark %2$d hvert %3$s.",
     "child_item_see_profile": "Sína reikning",

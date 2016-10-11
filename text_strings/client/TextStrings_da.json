@@ -139,7 +139,7 @@
     "child_editor_interest_set": "Vælg rente",
     "child_editor_interest_button": "Klar",
     "child_editor_data_tracking_instructions" : "Her sætter du en grænse for %1$ds mobilssurf. Du kan efterfølgende enkelt følge, hvor stor en del af ugens surfgrænse, der er blevet brugt.",
-    "child_editor_data_tracking_instructions_2" : "Gå ind på <underline>surfguiden!</underline>",
+    "child_editor_data_tracking_instructions_2" : "Gå ind på <boldBlueUnderline>Surfguiden!</boldBlueUnderline>",
     "child_editor_data_tracking_set" : "Sæt maksgrænse per %1$s",
     "child_editor_data_tracking_suggestion": "De fleste %1$d-årige har i dag en maxgrænse på %2$d per %3$s.",
     "child_item_see_profile": "Vis profil",

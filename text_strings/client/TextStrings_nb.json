@@ -139,7 +139,7 @@
     "child_editor_interest_set": "Velg sparerente",
     "child_editor_interest_button": "Ferdig",
     "child_editor_data_tracking_instructions" : "Her velger du en grense for %1$ds mobilsurfing. Du kan deretter enkelt ha kontroll på hvor stor del av ukens surfing som blir utnyttet.",
-    "child_editor_data_tracking_instructions_2" : "Gå inn på <underline>surfguiden!</underline>",
+    "child_editor_data_tracking_instructions_2" : "Gå inn på <boldBlueUnderline>Surfguiden!</boldBlueUnderline>",
     "child_editor_data_tracking_set" : "Velg en maksgrense per %1$s",
     "child_editor_data_tracking_suggestion": "De fleste %1$d-åringer har idag en maksgrense på %2$d per %3$s.",
     "child_item_see_profile": "Vis profil",

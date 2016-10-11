@@ -133,7 +133,7 @@
     "child_editor_interest_set": "Aseta säästökorko",
     "child_editor_interest_button": "Valmis",
     "child_editor_data_tracking_instructions" : "Tässä voit asettaa rajan %1$ds mobiilin käytölle. Sitten voit helposti seurata, kuinka suuri oaa käyttörahasta on kulunut.",
-    "child_editor_data_tracking_instructions_2" : "Siirry kohtaan <underline>surfguiden!</underline>",
+    "child_editor_data_tracking_instructions_2" : "Siirry kohtaan <boldBlueUnderline>Surfguiden!</boldBlueUnderline>",
     "child_editor_data_tracking_set" : "Aseta maksimiraja %1$s:ssa",
     "child_editor_data_tracking_suggestion": "Yleensä %1$d-vuotiaiden maksimiraja on nykyään %2$d %3$s:ssa.",
     "child_item_see_profile": "Näytä profiili",
