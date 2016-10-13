@@ -967,5 +967,8 @@
     "add_data_assignment_data_info":"Läs mer om bra surfbeteende i <boldBlueUnderline>Surfguiden!</boldBlueUnderline>",
     "trustly_type_text" : "Överföring till bankkonto",
     "surf_guide_header_parent":"Därför är det viktigt att \nsurfa smart!",
-    "surf_guide_header_child":"Surfa smart så räcker \nmobilsurfen längre!"
+    "surf_guide_header_child":"Surfa smart så räcker \nmobilsurfen längre!",
+    "data_guide_hours":"%1$d timmar",
+    "data_guide_hour":"%1$d timme",
+    "data_guide_quantity":"%1$d st"
 }
