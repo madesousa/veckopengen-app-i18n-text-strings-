@@ -962,5 +962,16 @@
     "knowledge_child_item_header_6":"knowledge_child_item_header_7",
     "knowledge_child_item_header_7":"knowledge_child_item_header_8",
     "knowledge_child_item_header_8":"knowledge_child_item_header_9",
-    "knowledge_child_item_header_9":"knowledge_child_item_header_10"
+    "knowledge_child_item_header_9":"knowledge_child_item_header_10",
+
+    "knowledge_child_item_content_0":"knowledge_child_item_content_1",
+    "knowledge_child_item_content_1":"knowledge_child_item_content_2",
+    "knowledge_child_item_content_2":"knowledge_child_item_content_3",
+    "knowledge_child_item_content_3":"knowledge_child_item_content_4",
+    "knowledge_child_item_content_4":"knowledge_child_item_content_5",
+    "knowledge_child_item_content_5":"knowledge_child_item_content_6",
+    "knowledge_child_item_content_6":"knowledge_child_item_content_7",
+    "knowledge_child_item_content_7":"knowledge_child_item_content_8",
+    "knowledge_child_item_content_8":"knowledge_child_item_content_9",
+    "knowledge_child_item_content_9":"knowledge_child_item_content_10"
 }
