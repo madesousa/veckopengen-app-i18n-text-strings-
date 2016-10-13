@@ -961,14 +961,14 @@
     "data_guide_hours":"%1$d timmar",
     "data_guide_hour":"%1$d timme",
     "data_guide_quantity":"%1$d st",
-    "knowledge_child_item_header_1":"knowledge_child_item_header_1",
-    "knowledge_child_item_header_2":"knowledge_child_item_header_2",
-    "knowledge_child_item_header_3":"knowledge_child_item_header_3",
-    "knowledge_child_item_header_4":"knowledge_child_item_header_4",
-    "knowledge_child_item_header_5":"knowledge_child_item_header_5",
+    "knowledge_child_item_header_0":"knowledge_child_item_header_1",
+    "knowledge_child_item_header_1":"knowledge_child_item_header_2",
+    "knowledge_child_item_header_2":"knowledge_child_item_header_3",
+    "knowledge_child_item_header_3":"knowledge_child_item_header_4",
+    "knowledge_child_item_header_4":"knowledge_child_item_header_5",
     "knowledge_child_item_header_5":"knowledge_child_item_header_6",
-    "knowledge_child_item_header_7":"knowledge_child_item_header_7",
-    "knowledge_child_item_header_8":"knowledge_child_item_header_8",
-    "knowledge_child_item_header_9":"knowledge_child_item_header_9",
-    "knowledge_child_item_header_10":"knowledge_child_item_header_10"
+    "knowledge_child_item_header_6":"knowledge_child_item_header_7",
+    "knowledge_child_item_header_7":"knowledge_child_item_header_8",
+    "knowledge_child_item_header_8":"knowledge_child_item_header_9",
+    "knowledge_child_item_header_9":"knowledge_child_item_header_10"
 }
