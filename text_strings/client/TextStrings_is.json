@@ -886,7 +886,7 @@
     "mb":"%1$d MB",
     "gb":"%1$d GB",
     "add_data_assignment_reward_info":"Belöningar ges ut <b>på måndagar</b> om %1$d lyckas hålla sig inom sin surfpott.",
-    "navbar_header_add_data":"Surfkoll för %1$d",
+    "navbar_header_add_data":"Smarta surftips",
     "navbar_header_add_assignment":"Ny uppgift för %1$d",
     "data_tracking_task_title":"Surfkoll",
     "data_tracking_task_desc":"Surfa mindre än %1$d till på söndag",
@@ -954,5 +954,6 @@
     "add_data_assignment_header_data":"Mobildata per vecka",
     "add_data_assignment_header_reward":"Belöning på måndagar",
     "add_data_assignment_data_info":"Läs mer om bra surfbeteende i <boldBlueUnderline>Surfguiden!</boldBlueUnderline>",
-    "trustly_type_text" : "Överföring till bankkonto"
+    "trustly_type_text" : "Överföring till bankkonto",
+    "nav_bar_data_tracking_tips_parent":"Surfguiden"
 }
