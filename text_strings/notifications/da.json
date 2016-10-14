@@ -85,5 +85,8 @@
   "data_tracking_assignment_threshold_4_parent": "{child} har surfet 100 % op af det samlede surfbeløb.",
   "data_tracking_assignment_threshold_4_child": "Du har surfet 100 % op af det samlede surfbeløb!",
 
-  "push_trustly_over_limit": "Misslyckade överföring på {amount} {currency}."
+  "push_trustly_over_limit": "Misslyckade överföring på {amount} {currency}.",
+  "dashboard_goal_created": "Fick sparmålet {goal}.",
+  "dashboard_goal_completed": "Uppnådde sparmålet {goal}.",
+  "dashboard_transfer_to_savings": "Sparade {amount} {currency}."
 }
