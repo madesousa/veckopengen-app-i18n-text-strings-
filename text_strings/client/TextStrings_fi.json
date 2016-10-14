@@ -975,5 +975,6 @@
     "knowledge_child_item_content_8":"knowledge_child_item_content_9",
     "knowledge_child_item_content_9":"knowledge_child_item_content_10",
     "popover_data_usage_news_collaboration":"I sammarbete med",
-    "payout_initiated" : "Utbetalning pågår"
+    "payout_initiated" : "Utbetalning pågår",
+    "savings_calc_popover_trustly_button":"Överför till %1$s"
 }
