@@ -995,5 +995,10 @@
     "knowledge_child_item_content_9":"knowledge_child_item_content_10",
     "popover_data_usage_news_collaboration":"I sammarbete med",
     "payout_initiated" : "Utbetalning pågår",
-    "savings_calc_popover_trustly_button":"Överför till %1$s"
+    "savings_calc_popover_trustly_button":"Överför till %1$s",
+    "data_knowledge_item_text_0":"data_knowledge_item_text_1",
+    "data_knowledge_item_text_1":"data_knowledge_item_text_2",
+    "data_knowledge_item_text_2":"data_knowledge_item_text_3",
+    "data_knowledge_item_text_3":"data_knowledge_item_text_4",
+    "data_knowledge_item_text_4":"data_knowledge_item_text_5"
 }
