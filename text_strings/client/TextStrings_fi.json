@@ -898,7 +898,7 @@
     "popover_button_read_data_tips":"Läs smarta surftips!",
     "popover_button_change_data_task":"Ändra i surfkollen",
     "popover_news_data_tracking":"Nu finns det en uppgift som heter Surfkoll och som veckovist belönar ditt barn när de surfar lagom mycket.",
-    "popover_news_data_track_headline":"Nyhet! Surfa lagom!",
+    "popover_news_data_track_headline":"Nyhet! Surfa smartare!",
     "data_tracking_completed_popover_head":"Du klarade surfpotten!",
     "data_tracking_completed_popover_info":"Du använde %1$d och fick en belöning på <boldGreen>%2$c</boldGreen>",
     "my_settings_text":"Mina inställningar",
@@ -973,5 +973,6 @@
     "knowledge_child_item_content_6":"knowledge_child_item_content_7",
     "knowledge_child_item_content_7":"knowledge_child_item_content_8",
     "knowledge_child_item_content_8":"knowledge_child_item_content_9",
-    "knowledge_child_item_content_9":"knowledge_child_item_content_10"
+    "knowledge_child_item_content_9":"knowledge_child_item_content_10",
+    "popover_data_usage_news_collaboration":"I sammarbete med"
 }
