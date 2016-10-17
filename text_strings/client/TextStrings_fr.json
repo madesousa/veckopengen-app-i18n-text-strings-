@@ -1000,5 +1000,6 @@
     "data_knowledge_item_text_2":"data_knowledge_item_text_3",
     "data_knowledge_item_text_3":"data_knowledge_item_text_4",
     "data_knowledge_item_text_4":"data_knowledge_item_text_5",
-    "data_tracking_note_dashboard_text":"Sätt igång surfkoll!"
+    "data_tracking_note_dashboard_text":"Sätt igång surfkoll!",
+    "failed_transaction" : "Misslyckad transaktion"
 }
