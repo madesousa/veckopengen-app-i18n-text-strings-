@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "sara" : "./node_modules/.bin/babel ./sara/src -d ./sara/dest && node ./sara/dest/sara.js"
   },
-  "repository" : {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/Barnpengar/veckopengen-app-i18n.git"
   },
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/Barnpengar/veckopengen-app-i18n#readme",
   "devDependencies": {
-    "jest-cli": "14.1.0"
+    "babel-cli": "6.16.0",
+    "babel-preset-react-native": "1.9.0",
+    "jest-cli": "16.0.1"
   }
 }
