@@ -19,7 +19,18 @@ let syncTextStrings = (file) => {
 
   var TextStrings = fs.readFileSync(path, {encoding : "utf8"})
   TextStrings = JSON.parse(TextStrings)
+
+  //Delete Support
+  Object.keys({...TextStrings})
+    .filter((key) => TextStrings_sv[key] === undefined)
+    .forEach((key) => delete TextStrings[key])
+
+  //Craete Support
   TextStrings = {...TextStrings_sv, ...TextStrings}
+
+  //No update support atm :(
+
+  //Save changes
   TextStrings = JSON.stringify(TextStrings, undefined, 2)
   fs.unlinkSync(path)
   fs.writeFileSync(path, TextStrings, {encoding : "utf8"})

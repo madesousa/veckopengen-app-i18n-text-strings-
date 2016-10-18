@@ -19,7 +19,18 @@ var path=getPath(file);
 
 var TextStrings=fs.readFileSync(path,{encoding:"utf8"});
 TextStrings=JSON.parse(TextStrings);
+
+
+Object.keys(_extends({},TextStrings)).
+filter(function(key){return TextStrings_sv[key]===undefined;}).
+forEach(function(key){return delete TextStrings[key];});
+
+
 TextStrings=_extends({},TextStrings_sv,TextStrings);
+
+
+
+
 TextStrings=JSON.stringify(TextStrings,undefined,2);
 fs.unlinkSync(path);
 fs.writeFileSync(path,TextStrings,{encoding:"utf8"});
