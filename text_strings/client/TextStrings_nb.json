@@ -889,7 +889,7 @@
   "data_tracking_task_desc": "Surf mindre enn %1$d frem til søndag",
   "create_data_assignment": "Gi oppgaven",
   "data_tracking_popover_header": "Surfpotten",
-  "data_tracking_popover_info": "Du har <boldGreen>%1$d</boldGreen> och <boldGreen>%2$d</boldGreen> kvar av surfpotten",
+  "data_tracking_popover_info_child": "Du har <boldGreen>%1$d</boldGreen> och <boldGreen>%2$d</boldGreen> kvar av surfpotten",
   "data_enough_for": "%1$d räcker till",
   "data_enough_for_hours": "%1$d timmar %2$d",
   "data_enough_for_hour": "%1$d timme %2$d",
@@ -1033,5 +1033,6 @@
   "active_now": "Inloggad",
   "task_requested_message": "Meddelande skickat",
   "surf_guide_popover_button_parent": "Läs mer i Surfguiden",
-  "wrong_connection_mode_plz_login": "Wrong login alternative, plz login and try to connect again when you are logged in"
+  "wrong_connection_mode_plz_login": "Wrong login alternative, plz login and try to connect again when you are logged in",
+  "data_tracking_popover_info_parent": "%1$d har <boldGreen>%2$d</boldGreen> och <boldGreen>%3$d</boldGreen> kvar av surfpotten"
 }
