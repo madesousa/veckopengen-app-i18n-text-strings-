@@ -1030,5 +1030,6 @@
   "transfer_to_transactional_account_popover": "Insättning i %1$s",
   "camera_permissions_denied": "Åtkomst till kameran nekad",
   "photo_permissions_denied": "Åtkomst till bilder nekad",
-  "active_now": "Inloggad"
+  "active_now": "Inloggad",
+  "task_requested_message": "Meddelande skickat"
 }
