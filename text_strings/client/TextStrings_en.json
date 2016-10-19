@@ -1031,5 +1031,6 @@
   "camera_permissions_denied": "Åtkomst till kameran nekad",
   "photo_permissions_denied": "Åtkomst till bilder nekad",
   "active_now": "Inloggad",
-  "task_requested_message": "Meddelande skickat"
+  "task_requested_message": "Meddelande skickat",
+  "surf_guide_popover_button_parent": "Läs mer i Surfguiden"
 }
