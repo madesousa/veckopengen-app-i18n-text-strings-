@@ -1029,5 +1029,6 @@
   "data_tracking_guide_child_regards": "Hälsningar din m8",
   "transfer_to_transactional_account_popover": "Insättning i %1$s",
   "camera_permissions_denied": "Åtkomst till kameran nekad",
-  "photo_permissions_denied": "Åtkomst till bilder nekad"
+  "photo_permissions_denied": "Åtkomst till bilder nekad",
+  "active_now": "Inloggad"
 }
