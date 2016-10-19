@@ -887,7 +887,7 @@
   "navbar_header_add_assignment": "Ny uppgift för %1$d",
   "data_tracking_task_title": "Surfpotten",
   "data_tracking_task_desc": "Använd max %1$d mobilsurf tills på söndag",
-  "create_data_assignment": "Ge ut uppgiften",
+  "create_data_assignment": "Ge ut Surfpotten",
   "data_tracking_popover_header": "Surfpotten",
   "data_tracking_popover_info": "Du har <boldGreen>%1$d</boldGreen> och <boldGreen>%2$d</boldGreen> kvar av surfpotten",
   "data_enough_for": "%1$d räcker till",
