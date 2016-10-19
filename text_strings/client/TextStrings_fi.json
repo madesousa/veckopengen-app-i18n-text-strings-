@@ -1032,5 +1032,6 @@
   "photo_permissions_denied": "Åtkomst till bilder nekad",
   "active_now": "Inloggad",
   "task_requested_message": "Meddelande skickat",
-  "surf_guide_popover_button_parent": "Läs mer i Surfguiden"
+  "surf_guide_popover_button_parent": "Läs mer i Surfguiden",
+  "wrong_connection_mode_plz_login": "Wrong login alternative, plz login and try to connect again when you are logged in"
 }
