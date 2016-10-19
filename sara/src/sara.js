@@ -1,5 +1,5 @@
+/*eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 var fs = require("fs")
-
 let templateDir = "./text_strings/client"
 let getPath = (file) => `${templateDir}/${file}`
 var TextStrings_sv_path = getPath("TextStrings_sv.json")
@@ -23,18 +23,26 @@ let syncTextStrings = (file) => {
   //Delete Support
   Object.keys({...TextStrings})
     .filter((key) => TextStrings_sv[key] === undefined)
-    .forEach((key) => delete TextStrings[key])
+    .forEach((key) => {
+      delete TextStrings[key]
+      console.log(`Deleting key: '${key}' from ${file}`)
+    })
 
   //Craete Support
-  TextStrings = {...TextStrings_sv, ...TextStrings}
+  var NewTextStrings = {...TextStrings_sv, ...TextStrings}
+  var NewTextStringsLength = Object.keys(NewTextStrings).length
+  var TextStringsLength = Object.keys(TextStrings).length
+  var delta = NewTextStringsLength - TextStringsLength
+  
+  if(delta > 0)
+    console.log(`Updated ${delta} textstrings in ${file}`)
 
   //No update support atm :(
 
   //Save changes
-  TextStrings = JSON.stringify(TextStrings, undefined, 2)
+  NewTextStrings = JSON.stringify(NewTextStrings, undefined, 2)
   fs.unlinkSync(path)
-  fs.writeFileSync(path, TextStrings, {encoding : "utf8"})
-  console.log(`Updated: ${path}`)
+  fs.writeFileSync(path, NewTextStrings, {encoding : "utf8"})
 }
 
 

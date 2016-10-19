@@ -1027,5 +1027,7 @@
   "data_tracking_guide_child_more_data": "Så räcker surfen längre...",
   "data_tracking_guide_child_good_luck": "Lycka till med ditt surfande 😀",
   "data_tracking_guide_child_regards": "Hälsningar din m8",
-  "transfer_to_transactional_account_popover": "Insättning i %1$s"
+  "transfer_to_transactional_account_popover": "Insättning i %1$s",
+  "camera_permissions_denied": "Åtkomst till kameran nekad",
+  "photo_permissions_denied": "Åtkomst till bilder nekad"
 }
