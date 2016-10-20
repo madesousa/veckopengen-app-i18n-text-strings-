@@ -120,7 +120,7 @@
   "child_editor_money_amount_insctructions_monthly": "Juttele lapsesi kanssa sitä,\nmihin rahojen tulisi riittää. Muista, että\nvoit myöhemmin lisätä tehtäviä, jotka\nkorottavat kuukausirahaa.",
   "child_editor_money_instructions_weekly": "Päätä, saako lapsesi \nviikko- vai kuukausirahaa. Alle\n11-vuotiaille lapsille\nviikkoraha on tavallisin.",
   "child_editor_money_instructions_monthly": "Päätä, saako lapsesi \nviikko- vai kuukausirahaa. Yli\n11-vuotiaille lapsille\nkuukausiraharaha on tavallisin.",
-  "child_editor_money_instructions_suggestion": "Useimmilla %1$d-vuotiailla on \n%2$c %3$s:ssa.",
+  "child_editor_money_instructions_suggestion": "Useimpien %1$d-vuotiaiden %3$s on \n%2$c.",
   "child_editor_money_amount_warning_title": "Saldo miinuksella",
   "child_editor_money_amount_warning_text": "Koska alennat %1$ss %2$s yli %3$s saldo on %2$sen miinuksella.\n\nVoit lisätä säästöpossuun rahaa ja siirtää sitä sitten %2$s:een tai nostaa summan saman tien korottaaksesi tilin saldoa.",
   "child_editor_money_amount_warning_ok": "Ymmärrän",
