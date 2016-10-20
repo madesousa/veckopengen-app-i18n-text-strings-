@@ -88,7 +88,7 @@
   "signin_instructions": "Til að skrá þig inn sendum við einnotunar kóða til þín",
   "signin_phone_email": "gsm-sími / tölvupóstur",
   "signin_code_send": "Senda kóða",
-  "signin_code_sent": "Kóðinn hefur verið sendur",
+  "signin_code_sent": "Sláðu kóðann sem við sendum inn í textaskeyti",
   "signin_code": "kóði",
   "signin_button": "skrá inn",
   "signin_code_invalid_title": "Ert þú með reikning?",

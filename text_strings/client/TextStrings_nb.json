@@ -88,7 +88,7 @@
   "signin_instructions": "Angi ditt mobilnummer",
   "signin_phone_email": "Mobilnummer",
   "signin_code_send": "Send kode",
-  "signin_code_sent": "Koden har blitt sendt",
+  "signin_code_sent": "Skriv inn koden vi sendte en SMS",
   "signin_code": "Kode",
   "signin_button": "Logg inn",
   "signin_code_invalid_title": "Har du en konto?",

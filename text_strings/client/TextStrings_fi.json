@@ -88,7 +88,7 @@
   "signin_instructions": "Syötä Matkapuhelinnumero",
   "signin_phone_email": "Matkapuhelinnumero",
   "signin_code_send": "Lähetä koodi",
-  "signin_code_sent": "Koodi on lähetetty",
+  "signin_code_sent": "Syötä koodi lähetimme tekstiviestinä",
   "signin_code": "Koodi",
   "signin_button": "Kirjaudu sisään",
   "signin_code_invalid_title": "Onko sinulla tili?",

@@ -88,7 +88,7 @@
   "signin_instructions": "Enter your number",
   "signin_phone_email": "Mobile number",
   "signin_code_send": "Send code",
-  "signin_code_sent": "The code has been sent",
+  "signin_code_sent": "Enter the code we sent in a SMS",
   "signin_code": "Code",
   "signin_button": "Sign in",
   "signin_code_invalid_title": "Have you got an account?",
