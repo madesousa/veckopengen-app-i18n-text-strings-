@@ -474,7 +474,7 @@
   "child_dashboard_request_assignment": "Anna minulle uusi tehtävä",
   "child_dashboard_request_assignment_message_delivered": "Viesti lähetetty",
   "child_dashboard_request_assignment_push": "%1$d haluaa saada uuden tehtävän!",
-  "listview_footer_get_more": "Nouda lisää",
+  "listview_footer_get_more": "Näytä lisää",
   "trans_allowance_to_external_account": "%1$s siirrettiin %2$d:n pankkitilille",
   "todays_bonus": "Päivän bonus on <b>%1$c</b>",
   "expense_popover_instructions": "Ilmoita säästöpossusta otettava summa",
