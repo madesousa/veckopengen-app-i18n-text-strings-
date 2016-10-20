@@ -1034,5 +1034,6 @@
   "task_requested_message": "Meddelande skickat",
   "surf_guide_popover_button_parent": "Läs mer i Surfguiden",
   "wrong_connection_mode_plz_login": "Wrong login alternative, plz login and try to connect again when you are logged in",
-  "data_tracking_popover_info_parent": "%1$d har utnyttjat %2$d och har <boldGreen>%3$d</boldGreen> kvar för att få belöningen på %4$d"
+  "data_tracking_popover_info_parent": "%1$d har utnyttjat %2$d och har <boldGreen>%3$d</boldGreen> kvar för att få belöningen på %4$d",
+  "created_child_no_data_tracking": "Surfkoll"
 }
