@@ -1,6 +1,6 @@
 {
   "Development" : {"features" : {"enableDataTrackingTask" : true}},
-  "Staging" : {"features" : {"enableDataTrackingTask" : true}},
+  "Staging" : {"features" : {"enableDataTrackingTask" : false}},
   "Beta" : {"features" : {"enableDataTrackingTask" : true}},
   "Production" : {"features" : {"enableDataTrackingTask" : false}}
 }
