@@ -59,7 +59,7 @@
   "notifications_task_done_title": "Ka-tjiiiing!",
   "notifications_task_done_text": "{task} was approved and you have received {amount} {currency}!",
   "notification_payment_sent_title": "Has the weekly pocket money been paid out in cash?",
-  "notification_payment_sent_text": "%s got %s %s in the piggy bank. Have you paid it out in cash?",
+  "notification_payment_sent_text": "{child} got {amount} {currency} in the piggy bank. Have you paid it out in cash?",
 
   "dashboard_interest_added": "Received {amount} {currency} in savings bonus",
   "dashboard_changed_to_weekly_allowance": "Switched to weekly allowance.",

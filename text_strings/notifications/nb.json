@@ -29,7 +29,7 @@
   "push_insertion_by_other": "Hærlig! {parent} satt akkurat inn {amount} {currency} i din sparegris",
   "push_account_select_started": "Registrering av bankkonto är igång",
   "push_account_selected": "Bankkonto är aktiverat",
-  "push_text_trustly_payout_completed_parent": "{amount} kr har blitt overført til {name}",
+  "push_text_trustly_payout_completed_parent": "{amount} {currency} har blitt overført til {name}",
   "push_text_trustly_payout_completed_child": "Dine ukepenger har blitt utbetalt",
   "push_text_trustly_failed_parent": "Overføringen av {name}s {recurring} mislyktes",
   "push_text_trustly_failed_child": "Overføringen av din {recurring} mislyktes",
@@ -59,7 +59,7 @@
   "notifications_task_done_title": "Klirrr!",
   "notifications_task_done_text": "{task} ble godkjent og du har inkassert {amount} {currency}!",
   "notification_payment_sent_title": "Har ukepengene blitt utbetalt kontant?",
-  "notification_payment_sent_text": "%s fick %s %s i spargrisen. Har du betalt ut den kontant?",
+  "notification_payment_sent_text": "{child} fick {amount} {currency} i spargrisen. Har du betalt ut den kontant?",
 
   "dashboard_interest_added": "Fikk {amount} {currency} i sparebonus",
   "dashboard_changed_to_weekly_allowance": "Har gått over til ukepenger.",

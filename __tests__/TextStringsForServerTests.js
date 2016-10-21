@@ -1,4 +1,5 @@
 import {languageCodes} from "../index"
+import {compareKeys, compareKeysWithinTextStrings} from "../TestUtil"
 jest.disableAutomock()
 
 var textStringsTypes = ["notifications", "templates"]
@@ -7,24 +8,6 @@ var textStrings = {}
 textStringsTypes.forEach(textStringsType => textStrings[textStringsType] = {})
 textStringsTypes.forEach(textStringsType => languageCodes.forEach(lang => textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)))
 
-
-var compareKeys = (lang1, lang2, textStringsType) => {
-	var firstLang = textStrings[textStringsType][lang1]
-	var keys = Object.keys(firstLang)
-	var secondLang = textStrings[textStringsType][lang2]
-	keys.forEach(key => {
-		var errorMessage
-
-		if(secondLang[key] === undefined || secondLang[key] === "")
-			errorMessage = `Lang: '${lang2}', Missing key: '${key}'`
-
-		expect(errorMessage).toEqual(undefined)
-
-		if(secondLang[key].indexOf("$ ") !== -1)
-			errorMessage = `Lang: '${lang2}', Key: '${key}' has a $ and whitespace, do you mean $s, $d or $c ?`
-		expect(errorMessage).toEqual(undefined)
-	})
-}
 
 textStringsTypes.forEach(textStringsType => {
 	describe(`${textStringsType} TextStrings`, () => {
@@ -35,7 +18,11 @@ textStringsTypes.forEach(textStringsType => {
 			})
 
 			it("all textstrings should have a equivalent string in all other languages", () => {
-				languageCodes.forEach(lang2 => compareKeys(lang, lang2, textStringsType))
+				languageCodes.forEach(lang2 => compareKeys(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
+			})
+
+			it("all textstrings should have equivalent keys ({name}) in all other languages ", () => {
+				languageCodes.forEach(lang2 => compareKeysWithinTextStrings(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
 			})
 		})
 	})

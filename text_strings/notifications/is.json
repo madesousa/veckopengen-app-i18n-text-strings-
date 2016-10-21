@@ -59,7 +59,7 @@
   "notifications_task_done_title": "Klirrr!",
   "notifications_task_done_text": "{task} blev godkänd och du har inkasserat {amount} {currency}!",
   "notification_payment_sent_title": "Har veckopengen betalats ut kontant?",
-  "notification_payment_sent_text": "%s fick %s %s i spargrisen. Har du betalat ut den kontant?",
+  "notification_payment_sent_text": "{child} fick {amount} {currency} i spargrisen. Har du betalat ut den kontant?",
 
   "dashboard_interest_added": "Fick {amount} {currency} i sparbonus",
   "dashboard_changed_to_weekly_allowance": "Har gått över till veckopeng.",

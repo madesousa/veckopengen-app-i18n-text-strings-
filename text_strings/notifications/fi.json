@@ -59,7 +59,7 @@
   "notifications_task_done_title": "Pling!",
   "notifications_task_done_text": "{task}shyväksyttiin, ja olet bsaanut {amount} {currency}!",
   "notification_payment_sent_title": "Onko viikkoraha maksettu käteisellä?",
-  "notification_payment_sent_text": "%s sai %s %s säästöpossuun. Oletko maksanut sen käteisellä?",
+  "notification_payment_sent_text": "{child} sai {amount} {currency} säästöpossuun. Oletko maksanut sen käteisellä?",
 
   "dashboard_interest_added": "Sait {amount} {currency} säästöbonusta",
   "dashboard_changed_to_weekly_allowance": "Ovat siirtyneet viikkoraha.",

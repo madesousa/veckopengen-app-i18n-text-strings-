@@ -59,7 +59,7 @@
   "notifications_task_done_title": "Ka-tjiiing!",
   "notifications_task_done_text": "{task} blev godkendt og du har indkasseret {amount} {currency}!",
   "notification_payment_sent_title" : "Er ugepengene udbetalt kontant?",
-  "notification_payment_sent_text" : "%s fik %s %s i sparegrisen. Har du udbetalt dem kontant?",
+  "notification_payment_sent_text" : "{child} fik {amount} {currency} i sparegrisen. Har du udbetalt dem kontant?",
 
   "dashboard_interest_added": "Fik {amount} {currency} i opsparingsbonus",
   "dashboard_changed_to_weekly_allowance": "Er gået over til ugepenge.",
