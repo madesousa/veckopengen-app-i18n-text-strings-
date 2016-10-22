@@ -666,7 +666,7 @@
   "trustly_payout_failed_email_subject": "Ilmoitus maksun epäonnistumisesta ja palautuksesta.",
   "transaction": "tilisiirto",
   "create_account": "Luo tili",
-  "signup_connect_family_member": "Parinmuodostus perheenjäsenen",
+  "signup_connect_family_member": "Parinmuodostus perheenjäseneen",
   "terms_conditions": "Jatkamalla hyväksyt Gimin \n <b>käyttöehdot ja yksityisyydensuojakäytännön</b>",
   "transaction_from_transactionalAccount_to_savingsAccount": "Siirretään %1$s säästöpossuun",
   "one_day_to_bonus": "Säästöbonus maksetaan huomenna",
