@@ -362,7 +362,7 @@
   "trans_deposit_to_savings_account": "%1$d laittoi rahaa säästöpossuun",
   "trans_deposit_to_transactional_account": "%1$d laittoi rahaa %2$s:een",
   "trans_deposit_intrest_to_savings_account": "Säästöbonus laitettiin säästöpossuun",
-  "trans_deposit_allowance_to_transactional_account": "%1$s laitettiin sisään",
+  "trans_deposit_allowance_to_transactional_account": "%1$s lisätty",
   "trans_withdraw_allowance_from_transactional_account": "Edellinen %1$s otettiin ulos",
   "trans_assignment_was_cancelled": "%1$d poisti hyväksytyn tehtävän",
   "notifications_promo_header": "Ilmoituksia",
