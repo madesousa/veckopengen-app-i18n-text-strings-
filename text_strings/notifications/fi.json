@@ -86,7 +86,7 @@
   "data_tracking_assignment_threshold_4_child": "Olet surfannut 100 % sovitusta kokonaismäärästä",
 
   "push_trustly_over_limit": "Misslyckade överföring på {amount} {currency}.",
-  "dashboard_goal_created": "Fick sparmålet {goal}.",
+  "dashboard_goal_created": "Skapat sparmålet {goal}.",
   "dashboard_goal_completed": "Uppnådde sparmålet {goal}.",
   "dashboard_transfer_to_savings": "Sparade {amount} {currency}.",
   "notification_new_data_usage_task": "Du har fått en ny surfkolls uppgift."
