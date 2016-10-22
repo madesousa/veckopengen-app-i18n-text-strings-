@@ -405,7 +405,7 @@
   "notifications_interest_deposit_title": "Onnea!",
   "notifications_interest_deposit_text": "Olet saanut {amount} {currency} säästöbonusta!",
   "notifications_task_done_title": "Pling!",
-  "notifications_task_done_text": "{task}shyväksyttiin, ja olet bsaanut {amount} {currency}!",
+  "notifications_task_done_text": "{task} hyväksyttiin, ja olet tienannut {amount} {currency}!",
   "notification_no_weekly_payment_reminder_text": "Bravo, viikkoraha on maksettu tältä viikolta!",
   "notification_no_monthly_payment_reminder_text": "Bravo, kuukausiraha on maksettu tältä kuulta!",
   "child_settings_select_trustly_acount": "Linkitä Trustly-tili (beta)",
