@@ -86,7 +86,7 @@
   "data_tracking_assignment_threshold_4_child": "Du har brukt opp 100% av den totale surfemengden!",
 
   "push_trustly_over_limit": "Mislykket overføring på {amount} {currency}.",
-  "dashboard_goal_created": "Fikk sparemålet {goal}.",
+  "dashboard_goal_created": "Opprettet sparemålet {goal}.",
   "dashboard_goal_completed": "Oppnådde sparemålet {goal}.",
   "dashboard_transfer_to_savings": "Spart {amount} {currency}.",
   "notification_new_data_usage_task": "Du har fått en ny surfekontroll oppgave."
