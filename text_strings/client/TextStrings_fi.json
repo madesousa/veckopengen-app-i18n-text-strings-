@@ -727,7 +727,7 @@
   "add_child_allowance_intrest_text_monthly": "Kun laitat säästöpossuun %1$c e, säästöbonus on \n<boldGreen>%2$c</boldGreen> kuukauden lopussa",
   "add_child_allowance_intrest_headline": "Haluatko antaa %1$dlle säästökorkoa?",
   "add_child_allowance_intrest_under_headline": "Yleisin korko nyt on %1$d%",
-  "common_pluralize_name_ending": "s",
+  "common_pluralize_name_ending": "n",
   "child_settings_age_year": "%1$d vuotta",
   "social_media_share_facebook": "Jaa Facebookissa",
   "social_media_share_twitter": "Jaa Twitterissä",
