@@ -875,7 +875,7 @@
   "error_message_email_in_use": "Stated email is already in use",
   "invite_email_subject": "Invitation to Gimi",
   "login_email_subject": "Gimi Login",
-  "forgot_save_text_month": "Weekly allowance that´s not paid in time will be added on next month",
+  "forgot_save_text_month": "Monthly allowance that´s not paid in time will be added on next month",
   "forgot_automatic_text_month": "Monthly allowance that´s not paid in time will automatically be put into %1$d piggy bank",
   "savings_calc_child_slider_headline": "You can afford",
   "sign_in_step2_support": "Contact support",
