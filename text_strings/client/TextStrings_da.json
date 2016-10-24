@@ -567,7 +567,7 @@
   "trustly_transacations_pending": "Igangværende transaktioner",
   "trustly_transacations_cancelled": "Afbrudte transaktioner",
   "no_money_pig_parent_head": "Velkommen til %1$d sparegris",
-  "no_money_pig_parent_text": "Den bliver suppleret hver %1$d %2$d%3$d med %4$d. Sæt penge ind eller giv oplysninger for hurtigere at få den til at vokse.",
+  "no_money_pig_parent_text": "Den bliver suppleret hver %1$d %2$d%3$dmed %4$d. Sæt penge ind eller giv oplysninger for hurtigere at få den til at vokse.",
   "parent_settings_change": "Ret mine oplysninger",
   "new_account_value": "(Nu %1$c.)",
   "trustly_item_spec_bank_success_receipt_to_account_info_today": "%1$c. indsættes i dag",
