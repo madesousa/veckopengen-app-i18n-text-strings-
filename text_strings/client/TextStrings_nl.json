@@ -18,7 +18,7 @@
   "your": "je",
   "its": ,z'n
   "save": sparen/bewaren",
-  "n_days": "%1$d dagar",
+  "n_days": "%1$d dagen,
   "tomorrow": "morgen",
   "tomorrow_during": "morgen",
   "today": "vandaag",
@@ -69,21 +69,21 @@
   "photoinput_source_title": kies foto uit..,
   "photoinput_source_camera": camera,
   "photoinput_source_gallery": gallerij,
-  "connection_error_title": "Kan inte ansluta till Veckopengen.se",
-  "connection_error_text": "Du behöver en anslutning för att Veckopengen ska fungera tillförlitligt. Se till att du är uppkopplad mot Internet och försök sedan igen.",
+  "connection_error_title": Kan niet verbinden met Veckopengen.se",
+  "connection_error_text": je hebt een verbinding nodig om Veckopengen betrouwbaar te laten werken. Zorg ervoor dat je gekoppeld bent aan  uppkopplad mot Internet och försök sedan igen.",
   "connection_error_retry": probeer weer verbnding te krijgen,
-  "open_address_book_auth_error_title": "Vi kan inte öppna dina kontakter",
+  "open_address_book_auth_error_title": We kunnen je contacten niet openen,
   "open_address_book_auth_error_text": "Kontrollera att du gett Veckopengen åtkomst till dina kontakter i inställningar för integritetsskydd.",
-  "open_address_book_pick_contact_info": "Välj kontaktuppgift",
+  "open_address_book_pick_contact_info":  Kies contactgegevens,
   "start_slide_1_title": (Het is) Tijd om over geld te praten! ",
   "start_slide_2_title": "Enkla och roliga verktyg",
   "start_slide_2_text": "För uppgifter, sparande och \npåminnelser om veckopengen",
   "start_slide_3_title": Een leerzame manier",
   "start_slide_3_text": voor kinderen en jongeren om met hun eigen geld om te gaan,
-  "start_sign_up": Ik wil nu beginnen,
-  "start_sign_in": Ik heb al een account ",
-  "start_invite_greeting_title": "Välkommen till Veckopengen!",
-  "start_invite_greeting_text": "För att acceptera din inbjudan behöver du logga in eller skapa ett konto genom att trycka på <b>Koppla ihop med familjemedlem</b>.",
+  "start_sign_up": Ik wil nu beginnen.
+  "start_sign_in": Ik heb al een account 
+  "start_invite_greeting_title": Welkom bij Gimi.
+  "start_invite_greeting_text": om je uitnodiging te accepteren, moet je inloggen of een account aanmaken door op <b>koppel aan de gezinsdeelnemersljemedlem</b>.",
   "signin_title"log in,
   "signin_instructions":geef je telefoonnummer
  ,
@@ -93,28 +93,28 @@
   "signin_code": Code,
   "signin_button": log in,
   "signin_code_invalid_title": Heb je een account?,
-  "signin_code_invalid_text": "Vi kan inte hitta ditt konto (%1$d). Kontrollera att dina uppgifter stämmer och försök igen.",
-  "signin_code_error_title": "Verifieringsfel",
-  "signin_code_error_text": "Fel vid verifieringen av telefonnummer / e-post. Kontrollera din Internetuppkoppling.",
+  "signin_code_invalid_text": We kunnen je account niet vinden (%1$d). Controleer of je gegevens kloppen en probeer het weer.
+  "signin_code_error_title": Verifiëringsfout,
+  "signin_code_error_text": Fout bij het verifiëren van  telefoonnummer  / e-mail. Controleer je internetverbinding.
   "signin_token_invalid_title": 
      Klopt de code?,
-  "signin_token_invalid_text": "Vi kunde inte verifiera koden. Kontrollera att den är korrekt ifylld.",
-  "signin_token_error_title": "Inloggningsfel",
+  "signin_token_invalid_text": We konden de code noet verifiëren. Controleer of die juist is ingevuld.
+  "signin_token_error_title": inlogfout,
   "signin_token_error_text": Er ging iets fout bij het inloggen. Controleer je internetverbinding ",
-  "signin_link_invalid_title": "Inloggningsfel",
-  "signin_link_invalid_text": "Länken för att logga in är inte längre giltig. Försök att logga in på nytt.",
-  "signin_link_error_title": "Inloggningsfel",
-  "signin_link_error_text": "Någonting gick fel vid inloggning. Kontrollera din Internetuppkoppling och försök på nytt genom att öppna samma länk igen.",
+  "signin_link_invalid_title": Inlogfout,
+  "signin_link_invalid_text": De link om in te loggen is niet meer geldig. Probeer opnieuw in te loggen.,
+  "signin_link_error_title":  Inlogfout
+  "signin_link_error_text": Er ging iets fout bij het inloggen.Controleer je internetverbinding en probeer het opnieuw door dezelfde link te openen.",
   "dashboard_title": Mijn kinderen
   "dashboard_add_child": Voeg een kind toe.",
-  "dashboard_parent_welcome": "Välkommen till Veckopengen!",
-  "dashboard_parent_instructions": "Lägg till ett barn eller öppna och acceptera en inbjudan för att komma igång.",
-  "dashboard_invite": "Har du fått en inbjudan?",
-  "has_invite_title": "Öppna inbjudan",
-  "has_invite_instructions": "Om du har fått en inbjudan av ditt barn eller en annan förälder så öppna och klicka på länken i meddelandet för att acceptera inbjudan.",
-  "child_editor_start_title": "Om barnet",
-  "child_editor_start_name_hint": "Ditt förnamn",
-  "child_editor_start_age_hint": "Ålder",
+  "dashboard_parent_welcome":Welkom bij Gimi!
+  "dashboard_parent_instructions": Voeg een kind toe of open en accepteer een uitnodiging  för att komma igång.",
+  "dashboard_invite": Heb je een uitnodiging ontvangen?
+  "has_invite_title": Open de uitnodiging,
+  "has_invite_instructions": Als je een uitnodiging hebt gekregen van je kind  of een andere ouder klick dan op de link in het bericht  om de uitnodiging te accepteren.inbjudan.",
+  "child_editor_start_title": Over het kind
+  "child_editor_start_name_hint": Je voornaam,
+  "child_editor_start_age_hint": Leeftijd,
   "child_editor_start_age_microcopy": "Åldern används i nästa steg för att ge förslag på vecko- eller månadspeng",
   "child_editor_money_title": "Barnets peng",
   "child_editor_money_amount": "Summa",
