@@ -115,11 +115,11 @@
   "child_editor_start_title": Over het kind
   "child_editor_start_name_hint": Je voornaam,
   "child_editor_start_age_hint": Leeftijd,
-  "child_editor_start_age_microcopy": "Åldern används i nästa steg för att ge förslag på vecko- eller månadspeng",
+  "child_editor_start_age_microcopy": De leeftijd wordt gebruikt  bij de volgende stap om een voorstel te doen voor week-of maandgeld,
   "child_editor_money_title": "Barnets peng",
-  "child_editor_money_amount": "Summa",
-  "child_editor_money_amount_insctructions_weekly": "Prata gärna med ditt barn om vad\npengarna ska räcka till. Tänk även på att\ndu senare kan lägga till uppgifter som\nökar veckopengen.",
-  "child_editor_money_amount_insctructions_monthly": "Prata gärna med ditt barn om vad\npengarna ska räcka till. Tänk även på att\ndu senare kan lägga till uppgifter som\nökar månadspengen.",
+  "child_editor_money_amount": Bedrag,
+  "child_editor_money_amount_insctructions_weekly": Bespreek met je kind wat er van het geld betaald moet worden. Denk er ook aan dat je later taken kunt toevoegen die het weekgeld verhogen.
+  "child_editor_money_amount_insctructions_monthly": "Prata gärna med ditt barn om vad\npengarna ska räcka till. Tänk även på att\ndu senare kan lägga till uppgifter som\nökar månadspengen.", 
   "child_editor_money_instructions_weekly": "Bestäm om ditt barn ska ha \nvecko- eller månadspeng. För\nbarn under 11 år är\nveckopeng vanligast.",
   "child_editor_money_instructions_monthly": "Bestäm om ditt barn ska ha \nvecko- eller månadspeng. För\nbarn över 11 år är\nmånadspeng vanligast.",
   "child_editor_money_instructions_suggestion": "De flesta %1$d-åringar har \n%2$c i %3$s.",
