@@ -52,10 +52,6 @@
   "monthly_allowance_parent_pre_payout_notification": "Tiden er inne for {child}s månedspenger!",
   "notifications_interest_deposit_title": "Gratulerer!",
   "notifications_interest_deposit_text": "Du har fått {amount} {currency} i sparebonus!",
-  "notification_weekly_payment_received": "Ny uke og {amount} {currency} av dine forrige ukepenger har automatisk blitt spart!",
-  "notification_weekly_payment_sent": "{name}s ukepenger på {amount} {currency} har automatisk blitt spart!",
-  "notification_monthly_payment_received": "Ny måned og {amount} {currency} av dine forrige månedspenger har automatisk blitt spart!",
-  "notification_monthly_payment_sent": "{name}s månedspenger på {amount} {currency} har automatisk blitt spart!",
   "notifications_task_done_title": "Klirrr!",
   "notifications_task_done_text": "{task} ble godkjent og du har inkassert {amount} {currency}!",
   "notification_payment_sent_title": "Har ukepengene blitt utbetalt kontant?",
@@ -91,5 +87,13 @@
   "dashboard_transfer_to_savings": "Spart {amount} {currency}.",
   "notification_new_data_usage_task": "Du har fått en ny surfekontroll oppgave.",
   "push_goal_updated": "{user} har ändrat sparmål {goal}.",
-  "push_task_updated": "{user} har ändrat uppgiften {goal}."
+  "push_task_updated": "{user} har ändrat uppgiften {task}.",
+  "notification_weekly_payment_transferred_child": "Ny uke og {amount} {currency} av dine forrige ukepenger har automatisk blitt spart!",
+  "notification_weekly_payment_transferred_parent": "{name}s ukepenger på {amount} {currency} har automatisk blitt spart!",
+  "notification_monthly_payment_transferred_child": "Ny måned og {amount} {currency} av dine forrige månedspenger har automatisk blitt spart!",
+  "notification_monthly_payment_transferred_parent": "{name}s månedspenger på {amount} {currency} har automatisk blitt spart!",
+  "notification_weekly_payment_received": "You have received your weekly allowance of {amount} {currency}!",
+  "notification_weekly_payment_sent": "{name} has received their weekly allowance of {amount} {currency}.",
+  "notification_monthly_payment_received": "You have received your monthly allowance of {amount} {currency}!",
+  "notification_monthly_payment_sent": "{name} has received their monthly allowance of {amount} {currency}."
 }

@@ -52,10 +52,6 @@
   "monthly_allowance_parent_pre_payout_notification": "Time for {child}'s monthly allowance!",
   "notifications_interest_deposit_title": "Congratulations!",
   "notifications_interest_deposit_text": "You have received {amount} {currency} in savings bonus!",
-  "notification_weekly_payment_received": "New week and {amount} {currency} of your last weekly allowance has been auto saved!",
-  "notification_weekly_payment_sent": "{name}'s weekly allowance of {amount} {currency} has been auto saved!",
-  "notification_monthly_payment_received": "New month and {amount} {currency} of your last monthly allowance has been auto saved!",
-  "notification_monthly_payment_sent": "{name}'s monthly allowance of {amount} {currency} has been auto saved!",
   "notifications_task_done_title": "Ka-tjiiiing!",
   "notifications_task_done_text": "{task} was approved and you have received {amount} {currency}!",
   "notification_payment_sent_title": "Has the weekly pocket money been paid out in cash?",
@@ -90,6 +86,14 @@
   "dashboard_goal_completed": "Completed {goal}.",
   "dashboard_transfer_to_savings": "Saved {amount} {currency}.",
   "notification_new_data_usage_task": "Du har fått en ny surfkolls uppgift.",
-  "push_goal_updated": "{user} har ändrat sparmål {goal}.",
-  "push_task_updated": "{user} har ändrat uppgiften {goal}."
+  "push_goal_updated": "{user} has updated {goal}.",
+  "push_task_updated": "{user} has updated {task}.",
+  "notification_weekly_payment_transferred_child": "New week and {amount} {currency} of your last weekly allowance has been auto saved!",
+  "notification_weekly_payment_transferred_parent": "{name}'s weekly allowance of {amount} {currency} has been auto saved!",
+  "notification_monthly_payment_transferred_child": "New month and {amount} {currency} of your last monthly allowance has been auto saved!",
+  "notification_monthly_payment_transferred_parent": "{name}'s monthly allowance of {amount} {currency} has been auto saved!",
+  "notification_weekly_payment_received": "You have received your weekly allowance of {amount} {currency}!",
+  "notification_weekly_payment_sent": "{name} has received their weekly allowance of {amount} {currency}.",
+  "notification_monthly_payment_received": "You have received your monthly allowance of {amount} {currency}!",
+  "notification_monthly_payment_sent": "{name} has received their monthly allowance of {amount} {currency}."
 }

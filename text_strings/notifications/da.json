@@ -52,10 +52,6 @@
   "monthly_allowance_parent_pre_payout_notification": "Dags för {child}s månadspeng!",
   "notifications_interest_deposit_title": "Tillykke!",
   "notifications_interest_deposit_text": "Du har fået {amount} {currency} i opsparingsbonus!",
-  "notification_weekly_payment_received": "Ny vecka och {amount} {currency} av din förra veckopeng har autosparats!",
-  "notification_weekly_payment_sent": "{name}s veckopeng på {amount} {currency} har autosparats!",
-  "notification_monthly_payment_received": "Ny månad och {amount} {currency} av din förra månadspeng har autosparats!",
-  "notification_monthly_payment_sent": "{name}s månadspeng på {amount} {currency} har autosparats!",
   "notifications_task_done_title": "Ka-tjiiing!",
   "notifications_task_done_text": "{task} blev godkendt og du har indkasseret {amount} {currency}!",
   "notification_payment_sent_title" : "Er ugepengene udbetalt kontant?",
@@ -91,5 +87,13 @@
   "dashboard_transfer_to_savings": "Sparade {amount} {currency}.",
   "notification_new_data_usage_task": "Du har fått en ny surfkolls uppgift.",
   "push_goal_updated": "{user} har ändrat sparmål {goal}.",
-  "push_task_updated": "{user} har ändrat uppgiften {goal}."
+  "push_task_updated": "{user} har ändrat uppgiften {task}.",
+  "notification_weekly_payment_transferred_child": "Ny vecka och {amount} {currency} av din förra veckopeng har autosparats!",
+  "notification_weekly_payment_transferred_parent": "{name}s veckopeng på {amount} {currency} har autosparats!",
+  "notification_monthly_payment_transferred_child": "Ny månad och {amount} {currency} av din förra månadspeng har autosparats!",
+  "notification_monthly_payment_transferred_parent": "{name}s månadspeng på {amount} {currency} har autosparats!",
+  "notification_weekly_payment_received": "Du har fått din veckopeng på {amount} {currency}!",
+  "notification_weekly_payment_sent": "{name} har fått sin veckopeng på {amount} {currency}.",
+  "notification_monthly_payment_received": "Du har fått din månadspeng på {amount} {currency}!",
+  "notification_monthly_payment_sent": "{name} har fått sin månadspeng på {amount} {currency}."
 }
