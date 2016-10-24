@@ -89,5 +89,7 @@
   "dashboard_goal_created": "Opprettet sparemålet {goal}.",
   "dashboard_goal_completed": "Oppnådde sparemålet {goal}.",
   "dashboard_transfer_to_savings": "Spart {amount} {currency}.",
-  "notification_new_data_usage_task": "Du har fått en ny surfekontroll oppgave."
+  "notification_new_data_usage_task": "Du har fått en ny surfekontroll oppgave.",
+  "push_goal_updated": "{user} har ändrat sparmål {goal}.",
+  "push_task_updated": "{user} har ändrat uppgiften {goal}."
 }
