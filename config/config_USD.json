@@ -13,5 +13,7 @@
   "numberOfDecimals" : 2,
   "defaultDataTaskReward" : 1,
   "prefix": "$",
-  "suffix": ""
+  "suffix": "",
+  "thousandsSeparator": ",",
+  "decimalMark": "."
 }

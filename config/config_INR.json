@@ -14,6 +14,6 @@
   "defaultDataTaskReward" : 1,
   "prefix": "₹",
   "suffix": "",
-  "thousands_separator": ".",
-  "decimal_mark": ","
+  "thousandsSeparator": ".",
+  "decimalMark": ","
 }
