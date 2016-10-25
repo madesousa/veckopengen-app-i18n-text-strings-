@@ -1043,5 +1043,7 @@
   "paid_to_bank_acount": "Utbetalat till bankkonto",
   "not_paid_to_bank_acount": "Ej utbetalat till bankkonto",
   "trustly_settings_failed_text": "Något gick snett... vänligen gör något",
-  "trustly_settings_pending_text": "Trustly kopplas nu ihop! snart kan du börja med överföringar"
+  "trustly_settings_pending_text": "Trustly kopplas nu ihop! snart kan du börja med överföringar",
+  "trustly_popover_for_parent_transaction_month": "%1$s kommer automatiskt att betalas ut den %2$d%3$d varje månad. Pengarna dras från ditt konto någon dag innan utbetalningen sker till ditt barns konto.",
+  "trustly_popover_for_parent_transaction_week": "%1$s kommer automatiskt att betalas ut på %2$d. Pengarna dras från ditt konto någon dag innan utbetalningen sker till ditt barns konto."
 }
