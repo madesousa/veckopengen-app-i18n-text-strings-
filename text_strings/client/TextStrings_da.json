@@ -919,8 +919,8 @@
   "premium_content_support_info": "Fortrinsret til al support med vores eget supportteam og prioritet ved eventuelle spørgsmål eller problemer.",
   "premium_content_transactions_headline": "KONTOOVERFØRSLER",
   "premium_content_transactions_info": "Uge- og månedspengene overføres automatisk fra din bankkonto til dine børns bankkonto, og du kan nemt følge alle overførsler til dine børn.",
-  "premium_navbar": "Opgrader til premium powers",                                                                                                                                     
-  "premium_buy": "Køb",                                                                                                                                                    
+  "premium_navbar": "Opgrader til premium powers",
+  "premium_buy": "Køb",
   "no_data_left": "Slut",
   "remove_data_assingment": "Afslut",
   "data_tracking_completed_info": "data_tracking_completed_info",
@@ -1038,5 +1038,6 @@
   "created_child_no_data_tracking": "Surfkoll",
   "data_tracking_popover_no_left_info_text_parent": "%1$d har använt %2$d och gått över sin surfpott. %3$d får inte belöningen på <boldRed>%4$c</boldRed> men en ny chans nästa vecka.",
   "yesterday": "Igår",
-  "help_text_amount": "Klik her for et bestemt beløb"
+  "help_text_amount": "Klik her for et bestemt beløb",
+  "trustly_change_date_error_desc": "Du kan inte ändra dag då pengarna håller på att överföras"
 }
