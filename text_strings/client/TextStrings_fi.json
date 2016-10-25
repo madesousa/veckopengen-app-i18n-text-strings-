@@ -1039,5 +1039,9 @@
   "data_tracking_popover_no_left_info_text_parent": "%1$d on käyttänyt %2$d ja ylittänyt nettisaldonsa. %3$d ei saa palkintoa <boldRed>%4$c</boldRed>, mutta ensi viikolla on uusi mahdollisuus.",
   "yesterday": "Eilen",
   "help_text_amount": "Klikkaa tästä tietyn määrän",
-  "trustly_change_date_error_desc": "Et voi muuttaa päivää, sillä rahoja ollaan siirtämässä"
+  "trustly_change_date_error_desc": "Et voi muuttaa päivää, sillä rahoja ollaan siirtämässä",
+  "paid_to_bank_acount": "Utbetalat till bankkonto",
+  "not_paid_to_bank_acount": "Ej utbetalat till bankkonto",
+  "trustly_settings_failed_text": "Något gick snett... vänligen gör något",
+  "trustly_settings_pending_text": "Trustly kopplas nu ihop! snart kan du börja med överföringar"
 }

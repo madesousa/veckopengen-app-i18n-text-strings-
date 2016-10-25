@@ -1039,5 +1039,9 @@
   "data_tracking_popover_no_left_info_text_parent": "%1$d har använt %2$d och gått över sin surfpott. %3$d får inte belöningen på <boldRed>%4$c</boldRed> men en ny chans nästa vecka.",
   "yesterday": "Igår",
   "help_text_amount": "Click here for a specific amount",
-  "trustly_change_date_error_desc": "Du kan inte ändra dag då pengarna håller på att överföras"
+  "trustly_change_date_error_desc": "Du kan inte ändra dag då pengarna håller på att överföras",
+  "paid_to_bank_acount": "Utbetalat till bankkonto",
+  "not_paid_to_bank_acount": "Ej utbetalat till bankkonto",
+  "trustly_settings_failed_text": "Något gick snett... vänligen gör något",
+  "trustly_settings_pending_text": "Trustly kopplas nu ihop! snart kan du börja med överföringar"
 }

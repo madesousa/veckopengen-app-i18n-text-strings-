@@ -613,7 +613,7 @@
   "time_to_payout_today_to_external_bankaccount_popover_header_child": "Idag har du fått veckopengen",
   "time_to_payout_today_to_external_bankaccount_popover_text_parent": "%1$s har betalats ut till %2$ds bankkonto. Se kvitto under transaktioner.",
   "time_to_payout_today_to_external_bankaccount_popover_text_child": "%1$s har betalats ut till ditt bankkonto.",
-  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "%1$s har sparats eller betalats ut.",
+  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "idag har %1$d fått %2$s",
   "time_to_payout_today_to_external_bankaccount_popover_header_failed_parent": "%1$ds %2$s betalades inte ut",
   "time_to_payout_today_to_external_bankaccount_popover_header_failed_child": "Din %1$s betalades inte ut",
   "time_to_payout_today_to_external_bankaccount_popover_text_failed_parent": "%1$s kunde inte betalas ut till bankkontot. Gå till Banköverföringar för att läsa mer om den misslyckade överföringen.",
@@ -1039,5 +1039,9 @@
   "data_tracking_popover_no_left_info_text_parent": "%1$d har använt %2$d och gått över sin surfpott. %3$d får inte belöningen på <boldRed>%4$c</boldRed> men en ny chans nästa vecka.",
   "yesterday": "Igår",
   "help_text_amount": "Tryck här för ett specifikt belopp",
-  "trustly_change_date_error_desc": "Du kan inte ändra dag då pengarna håller på att överföras"
+  "trustly_change_date_error_desc": "Du kan inte ändra dag då pengarna håller på att överföras",
+  "paid_to_bank_acount": "Utbetalat till bankkonto",
+  "not_paid_to_bank_acount": "Ej utbetalat till bankkonto",
+  "trustly_settings_failed_text": "Något gick snett... vänligen gör något",
+  "trustly_settings_pending_text": "Trustly kopplas nu ihop! snart kan du börja med överföringar"
 }
