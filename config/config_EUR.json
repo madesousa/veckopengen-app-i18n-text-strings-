@@ -11,5 +11,9 @@
   "numberInputMin" : -9999,
   "animationValueMultiplier" : 10,
   "numberOfDecimals" : 2,
-  "defaultDataTaskReward" : 1
+  "defaultDataTaskReward" : 1,
+  "prefix": "€",
+  "suffix": "",
+  "thousands_separator": ".",
+  "decimal_mark": ","
 }

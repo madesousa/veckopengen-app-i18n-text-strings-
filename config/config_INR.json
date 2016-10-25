@@ -11,5 +11,9 @@
   "numberInputMin" : -9999,
   "animationValueMultiplier" : 0.1,
   "numberOfDecimals" : 0,
-  "defaultDataTaskReward" : 1
+  "defaultDataTaskReward" : 1,
+  "prefix": "₹",
+  "suffix": "",
+  "thousands_separator": ".",
+  "decimal_mark": ","
 }
