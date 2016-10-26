@@ -15,5 +15,6 @@
   "prefix": "£",
   "suffix": "",
   "thousandsSeparator": ",",
-  "decimalMark": "."
+  "decimalMark": ".",
+  "minimumSavingsBonusAmount": 0.5
 }
