@@ -95,5 +95,6 @@
   "notification_weekly_payment_received": "You have received your weekly allowance of {amount}!",
   "notification_weekly_payment_sent": "{name} has received their weekly allowance of {amount}.",
   "notification_monthly_payment_received": "You have received your monthly allowance of {amount}!",
-  "notification_monthly_payment_sent": "{name} has received their monthly allowance of {amount}."
+  "notification_monthly_payment_sent": "{name} has received their monthly allowance of {amount}.",
+  "push_account_select_failed": "Anslutning av bankkonton misslyckades"
 }
