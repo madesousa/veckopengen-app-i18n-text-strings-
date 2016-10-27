@@ -7,8 +7,6 @@ var TextStrings_sv = fs.readFileSync(TextStrings_sv_path, {encoding : "utf8"})
 TextStrings_sv = JSON.parse(TextStrings_sv)
 
 let syncTextStrings = (file) => {
-
-
   if(file === "TextStrings_default.json")
     return
 
@@ -33,7 +31,7 @@ let syncTextStrings = (file) => {
   var NewTextStringsLength = Object.keys(NewTextStrings).length
   var TextStringsLength = Object.keys(TextStrings).length
   var delta = NewTextStringsLength - TextStringsLength
-  
+
   if(delta > 0)
     console.log(`Updated ${delta} textstrings in ${file}`)
 

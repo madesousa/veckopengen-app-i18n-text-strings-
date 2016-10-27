@@ -21,6 +21,7 @@ var keysToIgnore = [
   "task_status"
 ]
 
+var keysToDelete = []
 var fs = require("fs")
 var rootDir = ".."
 var dirsToCheck = ["components", "lib", "hocs", "i18n", "config" , "reducers"]
@@ -72,16 +73,40 @@ let checkIfTextStringIsObsolete = (key) => {
     else
     {
       foundKeys++
+      keysToDelete.push(key)
       console.log(`${key}`)
     }
 }
 
-console.log("Begin Scan .. \n")
+console.log("****** Begin Scan ********\n")
 
 Object.keys(TextStrings).forEach(key => checkIfTextStringIsObsolete(key))
 
+console.log("****** Scan Complete ********")
 console.log(
   `
-  Scan Complete
-  Ignored Keys: ${ignoredKeys}
-  Found Keys Keys: ${foundKeys}`)
+  Ignored text_strings: ${ignoredKeys}
+  Found text_strings to delete: ${foundKeys}`)
+
+if(process.argv.some(x => x === "-f"))
+{
+  /******** Deleting TextStrings *******/
+  console.log(`
+      Removing ${foundKeys} text_strings from ${textStringsSvFilePath} ..
+      `)
+  keysToDelete.forEach((key) => {
+    delete TextStrings[key]
+  })
+
+  TextStrings = JSON.stringify(TextStrings, undefined, 2)
+  fs.unlinkSync(textStringsSvFilePath)
+  fs.writeFileSync(textStringsSvFilePath, TextStrings, {encoding : "utf8"})
+
+  console.log(`
+      Done
+      `)
+}
+else
+  console.log(`
+  run with -f to remove ${foundKeys} text_strings from ${textStringsSvFilePath}
+  `)
