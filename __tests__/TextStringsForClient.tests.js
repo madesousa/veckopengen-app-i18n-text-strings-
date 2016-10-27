@@ -3,15 +3,15 @@ import {compareKeys} from "../TestUtil"
 jest.disableAutomock()
 
 describe("TextStrings", () => {
-	xit("it should return Text Strings", () => {
+	it("it should return Text Strings", () => {
 		languageCodes.forEach(lang => expect(getTextStrings(lang)).not.toEqual(undefined, "Cant find TextStrings for: " + lang))
 	})
 
-	xit("all textstrings should have a equivalent string in all other languages", () => {
+	it("all textstrings should have a equivalent string in all other languages", () => {
 		languageCodes.forEach(lang1 => languageCodes.forEach(lang2 => compareKeys(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)))
 	})
 
-	xit("all languages should have a default textStrings", () => {
+	it("all languages should have a default textStrings", () => {
 		languageCodes.forEach(lang => compareKeys(getTextStrings("default"), getTextStrings(lang)))
 	})
 })

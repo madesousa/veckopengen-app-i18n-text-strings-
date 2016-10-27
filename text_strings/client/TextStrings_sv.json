@@ -567,7 +567,7 @@
   "trustly_transacations_pending": "Pågående transaktion",
   "trustly_transacations_cancelled": "Avbruten transaktion",
   "no_money_pig_parent_head": "Välkommen till %1$d spargris",
-  "no_money_pig_parent_text": "Här kan {child} spara av sin %3$s. Ge ut uppgifter eller gör en insättning för att snabbare få den att växa.",
+  "no_money_pig_parent_text": "Här kan %1$d spara av sin %2$d. Ge ut uppgifter eller gör en insättning för att snabbare få den att växa.",
   "parent_settings_change": "Ändra mina uppgifter",
   "new_account_value": "(Nu %1$c)",
   "trustly_item_spec_bank_success_receipt_to_account_info_today": "%1$c sätts in idag",
