@@ -1116,5 +1116,7 @@
   "child_about_data_tracking_content_5": "",
   "child_about_data_tracking_title_6": "",
   "child_about_data_tracking_content_6": "",
-  "parent_settings_trustly_help": "Om Banköverföringar"
+  "parent_settings_trustly_help": "Om Banköverföringar",
+  "account_found_title": "Vill du logga in?",
+  "account_found_description": "Det verkar som du har varit inloggad på denna enhet förut, vill du logga in nu?"
 }

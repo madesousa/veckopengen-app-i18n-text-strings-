@@ -1116,5 +1116,7 @@
   "child_about_data_tracking_content_5": "Telenor är experter på hur man surfar med mobilen och de har därför gett bra tips som du kan ta del av i appen. Vi och Telenor vill helt enkelt hjälpa till att lära dig att surfa smart och att hushålla med mobilsurfen.",
   "child_about_data_tracking_title_6": "Hur bra mäts surfmängden?",
   "child_about_data_tracking_content_6": "Vi försöker mäta surfen så bra som möjligt. Men för dig som har en Android-telefon kan vi inte mäta datan utan att du loggar in i appen. Så om du har en Android-telefon kan datan ibland vara sämre uppdaterad och därför kan det vara smart att gå in i appen på söndagar för att se hur du ligger till med din surf.",
-  "parent_settings_trustly_help": "Om Banköverföringar"
+  "parent_settings_trustly_help": "Om Banköverföringar",
+  "account_found_title": "Vill du logga in?",
+  "account_found_description": "Det verkar som du har varit inloggad på denna enhet förut, vill du logga in nu?"
 }
