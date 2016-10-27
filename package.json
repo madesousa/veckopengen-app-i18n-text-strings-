@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "sara" : "./node_modules/.bin/babel ./sara/src -d ./sara/dest && node ./sara/dest/sara.js"
+    "babelize" : "./node_modules/.bin/babel ./utils/src -d ./utils/dest",
+    "sara" : "npm run babelize && node ./utils/dest/sara.js",
+    "jenny" : "npm run babelize && node ./utils/dest/jenny.js"
   },
   "repository": {
     "type": "git",
