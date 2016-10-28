@@ -1120,5 +1120,7 @@
   "account_found_title": "Vill du logga in?",
   "account_found_description": "Det verkar som du har varit inloggad på denna enhet förut, vill du logga in nu?",
   "activate_premium_title": "Testa Premium!",
-  "activate_premium_desc": "Överföringar ingår i den Premium som ännu inte har lanserats. Det är därför gratis för alla användare just nu. Vi lovar att säga till i god tid innan Premium börjar kosta pengar."
+  "activate_premium_desc": "Överföringar ingår i den Premium som ännu inte har lanserats. Det är därför gratis för alla användare just nu. Vi lovar att säga till i god tid innan Premium börjar kosta pengar.",
+  "trustly_exceeded_amount_title": "Maxgräns",
+  "trustly_exceeded_amount_desc": "Du har gått över maxgränsen på 1000 kr för banköverföring av vecko- eller månadspengen. Minska beloppet genom att spara för att överföringen ska genomföras."
 }
