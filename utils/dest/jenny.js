@@ -21,6 +21,7 @@ var keysToIgnore=[
 "task_status"];
 
 
+var keysToDelete=[];
 var fs=require("fs");
 var rootDir="..";
 var dirsToCheck=["components","lib","hocs","i18n","config","reducers"];
@@ -72,16 +73,39 @@ ignoredKeys++;else
 
 {
 foundKeys++;
+keysToDelete.push(key);
 console.log(""+key);
 }
 };
 
-console.log("Begin Scan .. \n");
+console.log("****** Begin Scan ********\n");
 
 Object.keys(TextStrings).forEach(function(key){return checkIfTextStringIsObsolete(key);});
 
-console.log("\n  Scan Complete\n  Ignored Keys: "+
+console.log("****** Scan Complete ********");
+console.log("\n  Ignored text_strings: "+
 
-
-ignoredKeys+"\n  Found Keys Keys: "+
+ignoredKeys+"\n  Found text_strings to delete: "+
 foundKeys);
+
+if(process.argv.some(function(x){return x==="-f";}))
+{
+
+console.log("\n      Removing "+
+foundKeys+" text_strings from "+textStringsSvFilePath+" ..\n      ");
+
+keysToDelete.forEach(function(key){
+delete TextStrings[key];
+});
+
+TextStrings=JSON.stringify(TextStrings,undefined,2);
+fs.unlinkSync(textStringsSvFilePath);
+fs.writeFileSync(textStringsSvFilePath,TextStrings,{encoding:"utf8"});
+
+console.log("\n      Done\n      ");
+
+
+}else
+
+console.log("\n  run with -f to remove "+
+foundKeys+" text_strings from "+textStringsSvFilePath+"\n  ");

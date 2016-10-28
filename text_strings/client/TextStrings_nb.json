@@ -1118,5 +1118,7 @@
   "child_about_data_tracking_content_6": "Vi försöker mäta surfen så bra som möjligt. Men för dig som har en Android-telefon kan vi inte mäta datan utan att du loggar in i appen. Så om du har en Android-telefon kan datan ibland vara sämre uppdaterad och därför kan det vara smart att gå in i appen på söndagar för att se hur du ligger till med din surf.",
   "parent_settings_trustly_help": "Om Banköverföringar",
   "account_found_title": "Vill du logga in?",
-  "account_found_description": "Det verkar som du har varit inloggad på denna enhet förut, vill du logga in nu?"
+  "account_found_description": "Det verkar som du har varit inloggad på denna enhet förut, vill du logga in nu?",
+  "activate_premium_title": "Testa Premium!",
+  "activate_premium_desc": "Överföringar ingår i den Premium som ännu inte har lanserats. Det är därför gratis för alla användare just nu. Vi lovar att säga till i god tid innan Premium börjar kosta pengar."
 }

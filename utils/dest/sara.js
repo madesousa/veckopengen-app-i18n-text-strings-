@@ -7,8 +7,6 @@ var TextStrings_sv=fs.readFileSync(TextStrings_sv_path,{encoding:"utf8"});
 TextStrings_sv=JSON.parse(TextStrings_sv);
 
 var syncTextStrings=function syncTextStrings(file){
-
-
 if(file==="TextStrings_default.json")
 return;
 
