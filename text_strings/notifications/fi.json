@@ -70,17 +70,6 @@
   "invite_email_subject": "Kutsu Gimi-sovellukseen",
   "login_email_subject": "Kirjaudu sisään Gimi-sovellukseen",
 
-  "data_tracking_assignment_complete_parent": "{child} on tehnyt surfaustehtävänsä",
-  "data_tracking_assignment_complete_child": "Olet tehnyt surfaustehtäväsi",
-  "data_tracking_assignment_threshold_1_parent": "{child} on surfannut 50 % sovitusta kokonaismäärästä",
-  "data_tracking_assignment_threshold_1_child": "Olet surfannut 50 % sovitusta kokonaismäärästä",
-  "data_tracking_assignment_threshold_2_parent": "{child} on surfannut 75 % sovitusta kokonaismäärästä",
-  "data_tracking_assignment_threshold_2_child": "Olet surfannut 75 % sovitusta kokonaismäärästä",
-  "data_tracking_assignment_threshold_3_parent": "{child} on surfannut 90 % sovitusta kokonaismäärästä",
-  "data_tracking_assignment_threshold_3_child": "Olet surfannut 90 % sovitusta kokonaismäärästä",
-  "data_tracking_assignment_threshold_4_parent": "{child} on surfannut 100 % sovitusta kokonaismäärästä",
-  "data_tracking_assignment_threshold_4_child": "Olet surfannut 100 % sovitusta kokonaismäärästä",
-
   "push_trustly_over_limit": "Epäonnistunut siirto {amount}.",
   "dashboard_goal_created": "Luotu säästötavoite {goal}.",
   "dashboard_goal_completed": "Saavutettu säästötavoite {goal}.",
@@ -99,5 +88,12 @@
   "push_account_select_failed": "Anslutning av bankkonton misslyckades",
   "data_tracking_assignment_failed_parent": "{child} klarade inte sin surfpott uppgift.",
   "data_tracking_assignment_failed_child": "Du klarade inte din surfpott uppgift!",
-  "push_data_tracking_assignment_reminder": "En dag kvar, kolla din surf!"
+  "push_data_tracking_assignment_reminder": "En dag kvar, kolla din surf!",
+  "push_data_tracking_assignment_created": "Kolla in! Du har fått en surfpott!",
+  "push_data_tracking_assignment_complete_parent": "{child} har klarat sin surfpott uppgift.",
+  "push_data_tracking_assignment_complete_child": "Du har klarat din surfpott uppgift!",
+  "push_data_tracking_assignment_threshold_parent": "{child} har surfat upp {percentage}% av sin surfpott.",
+  "push_data_tracking_assignment_threshold_child": "Du har använt {percentage}% av surfpotten denna vecka!",
+  "dashboard_data_tracking_assignment_completed": "Fick {amount} för klarad surfpott!",
+  "dashboard_data_tracking_assignment_failed": "Klarade inte veckans surfpott!"
 }
