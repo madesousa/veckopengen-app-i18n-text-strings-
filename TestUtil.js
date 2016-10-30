@@ -1,4 +1,5 @@
-export let compareKeys = (firstLang, secondLang, firstLangName = "", secondLangName = "") => {
+//@flow
+export let compareKeys = (firstLang : Object, secondLang : Object, firstLangName : string = "", secondLangName : string = "") => {
 	var keys = Object.keys(firstLang)
 	keys.forEach(key => {
 		var errorMessage
@@ -14,7 +15,7 @@ export let compareKeys = (firstLang, secondLang, firstLangName = "", secondLangN
 	})
 }
 
-let testCompareKeysWithinTextString = (textString1, textString2, textStringName) => {
+let testCompareKeysWithinTextString = (textString1 : string, textString2 : string, textStringName : string) => {
 
   //if(textString1 !== "Ny månad och {amount} {currency} av din förra månadspeng har autosparats!")
   //  return undefined
@@ -32,6 +33,7 @@ let testCompareKeysWithinTextString = (textString1, textString2, textStringName)
 
     if(!keys2.includes(key1))
       return `About Texttring: ${textStringName}. Cant find {${key1}} in: '${textString2}, {${key1}} key was found in: '${textString1}'`
+		return undefined
   })
 
   var errorMessage = errorMessages.find((errorMessage) => errorMessage !== undefined)
@@ -39,7 +41,7 @@ let testCompareKeysWithinTextString = (textString1, textString2, textStringName)
   return errorMessage
 }
 
-export let compareKeysWithinTextStrings = (firstLang, secondLang, firstLangName = "", secondLangName = "") => {
+export let compareKeysWithinTextStrings = (firstLang : Object, secondLang : Object, firstLangName : string = "", secondLangName : string = "") => {
 	var keys = Object.keys(firstLang)
 	keys.forEach(key => {
 		var errorMessage

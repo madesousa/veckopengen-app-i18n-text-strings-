@@ -1,3 +1,4 @@
+//@flow
 export default {
   "SE" : "SEK",
   "NO" : "NOK",

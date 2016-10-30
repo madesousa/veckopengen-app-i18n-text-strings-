@@ -1,3 +1,4 @@
+//@flow
 export default {
   "SEK" :	1,
   "DKK" :	0.8,
