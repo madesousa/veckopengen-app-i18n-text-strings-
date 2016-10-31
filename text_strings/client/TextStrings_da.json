@@ -1124,5 +1124,6 @@
   "trustly_activated_premium_info_title": "Test Premium!",
   "trustly_activated_premium_info_desc": "Overførsler indgår i den Premium, som endnu ikke er lanceret. Det er derfor gratis for alle brugere netop nu. Vi lovar at sige til i god tid, inden Premium begynder at koste penge.",
   "trustly_account_settings_from": "Registrera annat konto för förälder",
-  "trustly_account_settings_to": "Registrera annat konto för barn"
+  "trustly_account_settings_to": "Registrera annat konto för barn",
+  "allowance_is_saved_or_payed": "%1$s har sparats eller betalats ut"
 }
