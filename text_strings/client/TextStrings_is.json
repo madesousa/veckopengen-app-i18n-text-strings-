@@ -1123,8 +1123,6 @@
   "trustly_exceeded_amount_desc": "Du har gått över maxgränsen på 1000 kr för banköverföring av vecko- eller månadspengen. Minska beloppet genom att spara för att överföringen ska genomföras.",
   "trustly_activated_premium_info_title": "Testa Premium!",
   "trustly_activated_premium_info_desc": "Överföringar ingår i den Premium som ännu inte har lanserats. Det är därför gratis för alla användare just nu. Vi lovar att säga till i god tid innan Premium börjar kosta pengar.",
-  "notification_data_tracking_completed": "Fick %1$c för klarad surfpott!",
-  "notification_data_tracking_failed": "Klarade inte veckans surfpott!",
   "trustly_account_settings_from": "Registrera annat konto för förälder",
   "trustly_account_settings_to": "Registrera annat konto för barn"
 }

@@ -1123,8 +1123,6 @@
   "trustly_exceeded_amount_desc": "Du har oversteget maksimumsgrænsen på 1.000 kr. for bankoverførsel af uge- eller månedspenge. Reducer beløbet for at overførslen kan gennemføres.",
   "trustly_activated_premium_info_title": "Test Premium!",
   "trustly_activated_premium_info_desc": "Overførsler indgår i den Premium, som endnu ikke er lanceret. Det er derfor gratis for alle brugere netop nu. Vi lovar at sige til i god tid, inden Premium begynder at koste penge.",
-  "notification_data_tracking_completed": "Fik %1$c for at have overholdt surfpuljen!",
-  "notification_data_tracking_failed": "Overholdt ikke ugens surfpulje!",
   "trustly_account_settings_from": "Registrera annat konto för förälder",
   "trustly_account_settings_to": "Registrera annat konto för barn"
 }
