@@ -632,7 +632,7 @@
   "transactions_help_page_title_1": "Varför ska jag använda automatiska utbetalningar?",
   "transactions_help_page_content_1": "När du sätter upp automatiska utbetalningar så slipper du tänka på att ditt barn får rätt vecko- eller månadspeng utbetalad till sitt bankkonto. Överföringarna sker helt automatiskt och det belopp som betalas ut är det som finns angivet som vecko- eller månadspeng dagen innan ditt barn ska få sin vecko- eller månadspeng. Om barnet valt att spara eller utföra uppgifter kan alltså vecko- eller månadspengen förändras från vecka till vecka.",
   "transactions_help_page_title_2": "Finns det en maxgräns för utbetalningar?",
-  "transactions_help_page_content_2": "Ja det finns en maxgräns på 2000 kr. Vi har satt en maxgräns för att det inte ska skickas för stora summor med Veckopengen, just för att barn vanligtvis inte får ut mer än maxbeloppet. Om beloppet är över maxgränsen informerar vi självklart om det och att ingen utbetalning genomförs. ",
+  "transactions_help_page_content_2": "Ja det finns en maxgräns på 1000 kr. Vi har satt en maxgräns för att det inte ska skickas för stora summor med Veckopengen, just för att barn vanligtvis inte får ut mer än maxbeloppet. Om beloppet är över maxgränsen informerar vi självklart om det och att ingen utbetalning genomförs. ",
   "transactions_help_page_title_3": "Är det säkert att använda Veckopengen för banköverföringar?",
   "transactions_help_page_content_3": "Absolut! Vi jobbar med Trustly som är ett vanligt sätt att överföra pengar mellan bankkonton. Trustly Group AB (org.nr 556754-8655) är ett svenskt auktoriserat betalningsinstitut under tillsyn av Finansinspektionen och jobbar med andra stora företag som Avanza och Paypal.",
   "transactions_help_page_title_4": "Hur går överföringarna till?",
@@ -1124,7 +1124,12 @@
   "trustly_activated_premium_info_title": "Testa Premium!",
   "trustly_activated_premium_info_desc": "Överföringar ingår i den Premium som ännu inte har lanserats. Det är därför gratis för alla användare just nu. Vi lovar att säga till i god tid innan Premium börjar kosta pengar.",
   "trustly_account_settings_from": "Registrera annat konto för förälder",
+<<<<<<< HEAD
   "trustly_account_settings_to": "Registrera annat konto för barn",
   "allowance_is_saved_or_payed": "%1$s har sparats eller betalats ut",
   "loading_screen_help_text": "Anslutningen tar längre tid än väntat. Var god kontrollera er internet anslutning"
 }
+=======
+  "trustly_account_settings_to": "Registrera annat konto för barn"
+}
+>>>>>>> maxgräns på 2000 => 1000
