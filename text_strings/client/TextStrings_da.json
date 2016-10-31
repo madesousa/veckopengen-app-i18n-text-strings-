@@ -485,8 +485,6 @@
   "autogiro": "Aktivere autogiro:",
   "on": "på ",
   "on_the": "den ",
-  "trustly_account_settings_from": "Registrere anden konto for udbetalinger",
-  "trustly_account_settings_to": "Registrere anden konto for indbetalinger",
   "trustly_account_settings_delete": "Slet og afslut overførsler",
   "trustly_settings_add": "Tilføj bankkonto",
   "trustly_settings_my_account": "Min bankkonto",
@@ -1087,6 +1085,7 @@
   "child_advice_content_8": "Det er altid godt at opstille mål for, hvad du vil spare op til. Du kan altid ændre dine opsparingsmål undervejs. Men hvis du har et opsparingsmål, er det lettere for dig at se dine penge vokse, og hvordan du kommer nærmere det beløb, du sparer sammen til. Når du har nået opsparingsmålet, skal du bede om at få udbetalt dine penge fra dine forældre, så du kan købe det, du har sparet sammen til!",
   "child_advice_title_9": "Hvordan kommer jeg med i Veckopengens Børneråd?",
   "child_advice_content_9": "Veckopengens Børneråd består af børn, der vil hjælpe med at gøre appen bedre. Vi mødes en gang om måneden og har hyggelige møder om appen, og hvordan vi laver film og den slags. Du kan komme med ved at sende en e-mail til philip@veckopengen.se! Skriv hvor gammel du er, hvad du hedder, og hvorfor du vil være med i Børnerådet! Vi håber at høre fra dig!",
+  "about_data_tracking": "Om Surfkoll",
   "parent_about_data_tracking_title_1": "Hvorfor kan jeg ikke se surf på måleren?",
   "parent_about_data_tracking_content_1": "Hvis du lægger mærke til, at barnets surf ikke måles, kan du tjekke følgende muligheder: 1) Kontroller, at dit barn ikke har afbrudt background app refresh i indstillinger for vores app, for så kan surfen ikke måles. 2) Kontroller, at dit barn ikke kun surfer på WiFi. 3) Hvis dit barn har en gammel mobil, så understøttes den muligvis ikke at vores tjeneste, og så vil målenden desværre ikke kunne fungere for jer.",
   "parent_about_data_tracking_title_2": "Hvorfor ændres barnets surfmængde lige pludselig?",
@@ -1125,5 +1124,7 @@
   "trustly_activated_premium_info_title": "Test Premium!",
   "trustly_activated_premium_info_desc": "Overførsler indgår i den Premium, som endnu ikke er lanceret. Det er derfor gratis for alle brugere netop nu. Vi lovar at sige til i god tid, inden Premium begynder at koste penge.",
   "notification_data_tracking_completed": "Fik %1$c for at have overholdt surfpuljen!",
-  "notification_data_tracking_failed": "Overholdt ikke ugens surfpulje!"
+  "notification_data_tracking_failed": "Overholdt ikke ugens surfpulje!",
+  "trustly_account_settings_from": "Registrera annat konto för förälder",
+  "trustly_account_settings_to": "Registrera annat konto för barn"
 }

@@ -485,8 +485,6 @@
   "autogiro": "Aktivate direct debit:",
   "on": "on ",
   "on_the": "the ",
-  "trustly_account_settings_from": "Register another account for payouts",
-  "trustly_account_settings_to": "Register another account for depositing money",
   "trustly_account_settings_delete": "Erase and finish transfers",
   "trustly_settings_add": "Add a bank account",
   "trustly_settings_my_account": "My bank account",
@@ -1126,5 +1124,7 @@
   "trustly_activated_premium_info_title": "Testa Premium!",
   "trustly_activated_premium_info_desc": "Överföringar ingår i den Premium som ännu inte har lanserats. Det är därför gratis för alla användare just nu. Vi lovar att säga till i god tid innan Premium börjar kosta pengar.",
   "notification_data_tracking_completed": "Fick %1$c för klarad surfpott!",
-  "notification_data_tracking_failed": "Klarade inte veckans surfpott!"
+  "notification_data_tracking_failed": "Klarade inte veckans surfpott!",
+  "trustly_account_settings_from": "Registrera annat konto för förälder",
+  "trustly_account_settings_to": "Registrera annat konto för barn"
 }

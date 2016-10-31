@@ -485,8 +485,6 @@
   "autogiro": "Virkja autogiro:",
   "on": "á ",
   "on_the": "þann ",
-  "trustly_account_settings_from": "Skrá inn annan reikning fyrir útborganir",
-  "trustly_account_settings_to": "Skrá inn annan reikning fyrir innborganir",
   "trustly_account_settings_delete": "eyða og hætta millifærslum",
   "trustly_settings_add": "Bæta við reikning",
   "trustly_settings_my_account": "Reikningurinn minn",
@@ -1126,5 +1124,7 @@
   "trustly_activated_premium_info_title": "Testa Premium!",
   "trustly_activated_premium_info_desc": "Överföringar ingår i den Premium som ännu inte har lanserats. Det är därför gratis för alla användare just nu. Vi lovar att säga till i god tid innan Premium börjar kosta pengar.",
   "notification_data_tracking_completed": "Fick %1$c för klarad surfpott!",
-  "notification_data_tracking_failed": "Klarade inte veckans surfpott!"
+  "notification_data_tracking_failed": "Klarade inte veckans surfpott!",
+  "trustly_account_settings_from": "Registrera annat konto för förälder",
+  "trustly_account_settings_to": "Registrera annat konto för barn"
 }

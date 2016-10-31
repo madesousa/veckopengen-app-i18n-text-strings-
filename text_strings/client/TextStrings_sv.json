@@ -485,8 +485,6 @@
   "autogiro": "Slå på automatiska överföringar",
   "on": "på ",
   "on_the": "den ",
-  "trustly_account_settings_from": "Registrera annat konto för utbetalningar",
-  "trustly_account_settings_to": "Registrera annat konto för insättningar",
   "trustly_account_settings_delete": "Avbryt",
   "trustly_settings_add": "Lägg till bankkonto",
   "trustly_settings_my_account": "Mitt bankkonto",
@@ -1126,5 +1124,7 @@
   "trustly_activated_premium_info_title": "Testa Premium!",
   "trustly_activated_premium_info_desc": "Överföringar ingår i den Premium som ännu inte har lanserats. Det är därför gratis för alla användare just nu. Vi lovar att säga till i god tid innan Premium börjar kosta pengar.",
   "notification_data_tracking_completed": "Fick %1$c för klarad surfpott!",
-  "notification_data_tracking_failed": "Klarade inte veckans surfpott!"
+  "notification_data_tracking_failed": "Klarade inte veckans surfpott!",
+  "trustly_account_settings_from": "Registrera annat konto för förälder",
+  "trustly_account_settings_to": "Registrera annat konto för barn"
 }
