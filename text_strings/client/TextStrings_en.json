@@ -908,13 +908,13 @@
   "premium_content_tracking_headline": "TRACKING OF YOUR CHILD'S PERFORMANCE",
   "premium_content_tracking_info": "Statistics and graphs showing you and your children how they are improving at tasks, saving and objectives.",
   "premium_content_tasks_headline": "DATA PACKAGE",
-  "premium_content_tasks_info": "Ready-made data packages that are customized for your children's age and developed by experts." 
+  "premium_content_tasks_info": "Ready-made data packages that are customized for your children's age and developed by experts.",
   "premium_content_expert_headline": "EXPERT ADVICE",
-  "premium_content_expert_info": "Tips, customized reports and the Parental control page with advice from our economists, child therapists and family researchers."
+  "premium_content_expert_info": "Tips, customized reports and the Parental control page with advice from our economists, child therapists and family researchers.",
   "premium_content_theme_headline": "UPGRADED PIGGY BANK",
-  "premium_content_theme_info": "Your children can choose their own piggy bank, update their profile picture and make their own choice of favorite themes." 
+  "premium_content_theme_info": "Your children can choose their own piggy bank, update their profile picture and make their own choice of favorite themes.",
   "premium_content_support_headline": "PREMIUM-SUPPORT",
-  "premium_content_support_info": "Priority access to any support by our own support team and priority in case of any questions or problems. "
+  "premium_content_support_info": "Priority access to any support by our own support team and priority in case of any questions or problems.",
   "premium_content_transactions_headline": "ACCOUNT TRANSFERS",
   "premium_content_transactions_info": "Weekly and monthly allowance is automatically transferred from your bank account to your children's bank accounts and you can easily track all transfers to your children.",
   "premium_navbar": "Upgrade to premium powers",
@@ -956,7 +956,7 @@
   "data_guide_hours": "%1$d hours",
   "data_guide_hour": "%1$d hour",
   "data_guide_quantity": "%1$d quantity",
-  "knowledge_child_item_header_0": "Use WiFi to watch and upload videos", 
+  "knowledge_child_item_header_0": "Use WiFi to watch and upload videos",
   "knowledge_child_item_header_1": "Choose lower video quality",
   "knowledge_child_item_header_2": "Turn off mobile data for apps you aren't using",
   "knowledge_child_item_header_3": "Turn off background updates",
@@ -1088,7 +1088,7 @@
   "about_data_tracking": "About Surf check",
   "parent_about_data_tracking_title_1": "Why don't I see any data on the meter?",
   "parent_about_data_tracking_content_1": "If you notice that your child's surfing is not being measured, you can check any of the following cases: 1) Check that your child hasn't turned off the background app refresh in the settings for our app, because then the surfing can't be measured. 2) Check that your child isn't only surfing on WiFi. 3) If your child has an old phone, perhaps it isn't supported by our service so unfortunately the measuring will not work for you.",
-  "parent_about_data_tracking_title_2": "Why does the child's data amount change suddenly?"
+  "parent_about_data_tracking_title_2": "Why does the child's data amount change suddenly?",
   "parent_about_data_tracking_content_2": "If your child logs in with another phone or hasn't been in the app for a long time, then it will change suddenly.",
   "parent_about_data_tracking_title_3": "Is anything other than the amount of data measured?",
   "parent_about_data_tracking_content_3": "No, we only track the data amount and we just show individual data within the family, which means those who are connected in the app. It is very important to us to keep your data safe and that you as a family feel comfortable with our functions. You can always read more in our Terms of use where we explain how we handle data.",
@@ -1106,7 +1106,7 @@
   "child_about_data_tracking_content_1": "If you notice that your surfing is not being measured, you can check any of the following cases: 1) Check that you haven't turned off the background app refresh in the settings for our app, because then the surfing can't be measured. 2) Check that you aren't only surfing on WiFi. 3) It can also be that you have old phone that isn't supported by our service so unfortunately the measuring will not work for you.",
   "child_about_data_tracking_title_2": "Why does the my data amount change suddenly?",
   "child_about_data_tracking_content_2": "If you log in with another phone or haven't been in the app for a long time, then it will change suddenly.",
-  "child_about_data_tracking_title_3": "Is anything other than how much I surf measured?"
+  "child_about_data_tracking_title_3": "Is anything other than how much I surf measured?",
   "child_about_data_tracking_content_3": "No, we only track the data amount and we just show individual data within the family, which means those who are connected in the app. It is very important to us to keep your data safe and that you as a family feel comfortable with our functions. You can always read more in our Terms of use where we explain how we handle data.",
   "child_about_data_tracking_title_4": "Does it count even when I am surfing on WiFi?",
   "child_about_data_tracking_content_4": "No, since the costs for WiFi surfing aren't connected to how much you surf with your mobile plan we have decided not to count that.",
@@ -1120,7 +1120,7 @@
   "activate_premium_title": "Try Premium!",
   "activate_premium_desc": "Bank transfers are included in the Premium version that hasn't been released yet. Therefore it is free for all users right now. We promise to let you know in good time before Premium begins to cost money.",
   "trustly_exceeded_amount_title": "Maximum limit",
-  "trustly_exceeded_amount_desc": "You have gone over the maximum limit of 1000 kr for bank transfers of weekly or monthly allowance. Reduce the amount by saving so that the transfer can be implemented. "
+  "trustly_exceeded_amount_desc": "You have gone over the maximum limit of 1000 kr for bank transfers of weekly or monthly allowance. Reduce the amount by saving so that the transfer can be implemented. ",
   "trustly_activated_premium_info_title": "Try Premium!",
   "trustly_activated_premium_info_desc": "Bank transfers are included in the Premium version that hasn't been released yet. Therefore it is free for all users right now. We promise to let you know in good time before Premium begins to cost money.",
   "trustly_account_settings_from": "Register another account for parents",
