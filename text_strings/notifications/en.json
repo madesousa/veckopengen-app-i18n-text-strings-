@@ -27,8 +27,8 @@
   "push_assignment_approved": "Congratulations! %s approved right now \"%s\"",
   "push_assignment_approved_by_other": "The task \"%s\" was approved right now",
   "push_insertion_by_other": "Lovely! {parent} added {amount} into your piggy bank",
-  "push_account_select_started": "Registration of bank account is on the way", 
-  "push_account_selected": "Bank account is activated", 
+  "push_account_select_started": "Registration of bank account is on the way",
+  "push_account_selected": "Bank account is activated",
   "push_text_trustly_payout_completed_parent": "{amount} has been transferred to {name}",
   "push_text_trustly_payout_completed_child": "Your pocket money has been paid",
   "push_text_trustly_failed_parent": "The transaction of {name}s {recurring} failed",
@@ -90,10 +90,10 @@
   "push_data_tracking_assignment_failed_child": "You did not complete the data usage task!",
   "push_data_tracking_assignment_reminder": "One more day, track your surfing!",
   "push_data_tracking_assignment_created": "Check it out! You have received a surf pot!",
-  "push_data_tracking_assignment_complete_parent": "{child} has completed the surf pot task." 
-  "push_data_tracking_assignment_complete_child": "You have completed your surf pot task!", 
+  "push_data_tracking_assignment_complete_parent": "{child} has completed the surf pot task.",
+  "push_data_tracking_assignment_complete_child": "You have completed your surf pot task!",
   "push_data_tracking_assignment_threshold_parent": "{child} has used up {percentage}% of the surf pot.",
-  "push_data_tracking_assignment_threshold_child": "You have used up {percentage}% of the surf pot this week!", 
-  "dashboard_data_tracking_assignment_completed": "Received {amount} for completed surf pot!", 
+  "push_data_tracking_assignment_threshold_child": "You have used up {percentage}% of the surf pot this week!",
+  "dashboard_data_tracking_assignment_completed": "Received {amount} for completed surf pot!",
   "dashboard_data_tracking_assignment_failed": "Failed this week's surf pot!"
 }
