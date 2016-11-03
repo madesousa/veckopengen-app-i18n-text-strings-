@@ -1126,5 +1126,12 @@
   "trustly_account_settings_from": "Rekisteröi toinen tili vanhemmalle",
   "trustly_account_settings_to": "Rekisteröi toinen tili lapselle",
   "allowance_is_saved_or_payed": "%1$s on talletettu tai maksettu",
-  "loading_screen_help_text": "Yhteys vie odotettua enemmän aikaa. Tarkista internetyhteytesi"
+  "loading_screen_help_text": "Yhteys vie odotettua enemmän aikaa. Tarkista internetyhteytesi",
+  "short_monday": "Mån",
+  "short_tuesday": "Tis",
+  "short_wednesday": "Ons",
+  "short_thursday": "Tor",
+  "short_friday": "Fre",
+  "short_saturday": "Lör",
+  "short_sunday": "Sön"
 }

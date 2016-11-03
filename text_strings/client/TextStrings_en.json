@@ -847,11 +847,11 @@
   "popover_premium_great": "GREAT!",
   "popover_premium_great_desc": "We send you an email as soon as you can begin to use Premium popovers",
   "premium_popover_not_ready_title": "Premium Powers are unfortunately not ready yet",
-  "premium_popover_not_ready_desc": "But since you clicked here, we'd like to give you priority access to Premium Powers and 1 month free use as soon as all of our super functions are ready", 
+  "premium_popover_not_ready_desc": "But since you clicked here, we'd like to give you priority access to Premium Powers and 1 month free use as soon as all of our super functions are ready",
   "premium_popover_not_ready_button_text": "Give me priority access and 1 free month",
   "button_text_continue": "Continue",
   "premium_popover_terms_title": "Subscription terms",
-  "premium_popover_terms_desc": "Do you want to subscribe to Premium Powers? \nSubscription will renew itself after 1 month at a cost of %2$d kr", 
+  "premium_popover_terms_desc": "Do you want to subscribe to Premium Powers? \nSubscription will renew itself after 1 month at a cost of %2$d kr",
   "premium_slide_months": "%1$d months",
   "premium_slide_month": "%1$d month",
   "premum_slider_title_small_a": "BASIC POWERS",
@@ -1126,5 +1126,12 @@
   "trustly_account_settings_from": "Register another account for parents",
   "trustly_account_settings_to": "Register another account for children",
   "allowance_is_saved_or_payed": "%1$s is saved or payed",
-  "loading_screen_help_text": "The connection is taking longer than expected. Please check your Internet connection."
+  "loading_screen_help_text": "The connection is taking longer than expected. Please check your Internet connection.",
+  "short_monday": "Mån",
+  "short_tuesday": "Tis",
+  "short_wednesday": "Ons",
+  "short_thursday": "Tor",
+  "short_friday": "Fre",
+  "short_saturday": "Lör",
+  "short_sunday": "Sön"
 }

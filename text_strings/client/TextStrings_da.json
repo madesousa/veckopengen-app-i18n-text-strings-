@@ -1126,5 +1126,12 @@
   "trustly_account_settings_from": "Registrera annat konto för förälder",
   "trustly_account_settings_to": "Registrera annat konto för barn",
   "allowance_is_saved_or_payed": "%1$s har sparats eller betalats ut",
-  "loading_screen_help_text": "Anslutningen tar längre tid än väntat. Var god kontrollera er internet anslutning"
+  "loading_screen_help_text": "Anslutningen tar längre tid än väntat. Var god kontrollera er internet anslutning",
+  "short_monday": "Mån",
+  "short_tuesday": "Tis",
+  "short_wednesday": "Ons",
+  "short_thursday": "Tor",
+  "short_friday": "Fre",
+  "short_saturday": "Lör",
+  "short_sunday": "Sön"
 }
