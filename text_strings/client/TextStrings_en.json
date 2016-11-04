@@ -1128,5 +1128,7 @@
   "show_wishlist_child": "Min önskelista till julafton",
   "show_wishlist_parent": "%1$d önskelista till julafton",
   "wishlist_nav_text_parent" : "%1$d önskelista",
-  "wishlist_nav_text_child" : "min önskelista"
+  "wishlist_nav_text_child" : "min önskelista",
+  "wishlist_header_child":"Min önskelista till julafton",
+  "wishlist_header_parent":"%1$d önskelista till julafton"
 }
