@@ -1123,5 +1123,8 @@
   "short_thursday": "Tor",
   "short_friday": "Fre",
   "short_saturday": "Lör",
-  "short_sunday": "Sön"
+  "short_sunday": "Sön",
+  "create_wishlist_child": "Skapa önskelista till julafton",
+  "show_wishlist_child": "Min önskelista till julafton",
+  "show_wishlist_parent": "%1$d önskelista till julafton"
 }
