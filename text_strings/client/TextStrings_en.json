@@ -474,7 +474,7 @@
   "child_dashboard_request_assignment": "Give me a new task",
   "child_dashboard_request_assignment_message_delivered": "Message sent",
   "child_dashboard_request_assignment_push": "%1$d wants a new task!",
-  "listview_footer_get_more": "Get more",
+  "listview_footer_get_more": "Show more",
   "trans_allowance_to_external_account": "%1$s was transfered %2$d to bank account",
   "todays_bonus": "Todays bonus was <b>%1$c</b>",
   "expense_popover_instructions": "Choose an amount to be drawn from the piggy bank",
