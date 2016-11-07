@@ -2,9 +2,15 @@
 var fs = require("fs")
 let templateDir = "./text_strings/client"
 let getPath = (file) => `${templateDir}/${file}`
+
+var TextStrings_default_path = getPath("TextStrings_default.json")
+var TextStrings_default = fs.readFileSync(TextStrings_default_path, {encoding : "utf8"})
+TextStrings_default = JSON.parse(TextStrings_default)
+
 var TextStrings_sv_path = getPath("TextStrings_sv.json")
 var TextStrings_sv = fs.readFileSync(TextStrings_sv_path, {encoding : "utf8"})
 TextStrings_sv = JSON.parse(TextStrings_sv)
+
 
 let syncTextStrings = (file) => {
   if(file === "TextStrings_default.json")
@@ -28,6 +34,7 @@ let syncTextStrings = (file) => {
 
   //Craete Support
   var NewTextStrings = {...TextStrings_sv, ...TextStrings}
+  Object.keys(TextStrings_default).forEach(key => delete NewTextStrings[key])
   var NewTextStringsLength = Object.keys(NewTextStrings).length
   var TextStringsLength = Object.keys(TextStrings).length
   var delta = NewTextStringsLength - TextStringsLength
@@ -44,8 +51,7 @@ let syncTextStrings = (file) => {
 }
 
 
-fs.readdirSync(templateDir).filter((file) => file !== "jkdfk")
-  .forEach((languageCode) => syncTextStrings(languageCode))
+fs.readdirSync(templateDir).forEach((languageCode) => syncTextStrings(languageCode))
 
 //fix swedish TextStrings formatting
 TextStrings_sv = JSON.stringify(TextStrings_sv, undefined, 2)
