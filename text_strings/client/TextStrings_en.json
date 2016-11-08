@@ -568,7 +568,6 @@
   "parent_settings_change": "Change my settings",
   "new_account_value": "(Now %1$c)",
   "trustly_item_spec_bank_success_receipt_to_account_info_today": "%1$c deposit to your account today",
-  "overview_child_item_failed_transaction": "Failed transaction (%1$c)",
   "new_update_headline": "Big news!",
   "new_update_text_1": "Stop thinking about if you paid out the allowance or not!",
   "new_update_text_2": "Automatic banktransfer of your child's allowance",

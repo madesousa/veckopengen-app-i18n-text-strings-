@@ -568,7 +568,6 @@
   "parent_settings_change": "Muuta tietojani",
   "new_account_value": "(Uusi %1$c)",
   "trustly_item_spec_bank_success_receipt_to_account_info_today": "%1$c maksetaan tänään",
-  "overview_child_item_failed_transaction": "Tilisiirto epäonnistui (%1$c)",
   "new_update_headline": "Uutuus!",
   "new_update_text_1": "Voit unohtaa viikko- tai kuukausirahan maksamisen!",
   "new_update_text_2": "Viikko- tai kuukausirahan automaattinen maksu",
