@@ -454,7 +454,6 @@
   "overview_child_item_setup_text": "Er ikke færdig oprettet endnu!",
   "child_dashboard_my_kids_money": "%1$d penge",
   "trans_transfer_allowance_to_savings_account": "%1$s overføres til sparegrisen",
-  "overview_child_item_not_connected_text": "Glem ikke at forbinde",
   "dashboard_title_transactions": "Familiens transaktioner",
   "no_cost_trustly": "og nej, det koster ikke noget",
   "trustly_read_more": "Læs mere",
@@ -702,7 +701,6 @@
   "child_settings_interest_rate": "Opsparingsrente",
   "percentage_rate": "%1$d %",
   "child_settings_autosave_allowance": "Autoopsparing ikke udbetalt %1$d",
-  "feedback_headline": "Talk to us!",
   "tabbar_home": "Mine børn",
   "tabbar_trans": "Transaktioner",
   "tabbar_premium": "Powers",
@@ -1127,8 +1125,8 @@
   "create_wishlist_child": "Skapa önskelista till julafton",
   "show_wishlist_child": "Min önskelista till julafton",
   "show_wishlist_parent": "%1$d önskelista till julafton",
-  "wishlist_nav_text_parent" : "%1$d önskelista",
-  "wishlist_nav_text_child" : "min önskelista",
-  "wishlist_header_child":"Min önskelista till julafton",
-  "wishlist_header_parent":"%1$d önskelista till julafton"
+  "wishlist_nav_text_parent": "%1$d önskelista",
+  "wishlist_nav_text_child": "min önskelista",
+  "wishlist_header_child": "Min önskelista till julafton",
+  "wishlist_header_parent": "%1$d önskelista till julafton"
 }

@@ -454,7 +454,6 @@
   "overview_child_item_setup_text": "Ei ole valmiina vielä!",
   "child_dashboard_my_kids_money": "%1$d rahaa",
   "trans_transfer_allowance_to_savings_account": "%1$s siirrettiin säästöpossuun",
-  "overview_child_item_not_connected_text": "Älä unohda yhdistää",
   "dashboard_title_transactions": "Perheen toiminnot",
   "no_cost_trustly": "ei, se ei maksa mitään",
   "trustly_read_more": "Lue lisää",
@@ -702,7 +701,6 @@
   "child_settings_interest_rate": "Säästökorko",
   "percentage_rate": "%1$d %",
   "child_settings_autosave_allowance": "Autom. tallennus ei maksettu %1$d",
-  "feedback_headline": "Talk to us!",
   "tabbar_home": "Omat lapset",
   "tabbar_trans": "Tapahtumat",
   "tabbar_premium": "Tehot",
@@ -1127,8 +1125,8 @@
   "create_wishlist_child": "Skapa önskelista till julafton",
   "show_wishlist_child": "Min önskelista till julafton",
   "show_wishlist_parent": "%1$d önskelista till julafton",
-  "wishlist_nav_text_parent" : "%1$d önskelista",
-  "wishlist_nav_text_child" : "min önskelista",
-  "wishlist_header_child":"Min önskelista till julafton",
-  "wishlist_header_parent":"%1$d önskelista till julafton"
+  "wishlist_nav_text_parent": "%1$d önskelista",
+  "wishlist_nav_text_child": "min önskelista",
+  "wishlist_header_child": "Min önskelista till julafton",
+  "wishlist_header_parent": "%1$d önskelista till julafton"
 }

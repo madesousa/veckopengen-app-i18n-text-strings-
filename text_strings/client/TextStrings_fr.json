@@ -454,7 +454,6 @@
   "overview_child_item_setup_text": "Är inte färdigskapad än",
   "child_dashboard_my_kids_money": "%1$d pengar",
   "trans_transfer_allowance_to_savings_account": "%1$s överfördes till spargrisen",
-  "overview_child_item_not_connected_text": "Koppla ihop",
   "dashboard_title_transactions": "Familjens transaktioner",
   "no_cost_trustly": "och nej, det kostar inget",
   "trustly_read_more": "Läs mer",
@@ -702,7 +701,6 @@
   "child_settings_interest_rate": "Sparränta",
   "percentage_rate": "%1$d %",
   "child_settings_autosave_allowance": "Autospara ej utbetald %1$d",
-  "feedback_headline": "Talk to us!",
   "tabbar_home": "Mina barn",
   "tabbar_trans": "Transaktioner",
   "tabbar_premium": "Powers",
@@ -1127,10 +1125,8 @@
   "create_wishlist_child": "Skapa önskelista till julafton",
   "show_wishlist_child": "Min önskelista till julafton",
   "show_wishlist_parent": "%1$d önskelista till julafton",
-  "wishlist_nav_text_parent" : "%1$d önskelista",
-  "wishlist_nav_text_child" : "min önskelista",
-  "wishlist_header_child":"Min önskelista till julafton",
-  "wishlist_header_parent":"%1$d önskelista till julafton",
-  "wishlist_header_child":"Min önskelista till julafton",
-  "wishlist_header_parent":"%1$d önskelista till julafton"
+  "wishlist_nav_text_parent": "%1$d önskelista",
+  "wishlist_nav_text_child": "min önskelista",
+  "wishlist_header_child": "Min önskelista till julafton",
+  "wishlist_header_parent": "%1$d önskelista till julafton"
 }
