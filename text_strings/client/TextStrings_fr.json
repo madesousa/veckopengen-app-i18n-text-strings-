@@ -914,5 +914,6 @@
   "wishlist_nav_text_parent": "%1$d önskelista",
   "wishlist_nav_text_child": "min önskelista",
   "wishlist_header_child": "Min önskelista till julafton",
-  "wishlist_header_parent": "%1$d önskelista till julafton"
+  "wishlist_header_parent": "%1$d önskelista till julafton",
+  "overview_child_item_not_connected_text": "Koppla ihop"
 }
