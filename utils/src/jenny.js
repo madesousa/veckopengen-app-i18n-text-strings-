@@ -55,12 +55,12 @@ let checkIfTextStringIsObsolete = (key) => {
     files.forEach((file) => {
       try {
         file = `${dir}/${file}`
-        //console.log(`Reading file: '${file}'`)
+        //console.log(`Reading file: "${file}"`)
         if(checkFile(file, key))
           isOk = true
       }
       catch (e) {
-        //console.log(`Failed reading file: '${file}'`)
+        //console.log(`Failed reading file: "${file}"`)
         //console.log(e.message)
       }
     })
@@ -74,7 +74,7 @@ let checkIfTextStringIsObsolete = (key) => {
     {
       foundKeys++
       keysToDelete.push(key)
-      console.log(`${key}`)
+      console.log(`${key}\t\t\t\t\t\t${TextStrings[key].replace("\n", "")}`)
     }
 }
 

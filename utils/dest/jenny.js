@@ -74,7 +74,7 @@ ignoredKeys++;else
 {
 foundKeys++;
 keysToDelete.push(key);
-console.log(""+key);
+console.log(key+"\t\t\t\t\t\t"+TextStrings[key].replace("\n",""));
 }
 };
 
