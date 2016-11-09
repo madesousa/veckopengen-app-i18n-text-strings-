@@ -95,5 +95,6 @@
   "push_account_select_failed": "Anslutning av bankkonton misslyckades",
   "push_data_tracking_assignment_failed_parent": "{child} did not complete the data usage task!",
   "push_data_tracking_assignment_failed_child": "You did not complete the data usage task!",
-  "push_data_tracking_assignment_reminder": "En dag kvar, kolla din surf!"
+  "push_data_tracking_assignment_reminder": "En dag kvar, kolla din surf!",
+  "dashboard_child_not_connected": "Koppla ihop"
 }

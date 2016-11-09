@@ -95,5 +95,6 @@
   "push_data_tracking_assignment_threshold_parent": "{child} has used up {percentage}% of the surf pot.",
   "push_data_tracking_assignment_threshold_child": "You have used up {percentage}% of the surf pot this week!",
   "dashboard_data_tracking_assignment_completed": "Received {amount} for completed surf pot!",
-  "dashboard_data_tracking_assignment_failed": "Failed this week's surf pot!"
+  "dashboard_data_tracking_assignment_failed": "Failed this week's surf pot!",
+  "dashboard_child_not_connected": "Connect to a family member"
 }
