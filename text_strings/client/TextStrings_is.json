@@ -1023,5 +1023,7 @@
   "task_pending_state": "Granskas...",
   "recurring_task_temp_text": "Återkommande uppgift",
   "edit_wish_navbar": "Önskning %1$d",
-  "mark_not_purchased": "Avmarkera köpt"
+  "mark_not_purchased": "Avmarkera köpt",
+  "notifications_task_done_title": "Klirrr!",
+  "notifications_task_done_text": "%1$d blev godkänd och du har inkasserat %2$c!"
 }
