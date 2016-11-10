@@ -97,5 +97,6 @@
   "dashboard_data_tracking_assignment_completed": "Received {amount} for completed surf pot!",
   "dashboard_data_tracking_assignment_failed": "Failed this week's surf pot!",
   "dashboard_child_not_connected": "Connect to a family member",
-  "dashboard_child_setup": "Set up profile!"
+  "dashboard_child_setup": "Set up profile!",
+  "dashboard_enable_data_tracking": "New! Set up the Surf check!"
 }
