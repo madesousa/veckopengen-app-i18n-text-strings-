@@ -95,5 +95,6 @@
   "dashboard_data_tracking_assignment_failed": "Klarte ikke ukens surfemengde!",
   "push_goal_updated": "{user} har endret sparemål {goal}.",
   "push_task_updated": "{user} har endret oppgaven {task}.",
-  "dashboard_child_not_connected": "Koble sammen"
+  "dashboard_child_not_connected": "Koble sammen",
+  "dashboard_child_setup": "Er ikke ferdigskapt enda!"
 }

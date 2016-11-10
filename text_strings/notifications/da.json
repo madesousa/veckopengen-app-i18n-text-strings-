@@ -96,5 +96,6 @@
   "push_data_tracking_assignment_threshold_child": "Du har använt {percentage}% av surfpotten denna vecka!",
   "dashboard_data_tracking_assignment_completed": "Fick {amount} för klarad surfpott!",
   "dashboard_data_tracking_assignment_failed": "Klarade inte veckans surfpott!",
-  "dashboard_child_not_connected": "Glem ikke at forbinde"
+  "dashboard_child_not_connected": "Glem ikke at forbinde",
+  "dashboard_child_setup": "Er ikke færdig oprettet endnu!"
 }

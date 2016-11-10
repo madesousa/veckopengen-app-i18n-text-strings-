@@ -96,5 +96,6 @@
   "push_data_tracking_assignment_threshold_child": "Olet käyttänyt {percentage}% nettisaldostasi tällä viikolla!",
   "dashboard_data_tracking_assignment_completed": "Sait {amount} nettisaldotehtävästä!",
   "dashboard_data_tracking_assignment_failed": "Ei suorittanut viikon nettisaldotehtävää!",
-  "dashboard_child_not_connected": "Älä unohda yhdistää"
+  "dashboard_child_not_connected": "Älä unohda yhdistää",
+  "dashboard_child_setup": "Ei ole valmiina vielä!"
 }
