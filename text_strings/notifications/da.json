@@ -98,5 +98,6 @@
   "dashboard_data_tracking_assignment_failed": "Klarade inte veckans surfpott!",
   "dashboard_child_not_connected": "Glem ikke at forbinde",
   "dashboard_child_setup": "Er ikke færdig oprettet endnu!",
-  "dashboard_enable_data_tracking": "Nyhed! Igangsæt surfkontrol!"
+  "dashboard_enable_data_tracking": "Nyhed! Igangsæt surfkontrol!",
+  "dashboard_over_trustly_limit": "Trustly maxgräns är uppnådd"
 }

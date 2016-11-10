@@ -98,5 +98,6 @@
   "push_data_tracking_assignment_reminder": "En dag kvar, kolla din surf!",
   "dashboard_child_not_connected": "Koppla ihop",
   "dashboard_child_setup": "Är inte färdigskapad än!",
-  "dashboard_enable_data_tracking": "Nyhet! Sätt igång surfkoll!"
+  "dashboard_enable_data_tracking": "Nyhet! Sätt igång surfkoll!",
+  "dashboard_over_trustly_limit": "Trustly maxgräns är uppnådd"
 }

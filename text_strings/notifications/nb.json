@@ -97,5 +97,6 @@
   "push_task_updated": "{user} har endret oppgaven {task}.",
   "dashboard_child_not_connected": "Koble sammen",
   "dashboard_child_setup": "Er ikke ferdigskapt enda!",
-  "dashboard_enable_data_tracking": "Nyhet! Sett i gang surfekontroll!"
+  "dashboard_enable_data_tracking": "Nyhet! Sett i gang surfekontroll!",
+  "dashboard_over_trustly_limit": "Trustly maxgräns är uppnådd"
 }
