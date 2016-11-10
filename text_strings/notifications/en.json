@@ -100,5 +100,6 @@
   "dashboard_child_setup": "Set up profile!",
   "dashboard_enable_data_tracking": "New! Set up the Surf check!",
   "dashboard_over_trustly_limit": "Trustly maxgräns är uppnådd",
-  "dashboard_failed_transaction": "Failed transaction {amount}"
+  "dashboard_failed_trustly_transaction": "Failed transaction",
+  "dashboard_completed_trustly_transaction": "{amount} överfördes till bankkonto"
 }

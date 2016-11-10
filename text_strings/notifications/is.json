@@ -100,5 +100,6 @@
   "dashboard_child_setup": "Er ekki tilbúið!",
   "dashboard_enable_data_tracking": "Nyhet! Sätt igång surfkoll!",
   "dashboard_over_trustly_limit": "Trustly maxgräns är uppnådd",
-  "dashboard_failed_transaction": "Misslyckad överföring {amount}"
+  "dashboard_failed_trustly_transaction": "Misslyckad överföring",
+  "dashboard_completed_trustly_transaction": "{amount} överfördes till bankkonto"
 }
