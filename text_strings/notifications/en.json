@@ -99,5 +99,6 @@
   "dashboard_child_not_connected": "Connect to a family member",
   "dashboard_child_setup": "Set up profile!",
   "dashboard_enable_data_tracking": "New! Set up the Surf check!",
-  "dashboard_over_trustly_limit": "Trustly maxgräns är uppnådd"
+  "dashboard_over_trustly_limit": "Trustly maxgräns är uppnådd",
+  "dashboard_failed_transaction": "Failed transaction {amount}"
 }

@@ -99,5 +99,6 @@
   "dashboard_child_not_connected": "Älä unohda yhdistää",
   "dashboard_child_setup": "Ei ole valmiina vielä!",
   "dashboard_enable_data_tracking": "Uutuus! Ota käyttöön nettivalvonta!",
-  "dashboard_over_trustly_limit": "Trustly maxgräns är uppnådd"
+  "dashboard_over_trustly_limit": "Trustly maxgräns är uppnådd",
+  "dashboard_failed_transaction": "Tilisiirto epäonnistui {amount}"
 }

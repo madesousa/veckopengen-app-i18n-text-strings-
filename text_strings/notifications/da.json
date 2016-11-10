@@ -99,5 +99,6 @@
   "dashboard_child_not_connected": "Glem ikke at forbinde",
   "dashboard_child_setup": "Er ikke færdig oprettet endnu!",
   "dashboard_enable_data_tracking": "Nyhed! Igangsæt surfkontrol!",
-  "dashboard_over_trustly_limit": "Trustly maxgräns är uppnådd"
+  "dashboard_over_trustly_limit": "Trustly maxgräns är uppnådd",
+  "dashboard_failed_transaction": "Mislykket overførsel {amount}"
 }
