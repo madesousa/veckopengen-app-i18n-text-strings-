@@ -1018,12 +1018,13 @@
   "toplist_christmas_year_13_8": "Smartphone",
   "toplist_christmas_year_13_9": "Resa",
   "toplist_christmas_year_13_10": "Drönare",
+  "notifications_task_done_title": "Klirrr!",
+  "notifications_task_done_text": "%1$d ble godkjent og du har inkassert %2$c!",
   "task_done_state": "Utför",
   "complete_task_state": "Utförd",
   "task_pending_state": "Granskas...",
   "recurring_task_temp_text": "Återkommande uppgift",
   "edit_wish_navbar": "Önskning %1$d",
   "mark_not_purchased": "Avmarkera köpt",
-  "notifications_task_done_title": "Klirrr!",
-  "notifications_task_done_text": "%1$d ble godkjent og du har inkassert %2$c!"
+  "wishlist_created_by": "Skapad i Veckopengen 🎅"
 }
