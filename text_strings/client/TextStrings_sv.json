@@ -1033,5 +1033,6 @@
   "complete_task_state": "Utför",
   "task_pending_state": "Granskas...",
   "recurring_task_temp_text": "Återkommande uppgift",
-  "edit_wish_navbar": "Önskning %1$d"
+  "edit_wish_navbar": "Önskning %1$d",
+  "mark_not_purchased": "Avmarkera köpt"
 }
