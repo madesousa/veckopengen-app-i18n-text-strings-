@@ -101,5 +101,6 @@
   "dashboard_enable_data_tracking": "Nyhed! Igangsæt surfkontrol!",
   "dashboard_over_trustly_limit": "Trustly maxgräns är uppnådd",
   "dashboard_failed_trustly_transaction": "Mislykket overførsel",
-  "dashboard_completed_trustly_transaction": "{amount} överfördes till bankkonto"
+  "dashboard_completed_trustly_transaction": "{amount} överfördes till bankkonto",
+  "dashboard_assignment_completed": "Klar med {task}"
 }
