@@ -1028,5 +1028,9 @@
   "toplist_christmas_year_13_7": "Xbox",
   "toplist_christmas_year_13_8": "Smartphone",
   "toplist_christmas_year_13_9": "Resa",
-  "toplist_christmas_year_13_10": "Drönare"
+  "toplist_christmas_year_13_10": "Drönare",
+  "task_done_state": "Utförd",
+  "complete_task_state": "Utför",
+  "task_pending_state": "Granskas...",
+  "recurring_task_temp_text": "Återkommande uppgift"
 }
