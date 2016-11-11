@@ -1021,5 +1021,6 @@
   "task_done_state": "Utför",
   "complete_task_state": "Utförd",
   "task_pending_state": "Granskas...",
-  "recurring_task_temp_text": "Återkommande uppgift"
+  "recurring_task_temp_text": "Återkommande uppgift",
+  "edit_wish_navbar": "Önskning %1$d"
 }
