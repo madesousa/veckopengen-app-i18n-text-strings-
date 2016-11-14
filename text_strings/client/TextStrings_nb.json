@@ -1031,5 +1031,6 @@
   "wishlist_news_popover_headline": "Skapa din önskelista!",
   "wishlist_news_popover_desc": "Nu kan du skapa din egna önskelista till julafton och dela den med dina föräldrar. Så att de vet vad du vill ha!",
   "notifications_interest_deposit_title": "Grattis!",
-  "notifications_interest_deposit_text": "Du har fått %1$c i sparebonus!"
+  "notifications_interest_deposit_text": "Du har fått %1$c i sparebonus!",
+  "task_approve_state": "Godkänn"
 }
