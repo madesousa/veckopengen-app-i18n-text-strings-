@@ -1037,5 +1037,8 @@
   "recurring_task_temp_text": "Återkommande uppgift",
   "edit_wish_navbar": "Önskning %1$d",
   "mark_not_purchased": "Avmarkera köpt",
-  "wishlist_created_by": "Skapad i Veckopengen 🎅"
+  "wishlist_created_by": "Skapad i Veckopengen 🎅",
+  "create_wishlist": "Skapa önskelista",
+  "wishlist_news_popover_headline": "Skapa din önskelista!",
+  "wishlist_news_popover_desc": "Nu kan du skapa din egna önskelista till julafton och dela den med dina föräldrar. Så att de vet vad du vill ha!"
 }
