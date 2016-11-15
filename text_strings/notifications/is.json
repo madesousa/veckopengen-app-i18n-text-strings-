@@ -103,5 +103,6 @@
   "dashboard_failed_trustly_transaction": "Misslyckad överföring",
   "dashboard_completed_trustly_transaction": "{amount} överfördes till bankkonto",
   "dashboard_assignment_completed": "búin með {task}",
-  "dashboard_child_trustly_account_ongoing": "Anslutning av bankkonton pågår"
+  "dashboard_child_trustly_account_ongoing": "Anslutning av bankkonton pågår",
+  "dashboard_goal_archived": "Arkiverade sparmålet {goal}"
 }

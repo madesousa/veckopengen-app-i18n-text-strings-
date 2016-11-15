@@ -103,5 +103,6 @@
   "dashboard_failed_trustly_transaction": "Tilisiirto epäonnistui",
   "dashboard_completed_trustly_transaction": "{amount} överfördes till bankkonto",
   "dashboard_assignment_completed": "Valmiina {task}",
-  "dashboard_child_trustly_account_ongoing": "Liitetään pankkitiliä"
+  "dashboard_child_trustly_account_ongoing": "Liitetään pankkitiliä",
+  "dashboard_goal_archived": "Arkiverade sparmålet {goal}"
 }
