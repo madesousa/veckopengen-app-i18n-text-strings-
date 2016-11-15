@@ -104,5 +104,6 @@
   "dashboard_completed_trustly_transaction": "{amount} överfördes till bankkonto",
   "dashboard_assignment_completed": "Done with {task}",
   "dashboard_child_trustly_account_ongoing": "Connection of bank accounts is ongoing",
-  "dashboard_goal_archived": "Archived savings goal {goal}"
+  "dashboard_goal_archived": "Archived savings goal {goal}",
+  "dashboard_child_trustly_allowance_enabled": "Överföringar aktiverade"
 }

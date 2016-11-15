@@ -104,5 +104,6 @@
   "dashboard_completed_trustly_transaction": "{amount} överfördes till bankkonto",
   "dashboard_assignment_completed": "Klar med {task}",
   "dashboard_child_trustly_account_ongoing": "Afventer tilslutning til bankkontoen",
-  "dashboard_goal_archived": "Arkiverade sparmålet {goal}"
+  "dashboard_goal_archived": "Arkiverade sparmålet {goal}",
+  "dashboard_child_trustly_allowance_enabled": "Överföringar aktiverade"
 }
