@@ -105,5 +105,6 @@
   "dashboard_assignment_completed": "Valmiina {task}",
   "dashboard_child_trustly_account_ongoing": "Liitetään pankkitiliä",
   "dashboard_goal_archived": "Arkiverade sparmålet {goal}",
-  "dashboard_child_trustly_allowance_enabled": "Överföringar aktiverade"
+  "dashboard_child_trustly_allowance_enabled": "Överföringar aktiverade",
+  "dashboard_add_trustly_account": "Lägg till bankkonto"
 }

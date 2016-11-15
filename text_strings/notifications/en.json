@@ -105,5 +105,6 @@
   "dashboard_assignment_completed": "Done with {task}",
   "dashboard_child_trustly_account_ongoing": "Connection of bank accounts is ongoing",
   "dashboard_goal_archived": "Archived savings goal {goal}",
-  "dashboard_child_trustly_allowance_enabled": "Överföringar aktiverade"
+  "dashboard_child_trustly_allowance_enabled": "Överföringar aktiverade",
+  "dashboard_add_trustly_account": "Lägg till bankkonto"
 }
