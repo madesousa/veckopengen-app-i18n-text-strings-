@@ -379,7 +379,6 @@
   "withdrawl_from_pig": "Withdrawal from the piggy bank",
   "task": "Task",
   "bank_transaction": "Bank transaction",
-  "automatic_transaction_type_text": "Automatic transaction from ",
   "recurring_to_pig": "%1$d to the piggy bank",
   "transaction_to_pig": "Deposit to the piggy bank %1$d",
   "deposit": "Deposit",
@@ -1033,5 +1032,6 @@
   "notifications_interest_deposit_title": "Grattis!",
   "notifications_interest_deposit_text": "Du har fått %1$c i sparbonus!",
   "task_approve_state": "Godkänn",
-  "wishlist_empty_parent": "%1$d önskelista är tom..."
+  "wishlist_empty_parent": "%1$d önskelista är tom...",
+  "automatic_transaction_type_text": "Automatic transaction from "
 }

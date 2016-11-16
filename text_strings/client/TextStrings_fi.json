@@ -379,7 +379,6 @@
   "withdrawl_from_pig": "Nosto säästöpossusta",
   "task": "Maksu",
   "bank_transaction": "Pankkisiirto",
-  "automatic_transaction_type_text": "Automaattinen tilisiirto tililtä",
   "recurring_to_pig": "%1$s säästöpossuun",
   "transaction_to_pig": "Talletus tililtä %1$d",
   "deposit": "talletus",
@@ -1033,5 +1032,6 @@
   "notifications_interest_deposit_title": "Onnea!",
   "notifications_interest_deposit_text": "Olet saanut %1$c säästöbonusta!",
   "task_approve_state": "Godkänn",
-  "wishlist_empty_parent": "%1$d önskelista är tom..."
+  "wishlist_empty_parent": "%1$d önskelista är tom...",
+  "automatic_transaction_type_text": "Automaattinen tilisiirto tililtä"
 }

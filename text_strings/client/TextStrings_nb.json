@@ -379,7 +379,6 @@
   "withdrawl_from_pig": "Uttak fra sparegrisen",
   "task": "Oppgave",
   "bank_transaction": "Bankoverføring",
-  "automatic_transaction_type_text": "Automatisk overføring av ",
   "recurring_to_pig": "%1$d til sparegrisen",
   "transaction_to_pig": "Innskudd fra %1$d",
   "deposit": "innskudd",
@@ -1033,5 +1032,6 @@
   "notifications_interest_deposit_title": "Gratulerer!",
   "notifications_interest_deposit_text": "Du har fått %1$c i sparebonus!",
   "task_approve_state": "Godkjenn",
-  "wishlist_empty_parent": "%1$d ønskeliste er tom..."
+  "wishlist_empty_parent": "%1$d ønskeliste er tom...",
+  "automatic_transaction_type_text": "Automatisk overføring av "
 }
