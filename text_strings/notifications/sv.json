@@ -106,5 +106,8 @@
   "dashboard_child_trustly_account_ongoing": "Anslutning av bankkonton pågår",
   "dashboard_goal_archived": "Arkiverade sparmålet {goal}",
   "dashboard_child_trustly_allowance_enabled": "Överföringar aktiverade",
-  "dashboard_add_trustly_account": "Lägg till bankkonto"
+  "dashboard_add_trustly_account": "Lägg till bankkonto",
+  "push_first_wish_created": "{child} har skapat önskelista",
+  "push_wish_created": "{child} har lagt till {wish} på önskelistan",
+  "push_wish_deleted": "{child} har tagit bort {wish} från önskelistan"
 }
