@@ -99,7 +99,6 @@
   "dashboard_child_not_connected": "Connect to a family member",
   "dashboard_child_setup": "Set up profile!",
   "dashboard_enable_data_tracking": "New! Set up the Surf check!",
-  "dashboard_over_trustly_limit": "Bank transaction limit reached",
   "dashboard_failed_trustly_transaction": "Failed transaction",
   "dashboard_completed_trustly_transaction": "{amount} transferred to bank account",
   "dashboard_assignment_completed": "Done with {task}",
@@ -107,6 +106,8 @@
   "dashboard_goal_archived": "Archived savings goal {goal}",
   "dashboard_child_trustly_allowance_enabled": "Bank transactions activated",
   "dashboard_add_trustly_account": "Connect bank account",
+  "dashboard_weekly_allowance_over_trustly_limit": "Allowance is over transfer limit",
+  "dashboard_monthly_allowance_over_trustly_limit": "Allowance is over transfer limit",
   "push_first_wish_created": "{child} has created a wish list",
   "push_wish_created": "{child} has added {wish} to their wish list",
   "push_wish_deleted": "{child} has removed {wish} from their wish list"

@@ -99,7 +99,6 @@
   "dashboard_child_not_connected": "ekki gleyma að tengja saman",
   "dashboard_child_setup": "Er ekki tilbúið!",
   "dashboard_enable_data_tracking": "Nyhet! Sätt igång surfkoll!",
-  "dashboard_over_trustly_limit": "Trustly maxgräns är uppnådd",
   "dashboard_failed_trustly_transaction": "Misslyckad överföring",
   "dashboard_completed_trustly_transaction": "{amount} överfördes till bankkonto",
   "dashboard_assignment_completed": "búin með {task}",
@@ -107,6 +106,8 @@
   "dashboard_goal_archived": "Arkiverade sparmålet {goal}",
   "dashboard_child_trustly_allowance_enabled": "Överföringar aktiverade",
   "dashboard_add_trustly_account": "Lägg till bankkonto",
+  "dashboard_weekly_allowance_over_trustly_limit": "Veckopengen är över beloppsgränsen",
+  "dashboard_monthly_allowance_over_trustly_limit": "Månadspengen är över beloppsgränsen",
   "push_first_wish_created": "{child} har skapat önskelista",
   "push_wish_created": "{child} har lagt till {wish} på önskelistan",
   "push_wish_deleted": "{child} har tagit bort {wish} från önskelistan"
