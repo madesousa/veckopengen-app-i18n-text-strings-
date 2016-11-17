@@ -1033,5 +1033,5 @@
   "notifications_interest_deposit_text": "You have received %1$c in savings bonus!",
   "task_approve_state": "Approve",
   "wishlist_empty_parent": "%1$d´s wishlist is empty...",
-  "automatic_transaction_type_text": "Automatic transaction from ",
+  "automatic_transaction_type_text": "%1$d till spargrisen",
 }
