@@ -1034,6 +1034,6 @@
   "task_approve_state": "Approve",
   "wishlist_empty_parent": "%1$d´s wishlist is empty...",
   "automatic_transaction_type_text": "%1$d till spargrisen",
-  "shared_assignment_text": "%1$d syskon tävlar mot dig",
-  "timer_assignment_text": "Tick tack, Tick tack!"
+  "timer_assignment_text": "Tick tack, Tick tack!",
+  "shared_assignment_text": "%1$d syskon tävlar mot dig i först till kvarn."
 }
