@@ -1049,5 +1049,6 @@
   "shared_assignment_text": "%1$d syskon tävlar mot dig i först till kvarn.",
   "shared_assignment_win_text": "Du va först till kvarn!",
   "shared_assignment_lose_text": "%1$d hann först till kvarn",
-  "recurring_task_info_text": "Tjäna %1$c för varje gång du utför denna uppgift"
+  "recurring_task_info_text": "Tjäna %1$c för varje gång du utför denna uppgift",
+  "recurring_task_unknown_winner": "Vi vet inte riktigt vem som vann..."
 }
