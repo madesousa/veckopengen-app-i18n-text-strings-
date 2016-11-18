@@ -1033,5 +1033,7 @@
   "notifications_interest_deposit_text": "Du har fået %1$c i opsparingsbonus!",
   "task_approve_state": "Accepter",
   "wishlist_empty_parent": "%1$d ønskeseddel er tom...",
-  "automatic_transaction_type_text": "%1$d til sparegrisen"
+  "automatic_transaction_type_text": "%1$d til sparegrisen",
+  "shared_assignment_text": "%1$d syskon tävlar mot dig",
+  "timer_assignment_text": "Tick tack, Tick tack!"
 }
