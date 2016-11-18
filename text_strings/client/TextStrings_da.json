@@ -76,7 +76,7 @@
   "signin_code": "Kode",
   "signin_button": "Log ind",
   "signin_code_invalid_title": "Har du en konto?",
-  "signin_code_invalid_text": "Vi kan ikke finde din konto. Kontrollér at dine oplysninger er korrekte og prøv igen.",
+  "signin_code_invalid_text": "Vi kan ikke finde din konto (%1$d). Kontrollér at dine oplysninger er korrekte og prøv igen.",
   "signin_code_error_title": "Godkendelsesfejl",
   "signin_code_error_text": "Fejl ved verificeringen af mobilnummer / e-mail. Kontrollér din internetforbindelse.",
   "signin_token_invalid_title": "Er koden korrekt?",

@@ -76,7 +76,7 @@
   "signin_code": "Code",
   "signin_button": "Sign in",
   "signin_code_invalid_title": "Have you got an account?",
-  "signin_code_invalid_text": "We can't find your account. Make sure the information is correct and try again.",
+  "signin_code_invalid_text": "We can't find your account (%1$d). Make sure the information is correct and try again.",
   "signin_code_error_title": "Failure with verification",
   "signin_code_error_text": "Failure with verification of phonenumber / e-mail. Please check your Internetaccess.",
   "signin_token_invalid_title": "Is the code correct?",

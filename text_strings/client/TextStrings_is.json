@@ -76,7 +76,7 @@
   "signin_code": "kóði",
   "signin_button": "skrá inn",
   "signin_code_invalid_title": "Ert þú með reikning?",
-  "signin_code_invalid_text": "Við finnum ekki reikninginn þinn. Athugaðu hvort allar upplýsingar séu réttar og reyndu aftur.",
+  "signin_code_invalid_text": "Við finnum ekki reikninginn þinn (%1$d). Athugaðu hvort allar upplýsingar séu réttar og reyndu aftur.",
   "signin_code_error_title": "villa við staðfestingu",
   "signin_code_error_text": "villa við staðfestingu á símanúmeri / tölvupósti. athugaðu hvort nettenging sé til staðar.",
   "signin_token_invalid_title": "Réttur kóði?",

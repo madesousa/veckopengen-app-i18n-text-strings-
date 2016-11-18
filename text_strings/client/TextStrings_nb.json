@@ -76,7 +76,7 @@
   "signin_code": "Kode",
   "signin_button": "Logg inn",
   "signin_code_invalid_title": "Har du en konto?",
-  "signin_code_invalid_text": "Vi kjenner ikke igjen kontoen din. Kontroller at kontoinformasjonen stemmer og forsøk igjen.",
+  "signin_code_invalid_text": "Vi kjenner ikke igjen kontoen din (%1$d). Kontroller at kontoinformasjonen stemmer og forsøk igjen.",
   "signin_code_error_title": "Verifiseringsfeil",
   "signin_code_error_text": "Feil med verifiseringen av telefonnummer / e-post. Kontroller din Internett-tilkobling.",
   "signin_token_invalid_title": "Stemmer koden?",

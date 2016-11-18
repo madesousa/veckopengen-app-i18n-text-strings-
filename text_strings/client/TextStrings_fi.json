@@ -76,7 +76,7 @@
   "signin_code": "Koodi",
   "signin_button": "Kirjaudu sisään",
   "signin_code_invalid_title": "Onko sinulla tili?",
-  "signin_code_invalid_text": "Tiliä ei löydy. Tarkista, että tiedot pitävät paikkansa ja yritä uudestaan.",
+  "signin_code_invalid_text": "Tiliä ei löydy (%1$d). Tarkista, että tiedot pitävät paikkansa ja yritä uudestaan.",
   "signin_code_error_title": "Todennusvirhe",
   "signin_code_error_text": "Virhe puhelinnumeron / s-postiosoitteen tunnistamisessa. Tarkista Internet-yhteytesi.",
   "signin_token_invalid_title": "Onko koodi oikein?",
