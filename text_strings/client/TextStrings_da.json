@@ -896,7 +896,7 @@
   "activate_premium_title": "Test Premium!",
   "activate_premium_desc": "Overførsler indgår i den Premium, som endnu ikke er lanceret. Det er derfor gratis for alle brugere netop nu. Vi lovar at sige til i god tid, inden Premium begynder at koste penge.",
   "trustly_exceeded_amount_title": "Maksimumsgrænse",
-  "trustly_exceeded_amount_desc": "Du har oversteget maksimumsgrænsen på 1.000 kr. for bankoverførsel af uge- eller månedspenge. Reducer beløbet for at overførslen kan gennemføres.",
+  "trustly_exceeded_amount_desc": "Du har oversteget maksimumsgrænsen på <b>1000 kr</b>. for bankoverførsel af uge- eller månedspenge. Reducer beløbet for at overførslen kan gennemføres.",
   "trustly_account_settings_from": "Registrer anden konto til forælder",
   "trustly_account_settings_to": "Registrer anden konto til barn",
   "allowance_is_saved_or_payed": "%1$s har sparet op eller har fået udbetalt",

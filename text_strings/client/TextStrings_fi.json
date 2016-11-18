@@ -896,7 +896,7 @@
   "activate_premium_title": "Kokeile Premium-versiota!",
   "activate_premium_desc": "Siirrot sisältyvät Premium-versioon, jota ei ole vielä lanseerattu. Palvelu on siksi tällä hetkellä ilmainen kaikille käyttäjille. Lupaamme ilmoittaa ajoissa, kun Premium-versio on muuttumassa maksulliseksi.",
   "trustly_exceeded_amount_title": "Enimmäisraja",
-  "trustly_exceeded_amount_desc": "Olet ylittänyt viikko- tai kuukausirahojen 1000 SEK:n enimmäissiirtorajan. Pienennä summaa suorittaaksesi siirron.",
+  "trustly_exceeded_amount_desc": "Olet ylittänyt viikko- tai kuukausirahojen <b>1000 kr</b> enimmäissiirtorajan. Pienennä summaa suorittaaksesi siirron.",
   "trustly_account_settings_from": "Rekisteröi toinen tili vanhemmalle",
   "trustly_account_settings_to": "Rekisteröi toinen tili lapselle",
   "allowance_is_saved_or_payed": "%1$s on talletettu tai maksettu",

@@ -896,7 +896,7 @@
   "activate_premium_title": "Try Premium!",
   "activate_premium_desc": "Bank transfers are included in the Premium version that hasn't been released yet. Therefore it is free for all users right now. We promise to let you know in good time before Premium begins to cost money.",
   "trustly_exceeded_amount_title": "Maximum limit",
-  "trustly_exceeded_amount_desc": "You have gone over the maximum limit of 1000 kr for bank transfers of weekly or monthly allowance. Reduce the amount by saving so that the transfer can be implemented. ",
+  "trustly_exceeded_amount_desc": "You have gone over the maximum limit of <b>1000 kr</b> for bank transfers of weekly or monthly allowance. Reduce the amount by saving so that the transfer can be implemented. ",
   "trustly_account_settings_from": "Register another account for parents",
   "trustly_account_settings_to": "Register another account for children",
   "allowance_is_saved_or_payed": "%1$s is saved or payed",
