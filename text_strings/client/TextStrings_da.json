@@ -1035,5 +1035,7 @@
   "wishlist_empty_parent": "%1$d ønskeseddel er tom...",
   "automatic_transaction_type_text": "%1$d til sparegrisen",
   "timer_assignment_text": "Tick tack, Tick tack!",
-  "shared_assignment_text": "%1$d syskon tävlar mot dig i först till kvarn."
+  "shared_assignment_text": "%1$d syskon tävlar mot dig i först till kvarn.",
+  "shared_assignment_win_text": "Du va först till kvarn!",
+  "shared_assignment_loose_text": "%1$d hann först till kvarn"
 }
