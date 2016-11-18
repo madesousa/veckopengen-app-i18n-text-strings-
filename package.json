@@ -7,8 +7,8 @@
     "test": "jest",
     "babelize": "./node_modules/.bin/babel ./utils/src -d ./utils/dest",
     "sara": "npm run babelize && node ./utils/dest/sara.js",
-    "jenny": "npm run babelize && node ./utils/dest/jenny.js",
-    "jenny": "npm run babelize && node ./utils/dest/anna.js"
+    "anna": "npm run babelize && node ./utils/dest/anna.js",
+    "jenny": "npm run babelize && node ./utils/dest/jenny.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,8 @@
     "babel-preset-react-native": "1.9.0",
     "jest-cli": "16.0.1",
     "json-loader": "0.5.4"
+  },
+  "dependencies": {
+    "google-translate": "^1.0.7"
   }
 }
