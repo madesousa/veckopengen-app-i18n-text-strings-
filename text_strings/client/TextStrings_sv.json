@@ -1053,5 +1053,6 @@
   "recurring_task_unknown_winner": "Vi vet inte riktigt vem som vann...",
   "trustly_receipt_error_description_over_limit": "Banköverföringen har inte genomförts då summan överskrider maxbeloppet på 1000 kr. Minska beloppet till under 1000 kr för att utbetalningen ska genomföras vid nästa vecko- eller månadspeng.",
   "add_wish_modal_price": "Pris",
-  "add_wish_modal_price_placeholder": "Vad kostar den?"
+  "add_wish_modal_price_placeholder": "Vad kostar den?",
+  "popover_slider_change_headline": "Förändring i %1$d"
 }
