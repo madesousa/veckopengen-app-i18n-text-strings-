@@ -807,7 +807,7 @@
   "active_now": "Logged in",
   "task_requested_message": "Message sent",
   "surf_guide_popover_button_parent": "Read more in the Surf Guide",
-  "wrong_connection_mode_plz_login": "Wrong login alternative, plz login and try to connect again when you are logged in",
+  "wrong_connection_mode_plz_login": "Error! Account for children must first be created.",
   "data_tracking_popover_info_parent": "%1$d has used %2$d and has <boldGreen>%3$d</boldGreen> left to get the reward for %4$d",
   "created_child_no_data_tracking": "Surf check",
   "data_tracking_popover_no_left_info_text_parent": "%1$d has used %2$d and gone over their surf pot. %3$d gets no reward for <boldRed>%4$c</boldRed> but a new chance next week.",
