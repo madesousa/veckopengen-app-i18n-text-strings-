@@ -15,6 +15,7 @@ import enLocale from "moment/locale/en-gb"
 
 import CountryCodes from "./CountryCodes.json"
 import Currencies from "./Currencies.json"
+import TimeZones from "./TimeZones.json"
 import LanguageCodes from "./LanguageCodes.json"
 import countryCodes2PhoneNumberPrefixes from "./countryCodes2PhoneNumberPrefixes.json"
 import DefaultCurrencies from "./DefaultCurrencies"
@@ -60,6 +61,7 @@ export let getCountry = (countryCode : string) => CountryCodes.find(country => c
 export let getPhoneNumberPrefix = (countryCode : string) => parseInt(countryCodes2PhoneNumberPrefixes[countryCode.toUpperCase()])
 export let getCountryCodeFromLocale = (locale : string) => locale.slice(-2)
 export let getCurrencies = () => Currencies.filter(currency => supportedCurrencies.indexOf(currency.fields.iso_4217_name) !== -1)
+export let getTimeZones = () => TimeZones
 export let getCurrency = (currencyCode : string) => getCurrencies().find(currency => currency.fields.iso_4217_name === currencyCode)
 export let getLangugageCodes = () => LanguageCodes.filter(languageCode => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
 
