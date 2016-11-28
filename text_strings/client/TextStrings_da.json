@@ -476,7 +476,7 @@
   "create_account": "Opret konto",
   "signup_connect_family_member": "Parring med familiemedlem",
   "terms_conditions": "Ved at fortsætte accepterer du Gimis \n <b>Anvendelsesvilkår og Integritetspolitik</b>",
-  "transaction_from_transactionalAccount_to_savingsAccount": "Overførsel af %1$s til sparegrisen",
+  "transaction_from_transactionalAccount_to_savingsAccount": "Overførsel af %1$d til sparegrisen",
   "one_day_to_bonus": "Opsparingbonussen udbetales i morgen",
   "dashboard_child_welcome": "Du er registreret",
   "dashboard_child_welcome_desc": "For at komme i gang skal du være tilsluttet en forælder.",
