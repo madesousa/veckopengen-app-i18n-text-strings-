@@ -1,6 +1,6 @@
 //@flow
 
-var ignoredKeys = ["currency", "currencyMinus", "currencyPlus"]
+var ignoredKeys = ["currency", "currencyMinus", "currencyPlus", "aint_no_money_desc", "no_money_pig_parent_text"]
 
 export let compareKeys = (firstLang : Object, secondLang : Object, firstLangName : string = "", secondLangName : string = "") => {
 	var keys = Object.keys(firstLang)
