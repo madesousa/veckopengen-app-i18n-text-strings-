@@ -15,12 +15,21 @@ export let compareKeys = (firstLang : Object, secondLang : Object, firstLangName
 		if(secondLang[key].indexOf("$ ") !== -1)
 			errorMessage = `Lang: '${firstLangName}', Key: '${key}' has a $ and whitespace, do you mean $s, $d or $c ?`
 
-		if(!ignoredKeys.includes(key) && firstLang[key].split("$") !== secondLang[key].split("$"))
-			errorMessage = `Lang: '${secondLangName}', Key: '${key}' has not the same amount of '$' as text string in ${firstLangName} lang, plz check`
-
 		expect(errorMessage).toEqual(undefined)
 	})
 }
+
+export let compareDollarSigns = (firstLang : Object, secondLang : Object, firstLangName : string = "", secondLangName : string = "") => {
+	var keys = Object.keys(firstLang)
+	var errorMessages = []
+	keys.forEach(key => {
+		if(!ignoredKeys.includes(key) && firstLang[key].split("$").length !== secondLang[key].split("$").length)
+			errorMessages.push(`Lang: '${secondLangName}', Key: '${key}' has not the same amount of $ signs as text string in ${firstLangName} lang, plz check`)
+	})
+
+	expect(errorMessages).toEqual([])
+}
+
 
 let testCompareKeysWithinTextString = (textString1 : string, textString2 : string, textStringName : string) => {
 

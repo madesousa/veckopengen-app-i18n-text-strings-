@@ -608,7 +608,6 @@
   "connect_sms_header": "Inviter med en sms",
   "popover_payout_today_allowance_has_been_payed_out_child": "Jeg har fått mine %1$s!",
   "popover_payout_today_allowance_has_been_payed_out_parent": "Jag har betalt %1$s",
-  "withdraw_from_transactional_account_popover_header": "Angi summen som skal dras fra ukepengene",
   "expense_popover_description_parent": "Hvor mye penger har blitt utbetalt?",
   "add_child_allowance_text": "Hvor ofte skal %1$d få penger?",
   "what_to_do_with_money": "Hva vil du gjøre med pengene?",
@@ -1044,5 +1043,6 @@
   "add_wish_modal_price": "Pris",
   "add_wish_modal_price_placeholder": "Hva koster det?",
   "popover_slider_change_headline": "Förändring i %1$d",
-  "trustly_overview_sort_transactions": "Overganger"
+  "trustly_overview_sort_transactions": "Overganger",
+  "withdraw_from_transactional_account_popover_header": "Angi summen som skal dras"
 }

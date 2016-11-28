@@ -28,9 +28,6 @@ let translateTextStringForFile = (file, textId) => {
   if(file === "TextStrings_sv.json")
     return Promise.resolve()
 
-
-
-
   var path = getPath(file)
 
   var TextStrings = fs.readFileSync(path, {encoding : "utf8"})
@@ -39,6 +36,7 @@ let translateTextStringForFile = (file, textId) => {
   var lang = file.replace("TextStrings_","").replace(".json","")
   if(lang === "nb")
     lang = "no"
+
   return translate(stringToReplace, {to: lang}).then(res => {
       console.log(`Translated text: '${stringToReplace}' to: '${res.text}' in ${file}`)
       TextStrings[textId] = res.text

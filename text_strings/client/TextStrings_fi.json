@@ -160,7 +160,7 @@
   "profile_available_tasks_empty_child": "Sinulla ei ole uusia tehtäviä",
   "profile_locked_tasks": "Suoritetut tehtävät",
   "profile_locked_goals": "Saavutetut säästötavoitteet",
-  "profile_connect_child": "Liitä yhteen lapsen kanssa",
+  "profile_connect_child": "Liitä yhteen lapsen kanssa %1$d",
   "profile_task_meta_text_requires_photo": "Vaaditaan kuvatodiste",
   "profile_task_meta_text_shared_assignment": "Saapumisjärjestyksessä",
   "goal_met_title": "Onnea!",
@@ -608,7 +608,6 @@
   "connect_sms_header": "Lähetä kutsu tekstiviestillä",
   "popover_payout_today_allowance_has_been_payed_out_child": "Minä sain %1$s!",
   "popover_payout_today_allowance_has_been_payed_out_parent": "Olen maksanut %1$s",
-  "withdraw_from_transactional_account_popover_header": "Syötä viikkorahoista nostettava summa",
   "expense_popover_description_parent": "Kuinka paljon rahaa on nostettu?",
   "add_child_allowance_text": "Kuinka usein %1$d saa rahaa?",
   "what_to_do_with_money": "Mitä aiot tehdä rahoilla?",
@@ -1044,5 +1043,6 @@
   "add_wish_modal_price": "hinta",
   "add_wish_modal_price_placeholder": "Mitä se maksaa?",
   "popover_slider_change_headline": "Förändring i %1$d",
-  "trustly_overview_sort_transactions": "Siirrot"
+  "trustly_overview_sort_transactions": "Siirrot",
+  "withdraw_from_transactional_account_popover_header": "Syötä viikkorahoista nostettava summa"
 }
