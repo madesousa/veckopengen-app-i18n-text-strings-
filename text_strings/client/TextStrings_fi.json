@@ -434,7 +434,6 @@
   "time_to_payout_today_to_external_bankaccount_popover_header_child": "Tänään sait viikkorahan",
   "time_to_payout_today_to_external_bankaccount_popover_text_parent": "%1$s on maksettu %2$d:n pankkitillle. Katso kuittia kohdassa Maksusuoritukset.",
   "time_to_payout_today_to_external_bankaccount_popover_text_child": "%1$s on maksettu pankkitilillesi.",
-  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "%1$s on talletettu tai maksettu",
   "time_to_payout_today_to_external_bankaccount_popover_header_failed_parent": "%1$dn %2$sei ole maksettu",
   "time_to_payout_today_to_external_bankaccount_popover_header_failed_child": "Sinun %1$s ei ole maksettu",
   "time_to_payout_today_to_external_bankaccount_popover_text_failed_parent": "%1$s ei voitu maksaa pankkitilille. Katso kohdasta Maksusuoritukset, mitä meni vikaan. Voit laittaa viikkorahan säästöpossuun.",

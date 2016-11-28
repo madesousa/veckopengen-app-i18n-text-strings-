@@ -434,7 +434,6 @@
   "time_to_payout_today_to_external_bankaccount_popover_header_child": "I dag har du fått ukepengene",
   "time_to_payout_today_to_external_bankaccount_popover_text_parent": "%1$s har blitt utbetalt til %2$ds bankkonto. Se kvitering under transaksjoner.",
   "time_to_payout_today_to_external_bankaccount_popover_text_child": "%1$s har blitt utbetalt til din bankkonto.",
-  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "%1$s har blitt spart eller blitt utbetalt.",
   "time_to_payout_today_to_external_bankaccount_popover_header_failed_parent": "%1$ds %2$s ble ikke utbetalt",
   "time_to_payout_today_to_external_bankaccount_popover_header_failed_child": "Dine %1$s ble ikke utbetalt",
   "time_to_payout_today_to_external_bankaccount_popover_text_failed_parent": "%1$s kunne ikke betales ut til bankkontoen. Gå til transaksjoner for å se hva som gikk galt og for å legge ukepengene i sparegrisen isteden.",

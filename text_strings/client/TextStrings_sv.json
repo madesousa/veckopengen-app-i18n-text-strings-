@@ -1054,5 +1054,6 @@
   "add_wish_modal_price_placeholder": "Vad kostar den?",
   "popover_slider_change_headline": "Förändring i %1$d",
   "trustly_overview_sort_transactions": "Överföringar",
-  "withdraw_from_transactional_account_popover_header": "Ange summa att dra av"
+  "withdraw_from_transactional_account_popover_header": "Ange summa att dra av",
+  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "Idag har %1$d fått %2$s"
 }

@@ -434,7 +434,6 @@
   "time_to_payout_today_to_external_bankaccount_popover_header_child": "Idag har du fått veckopengen",
   "time_to_payout_today_to_external_bankaccount_popover_text_parent": "%1$s har betalats ut till %2$ds bankkonto. Se kvitto under transaktioner.",
   "time_to_payout_today_to_external_bankaccount_popover_text_child": "%1$s har betalats ut till ditt bankkonto.",
-  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "%1$s har sparats eller betalats ut.",
   "time_to_payout_today_to_external_bankaccount_popover_header_failed_parent": "%1$ds %2$s betalades inte ut",
   "time_to_payout_today_to_external_bankaccount_popover_header_failed_child": "Din %1$s betalades inte ut",
   "time_to_payout_today_to_external_bankaccount_popover_text_failed_parent": "%1$s kunde inte betalas ut till bankkontot. Gå till transaktioner för att se vad som gått fel och för att lägga veckopengen i spargrisen istället.",
@@ -608,7 +607,6 @@
   "connect_sms_header": "Bjud in med ett sms",
   "popover_payout_today_allowance_has_been_payed_out_child": "Jag har fått %1$s!",
   "popover_payout_today_allowance_has_been_payed_out_parent": "Jag har betalat %1$s",
-  "withdraw_from_transactional_account_popover_header": "Ange summa att dra från veckopengen",
   "expense_popover_description_parent": "Hur mycket pengar har betalats ut?",
   "add_child_allowance_text": "Hur ofta ska %1$d få pengar?",
   "what_to_do_with_money": "Vad vill du göra med pengarna?",
@@ -1044,5 +1042,6 @@
   "add_wish_modal_price": "verð",
   "add_wish_modal_price_placeholder": "Hvað kostar það?",
   "popover_slider_change_headline": "Förändring i %1$d",
-  "trustly_overview_sort_transactions": "Yfirfærsla"
+  "trustly_overview_sort_transactions": "Yfirfærsla",
+  "withdraw_from_transactional_account_popover_header": "Ange summa att dra från veckopengen"
 }

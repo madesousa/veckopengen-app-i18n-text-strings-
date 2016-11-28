@@ -434,7 +434,6 @@
   "time_to_payout_today_to_external_bankaccount_popover_header_child": "Today you have recived your pocket money",
   "time_to_payout_today_to_external_bankaccount_popover_text_parent": "%1$s has been paid to %2$ds bank account. See receipt under Transactions.",
   "time_to_payout_today_to_external_bankaccount_popover_text_child": "%1$s has been paid into your bank account.",
-  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "%1$s has been paid out or saved.",
   "time_to_payout_today_to_external_bankaccount_popover_header_failed_parent": "%1$ds %2$s was not paid.",
   "time_to_payout_today_to_external_bankaccount_popover_header_failed_child": "Your %1$s was not paid",
   "time_to_payout_today_to_external_bankaccount_popover_text_failed_parent": "%1$s could not be paid to the bank account. Go to Transactions to see what went wrong and to add pocket money in the piggy bank instead.",
