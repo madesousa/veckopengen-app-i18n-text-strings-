@@ -1,4 +1,7 @@
 //@flow
+
+var ignoredKeys = ["currency", "currencyMinus", "currencyPlus"]
+
 export let compareKeys = (firstLang : Object, secondLang : Object, firstLangName : string = "", secondLangName : string = "") => {
 	var keys = Object.keys(firstLang)
 	keys.forEach(key => {
@@ -11,6 +14,10 @@ export let compareKeys = (firstLang : Object, secondLang : Object, firstLangName
 
 		if(secondLang[key].indexOf("$ ") !== -1)
 			errorMessage = `Lang: '${firstLangName}', Key: '${key}' has a $ and whitespace, do you mean $s, $d or $c ?`
+
+		if(!ignoredKeys.includes(key) && firstLang[key].split("$") !== secondLang[key].split("$"))
+			errorMessage = `Lang: '${secondLangName}', Key: '${key}' has not the same amount of '$' as text string in ${firstLangName} lang, plz check`
+
 		expect(errorMessage).toEqual(undefined)
 	})
 }

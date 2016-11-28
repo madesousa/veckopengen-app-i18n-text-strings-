@@ -20,10 +20,6 @@ textStringsTypes.forEach(textStringsType => {
 			it("all textstrings should have a equivalent string in all other languages", () => {
 				languageCodes.forEach(lang2 => compareKeys(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
 			})
-
-			it("all textstrings should have equivalent keys ({name}) in all other languages ", () => {
-				languageCodes.forEach(lang2 => compareKeysWithinTextStrings(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
-			})
 		})
 	})
 })
