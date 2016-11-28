@@ -352,7 +352,6 @@
   "your2": "ditt",
   "add_childname_account": "Lägg till %1$d bankkonto",
   "trustly_success_text": "Registreringen genomfördes med lyckat resultat",
-  "add_childname_account_later": "Lägg till %1$d bankkonto senare",
   "add_your_account": "Lägg till ditt bankkonto",
   "trustly_info_list_5": "Verifiering med Mobilt Bank ID",
   "trustly_info_list_6": "Tryggt och säkert med Trustly",
@@ -1044,5 +1043,6 @@
   "popover_slider_change_headline": "Förändring i %1$d",
   "trustly_overview_sort_transactions": "Yfirfærsla",
   "withdraw_from_transactional_account_popover_header": "Ange summa att dra från veckopengen",
-  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "Idag har %1$d fått %2$s"
+  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "Idag har %1$d fått %2$s",
+  "add_childname_account_later": "Lägg till senare"
 }

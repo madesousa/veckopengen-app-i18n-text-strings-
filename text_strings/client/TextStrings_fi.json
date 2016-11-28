@@ -352,7 +352,6 @@
   "your2": "sinun",
   "add_childname_account": "Laita %1$d pankkitilille",
   "trustly_success_text": "Rekisteröinti onnistui",
-  "add_childname_account_later": "Laita myöhemmin pankkitilille %1$d",
   "add_your_account": "Laita omalle pankkitilillesi",
   "trustly_info_list_5": "Tunnistautuminen verkkopankkitunnuksilla",
   "trustly_info_list_6": "Turvallisesti ja varmasti Trustillla",
@@ -1044,5 +1043,6 @@
   "popover_slider_change_headline": "Förändring i %1$d",
   "trustly_overview_sort_transactions": "Siirrot",
   "withdraw_from_transactional_account_popover_header": "Syötä viikkorahoista nostettava summa",
-  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "Idag har %1$d fått %2$s"
+  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "Idag har %1$d fått %2$s",
+  "add_childname_account_later": "Lägg till senare"
 }

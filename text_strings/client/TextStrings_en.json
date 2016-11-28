@@ -352,7 +352,6 @@
   "your2": "your",
   "add_childname_account": "Add %1$d bank account",
   "trustly_success_text": "The registration was successful",
-  "add_childname_account_later": "Add %1$d bank account later",
   "add_your_account": "Add your bank account",
   "trustly_info_list_5": "Verifying with Mobile Bank ID",
   "trustly_info_list_6": "Safe and secure with Trustly",
@@ -1044,5 +1043,6 @@
   "popover_slider_change_headline": "Förändring i %1$d",
   "trustly_overview_sort_transactions": "Transfers",
   "withdraw_from_transactional_account_popover_header": "Enter the amount to withdraw from the allowance",
-  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "Idag har %1$d fått %2$s"
+  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "Idag har %1$d fått %2$s",
+  "add_childname_account_later": "Lägg till senare"
 }
