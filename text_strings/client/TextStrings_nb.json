@@ -726,7 +726,7 @@
   "add_data_assignment_header_data": "Mobildata per uke (exkl. WiFi)",
   "add_data_assignment_header_reward": "Belønning på mandager",
   "add_data_assignment_data_info": "Les om god surfeoppførsel i \n<boldBlueUnderline>Surfeguiden fra Telenor</boldBlueUnderline>",
-  "trustly_type_text": "Ukepenger til bankkonto",
+  "trustly_type_text": "%1$d til bankkonto",
   "nav_bar_data_tracking_tips_parent": "Surfeguiden",
   "surf_guide_header_parent": "Derfor er det viktig å \nsurfe smart!",
   "surf_guide_header_child": "Surf smart så holder \nmobilsurfingen lenger!",

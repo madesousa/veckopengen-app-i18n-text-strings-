@@ -726,7 +726,7 @@
   "add_data_assignment_header_data": "Mobile data per week (excluding WiFi)",
   "add_data_assignment_header_reward": "Rewards on Monday",
   "add_data_assignment_data_info": "Read about good surfing behaviors in the \n<boldBlueUnderline> Surfing guide from Telenor</boldBlueUnderline>",
-  "trustly_type_text": "Weekly allowance to bank account",
+  "trustly_type_text": "%1$d to bank account",
   "nav_bar_data_tracking_tips_parent": "Surfing guide",
   "surf_guide_header_parent": "This is why it's important to \nsurf smart!",
   "surf_guide_header_child": "If you surf smart, your \nmobile data lasts longer!",

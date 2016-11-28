@@ -726,7 +726,7 @@
   "add_data_assignment_header_data": "Mobiilidataa viikossa (ei sis. WiFi)",
   "add_data_assignment_header_reward": "Palkinto maanantaisin",
   "add_data_assignment_data_info": "Lue hyvistä netin käyttötavoista \n<boldBlueUnderline>Telenorin nettioppaasta</boldBlueUnderline>",
-  "trustly_type_text": "Viikkorahat pankkitilille",
+  "trustly_type_text": "%1$d pankkitilille",
   "nav_bar_data_tracking_tips_parent": "Nettiopas",
   "surf_guide_header_parent": "Siksi on tärkeää \nkäyttää nettiä fiksusti!",
   "surf_guide_header_child": "Kun käytät nettiä fiksusti, \nmobiilisaldosi riittää pidempään!",
