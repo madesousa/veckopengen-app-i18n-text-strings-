@@ -1043,5 +1043,6 @@
   "add_wish_modal_price_placeholder": "Mitä se maksaa?",
   "popover_slider_change_headline": "Förändring i %1$d",
   "trustly_overview_sort_transactions": "Siirrot",
-  "withdraw_from_transactional_account_popover_header": "Syötä viikkorahoista nostettava summa"
+  "withdraw_from_transactional_account_popover_header": "Syötä viikkorahoista nostettava summa",
+  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "Idag har %1$d fått %2$s"
 }

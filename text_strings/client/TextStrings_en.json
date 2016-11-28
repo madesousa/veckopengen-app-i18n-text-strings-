@@ -1043,5 +1043,6 @@
   "add_wish_modal_price_placeholder": "How much does it cost?",
   "popover_slider_change_headline": "Förändring i %1$d",
   "trustly_overview_sort_transactions": "Transfers",
-  "withdraw_from_transactional_account_popover_header": "Enter the amount to withdraw from the allowance"
+  "withdraw_from_transactional_account_popover_header": "Enter the amount to withdraw from the allowance",
+  "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "Idag har %1$d fått %2$s"
 }
