@@ -1044,5 +1044,10 @@
   "trustly_overview_sort_transactions": "Transfers",
   "withdraw_from_transactional_account_popover_header": "Enter the amount to withdraw from the allowance",
   "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "Idag har %1$d fått %2$s",
-  "add_childname_account_later": "Add later"
+  "add_childname_account_later": "Add later",
+  "add_task_title_headline": "Vad heter uppgiften?",
+  "add_task_title_help": "MAX %1$d tecken",
+  "add_task_title": "Titel",
+  "add_task_desc_headline": "Vill du beskriva uppgiften?",
+  "add_task_desc": "Beskrivning"
 }
