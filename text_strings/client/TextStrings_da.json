@@ -813,8 +813,6 @@
   "trustly_change_date_error_desc": "Du kan ikke ændre dag, da pengene er i gang med at blive overført",
   "paid_to_bank_acount": "Udbetalt til bankkonto",
   "not_paid_to_bank_acount": "Ikke udbetalt til bankkonto",
-  "trustly_settings_failed_text": "Noget gik galt... gør venligst noget",
-  "trustly_settings_pending_text": "Trustly sammenkobles nu! Du kan snart begynde at overføre",
   "trustly_popover_for_parent_transaction_month": "%1$s bliver automatisk <b>udbetalt den %2$d%3$d</b> hver måned. Pengene trækkes fra din konto en af dagene, inden udbetalingen sker til dit barns konto.",
   "trustly_popover_for_parent_transaction_week": "%1$s bliver automatisk <b>udbetalt på %2$d.</b> Pengene trækkes fra din konto en af dagene, inden udbetalingen sker til dit barns konto.",
   "parent_settings_advice": "Tips & Råd",
@@ -1049,5 +1047,10 @@
   "add_task_title_help": "MAX %1$d tecken",
   "add_task_title": "Titel",
   "add_task_desc_headline": "Vill du beskriva uppgiften?",
-  "add_task_desc": "Beskrivning"
+  "add_task_desc": "Beskrivning",
+  "parent_settings_trustly_parent_has_account": "Ditt bankkonto är anslutet. Lägg till ett bankkonto för ett barn för att aktivera automatiska överföringar.",
+  "parent_settings_trustly_parent_and_child_has_account": "Du och minst ett barn har anslutits för automatiska överföringar.",
+  "parent_settings_trustly_parent_has_account_pending_direct_debit_mandate": "Ditt bankkonto håller på att anslutas till vår tjänst. Du kan lägga till ett konto för ett av dina barn medan anslutningen genomförs.",
+  "parent_settings_trustly_pending_direct_debit_mandate": "Du har registrerat ditt och minst ett barns bankkonto och anslutningen håller på att genomföras.",
+  "parent_settings_trustly_rainy_case": "Ditt bankkonto har inte kunnat anslutas till vår tjänst."
 }
