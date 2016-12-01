@@ -27,6 +27,6 @@
     "json-loader": "0.5.4"
   },
   "dependencies": {
-    "google-translate-api": "2.2.2",
+    "google-translate-api": "2.2.2"
   }
 }
