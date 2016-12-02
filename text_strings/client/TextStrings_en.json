@@ -1053,5 +1053,6 @@
   "parent_settings_trustly_parent_has_account_pending_direct_debit_mandate": "Ditt bankkonto håller på att anslutas till vår tjänst. Du kan lägga till ett konto för ett av dina barn medan anslutningen genomförs.",
   "parent_settings_trustly_pending_direct_debit_mandate": "Du har registrerat ditt och minst ett barns bankkonto och anslutningen håller på att genomföras.",
   "parent_settings_trustly_rainy_case": "Ditt bankkonto har inte kunnat anslutas till vår tjänst.",
-  "days_left_to_christmas": "%1$d days to Christmas Eve"
+  "days_left_to_christmas": "%1$d days to Christmas Eve",
+  "christmas_today": "🎅 Today is Christmas Eve 🎅"
 }
