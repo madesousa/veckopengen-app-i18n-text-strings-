@@ -429,7 +429,7 @@
   "time_to_payout_today_in_cash_popover_text": "%1$d fick <b>%2$c</b> i %3$s.",
   "time_to_payout_today_in_cash_popover_header_no_transaction": "Idag är det %1$s",
   "time_to_payout_today_in_cash_popover_text_no_transaction": "%1$d har fått %2$s %3$s.",
-  "time_to_payout_today_to_external_bankaccount_popover_header_parent": "Idag har %1$d fått veckopengen",
+  "time_to_payout_today_to_external_bankaccount_popover_header_parent": "Idag har %1$d fått %2$d",
   "time_to_payout_today_to_external_bankaccount_popover_header_child": "Idag har du fått veckopengen",
   "time_to_payout_today_to_external_bankaccount_popover_text_parent": "%1$s har betalats ut till %2$ds bankkonto. Se kvitto under transaktioner.",
   "time_to_payout_today_to_external_bankaccount_popover_text_child": "%1$s har betalats ut till ditt bankkonto.",

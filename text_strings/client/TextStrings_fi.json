@@ -429,7 +429,7 @@
   "time_to_payout_today_in_cash_popover_text": "%1$d sai <b>%2$c</b> %3$s:lle.",
   "time_to_payout_today_in_cash_popover_header_no_transaction": "Tänään on %1$s.",
   "time_to_payout_today_in_cash_popover_text_no_transaction": "%1$d on saanut %2$s %3$s.",
-  "time_to_payout_today_to_external_bankaccount_popover_header_parent": "Tänään %1$d sai viikkorahan",
+  "time_to_payout_today_to_external_bankaccount_popover_header_parent": "Tänään %1$d sai %2$d",
   "time_to_payout_today_to_external_bankaccount_popover_header_child": "Tänään sait viikkorahan",
   "time_to_payout_today_to_external_bankaccount_popover_text_parent": "%1$s on maksettu %2$d:n pankkitillle. Katso kuittia kohdassa Maksusuoritukset.",
   "time_to_payout_today_to_external_bankaccount_popover_text_child": "%1$s on maksettu pankkitilillesi.",
