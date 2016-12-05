@@ -1055,5 +1055,12 @@
   "parent_settings_trustly_rainy_case": "Ditt bankkonto har inte kunnat anslutas till vår tjänst.",
   "days_left_to_christmas": "%1$d päivää jouluaattona",
   "christmas_today": "🎅 Tänään on jouluaatto 🎅",
-  "not_given_out_yet": "Ei vielä julkaistu"
+  "not_given_out_yet": "Ei vielä julkaistu",
+  "share": "Dela",
+  "give_out_task_again": "Ge ut igen!",
+  "is_task_approved": "Är uppgiften godkänd?",
+  "task_is_approved": "Godkändes",
+  "task_is_rejected": "Underkändes",
+  "task_is_approved_history": "%1$d godkändes %2$d och %3$d fick en belöning på %4$d",
+  "task_is_rejected_history": "%1$d underkändes %2$d och %3$d fick inte en belöning på %4$d"
 }
