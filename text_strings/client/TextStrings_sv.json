@@ -1074,5 +1074,8 @@
   "task_is_rejected": "Underkändes",
   "task_is_approved_history": "%1$d godkändes %2$d och %3$d fick en belöning på %4$c",
   "task_is_rejected_history": "%1$d underkändes %2$d och %3$d fick inte en belöning på %4$c",
-  "is_this_task_approved": "Är %1$d godkänd?"
+  "is_this_task_approved": "Är %1$d godkänd?",
+  "task_editor_for_child_header": "Uppgiftsinfo",
+  "task_editor_for_parent_edit_header": "Redigera uppgift",
+  "task_editor_for_parent_create_header": "Skapa uppgift"
 }
