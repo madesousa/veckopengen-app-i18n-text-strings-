@@ -1066,5 +1066,6 @@
   "is_this_task_approved": "Är %1$d godkänd?",
   "task_editor_for_child_header": "Uppgiftsinfo",
   "task_editor_for_parent_edit_header": "Redigera uppgift",
-  "task_editor_for_parent_create_header": "Skapa uppgift"
+  "task_editor_for_parent_create_header": "Skapa uppgift",
+  "task_header": "Du har %1$d uppgifter och kan tjäna %2$c"
 }
