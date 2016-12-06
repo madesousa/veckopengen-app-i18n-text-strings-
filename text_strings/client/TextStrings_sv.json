@@ -1083,9 +1083,9 @@
   "tasks_done_one": "%1$d utförd uppgift",
   "tasks_done_multi": "%1$d utförda uppgifter",
   "task_header": "%1$d har %2$d %3$d och kan tjäna %4$c",
-  "task_stats_pig_text_1": "PigText1",
-  "task_stats_pig_text_2": "PigText2",
-  "task_stats_pig_text_3": "PigText3",
-  "task_stats_pig_text_4": "PigText4",
-  "task_stats_pig_text_5": "PigText5"
+  "task_stats_pig_text_1": "Wow! Dina siffror är påväg i rätt riktning1",
+  "task_stats_pig_text_2": "Wow! Dina siffror är påväg i rätt riktning2",
+  "task_stats_pig_text_3": "Wow! Dina siffror är påväg i rätt riktning3",
+  "task_stats_pig_text_4": "Wow! Dina siffror är påväg i rätt riktning4",
+  "task_stats_pig_text_5": "Wow! Dina siffror är påväg i rätt riktning5"
 }
