@@ -1078,5 +1078,9 @@
   "task_editor_for_child_header": "Uppgiftsinfo",
   "task_editor_for_parent_edit_header": "Redigera uppgift",
   "task_editor_for_parent_create_header": "Skapa uppgift",
-  "task_header": "Du har %1$d %2$d och kan tjäna %3$c"
+  "task_header": "Du har %1$d %2$d och kan tjäna %3$c",
+  "task_earned_this_week": "Tjänat denna vecka",
+  "task_percentage_done": "Utförandegrad",
+  "tasks_done_one": "%1$d utförd uppgift",
+  "tasks_done_multi": "%1$d utförda uppgifter"
 }
