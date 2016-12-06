@@ -1,11 +1,11 @@
 //@flow
-import TextStrings_da from "./text_strings/client/TextStrings_da.json"
-import TextStrings_fi from "./text_strings/client/TextStrings_fi.json"
-import TextStrings_is from "./text_strings/client/TextStrings_is.json"
-import TextStrings_sv from "./text_strings/client/TextStrings_sv.json"
-import TextStrings_no from "./text_strings/client/TextStrings_nb.json"
-import TextStrings_en from "./text_strings/client/TextStrings_en.json"
-import TextStrings_default from "./text_strings/client/TextStrings_default.json"
+import da from "./text_strings/client/da.json"
+import fi from "./text_strings/client/fi.json"
+import is from "./text_strings/client/is.json"
+import sv from "./text_strings/client/sv.json"
+import no from "./text_strings/client/nb.json"
+import en from "./text_strings/client/en.json"
+import _default from "./text_strings/client/default.json"
 
 import svLocale from "moment/locale/sv"
 import daLocale from "moment/locale/da"
@@ -25,14 +25,14 @@ var supportedCurrencies = Object.values(DefaultCurrencies)
 
 export let getTextStrings = (lang : string) => {
 	switch (lang.substring(0, 2)) {
-		case "da" : return {...TextStrings_default, ...TextStrings_da}
-		case "fi" : return {...TextStrings_default, ...TextStrings_fi}
-		case "is" : return {...TextStrings_default, ...TextStrings_is}
-		case "nb" : return {...TextStrings_default, ...TextStrings_no}
-		case "nn" : return {...TextStrings_default, ...TextStrings_no}
-		case "sv" : return {...TextStrings_default, ...TextStrings_sv}
-		case "default" : return TextStrings_default //used in tests
-		default : return {...TextStrings_default, ...TextStrings_en}
+		case "da" : return {..._default, ...da}
+		case "fi" : return {..._default, ...fi}
+		case "is" : return {..._default, ...is}
+		case "nb" : return {..._default, ...no}
+		case "nn" : return {..._default, ...no}
+		case "sv" : return {..._default, ...sv}
+		case "default" : return _default //used in tests
+		default : return {..._default, ...en}
 	}
 }
 

@@ -22,10 +22,10 @@ let translateTextStringForFile = (file, textId) => {
   //one case you need to handle is the strings with "$1%s", perhaps the google lib wont translate it
 
 
-  if(file === "TextStrings_default.json")
+  if(file === "default.json")
     return Promise.resolve()
 
-  if(file === "TextStrings_sv.json")
+  if(file === "sv.json")
     return Promise.resolve()
 
   var path = getPath(file)
