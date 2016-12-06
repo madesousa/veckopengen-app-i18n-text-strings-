@@ -110,5 +110,6 @@
   "dashboard_monthly_allowance_over_trustly_limit": "Månadspengen är över beloppsgränsen",
   "push_first_wish_created": "{child} har skapat önskelista",
   "push_wish_created": "{child} har lagt till {wish} på önskelistan",
-  "push_wish_deleted": "{child} har tagit bort {wish} från önskelistan"
+  "push_wish_deleted": "{child} har tagit bort {wish} från önskelistan",
+  "push_child_logged_in": "{child} har loggats in!"
 }

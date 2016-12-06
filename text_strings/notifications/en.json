@@ -110,5 +110,6 @@
   "dashboard_monthly_allowance_over_trustly_limit": "Allowance is over transfer limit",
   "push_first_wish_created": "{child} has created a wish list",
   "push_wish_created": "{child} has added {wish} to their wish list",
-  "push_wish_deleted": "{child} has removed {wish} from their wish list"
+  "push_wish_deleted": "{child} has removed {wish} from their wish list",
+  "push_child_logged_in": "{child} has logged in!"
 }
