@@ -1071,10 +1071,10 @@
   "task_percentage_done": "Utförandegrad",
   "tasks_done_one": "%1$d utförd uppgift",
   "tasks_done_multi": "%1$d utförda uppgifter",
-  "task_stats_pig_text_1": "",
-  "task_stats_pig_text_2": "",
-  "task_stats_pig_text_3": "",
-  "task_stats_pig_text_4": "",
-  "task_stats_pig_text_5": "",
-  "task_header": "%1$d har %2$d %3$d och kan tjäna %4$c"
+  "task_header": "%1$d har %2$d %3$d och kan tjäna %4$c",
+  "task_stats_pig_text_1": "PigText1",
+  "task_stats_pig_text_2": "PigText2",
+  "task_stats_pig_text_3": "PigText3",
+  "task_stats_pig_text_4": "PigText4",
+  "task_stats_pig_text_5": "PigText5"
 }
