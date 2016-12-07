@@ -488,7 +488,6 @@
   "parent_settings_account_type_premium": "Premium",
   "parent_settings_connected": "Ihopkopplad",
   "parent_settings_not_connected": "Ej kopplad",
-  "parent_settings_my_kids": "Mina barn",
   "parent_settings_account_type": "Typ av konto",
   "parent_settings_bank_and_transfers": "Bank och överföringar",
   "parent_settings_pushnotes": "Pushnotiser",
@@ -1080,5 +1079,6 @@
   "task_list_history": "Historik",
   "add_task_recurring_standing": "Kan utföras igen efter att den blivit godkänd",
   "is_task_approved_child": "Är du klar med uppgiften?",
-  "is_this_task_approved_child": "Är %1$d klar?"
+  "is_this_task_approved_child": "Är %1$d klar?",
+  "parent_settings_my_kids": "Les paramètres de mon enfant"
 }
