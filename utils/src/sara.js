@@ -4,8 +4,8 @@ let templateDir = "./text_strings/client"
 let getPath = (file) => `${templateDir}/${file}`
 
 var default_path = getPath("default.json")
-var default = fs.readFileSync(default_path, {encoding : "utf8"})
-default = JSON.parse(default)
+var _default = fs.readFileSync(default_path, {encoding : "utf8"})
+_default = JSON.parse(_default)
 
 var sv_path = getPath("sv.json")
 var sv = fs.readFileSync(sv_path, {encoding : "utf8"})
@@ -34,7 +34,7 @@ let syncTextStrings = (file) => {
 
   //Craete Support
   var NewTextStrings = {...sv, ...TextStrings}
-  Object.keys(default).forEach(key => delete NewTextStrings[key])
+  Object.keys(_default).forEach(key => delete NewTextStrings[key])
   var NewTextStringsLength = Object.keys(NewTextStrings).length
   var TextStringsLength = Object.keys(TextStrings).length
   var delta = NewTextStringsLength - TextStringsLength
