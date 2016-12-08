@@ -1099,5 +1099,6 @@
   "create_data_usage_task": "Tidigare uppgifter",
   "create_task_from_history": "Skapa Surfpottsuppgift",
   "create_task_category": "Kategorier",
-  "create_task_toplist": "Topplista"
+  "create_task_toplist": "Topplista",
+  "add_task_choose_category": "Välj kategori"
 }

@@ -1042,11 +1042,11 @@
   "withdraw_from_transactional_account_popover_header": "Ange summa att dra från veckopengen",
   "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "Idag har %1$d fått %2$s",
   "add_childname_account_later": "Lägg till senare",
-  "add_task_title_headline": "Vad heter uppgiften?",
+  "add_task_title_headline": "Hvað er verkefni?",
   "add_task_title_help": "MAX %1$d tecken",
-  "add_task_title": "Titel",
-  "add_task_desc_headline": "Vill du beskriva uppgiften?",
-  "add_task_desc": "Beskrivning",
+  "add_task_title": "Titillinn",
+  "add_task_desc_headline": "Myndir þú lýsa verkefni?",
+  "add_task_desc": "Lýsing",
   "parent_settings_trustly_parent_has_account": "Ditt bankkonto är anslutet. Lägg till ett bankkonto för ett barn för att aktivera automatiska överföringar.",
   "parent_settings_trustly_parent_and_child_has_account": "Du och minst ett barn har anslutits för automatiska överföringar.",
   "parent_settings_trustly_parent_has_account_pending_direct_debit_mandate": "Ditt bankkonto håller på att anslutas till vår tjänst. Du kan lägga till ett konto för ett av dina barn medan anslutningen genomförs.",
@@ -1088,5 +1088,6 @@
   "create_data_usage_task": "fyrri gögn",
   "create_task_from_history": "Búa Surf Barnakoppur Task",
   "create_task_category": "Flokkar",
-  "create_task_toplist": "Topplista"
+  "create_task_toplist": "Topplista",
+  "add_task_choose_category": "Veldu flokk"
 }
