@@ -1080,5 +1080,8 @@
   "add_task_recurring_standing": "Kan utföras igen efter att den blivit godkänd",
   "is_task_approved_child": "Är du klar med uppgiften?",
   "is_this_task_approved_child": "Är %1$d klar?",
-  "parent_settings_my_kids": "Min barns indstillinger"
+  "parent_settings_my_kids": "Min barns indstillinger",
+  "add_id_number_parent": "Tilføj din sociale",
+  "add_id_number_child": "Tilføj personlig identifikation for %1$d",
+  "add_id_number_format": "ÅÅÅÅMMDDXXXX"
 }
