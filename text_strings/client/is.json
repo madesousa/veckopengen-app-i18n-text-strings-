@@ -1085,9 +1085,9 @@
   "add_id_number_child": "Bæta kennitölu fyrir %1$d",
   "add_id_number_format": "ÅÅÅÅMMDDXXXX",
   "create_task_yourself": "Búðu til þinn eigin starf",
-  "create_data_usage_task": "fyrri gögn",
-  "create_task_from_history": "Búa Surf Barnakoppur Task",
   "create_task_category": "Flokkar",
   "create_task_toplist": "Topplista",
-  "add_task_choose_category": "Veldu flokk"
+  "add_task_choose_category": "Veldu flokk",
+  "create_data_usage_task": "Skapa Surfkoll",
+  "create_task_from_history": "fyrri gögn"
 }

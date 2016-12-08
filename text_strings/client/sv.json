@@ -1096,9 +1096,9 @@
   "add_id_number_child": "Lägg till personnummer för %1$d",
   "add_id_number_format": "ÅÅÅÅMMDDXXXX",
   "create_task_yourself": "Skapa egen uppgift",
-  "create_data_usage_task": "Tidigare uppgifter",
-  "create_task_from_history": "Skapa Surfpottsuppgift",
   "create_task_category": "Kategorier",
   "create_task_toplist": "Topplista",
-  "add_task_choose_category": "Välj kategori"
+  "add_task_choose_category": "Välj kategori",
+  "create_data_usage_task": "Skapa Surfkoll",
+  "create_task_from_history": "Tidigare uppgifter"
 }

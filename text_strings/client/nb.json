@@ -1085,9 +1085,9 @@
   "add_id_number_child": "Legg personlig identifikasjon for %1$d",
   "add_id_number_format": "ÅÅÅÅMMDDXXXX",
   "create_task_yourself": "Lag din egen jobb",
-  "create_data_usage_task": "tidligere data",
-  "create_task_from_history": "Lag Surf Potty Task",
   "create_task_category": "Kategorier",
   "create_task_toplist": "Topplista",
-  "add_task_choose_category": "Velg kategori"
+  "add_task_choose_category": "Velg kategori",
+  "create_data_usage_task": "Opprett Surf Extrakoll",
+  "create_task_from_history": "tidligere data"
 }

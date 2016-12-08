@@ -1085,9 +1085,9 @@
   "add_id_number_child": "Lisää henkilötunnus %1$d",
   "add_id_number_format": "ÅÅÅÅMMDDXXXX",
   "create_task_yourself": "Luo oma työ",
-  "create_data_usage_task": "edellinen data",
-  "create_task_from_history": "Luo Surf Potta Task",
   "create_task_category": "Luokat",
   "create_task_toplist": "kaaviot",
-  "add_task_choose_category": "Valitse luokka"
+  "add_task_choose_category": "Valitse luokka",
+  "create_data_usage_task": "Luo Surf Extrakoll",
+  "create_task_from_history": "edellinen data"
 }

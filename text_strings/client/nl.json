@@ -1085,9 +1085,9 @@
   "add_id_number_child": "Voeg persoonlijke identificatie voor %1$d",
   "add_id_number_format": "ÅÅÅÅMMDDXXXX",
   "create_task_yourself": "Maak je eigen baan",
-  "create_data_usage_task": "eerdere gegevens",
-  "create_task_from_history": "Maak Surf Potty Task",
   "create_task_category": "Categorieën",
   "create_task_toplist": "Grafieken",
-  "add_task_choose_category": "Kies een categorie"
+  "add_task_choose_category": "Kies een categorie",
+  "create_data_usage_task": "Maak Surf Extrakoll",
+  "create_task_from_history": "eerdere gegevens"
 }

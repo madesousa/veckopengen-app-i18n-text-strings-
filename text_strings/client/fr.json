@@ -1085,9 +1085,9 @@
   "add_id_number_child": "Ajouter identification personnelle pour %1$d",
   "add_id_number_format": "ÅÅÅÅMMDDXXXX",
   "create_task_yourself": "Créer votre propre emploi",
-  "create_data_usage_task": "les données précédentes",
-  "create_task_from_history": "Créer Surf Potty Task",
   "create_task_category": "Catégories",
   "create_task_toplist": "hit-parade",
-  "add_task_choose_category": "Sélectionnez la catégorie"
+  "add_task_choose_category": "Sélectionnez la catégorie",
+  "create_data_usage_task": "Créer Surf Extrakoll",
+  "create_task_from_history": "les données précédentes"
 }

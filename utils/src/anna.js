@@ -25,7 +25,7 @@ let translateTextStringForFile = (file, textId) => {
   if(file === "default.json")
     return Promise.resolve()
 
-  if(file !== "sv.json")
+  if(file === "sv.json")
     return Promise.resolve()
 
   var path = getPath(file)
