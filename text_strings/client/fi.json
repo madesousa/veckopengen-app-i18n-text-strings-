@@ -1083,5 +1083,10 @@
   "parent_settings_my_kids": "Lapseni asetuksia",
   "add_id_number_parent": "Lisää sosiaalista",
   "add_id_number_child": "Lisää henkilötunnus %1$d",
-  "add_id_number_format": "ÅÅÅÅMMDDXXXX"
+  "add_id_number_format": "ÅÅÅÅMMDDXXXX",
+  "create_task_yourself": "Luo oma työ",
+  "create_data_usage_task": "edellinen data",
+  "create_task_from_history": "Luo Surf Potta Task",
+  "create_task_category": "Luokat",
+  "create_task_toplist": "kaaviot"
 }

@@ -1083,5 +1083,10 @@
   "parent_settings_my_kids": "Stillingar barnsins míns",
   "add_id_number_parent": "Bæta félagslega þinn",
   "add_id_number_child": "Bæta kennitölu fyrir %1$d",
-  "add_id_number_format": "ÅÅÅÅMMDDXXXX"
+  "add_id_number_format": "ÅÅÅÅMMDDXXXX",
+  "create_task_yourself": "Búðu til þinn eigin starf",
+  "create_data_usage_task": "fyrri gögn",
+  "create_task_from_history": "Búa Surf Barnakoppur Task",
+  "create_task_category": "Flokkar",
+  "create_task_toplist": "Topplista"
 }

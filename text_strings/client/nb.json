@@ -1083,5 +1083,10 @@
   "parent_settings_my_kids": "Mitt barns innstillinger",
   "add_id_number_parent": "Legg inn et sosialt",
   "add_id_number_child": "Legg personlig identifikasjon for %1$d",
-  "add_id_number_format": "ÅÅÅÅMMDDXXXX"
+  "add_id_number_format": "ÅÅÅÅMMDDXXXX",
+  "create_task_yourself": "Lag din egen jobb",
+  "create_data_usage_task": "tidligere data",
+  "create_task_from_history": "Lag Surf Potty Task",
+  "create_task_category": "Kategorier",
+  "create_task_toplist": "Topplista"
 }

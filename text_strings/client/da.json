@@ -1083,5 +1083,10 @@
   "parent_settings_my_kids": "Min barns indstillinger",
   "add_id_number_parent": "Tilføj din sociale",
   "add_id_number_child": "Tilføj personlig identifikation for %1$d",
-  "add_id_number_format": "ÅÅÅÅMMDDXXXX"
+  "add_id_number_format": "ÅÅÅÅMMDDXXXX",
+  "create_task_yourself": "Opret dit eget job",
+  "create_data_usage_task": "tidligere data",
+  "create_task_from_history": "Opret Surf potte Opgave",
+  "create_task_category": "Kategorier",
+  "create_task_toplist": "Diagrammer"
 }

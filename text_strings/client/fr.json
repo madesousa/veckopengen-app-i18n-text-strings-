@@ -1083,5 +1083,10 @@
   "parent_settings_my_kids": "Les paramètres de mon enfant",
   "add_id_number_parent": "Donnez votre sociale",
   "add_id_number_child": "Ajouter identification personnelle pour %1$d",
-  "add_id_number_format": "ÅÅÅÅMMDDXXXX"
+  "add_id_number_format": "ÅÅÅÅMMDDXXXX",
+  "create_task_yourself": "Créer votre propre emploi",
+  "create_data_usage_task": "les données précédentes",
+  "create_task_from_history": "Créer Surf Potty Task",
+  "create_task_category": "Catégories",
+  "create_task_toplist": "hit-parade"
 }

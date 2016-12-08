@@ -1083,5 +1083,10 @@
   "parent_settings_my_kids": "My child's settings",
   "add_id_number_parent": "Add your identification number",
   "add_id_number_child": "Add identification number for %1$d",
-  "add_id_number_format": "ÅÅÅÅMMDDXXXX"
+  "add_id_number_format": "ÅÅÅÅMMDDXXXX",
+  "create_task_yourself": "Create your own job",
+  "create_data_usage_task": "previous data",
+  "create_task_from_history": "Create Surf Potty Task",
+  "create_task_category": "Categories",
+  "create_task_toplist": "Charts"
 }

@@ -1094,5 +1094,10 @@
   "parent_settings_my_kids": "Mina barns inställningar",
   "add_id_number_parent": "Lägg till ditt personnummer",
   "add_id_number_child": "Lägg till personnummer för %1$d",
-  "add_id_number_format": "ÅÅÅÅMMDDXXXX"
+  "add_id_number_format": "ÅÅÅÅMMDDXXXX",
+  "create_task_yourself": "Skapa egen uppgift",
+  "create_data_usage_task": "Tidigare uppgifter",
+  "create_task_from_history": "Skapa Surfpottsuppgift",
+  "create_task_category": "Kategorier",
+  "create_task_toplist": "Topplista"
 }

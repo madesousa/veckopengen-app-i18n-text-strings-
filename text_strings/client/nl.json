@@ -1083,5 +1083,10 @@
   "parent_settings_my_kids": "instellingen van mijn kind",
   "add_id_number_parent": "Voeg uw sociale",
   "add_id_number_child": "Voeg persoonlijke identificatie voor %1$d",
-  "add_id_number_format": "ÅÅÅÅMMDDXXXX"
+  "add_id_number_format": "ÅÅÅÅMMDDXXXX",
+  "create_task_yourself": "Maak je eigen baan",
+  "create_data_usage_task": "eerdere gegevens",
+  "create_task_from_history": "Maak Surf Potty Task",
+  "create_task_category": "Categorieën",
+  "create_task_toplist": "Grafieken"
 }
