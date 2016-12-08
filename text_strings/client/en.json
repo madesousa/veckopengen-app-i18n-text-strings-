@@ -1081,7 +1081,7 @@
   "is_task_approved_child": "Är du klar med uppgiften?",
   "is_this_task_approved_child": "Är %1$d klar?",
   "parent_settings_my_kids": "My child's settings",
-  "add_id_number_parent": "Add your social",
-  "add_id_number_child": "Add personal identification for %1$d",
+  "add_id_number_parent": "Add your identification number",
+  "add_id_number_child": "Add identification number for %1$d",
   "add_id_number_format": "ÅÅÅÅMMDDXXXX"
 }
