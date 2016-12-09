@@ -1082,12 +1082,12 @@
   "is_this_task_approved_child": "Är %1$d klar?",
   "parent_settings_my_kids": "Stillingar barnsins míns",
   "add_id_number_parent": "Bæta félagslega þinn",
-  "add_id_number_child": "Bæta kennitölu fyrir %1$d",
   "add_id_number_format": "ÅÅÅÅMMDDXXXX",
   "create_task_yourself": "Búðu til þinn eigin starf",
   "create_task_category": "Flokkar",
   "create_task_toplist": "Topplista",
   "add_task_choose_category": "Veldu flokk",
   "create_data_usage_task": "Skapa Surfkoll",
-  "create_task_from_history": "fyrri gögn"
+  "create_task_from_history": "fyrri gögn",
+  "add_id_number_child": "Sláðu inn kennitölu eiganda bankareikning viðtakanda"
 }

@@ -1082,12 +1082,12 @@
   "is_this_task_approved_child": "Är %1$d klar?",
   "parent_settings_my_kids": "Min barns indstillinger",
   "add_id_number_parent": "Tilføj din sociale",
-  "add_id_number_child": "Tilføj personlig identifikation for %1$d",
   "add_id_number_format": "ÅÅÅÅMMDDXXXX",
   "create_task_yourself": "Opret dit eget job",
   "create_task_category": "Kategorier",
   "create_task_toplist": "Diagrammer",
   "add_task_choose_category": "Vælg kategori",
   "create_data_usage_task": "Opret Surf Extrakoll",
-  "create_task_from_history": "tidligere data"
+  "create_task_from_history": "tidligere data",
+  "add_id_number_child": "Indtast den personlige identifikation af ejeren af ​​modtagerens bankkonto"
 }

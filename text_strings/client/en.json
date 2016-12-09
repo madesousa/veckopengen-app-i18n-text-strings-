@@ -1082,12 +1082,12 @@
   "is_this_task_approved_child": "Är %1$d klar?",
   "parent_settings_my_kids": "My child's settings",
   "add_id_number_parent": "Add your identification number",
-  "add_id_number_child": "Add identification number for %1$d",
   "add_id_number_format": "ÅÅÅÅMMDDXXXX",
   "create_task_yourself": "Create your own task",
   "create_task_category": "Categories",
   "create_task_toplist": "Charts",
   "add_task_choose_category": "Choose category",
   "create_data_usage_task": "Create Surf Extrakoll",
-  "create_task_from_history": "previous data"
+  "create_task_from_history": "previous data",
+  "add_id_number_child": "Enter the personal identification of the owner of the recipient's bank account"
 }
