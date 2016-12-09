@@ -1089,5 +1089,6 @@
   "add_task_choose_category": "Kies een categorie",
   "create_data_usage_task": "Maak Surf Extrakoll",
   "create_task_from_history": "eerdere gegevens",
-  "add_id_number_child": "Voer de persoonlijke gegevens van de eigenaar van de bankrekening van de ontvanger"
+  "add_id_number_child": "Voer de persoonlijke gegevens van de eigenaar van de bankrekening van de ontvanger",
+  "standing_task_error": "Slechts één deelnemer genoemde taak"
 }

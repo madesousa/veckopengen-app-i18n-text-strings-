@@ -1089,5 +1089,6 @@
   "add_task_choose_category": "Velg kategori",
   "create_data_usage_task": "Opprett Surf Extrakoll",
   "create_task_from_history": "tidligere data",
-  "add_id_number_child": "Skriv inn personlig identifisering av eieren av mottakerens bankkonto"
+  "add_id_number_child": "Skriv inn personlig identifisering av eieren av mottakerens bankkonto",
+  "standing_task_error": "Bare én deltaker nevnte oppgave"
 }
