@@ -1,30 +1,29 @@
-/*eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
-var fs = require("fs")
-let templateDir = "./text_strings/client"
+/* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
+var fs = require('fs')
+let templateDir = './text_strings/client'
 let getPath = (file) => `${templateDir}/${file}`
 
-var default_path = getPath("default.json")
-var _default = fs.readFileSync(default_path, {encoding : "utf8"})
+var default_path = getPath('default.json')
+var _default = fs.readFileSync(default_path, {encoding: 'utf8'})
 _default = JSON.parse(_default)
 
-var sv_path = getPath("sv.json")
-var sv = fs.readFileSync(sv_path, {encoding : "utf8"})
+var sv_path = getPath('sv.json')
+var sv = fs.readFileSync(sv_path, {encoding: 'utf8'})
 sv = JSON.parse(sv)
 
-
 let syncTextStrings = (file) => {
-  if(file === "default.json")
-    return
+  if (file === 'default.json') { return }
 
-  if(file === "sv.json")
+  if (file === 'sv.json') {
     return
+  }
 
   var path = getPath(file)
 
-  var TextStrings = fs.readFileSync(path, {encoding : "utf8"})
+  var TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
   TextStrings = JSON.parse(TextStrings)
 
-  //Delete Support
+  // Delete Support
   Object.keys({...TextStrings})
     .filter((key) => sv[key] === undefined)
     .forEach((key) => {
@@ -32,28 +31,28 @@ let syncTextStrings = (file) => {
       console.log(`Deleting key: '${key}' from ${file}`)
     })
 
-  //Craete Support
+  // Craete Support
   var NewTextStrings = {...sv, ...TextStrings}
   Object.keys(_default).forEach(key => delete NewTextStrings[key])
   var NewTextStringsLength = Object.keys(NewTextStrings).length
   var TextStringsLength = Object.keys(TextStrings).length
   var delta = NewTextStringsLength - TextStringsLength
 
-  if(delta > 0)
+  if (delta > 0) {
     console.log(`Updated ${delta} textstrings in ${file}`)
+  }
 
-  //No update support atm :(
+  // No update support atm :(
 
-  //Save changes
+  // Save changes
   NewTextStrings = JSON.stringify(NewTextStrings, undefined, 2)
   fs.unlinkSync(path)
-  fs.writeFileSync(path, NewTextStrings, {encoding : "utf8"})
+  fs.writeFileSync(path, NewTextStrings, {encoding: 'utf8'})
 }
-
 
 fs.readdirSync(templateDir).forEach((languageCode) => syncTextStrings(languageCode))
 
-//fix swedish TextStrings formatting
+// fix swedish TextStrings formatting
 sv = JSON.stringify(sv, undefined, 2)
 fs.unlinkSync(sv_path)
-fs.writeFileSync(sv_path, sv, {encoding : "utf8"})
+fs.writeFileSync(sv_path, sv, {encoding: 'utf8'})
