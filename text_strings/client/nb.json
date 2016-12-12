@@ -1090,5 +1090,7 @@
   "create_data_usage_task": "Opprett Surf Extrakoll",
   "create_task_from_history": "tidligere data",
   "add_id_number_child": "Skriv inn personlig identifisering av eieren av mottakerens bankkonto",
-  "standing_task_error": "Bare én deltaker nevnte oppgave"
+  "standing_task_error": "Bare én deltaker nevnte oppgave",
+  "no_history_headline": "%1$d har ingen historik än",
+  "no_history_desc": "Alle passerte data havner her, så kan du bare gi dem ut igjen!"
 }
