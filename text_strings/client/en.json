@@ -1091,6 +1091,6 @@
   "create_task_from_history": "previous data",
   "add_id_number_child": "Enter the personal identification of the owner of the recipient's bank account",
   "standing_task_error": "Only one participant mentioned task",
-  "no_history_headline": "%1$d har ingen historik än",
+  "no_history_headline": "%1$d have no history than",
   "no_history_desc": "All passed the data ports here, so you can simply give them out again!"
 }

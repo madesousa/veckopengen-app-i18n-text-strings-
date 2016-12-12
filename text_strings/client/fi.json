@@ -1091,6 +1091,6 @@
   "create_task_from_history": "edellinen data",
   "add_id_number_child": "Anna henkilötunnus omistajan saajan pankkitilille",
   "standing_task_error": "Vain yksi osallistuja mainitun tehtävän",
-  "no_history_headline": "%1$d har ingen historik än",
+  "no_history_headline": "%1$d ei ole historiaa kuin",
   "no_history_desc": "Kaikki läpäissyt dataportit täällä, joten voit antaa ne sitten ulos!"
 }

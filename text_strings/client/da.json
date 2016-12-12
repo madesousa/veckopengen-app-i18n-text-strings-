@@ -1091,6 +1091,6 @@
   "create_task_from_history": "tidligere data",
   "add_id_number_child": "Indtast den personlige identifikation af ejeren af ​​modtagerens bankkonto",
   "standing_task_error": "Kun én deltager nævnte opgave",
-  "no_history_headline": "%1$d har ingen historik än",
+  "no_history_headline": "%1$d har ingen historie end",
   "no_history_desc": "Alle bestået data havne her, så kan du bare give dem ud igen!"
 }
