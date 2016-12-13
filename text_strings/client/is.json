@@ -1092,5 +1092,6 @@
   "add_id_number_child": "Sláðu inn kennitölu eiganda bankareikning viðtakanda",
   "standing_task_error": "Aðeins einn þátttakandi nefndi verkefni",
   "no_history_headline": "%1$d hafa enga sögu en",
-  "no_history_desc": "Allt stóðst gögn höfn hér, svo þú getur einfaldlega gefa þá út aftur!"
+  "no_history_desc": "Allt stóðst gögn höfn hér, svo þú getur einfaldlega gefa þá út aftur!",
+  "add_new_task": "Bæta við nýtt verkefni"
 }

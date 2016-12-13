@@ -1092,5 +1092,6 @@
   "add_id_number_child": "Enter the personal identification of the owner of the recipient's bank account",
   "standing_task_error": "Only one participant mentioned task",
   "no_history_headline": "%1$d have no history yet",
-  "no_history_desc": "All completed tasks goes here, so you can simply give them out again!"
+  "no_history_desc": "All completed tasks goes here, so you can simply give them out again!",
+  "add_new_task": "Add new task"
 }

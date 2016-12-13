@@ -1103,5 +1103,6 @@
   "add_id_number_child": "Ange personnummer för ägare till mottagande bankkonto",
   "standing_task_error": "Endast en deltagare på stående uppgift",
   "no_history_headline": "%1$d har ingen historik än",
-  "no_history_desc": "Alla klarade uppgifter hamnar här, så du enkelt kan ge ut dem igen!"
+  "no_history_desc": "Alla klarade uppgifter hamnar här, så du enkelt kan ge ut dem igen!",
+  "add_new_task": "Lägg till ny uppgift"
 }

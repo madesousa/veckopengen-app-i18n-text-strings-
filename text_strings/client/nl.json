@@ -1092,5 +1092,6 @@
   "add_id_number_child": "Voer de persoonlijke gegevens van de eigenaar van de bankrekening van de ontvanger",
   "standing_task_error": "Slechts één deelnemer genoemde taak",
   "no_history_headline": "%1$d geen geschiedenis dan",
-  "no_history_desc": "Allemaal geslaagd de data ports hier, dus u kunt gewoon weer geven ze uit!"
+  "no_history_desc": "Allemaal geslaagd de data ports hier, dus u kunt gewoon weer geven ze uit!",
+  "add_new_task": "Voeg een nieuwe taak"
 }

@@ -1092,5 +1092,6 @@
   "add_id_number_child": "Entrez l'identification personnelle du propriétaire du compte bancaire du destinataire",
   "standing_task_error": "Une seule tâche des participants mentionnés",
   "no_history_headline": "%1$d ont pas l'histoire que",
-  "no_history_desc": "Tous passé les ports de données ici, donc vous pouvez tout simplement les donner à nouveau!"
+  "no_history_desc": "Tous passé les ports de données ici, donc vous pouvez tout simplement les donner à nouveau!",
+  "add_new_task": "Ajouter une nouvelle tâche"
 }
