@@ -1082,11 +1082,6 @@
   "tasks_done_one": "%1$d utförd uppgift",
   "tasks_done_multi": "%1$d utförda uppgifter",
   "task_header": "%1$d har %2$d %3$d och kan tjäna %4$c",
-  "task_stats_pig_text_1": "Wow! Dina siffror är påväg i rätt riktning1",
-  "task_stats_pig_text_2": "Wow! Dina siffror är påväg i rätt riktning2",
-  "task_stats_pig_text_3": "Wow! Dina siffror är påväg i rätt riktning3",
-  "task_stats_pig_text_4": "Wow! Dina siffror är påväg i rätt riktning4",
-  "task_stats_pig_text_5": "Wow! Dina siffror är påväg i rätt riktning5",
   "task_list_history": "Historik",
   "add_task_recurring_standing": "Kan utföras igen efter att den blivit godkänd",
   "is_task_approved_child": "Är du klar med uppgiften?",
@@ -1104,5 +1099,15 @@
   "standing_task_error": "Endast en deltagare på stående uppgift",
   "no_history_headline": "%1$d har ingen historik än",
   "no_history_desc": "Alla klarade uppgifter hamnar här, så du enkelt kan ge ut dem igen!",
-  "add_new_task": "Lägg till ny uppgift"
+  "add_new_task": "Lägg till ny uppgift",
+  "task_stats_pig_text_1_parent": "Wow! Dina siffror är påväg i rätt riktning1 Parent",
+  "task_stats_pig_text_2_parent": "Wow! Dina siffror är påväg i rätt riktning2 Parent",
+  "task_stats_pig_text_3_parent": "Wow! Dina siffror är påväg i rätt riktning Parent3",
+  "task_stats_pig_text_4_parent": "Wow! Dina siffror är påväg i rätt riktning4 Parent",
+  "task_stats_pig_text_5_parent": "Wow! Dina siffror är påväg i rätt riktning5 Parent",
+  "task_stats_pig_text_1_child": "Wow! Dina siffror är påväg i rätt riktning1 Child",
+  "task_stats_pig_text_2_child": "Wow! Dina siffror är påväg i rätt riktning2 Child",
+  "task_stats_pig_text_3_child": "Wow! Dina siffror är påväg i rätt riktning3 Child",
+  "task_stats_pig_text_4_child": "Wow! Dina siffror är påväg i rätt riktning4 Child",
+  "task_stats_pig_text_5_child": "Wow! Dina siffror är påväg i rätt riktning5 Child"
 }
