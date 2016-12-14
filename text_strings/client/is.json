@@ -303,10 +303,6 @@
   "dashboard_title_transactions": "Viðskipti fjölskyldunnar",
   "trustly_read_more": "lestu meira",
   "trustly_add_account": "Bæta við reikning",
-  "trustly_info_list_1": "örugg millifærsla með trustly",
-  "trustly_info_list_2": "Beint á reikning barnsins þíns",
-  "trustly_info_list_3": "Staðfesting með banka ID úr gsm símanum",
-  "trustly_info_list_4": "Þú fylgist með öllum útborgunum létt í \"Viðburðir\"",
   "trustly_already_account_child": "Á barnið þitt reikning fyrir?",
   "trustly_big_info_text_1": "Sjálfvirk útborgun til barnsins þíns gerist á hverjum %1$s. Peningarnir sem barnið þitt fær í %2$s verður tekið út frá þínum reikning %3$s.",
   "trustly_big_info_text_2": "Þú getur létt fylgst með öllum millifærslum með flipanum \"Viðskipti\" á þinni start síðu.",
@@ -1109,5 +1105,13 @@
   "project_earth_desc_1": "Vecko- och månadspeng kan skilja sig mycket beroende på vilket område man bor i. Vi har använt oss av agrigerad data från appen för att reda på den vanligaste veckopengen i ditt område!",
   "project_earth_desc_2": "Allt du behöver göra är att bjuda in tre kompisar för att ta del av datan!",
   "project_earth_nav_text": "🌍PROJECT EARTH🌍",
-  "project_earth_allowance_text": "Dessa siffror är ett genomsnitt på den lokala veckopengen, detta _kan_ innebära är summorna får ett extremvärde om det är få användare i den valda regionen."
+  "project_earth_allowance_text": "Dessa siffror är ett genomsnitt på den lokala veckopengen, detta _kan_ innebära är summorna får ett extremvärde om det är få användare i den valda regionen.",
+  "trustly_info_list_1_parent": "Automatisk utbetalning dagen för \n vecko- eller månadspeng",
+  "trustly_info_list_2_parent": "Direkt till ditt barns bankkonto",
+  "trustly_info_list_3_parent": "Enkla och överskådliga notifieringar",
+  "trustly_info_list_4_parent": "Fungerar med alla banker",
+  "trustly_info_list_1_child": "Automatisk utbetalning dagen för \n vecko- eller månadspeng",
+  "trustly_info_list_2_childs": "Direkt till ditt barns bankkonto",
+  "trustly_info_list_3_child": "Enkla och överskådliga notifieringar",
+  "trustly_info_list_4_child": "Fungerar med alla banker"
 }
