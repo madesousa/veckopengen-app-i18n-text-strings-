@@ -1098,5 +1098,7 @@
   "task_stats_pig_text_2_child": "Wow! Dina siffror är påväg i rätt riktning2",
   "task_stats_pig_text_3_child": "Wow! Dina siffror är påväg i rätt riktning3",
   "task_stats_pig_text_4_child": "Wow! Dina siffror är påväg i rätt riktning4",
-  "task_stats_pig_text_5_child": "Wow! Dina siffror är påväg i rätt riktning5"
+  "task_stats_pig_text_5_child": "Wow! Dina siffror är påväg i rätt riktning5",
+  "allowance_tommorrow_trustly_parent": "Överförs till %1$d bankkonto imorgon",
+  "allowance_tommorrow_trustly_child": "Överförs till ditt bankkonto imorgon"
 }

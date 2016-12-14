@@ -415,7 +415,7 @@
   "put_in_pig_tomorrow_poover": "Läggs i spargrisen imorgon",
   "put_in_pig_later_popover_child": "%1$d dagar kvar till nästa %2$s",
   "put_in_pig_later_popover_parent": "%1$d dagar kvar",
-  "put_in_pig_now_poover": "Läggs i sparegrisen i dag",
+  "put_in_pig_now_poover": "Läggs i spargrisen i dag",
   "time_to_payout_popover_header_parent": "%1$d%2$d %3$s",
   "time_to_payout_popover_header_child_0_day_left": "DAGS FÖR VECKOPENG!",
   "time_to_payout_popover_header_child_1_day_left": "Yey! Imorgon händer det",
@@ -1109,5 +1109,7 @@
   "task_stats_pig_text_2_child": "Wow! Dina siffror är påväg i rätt riktning2 Child",
   "task_stats_pig_text_3_child": "Wow! Dina siffror är påväg i rätt riktning3 Child",
   "task_stats_pig_text_4_child": "Wow! Dina siffror är påväg i rätt riktning4 Child",
-  "task_stats_pig_text_5_child": "Wow! Dina siffror är påväg i rätt riktning5 Child"
+  "task_stats_pig_text_5_child": "Wow! Dina siffror är påväg i rätt riktning5 Child",
+  "allowance_tommorrow_trustly_parent": "Överförs till %1$d bankkonto imorgon",
+  "allowance_tommorrow_trustly_child": "Överförs till ditt bankkonto imorgon"
 }
