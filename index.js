@@ -6,17 +6,15 @@ import sv from './text_strings/client/sv.json'
 import no from './text_strings/client/nb.json'
 import en from './text_strings/client/en.json'
 import _default from './text_strings/client/default.json'
-
 import svLocale from 'moment/locale/sv'
 import daLocale from 'moment/locale/da'
 import fiLocale from 'moment/locale/fi'
 import nbLocale from 'moment/locale/nb'
 import enLocale from 'moment/locale/en-gb'
-
 import CountryCodes from './CountryCodes.json'
 import Areas from './Areas.json'
 import Currencies from './Currencies.json'
-import TimeZones from './TimeZones.json'
+import Timezones from './TimeZones.json'
 import LanguageCodes from './LanguageCodes.json'
 import countryCodes2PhoneNumberPrefixes from './countryCodes2PhoneNumberPrefixes.json'
 import DefaultCurrencies from './DefaultCurrencies'
@@ -37,9 +35,7 @@ export let getTextStrings = (lang: string) => {
   }
 }
 
-export let getAreas = () => {
-  return Areas[0]
-}
+export let getAreas = () => { return Areas[0] }
 
 export let getMomentLocale = (locale: string) => {
   if (locale === undefined) {
@@ -67,7 +63,7 @@ export let getCountry = (countryCode: string) => CountryCodes.find(country => co
 export let getPhoneNumberPrefix = (countryCode: string) => parseInt(countryCodes2PhoneNumberPrefixes[countryCode.toUpperCase()])
 export let getCountryCodeFromLocale = (locale: string) => locale.slice(-2)
 export let getCurrencies = () => Currencies.filter(currency => supportedCurrencies.indexOf(currency.fields.iso_4217_name) !== -1)
-export let getTimeZones = () => TimeZones
+export let getTimezones = () => Timezones
 export let getCurrency = (currencyCode: string) => getCurrencies().find(currency => currency.fields.iso_4217_name === currencyCode)
 export let getLangugageCodes = () => LanguageCodes.filter(languageCode => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
 
