@@ -37,7 +37,7 @@ export let getTextStrings = (lang: string) => {
   }
 }
 
-export function getAreas () {
+export let getAreas = () => {
   return Areas[0]
 }
 
