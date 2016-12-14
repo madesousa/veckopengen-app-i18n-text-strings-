@@ -1111,5 +1111,13 @@
   "task_stats_pig_text_4_child": "Wow! Dina siffror är påväg i rätt riktning4 Child",
   "task_stats_pig_text_5_child": "Wow! Dina siffror är påväg i rätt riktning5 Child",
   "allowance_tommorrow_trustly_parent": "Överförs till %1$d bankkonto imorgon",
-  "allowance_tommorrow_trustly_child": "Överförs till ditt bankkonto imorgon"
+  "allowance_tommorrow_trustly_child": "Överförs till ditt bankkonto imorgon",
+  "project_earth_headline": "Vad är den genomsnittliga veckopengen i ditt närområde?",
+  "project_earth_area": "Område",
+  "project_earth_search": "Sök!",
+  "project_earth_invite_facebook": "Bjud in med Facbook",
+  "project_earth_invite_number": "%1$d Kompisar inbjudna",
+  "project_earth_desc_1": "Vecko- och månadspeng kan skilja sig mycket beroende på vilket område man bor i. Vi har använt oss av agrigerad data från appen för att reda på den vanligaste veckopengen i ditt område!",
+  "project_earth_desc_2": "Allt du behöver göra är att bjuda in tre kompisar för att ta del av datan!",
+  "project_earth_nav_text": "🌍PROJECT EARTH🌍"
 }
