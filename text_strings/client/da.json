@@ -1108,5 +1108,6 @@
   "project_earth_invite_number": "%1$d Kompisar inbjudna",
   "project_earth_desc_1": "Vecko- och månadspeng kan skilja sig mycket beroende på vilket område man bor i. Vi har använt oss av agrigerad data från appen för att reda på den vanligaste veckopengen i ditt område!",
   "project_earth_desc_2": "Allt du behöver göra är att bjuda in tre kompisar för att ta del av datan!",
-  "project_earth_nav_text": "🌍PROJECT EARTH🌍"
+  "project_earth_nav_text": "🌍PROJECT EARTH🌍",
+  "project_earth_allowance_text": "Dessa siffror är ett genomsnitt på den lokala veckopengen, detta _kan_ innebära är summorna får ett extremvärde om det är få användare i den valda regionen."
 }
