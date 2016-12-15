@@ -155,6 +155,6 @@
   "template_title_help_pet": "Rasta husdjuret",
   "template_description_help_pet": "Ta en promenad på minst 10 min",
 
-  "own_category": "Ingen kategori"
-
+  "category_name_own": "Ingen kategori",
+  "category_description_own": ""
 }

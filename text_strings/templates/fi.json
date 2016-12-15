@@ -155,5 +155,6 @@
   "template_title_help_pet": "Lemmikkieläinten ulkoiluttaminen",
   "template_description_help_pet": "Ulkoiluttaminen vähintään 10 minuutin ajan",
 
-  "own_category": "Ingen kategori"
+  "category_name_own": "Ingen kategori",
+  "category_description_own": ""
 }
