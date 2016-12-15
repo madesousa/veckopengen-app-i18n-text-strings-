@@ -35,7 +35,7 @@ export let getTextStrings = (lang: string) => {
   }
 }
 
-export let getAreas = () => { return Areas[0] }
+export let getAreas = () => { return Areas }
 
 export let getMomentLocale = (locale: string) => {
   if (locale === undefined) {
