@@ -1112,7 +1112,6 @@
   "project_earth_area": "Område",
   "project_earth_search": "Sök!",
   "project_earth_invite_facebook": "Bjud in med Facbook",
-  "project_earth_invite_number": "%1$d Kompisar inbjudna",
   "project_earth_desc_1": "Vecko- och månadspeng kan skilja sig mycket beroende på vilket område man bor i. Vi har använt oss av aggregerad data från appen för att reda på den vanligaste veckopengen i ditt område!",
   "project_earth_desc_2": "Allt du behöver göra är att bjuda in tre kompisar för att ta del av datan!",
   "project_earth_nav_text": "🌍PROJECT EARTH🌍",
@@ -1125,5 +1124,6 @@
   "trustly_info_list_3_child": "Reistrera med bankdosa eller mobilt bankID",
   "trustly_info_list_4_child": "Fungerar med alla banker",
   "project_earth_allowance_text": "Dessa siffror är ett genomsnitt på den lokala veckopengen, detta kan innebära att summorna får ett extremvärde om det är få användare i den valda regionen.",
-  "play_basketball_game": "Spela: Kasta pengar"
+  "play_basketball_game": "Spela: Kasta pengar",
+  "project_earth_invite_number": "Bjud in 3 kompisar"
 }
