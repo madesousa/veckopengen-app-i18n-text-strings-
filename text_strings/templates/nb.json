@@ -153,5 +153,8 @@
   "template_description_immigrants": "Samle saker som vi kan gi bort",
 
   "template_title_help_pet": "Gå tur med husdyret",
-  "template_description_help_pet": "Ta en gåtur på minst 10 min"
+  "template_description_help_pet": "Ta en gåtur på minst 10 min",
+
+  "own_category": "Ingen kategori",
+  "template_description_help_pet": ""
 }

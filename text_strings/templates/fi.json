@@ -153,5 +153,8 @@
   "template_description_immigrants": "Poisannettavien tavaroiden kerääminen",
 
   "template_title_help_pet": "Lemmikkieläinten ulkoiluttaminen",
-  "template_description_help_pet": "Ulkoiluttaminen vähintään 10 minuutin ajan"
+  "template_description_help_pet": "Ulkoiluttaminen vähintään 10 minuutin ajan",
+
+  "own_category": "Ingen kategori",
+  "template_description_help_pet": ""
 }
