@@ -111,5 +111,6 @@
   "push_wish_created": "{child} har lagt till {wish} på önskelistan",
   "push_wish_deleted": "{child} har tagit bort {wish} från önskelistan",
   "push_child_logged_in": "{child} har loggats in!",
-  "sms_app_download": "Välkommen till Veckopengen!\n http://onelink.to/t69wn8"
+  "sms_app_download": "Välkommen till Veckopengen!\n http://onelink.to/t69wn8",
+  "push_goal_archived": "{user} arkiverade sparmålet {goal}"
 }
