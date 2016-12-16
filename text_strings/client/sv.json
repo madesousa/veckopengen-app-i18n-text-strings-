@@ -1114,7 +1114,6 @@
   "project_earth_invite_facebook": "Bjud in med Facbook",
   "project_earth_desc_1": "Vecko- och månadspeng kan skilja sig mycket beroende på vilket område man bor i. Vi har använt oss av aggregerad data från appen för att reda på den vanligaste veckopengen i ditt område!",
   "project_earth_desc_2": "Allt du behöver göra är att bjuda in tre kompisar för att ta del av datan!",
-  "project_earth_nav_text": "🌍PROJECT EARTH🌍",
   "trustly_info_list_1_parent": "Automatisk utbetalning dagen för \n vecko- eller månadspeng",
   "trustly_info_list_2_parent": "Direkt till ditt barns bankkonto",
   "trustly_info_list_3_parent": "Enkla och överskådliga notifieringar",
@@ -1127,5 +1126,6 @@
   "play_basketball_game": "Spela: Kasta pengar",
   "project_earth_invite_number": "Bjud in 3 kompisar",
   "default_category": "Ingen kategori",
-  "trustly_flow_step_1_headline": "Registrering av bankkonto"
+  "trustly_flow_step_1_headline": "Registrering av bankkonto",
+  "project_earth_nav_text": "🌍 Veckopeng i ditt område?"
 }
