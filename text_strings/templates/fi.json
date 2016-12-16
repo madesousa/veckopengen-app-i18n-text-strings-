@@ -1,160 +1,108 @@
 {
   "category_name_cleaning": "Siivous",
   "category_description_school": "Kodin siivoaminen",
-
   "category_name_school": "Koulu",
   "category_description_cleaning": "Koulutehtävien hoitaminen",
-
   "category_name_laundry": "Pyykinpesu",
-  "category_description_laundry":  "Pyykinpesussa auttaminen",
-
+  "category_description_laundry": "Pyykinpesussa auttaminen",
   "category_name_kitchen": "Keittiötyöt",
   "category_description_kitchen": "Keittiötöissä avustaminen",
-
   "category_name_tidying": "Järjestäminen",
   "category_description_tidying": "Kodin järjestäminen",
-
   "category_name_behaviour": "Hyvä käytös",
   "category_description_behaviour": "Hyvien käytöstapojen opetteleminen",
-
   "category_name_pet": "Lemmikkieläinten hoito",
   "category_description_pet": "Perheen lemmikkieläinten hoitaminen",
-
   "category_name_web": "Internetin käyttö",
   "category_description_web": "Fiksumman netin käyttötavan opetteleminen",
-
   "category_name_extra_help": "Lisäapu",
   "category_description_extra_help": "Lisäavun tarjoaminen vanhemmille",
-
   "category_name_challenge": "Haasteet",
   "category_description_challenge": "Uusien asioiden ja taitojen opetteleminen",
-
   "category_name_garden": "Puutarhatyöt",
   "category_description_garden": "Puutarha- ja pihatöissä auttaminen",
-
+  "category_name_own_category": "N: o luokka",
+  "category_description_own_category": "ei kuvausta",
   "group_name_cooking": "Keittiö ja ruoanlaitto",
   "group_description_cooking": "5 hauskaa keittiöhommaa, joista voi saada palkinnoksi 2 euroa viikossa",
-
   "group_name_cleaning": "Siivous ja järjestäminen",
   "group_description_cleaning": "5 fiksua tehtävää, joista voi saada palkinnoksi 1,5 euroa viikossa",
-
   "group_name_pet": "Lemmikkieläinten hoito",
   "group_description_pet": "3 hyvää tehtävää, joista voi saada palkinnoksi 1 euron viikossa",
-
   "group_name_play": "Pelaa ja leiki",
   "group_description_play": "7 inspiroivaa tehtävää, joista voi saada palkinnoksi 1 euron viikossa tai 8 euroa pidemmällä ajalla",
-
   "group_name_school": "Koulupaketti",
   "group_description_school": "3 hauskaa tehtävää, joista voi saada palkinnoksi 1 euron viikossa",
-
   "group_name_web": "Internetin käyttö",
   "group_description_web": "2 haastavaa tehtävää, joista voi saada palkinnoksi 0,5 euroa viikossa",
-
   "group_name_strict": "ags att vara sträng",
   "group_description_strict": "5 tehtävää, joista voi veloittaa 2 euroa viikossa tai saada 5 euroa pidemmällä ajalla",
-
   "group_name_signup": "Rekisteröinti",
   "group_description_signup": "Rekisteröinnin yhteydessä",
-
   "template_title_clean_room": "Huoneen siivoaminen",
   "template_description_clean_room": "Tavaroiden järjestäminen ja huoneen siivoaminen",
-
   "template_title_set_table": "Pöydän kattaminen",
   "template_description_set_table": "Lautasten, aterimien ja lasien asettelu",
-
   "template_title_trash": "Roskien vieminen",
   "template_description_trash": "Roskapussien vieminen jäteastiaan",
-
   "template_title_profanity": "Kiroileminen",
   "template_description_profanity": "Kirosanojen tai ruman kielen käyttäminen",
-
   "template_title_candy": "Karkkilupaus",
   "template_description_candy": "Karkin syömättä jättäminen viikon ajan",
-
   "template_title_dinner_help": "Ruoanlaitossa auttaminen",
   "template_description_dinner_help": "Ruoan laittaminen perheen kanssa",
-
   "template_title_empty_dishwasher": "Tiskikoneen tyhjentäminen",
   "template_description_empty_dishwasher": "Tiskikoneen tyhjentäminen uutta pesukertaa varten",
-
   "template_title_put_away_groceries": "Ostoskassien tyhjentäminen",
   "template_description_put_away_groceries": "Ostoskassien tyhjentäminen kaappeihin ja jääkaappiin",
-
   "template_title_dinner_plan": "5 ateriaehdotuksen kirjaaminen",
   "template_description_dinner_plan": "Lautasmallin mukaisten aterioiden ehdottaminen",
-
   "template_title_do_dishes": "Tiskaaminen aterian jälkeen",
   "template_description_do_dishes": "Tiskialtaassa olevien astioiden tiskaaminen ja huuhtelu",
-
   "template_title_rest": "Ulkoilu",
   "template_description_rest": "Kävelylenkille lähteminen",
-
   "template_title_fill_food": "Ruoan ja veden lisääminen",
   "template_description_fill_food": "Ruoka- ja vesiastioiden täyttäminen",
-
   "template_title_empty_poop_tray": "Hiekkalaatikon tyhjentäminen",
   "template_description_empty_poop_tray": "Hiekkalaatikon tyhjentäminen ja puhdistaminen",
-
   "template_title_cook_dinner": "Aterian valmistaminen",
   "template_description_cook_dinner": "Aterian valmistaminen perheelle",
-
   "template_title_table_manners": "Ruokailutapojen opetteleminen",
   "template_description_table_manners": "Istu nätisti tuolilla, käytä haarukkaa ja veistä äläkä leiki ruoalla",
-
   "template_title_read_book": "Kirjan lukeminen",
   "template_description_read_book": "Kokonaisen kirjan lukeminen",
-
   "template_title_gather_for_donation": "Lahjoituksen kerääminen pakolaisille",
   "template_description_gather_for_donation": "Lahjoitettavien tuotteiden kerääminen",
-
   "template_title_loppis": "Kirpputorin pitäminen",
   "template_description_loppis": "Oman kirpputorin järjestäminen ja käytöstä poistuneiden tavaroiden myyminen",
-
   "template_title_selling_stand": "Oman myyntikojun pitäminen",
   "template_description_selling_stand": "Tavaroiden myyminen kadulla",
-
   "template_title_pant": "Tyhjien pullojen vieminen",
   "template_description_pant": "Pullojen ja tölkkien kerääminen ja palauttaminen. Saat rahaa pullopanteista",
-
   "template_title_gym_bag": "Jumppakassin pakkaaminen",
   "template_description_gym_bag": "Jumppakassin pakkaaminen ennen jumppatreenejä",
-
   "template_title_skipped_class": "Koulusta lintsaaminen",
   "template_description_skipped_class": "Oppitunneilta lintsaaminen",
-
   "template_title_homework": "Läksyjen tekeminen",
   "template_description_homework": "Koko viikon läksyjen tekeminen",
-
   "template_title_phone_at_dinner": "Puhelimen käyttäminen ruokapöydässä",
   "template_description_phone_at_dinner": "Ruokapöydässä ei käytetä puhelimia",
-
   "template_title_surf": "Nettisaldo",
   "template_description_surf": "Käytä nettiä nettisaldosi rajoissa",
-
   "template_title_not_cleaned": "Siivoamaton huone",
   "template_description_not_cleaned": "Jos huonetta ei siivota kerran viikossa",
-
   "template_title_fight": "Riiteleminen tai tappeleminen",
   "template_description_fight": "Sisarusten, koulukavereiden tai vanhempien kanssa riiteleminen",
-
   "template_title_profanity_2": "Kiroileminen",
   "template_description_profanity_2": "Kirosanojen tai ruman kielen käyttäminen",
-
   "template_title_wash_car": "Auton peseminen",
   "template_description_wash_car": "Auton peseminen ulkopuolelta tai siivoaminen sisäpuolelta",
-
   "template_title_late_sleep": "Nukkumaan menon lykkääminen",
   "template_description_late_sleep": "Nukkumaan menon lykkääminen myöhäisemmäksi",
-
   "template_title_make_bed": "Sängyn petaaminen",
   "template_description_make_bed": "Peiton ja tyynyjen asetteleminen",
-
   "template_title_immigrants": "Lahjoituksen kerääminen pakolaisille",
   "template_description_immigrants": "Poisannettavien tavaroiden kerääminen",
-
   "template_title_help_pet": "Lemmikkieläinten ulkoiluttaminen",
-  "template_description_help_pet": "Ulkoiluttaminen vähintään 10 minuutin ajan",
-
-  "category_name_own": "Ingen kategori",
-  "category_description_own": "Ingen beskrivning"
+  "template_description_help_pet": "Ulkoiluttaminen vähintään 10 minuutin ajan"
 }

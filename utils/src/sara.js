@@ -1,6 +1,6 @@
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 var fs = require('fs')
-let templateDir = './text_strings/templates'
+let templateDir = './text_strings/client'
 let getPath = (file) => `${templateDir}/${file}`
 
 var default_path = getPath('default.json')
@@ -12,7 +12,8 @@ var sv = fs.readFileSync(sv_path, {encoding: 'utf8'})
 sv = JSON.parse(sv)
 
 let syncTextStrings = (file) => {
-  if (file.indexOf('.json') !== -1) {
+
+  if (file.indexOf('.json') === -1) {
     return
   }
 

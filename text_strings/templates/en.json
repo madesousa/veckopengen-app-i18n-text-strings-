@@ -1,162 +1,108 @@
 {
   "category_name_cleaning": "Cleaning",
   "category_description_school": "For keeping everything fresh & clean",
-
   "category_name_school": "School",
   "category_description_cleaning": "For a good school attendance",
-
   "category_name_laundry": "Laundry",
-  "category_description_laundry":  "For help with laundry",
-
+  "category_description_laundry": "For help with laundry",
   "category_name_kitchen": "Kitchen help",
   "category_description_kitchen": "For an extra hand in th kitchen",
-
   "category_name_tidying": "Tidying",
   "category_description_tidying": "For cleaning up and tidying the house",
-
   "category_name_behaviour": "Good behavior",
   "category_description_behaviour": "For teaching good behavior and etiquette",
-
   "category_name_pet": "Help with pets",
   "category_description_pet": "For you pet owners",
-
   "category_name_web": "Internet & Surf",
   "category_description_web": "For children who shall learn to surf smarter",
-
   "category_name_extra_help": "Extra help",
   "category_description_extra_help": "Parents get extra help",
-
   "category_name_challenge": "Challenges",
   "category_description_challenge": "Teach new things & motivate",
-
   "category_name_garden": "Garden work",
   "category_description_garden": "Performed out of the house and in the garden",
-
+  "category_name_own_category": "No category",
+  "category_description_own_category": "No description",
   "group_name_cooking": "Kitchen & Cooking",
-  "group_description_cooking": "5 fun cooking tasks that can give a total reward of 19 kr per week" ,
-
+  "group_description_cooking": "5 fun cooking tasks that can give a total reward of 19 kr per week",
   "group_name_cleaning": "Cleaning & Tidying up",
   "group_description_cleaning": "5 smart tasks that can give a total reward of 15 kr per week",
-
   "group_name_pet": "Pet help",
   "group_description_pet": "3 good tasks that can give a reward of 9 kr per week",
-
   "group_name_play": "Play & Learn",
   "group_description_play": "7 inspiring tasks that can give a reward of 11 kr per week and 80 kr over time",
-
   "group_name_school": "School packet",
   "group_description_school": "3 nice tasks that can give a total reward of 8 kr per week",
-
-
   "group_name_web": "Internet & Surf",
   "group_description_web": "2 quite strict tasks that can give a total reward of 5 kr per week",
-
   "group_name_strict": "Time to be strict",
   "group_description_strict": "5 tasks that can give a deduction of 17 kr per week but also a reward of 50 kr over time",
-
-
   "group_name_signup": "Signup",
   "group_description_signup": "Upon signing up ",
-
   "template_title_clean_room": "Clean the room",
   "template_description_clean_room": "Put things away and clean up",
-
   "template_title_set_table": "Set the table for dinner",
   "template_description_set_table": "Put out plates, cutlery, glasses and make it look nice",
-
   "template_title_trash": "Take out the trash",
   "template_description_trash": "Take out the garbage bags and throw the, away",
-
   "template_title_profanity": "Swearing",
   "template_description_profanity": "Said swear words or used bad language",
-
   "template_title_candy": "Candy promise",
   "template_description_candy": "Didn't eat any candy all week long",
-
   "template_title_dinner_help": "Help with dinner",
   "template_description_dinner_help": "Cooked with the family",
-
   "template_title_empty_dishwasher": "Empty the dishwasher",
   "template_description_empty_dishwasher": "Empty the dishwasher so that it can be filled with dirty dishes again",
-
   "template_title_put_away_groceries": "Put away groceries",
   "template_description_put_away_groceries": "Help put away groceries and put them in the fridge",
-
   "template_title_dinner_plan": "Prepare 5 dinner plans",
   "template_description_dinner_plan": "Try to stick to the dinner plan",
-
   "template_title_do_dishes": "Do the dishes after dinner",
   "template_description_do_dishes": "Scrub and rinse anything that is in the sink",
-
   "template_title_rest": "Help with the pet",
   "template_description_rest": "Bring for a walk",
-
   "template_title_fill_food": "Fill food and water",
   "template_description_fill_food": "The bowls must be filled",
-
   "template_title_empty_poop_tray": "Empty the poop tray",
   "template_description_empty_poop_tray": "Empty and clean",
-
   "template_title_cook_dinner": "Cook dinner by yourself",
   "template_description_cook_dinner": "Cook dinner for the family",
-
   "template_title_table_manners": "Learn good table manners",
   "template_description_table_manners": "Sit properly, use knife and fork and don't play with food",
-
   "template_title_read_book": "Read a book",
   "template_description_read_book": "Read a whole book",
-
   "template_title_gather_for_donation": "Gather donations for refugees",
   "template_description_gather_for_donation": "Gather things that we can give away",
-
   "template_title_loppis": "Hold your own loppis",
   "template_description_loppis": "Set up your own loppis where you sell things that aren't used anymore",
-
   "template_title_selling_stand": "Set up your own selling stand",
   "template_description_selling_stand": "Sell something to others on the street",
-
   "template_title_pant": "Recycle bottles",
   "template_description_pant": "Collect bottles and boxes and recycle. You receive money for the recycling",
-
   "template_title_gym_bag": "Pack your gym bag",
   "template_description_gym_bag": "Prepare your gym bag the day before you have gym class",
-
   "template_title_skipped_class": "Skipped class",
   "template_description_skipped_class": "Didn't go to class even though you should have",
-
   "template_title_homework": "Do homework as assigned",
   "template_description_homework": "Do the week's homework",
-
   "template_title_phone_at_dinner": "Used phone at the dinner table",
   "template_description_phone_at_dinner": "Dinners at home are mobile-free",
-
   "template_title_surf": "Surf pot",
   "template_description_surf": "Stay within your surf pot",
-
   "template_title_not_cleaned": "Room not cleaned",
   "template_description_not_cleaned": "If the room isn't cleaned once per week",
-
   "template_title_fight": "Argued or fought",
   "template_description_fight": "If you fight with your siblings, at school or with mom and dad",
-
   "template_title_profanity_2": "Used swear words",
   "template_description_profanity_2": "Used swear words or profanity",
-
   "template_title_wash_car": "Wash the car",
   "template_description_wash_car": "Wash the car's outside and clean the inside",
-
   "template_title_late_sleep": "Went to sleep late",
   "template_description_late_sleep": "If you went to sleep later than agreed",
-
   "template_title_make_bed": "Make the bed",
   "template_description_make_bed": "Lay the covers neatly and fluff the pillows",
-
   "template_title_immigrants": "Gather things for refugees",
   "template_description_immigrants": "Gather things that we can give away",
-
   "template_title_help_pet": "Help with the house pet",
-  "template_description_help_pet": "Take a walk of at least ten minutes",
-
-  "category_name_own": "Ingen kategori",
-  "category_description_own": "Ingen beskrivning"
+  "template_description_help_pet": "Take a walk of at least ten minutes"
 }

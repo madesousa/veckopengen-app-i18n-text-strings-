@@ -7,7 +7,7 @@ var translate = require('google-translate-api')
 let templateDir = './text_strings/client'
 let getPath = (file) => `${templateDir}/${file}`
 
-let translateTextStringForFile = (file, textId) => {
+let translateTextStringForFile = (file, text  Id) => {
   // @martin see sara code below as inspiration, this file loops over all files in the directory ./text_strings/client/
   // on line 24, 25 the file gets read and parsed to a js object.
   // In this function i would translate the text_string with the help of google transalte and save the file,

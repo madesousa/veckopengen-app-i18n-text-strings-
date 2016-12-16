@@ -1,160 +1,108 @@
 {
   "category_name_cleaning": "Rengøring",
   "category_description_school": "For at holde huset rent og fint",
-
   "category_name_school": "Skole",
   "category_description_cleaning": "For en god skolegang",
-
   "category_name_laundry": "Vask",
-  "category_description_laundry":  "For at hjælpe med at vaske",
-
+  "category_description_laundry": "For at hjælpe med at vaske",
   "category_name_kitchen": "Hjælp i køkkenet",
   "category_description_kitchen": "For at have det sjovt og give en hånd med i køkkenet",
-
   "category_name_tidying": "Oprydning",
   "category_description_tidying": "For at rydde op derhjemme",
-
   "category_name_behaviour": "God opførsel",
   "category_description_behaviour": "Lær takt og tone",
-
   "category_name_pet": "Hjælp med husdyr",
   "category_description_pet": "For jer, der har husdyr hjemme",
-
   "category_name_web": "Internet & Surf",
   "category_description_web": "Til børn, der skal lære at surfe smartere",
-
   "category_name_extra_help": "Ekstra hjælp",
   "category_description_extra_help": "Forældre får ekstra hjælp",
-
   "category_name_challenge": "Udfordringer",
   "category_description_challenge": "Lærer nye ting og motiverer",
-
   "category_name_garden": "HavearbejdeTrädgårdsarbete",
   "category_description_garden": "Udføres udenfor og i haven",
-
+  "category_name_own_category": "Ingen kategori",
+  "category_description_own_category": "Ingen beskrivelse",
   "group_name_cooking": "Køkken og madlavning",
   "group_description_cooking": "5 sjove opgaver i køkkenet, som samlet set kan give en belønning på 19 kr. om ugen",
-
   "group_name_cleaning": "Oprydning",
   "group_description_cleaning": "5 smarte opgaver, som samlet set kan give en belønning på 15 kr. om ugen",
-
   "group_name_pet": "Hjælp med husdyr",
   "group_description_pet": "3 gode opgaver, som kan give en belønning på 9 kr. om ugen",
-
   "group_name_play": "Leg & Lær",
   "group_description_play": "7 inspirerende opgaver, som kan give en belønning på 11 kr. hver uge og 80 kr. over tid",
-
   "group_name_school": "Skolepakke",
   "group_description_school": "3 refærdige opgaver, som samlet set kan give en belønning på 8 kr. om ugen",
-
   "group_name_web": "Internet & Surf",
   "group_description_web": "2 ret strenge opgaver, som samlet set kan give en belønning på 5 kr. om ugen i veckan",
-
   "group_name_strict": "Det er tid at være streng",
   "group_description_strict": "5 opgaver, som kan give afdrag på 17 kr. om ugen, men også en belønning på 50 kr. over tid",
-
   "group_name_signup": "Registrering",
   "group_description_signup": "Ved registrering",
-
   "template_title_clean_room": "Gør rent på værelset",
   "template_description_clean_room": "Ryd op og gør rent",
-
   "template_title_set_table": "Dæk bord til aftensmad",
   "template_description_set_table": "Stil tallerkner, bestik og glas frem og dæk et pænt bord",
-
   "template_title_trash": "Gå ud med skraldespanden",
   "template_description_trash": "Bær skraldeposerne ud og smid dem i affaldsbeholderen",
-
   "template_title_profanity": "Bandet",
   "template_description_profanity": "Sagt bandeord eller brugt et grimt sprog",
-
   "template_title_candy": "Løfte om slik",
   "template_description_candy": "Spis ingen slik hele ugen",
-
   "template_title_dinner_help": "Hjælp til med aftensmaden",
   "template_description_dinner_help": "Lav mad sammen med familien",
-
   "template_title_empty_dishwasher": "Tøm opvaskemaskinen",
   "template_description_empty_dishwasher": "Tøm hele maskinen, så den er klar til snavsede ting igen",
-
   "template_title_put_away_groceries": "Stil madindkøb væk",
   "template_description_put_away_groceries": "Hjælp med at tømme madposerne og sætte tingene i køleskab",
-
   "template_title_dinner_plan": "Skriv 5 forslag til aftensmad op",
   "template_description_dinner_plan": "Forsøg at holde dig til tallerkenmodellen",
-
   "template_title_do_dishes": "Vadk op efter aftensmaden",
   "template_description_do_dishes": "Skrub rent og skyl det af, der skal i opvaskemaskinen",
-
   "template_title_rest": "Hold pause",
   "template_description_rest": "Tag med på en gåtur",
-
   "template_title_fill_food": "Fyld mad og vandskåle",
   "template_description_fill_food": "Skålene skal fyldes op",
-
   "template_title_empty_poop_tray": "Tøm kattebakke",
   "template_description_empty_poop_tray": "Tøm den og gør den ren",
-
   "template_title_cook_dinner": "Lav selv en middag",
   "template_description_cook_dinner": "Lav aftensmad til familien",
-
   "template_title_table_manners": "Lær god bordskik",
   "template_description_table_manners": "Sid pænt på stolen, brug kniv og gaffel og leg ikke med maden",
-
   "template_title_read_book": "Læs en bog",
   "template_description_read_book": "Læs en hel bog",
-
   "template_title_gather_for_donation": "Saml ting sammen til flygtninge",
   "template_description_gather_for_donation": "Saml ting sammen, som vi kan forære væk",
-
   "template_title_loppis": "Hav dit eget loppemarked",
   "template_description_loppis": "Arranger dit eget loppemarked, hvor du sælger ting, der ikke bliver brugt",
-
   "template_title_selling_stand": "Opstil en salgsstand",
   "template_description_selling_stand": "Sælg noget til andre i gaden",
-
   "template_title_pant": "Flaskepant",
   "template_description_pant": "Saml flasker og dåser til aflevering. Du får pengene for panten",
-
   "template_title_gym_bag": "Pak gymnastikposen",
   "template_description_gym_bag": "ør din gymnastikpose klar dagen inden, du skal have gymnastik",
-
   "template_title_skipped_class": "Skulket",
   "template_description_skipped_class": "Har ikke gået til time, selvom du skulle",
-
   "template_title_homework": "Lav lektier som aftalt",
   "template_description_homework": "Lav ugens lektier",
-
   "template_title_phone_at_dinner": "Brugt mobilen ved middagsbordet",
   "template_description_phone_at_dinner": "Aftensmaden hjemme er mobilfri",
-
   "template_title_surf": "Surfpuljen",
   "template_description_surf": "Hold dig inden for din surfpulje",
-
   "template_title_not_cleaned": "Ikke gjort rent på værelset",
   "template_description_not_cleaned": "Hvis værelset ikke er gjort rent en gang om ugen",
-
   "template_title_fight": "Skændes og slås",
   "template_description_fight": "Hvis du skændes med søskende, i skolen eller med mor og far",
-
   "template_title_profanity_2": "Brugt bandeord",
   "template_description_profanity_2": "Har brugt bandeord eller grimme ord",
-
   "template_title_wash_car": "Vaske bilen",
   "template_description_wash_car": "Vaske bilen udenpå og gøre rent indvendigt",
-
   "template_title_late_sleep": "Ikke gået i seng til tiden",
   "template_description_late_sleep": "Hvis du ikke er gået i seng som aftalt",
-
   "template_title_make_bed": "Rede sengen",
   "template_description_make_bed": "Læg sengetæppe pænt på og ryst puderne",
-
   "template_title_immigrants": "Samle ting til flygtninge",
   "template_description_immigrants": "Samla ting, som vi kan give væk",
-
   "template_title_help_pet": "Gå tur med husdyret",
-  "template_description_help_pet": "Tag en gåtur på mindst 10 minutter",
-
-  "category_name_own": "Ingen kategori",
-  "category_description_own": "Ingen beskrivning"
+  "template_description_help_pet": "Tag en gåtur på mindst 10 minutter"
 }
