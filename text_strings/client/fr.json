@@ -1117,5 +1117,6 @@
   "default_category": "Ingen kategori",
   "trustly_flow_step_1_headline": "Registrering av bankkonto",
   "project_earth_nav_text": "🌍 Veckopeng i ditt område?",
-  "task_history_header": "Sélectionnez les tâches"
+  "task_history_header": "Sélectionnez les tâches",
+  "shared_assignment_text_parent": "% 1 $ d frères et sœurs en concurrence avec% 1 $ d du premier arrivé, premier servi."
 }
