@@ -32,6 +32,9 @@
   "category_name_garden": "Trädgårdsarbete",
   "category_description_garden": "Utförs utomhus och i trädgården",
 
+  "category_name_own_category": "Ingen kategori",
+  "category_description_own_category": "Ingen beskrivning",
+
   "group_name_cooking": "Kök & Matlagning",
   "group_description_cooking": "5 roliga köksuppgifter som totalt kan ge en belöning på 19 kr i veckan",
 
@@ -153,8 +156,5 @@
   "template_description_immigrants": "Samla saker som vi kan ge bort",
 
   "template_title_help_pet": "Rasta husdjuret",
-  "template_description_help_pet": "Ta en promenad på minst 10 min",
-
-  "category_name_own": "Ingen kategori",
-  "category_description_own": "Ingen beskrivning"
+  "template_description_help_pet": "Ta en promenad på minst 10 min"
 }
