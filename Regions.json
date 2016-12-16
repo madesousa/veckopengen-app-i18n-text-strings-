@@ -1,128 +1,132 @@
 
 {"regions":[
-  {
-  "name": "Stockholm",
-  "count": 3561
- },
- {
-  "name": "Västra Götaland",
-  "count": 1526
- },
- {
-  "name": "Skåne",
-  "count": 1347
- },
- {
-  "name": "Oslo County",
-  "count": 617
- },
- {
-  "name": "Hordaland Fylke",
-  "count": 384
- },
- {
-  "name": "Akershus",
-  "count": 364
- },
- {
-  "name": "Uppsala",
-  "count": 351
- },
- {
-  "name": "Östergötland",
-  "count": 336
- },
- {
-  "name": "Halland",
-  "count": 320
- },
- {
-  "name": "Västmanland",
-  "count": 248
- },
- {
-  "name": "Jönköping",
-  "count": 236
- },
- {
-  "name": "Västernorrland",
-  "count": 235
- },
- {
-  "name": "Gävleborg",
-  "count": 229
- },
- {
-  "name": "Södermanland",
-  "count": 220
- },
- {
-  "name": "Dalarna",
-  "count": 215
- },
- {
-  "name": "Örebro",
-  "count": 212
- },
- {
-  "name": "Värmland",
-  "count": 191
- },
- {
-  "name": "Västerbotten",
-  "count": 180
- },
- {
-  "name": "Rogaland Fylke",
-  "count": 174
- },
- {
-  "name": "Norrbotten",
-  "count": 156
- },
- {
-  "name": "Sor-Trondelag Fylke",
-  "count": 155
- },
- {
-  "name": "Kronoberg",
-  "count": 147
- },
- {
-  "name": "Østfold",
-  "count": 143
- },
- {
-  "name": "Central Jutland",
-  "count": 131
- },
- {
-  "name": "Vestfold",
-  "count": 128
- },
- {
-  "name": "Vest-Agder Fylke",
-  "count": 117
- },
- {
-  "name": "South Denmark",
-  "count": 117
- },
- {
-  "name": "Kalmar",
-  "count": 105
- },
- {
-  "name": "Jämtland",
-  "count": 91
- },
- {
-  "name": "Blekinge",
-  "count": 84
- },
- {
-  "name": "Buskerud",
-  "count": 83
- }
+   {
+    "name": "Stockholm",
+    "count": 3561
+   },
+   {
+    "name": "Västra Götaland",
+    "count": 1526
+   },
+   {
+    "name": "Skåne",
+    "count": 1347
+   },
+   {
+    "name": "Oslo County",
+    "count": 617
+   },
+   {
+    "name": "Hordaland Fylke",
+    "count": 384
+   },
+   {
+    "name": "Akershus",
+    "count": 364
+   },
+   {
+    "name": "Uppsala",
+    "count": 351
+   },
+   {
+    "name": "Östergötland",
+    "count": 336
+   },
+   {
+    "name": "Halland",
+    "count": 320
+   },
+   {
+    "name": "Capital Region",
+    "count": 258
+   },
+   {
+    "name": "Västmanland",
+    "count": 248
+   },
+   {
+    "name": "Jönköping",
+    "count": 236
+   },
+   {
+    "name": "Västernorrland",
+    "count": 235
+   },
+   {
+    "name": "Gävleborg",
+    "count": 229
+   },
+   {
+    "name": "Södermanland",
+    "count": 220
+   },
+   {
+    "name": "Dalarna",
+    "count": 215
+   },
+   {
+    "name": "Örebro",
+    "count": 212
+   },
+   {
+    "name": "Värmland",
+    "count": 191
+   },
+   {
+    "name": "Västerbotten",
+    "count": 180
+   },
+   {
+    "name": "Rogaland Fylke",
+    "count": 174
+   },
+   {
+    "name": "Norrbotten",
+    "count": 156
+   },
+   {
+    "name": "Sor-Trondelag Fylke",
+    "count": 155
+   },
+   {
+    "name": "Kronoberg",
+    "count": 147
+   },
+   {
+    "name": "Østfold",
+    "count": 143
+   },
+   {
+    "name": "Central Jutland",
+    "count": 131
+   },
+   {
+    "name": "Vestfold",
+    "count": 128
+   },
+   {
+    "name": "Vest-Agder Fylke",
+    "count": 117
+   },
+   {
+    "name": "South Denmark",
+    "count": 117
+   },
+   {
+    "name": "Kalmar",
+    "count": 105
+   },
+   {
+    "name": "Jämtland",
+    "count": 91
+   },
+   {
+    "name": "Blekinge",
+    "count": 84
+   },
+   {
+    "name": "Buskerud",
+    "count": 83
+   }
 ]
 }
