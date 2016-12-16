@@ -12,7 +12,8 @@ import fiLocale from 'moment/locale/fi'
 import nbLocale from 'moment/locale/nb'
 import enLocale from 'moment/locale/en-gb'
 import CountryCodes from './CountryCodes.json'
-import Areas from './Areas.json'
+import Regions from './Regions.json'
+import Cities from './Cities.json'
 import Currencies from './Currencies.json'
 import Timezones from './TimeZones.json'
 import LanguageCodes from './LanguageCodes.json'
@@ -35,7 +36,8 @@ export let getTextStrings = (lang: string) => {
   }
 }
 
-export let getAreas = () => { return Areas[0] }
+export let getRegions = () => { return Regions }
+export let getCities = () => { return Cities }
 
 export let getMomentLocale = (locale: string) => {
   if (locale === undefined) {
