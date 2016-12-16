@@ -1126,5 +1126,6 @@
   "project_earth_allowance_text": "Dessa siffror är ett genomsnitt på den lokala veckopengen, detta kan innebära att summorna får ett extremvärde om det är få användare i den valda regionen.",
   "play_basketball_game": "Spela: Kasta pengar",
   "project_earth_invite_number": "Bjud in 3 kompisar",
-  "default_category": "Ingen kategori"
+  "default_category": "Ingen kategori",
+  "trustly_flow_step_1_headline": "Registrering av bankkonto"
 }
