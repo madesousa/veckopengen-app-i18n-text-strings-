@@ -1,1515 +1,1159 @@
   {"cities":[
-   {
-    "name": "Stockholm",
-    "count": 1851
-   },
-   {
-    "name": "Oslo",
-    "count": 626
-   },
-   {
-    "name": "Ringön",
-    "count": 373
-   },
-   {
-    "name": "Uppsala",
-    "count": 233
-   },
-   {
-    "name": "Bergen",
-    "count": 196
-   },
-   {
-    "name": "Sodra Forstaden",
-    "count": 177
-   },
-   {
-    "name": "Höör",
-    "count": 164
-   },
-   {
-    "name": "Västerås",
-    "count": 157
-   },
-   {
-    "name": "Linköping",
-    "count": 150
-   },
-   {
-    "name": "Helsingborg",
-    "count": 145
-   },
-   {
-    "name": "Taby",
-    "count": 143
-   },
-   {
-    "name": "Lund",
-    "count": 130
-   },
-   {
-    "name": "Copenhagen",
-    "count": 127
-   },
-   {
-    "name": "Gothenburg",
-    "count": 123
-   },
-   {
-    "name": "Trondheim",
-    "count": 116
-   },
-   {
-    "name": "Sollentuna",
-    "count": 113
-   },
-   {
-    "name": "Gävle",
-    "count": 111
-   },
-   {
-    "name": "Örebro",
-    "count": 111
-   },
-   {
-    "name": "Vaxjo",
-    "count": 103
-   },
-   {
-    "name": "Borås",
-    "count": 100
-   },
-   {
-    "name": "Karlstad",
-    "count": 99
-   },
-   {
-    "name": "Umeå",
-    "count": 98
-   },
-   {
-    "name": "Norrköping",
-    "count": 98
-   },
-   {
-    "name": "Stavanger",
-    "count": 97
-   },
-   {
-    "name": "Huddinge",
-    "count": 97
-   },
-   {
-    "name": "Eskilstuna",
-    "count": 92
-   },
-   {
-    "name": "Sundsvall",
-    "count": 91
-   },
-   {
-    "name": "Halmstad",
-    "count": 90
-   },
-   {
-    "name": "Akersberga",
-    "count": 88
-   },
-   {
-    "name": "Jönköping",
-    "count": 81
-   },
-   {
-    "name": "Tyreso Strand",
-    "count": 81
-   },
-   {
-    "name": "Kristiansand",
-    "count": 79
-   },
-   {
-    "name": "Kungsbacka",
-    "count": 66
-   },
-   {
-    "name": "Sundbyberg",
-    "count": 66
-   },
-   {
-    "name": "Östersund",
-    "count": 65
-   },
-   {
-    "name": "Sodra Sandby",
-    "count": 62
-   },
-   {
-    "name": "Vallentuna",
-    "count": 62
-   },
-   {
-    "name": "Borlänge",
-    "count": 60
-   },
-   {
-    "name": "Lidingö",
-    "count": 60
-   },
-   {
-    "name": "Luleå",
-    "count": 59
-   },
-   {
-    "name": "Bromma",
-    "count": 58
-   },
-   {
-    "name": "Malmo",
-    "count": 57
-   },
-   {
-    "name": "Upplands Vasby",
-    "count": 57
-   },
-   {
-    "name": "Mölndal",
-    "count": 56
-   },
-   {
-    "name": "Solna",
-    "count": 55
-   },
-   {
-    "name": "Nacka",
-    "count": 54
-   },
-   {
-    "name": "Askim",
-    "count": 54
-   },
-   {
-    "name": "Asker",
-    "count": 52
-   },
-   {
-    "name": "Helsinki",
-    "count": 51
-   },
-   {
-    "name": "Vastra Frolunda",
-    "count": 49
-   },
-   {
-    "name": "Södertälje",
-    "count": 47
-   },
-   {
-    "name": "Trollhattan",
-    "count": 44
-   },
-   {
-    "name": "Alingsas",
-    "count": 42
-   },
-   {
-    "name": "Ornskoldsvik",
-    "count": 41
-   },
-   {
-    "name": "Partille",
-    "count": 40
-   },
-   {
-    "name": "Varberg",
-    "count": 40
-   },
-   {
-    "name": "Vendelso",
-    "count": 39
-   },
-   {
-    "name": "Norrtalje",
-    "count": 39
-   },
-   {
-    "name": "Boden",
-    "count": 39
-   },
-   {
-    "name": "Alta",
-    "count": 38
-   },
-   {
-    "name": "Kristianstad",
-    "count": 37
-   },
-   {
-    "name": "Drammen",
-    "count": 37
-   },
-   {
-    "name": "Lidkoping",
-    "count": 36
-   },
-   {
-    "name": "Skellefteå",
-    "count": 36
-   },
-   {
-    "name": "Enkoping",
-    "count": 35
-   },
-   {
-    "name": "Nynashamn",
-    "count": 35
-   },
-   {
-    "name": "Trelleborg",
-    "count": 34
-   },
-   {
-    "name": "Ängelholm",
-    "count": 33
-   },
-   {
-    "name": "Fredrikstad",
-    "count": 33
-   },
-   {
-    "name": "Uddevalla",
-    "count": 33
-   },
-   {
-    "name": "Kalmar",
-    "count": 33
-   },
-   {
-    "name": "Sandefjord",
-    "count": 33
-   },
-   {
-    "name": "Varsta",
-    "count": 33
-   },
-   {
-    "name": "Sarpsborg",
-    "count": 33
-   },
-   {
-    "name": "Tønsberg",
-    "count": 32
-   },
-   {
-    "name": "Avesta",
-    "count": 32
-   },
-   {
-    "name": "Tullinge",
-    "count": 31
-   },
-   {
-    "name": "Loddekopinge",
-    "count": 31
-   },
-   {
-    "name": "Skien",
-    "count": 30
-   },
-   {
-    "name": "Moss",
-    "count": 29
-   },
-   {
-    "name": "Nesttun",
-    "count": 29
-   },
-   {
-    "name": "Värmdö",
-    "count": 28
-   },
-   {
-    "name": "Jessheim",
-    "count": 28
-   },
-   {
-    "name": "Varnamo",
-    "count": 28
-   },
-   {
-    "name": "Tromsø",
-    "count": 27
-   },
-   {
-    "name": "Visby",
-    "count": 27
-   },
-   {
-    "name": "Hagersten",
-    "count": 27
-   },
-   {
-    "name": "Piteå",
-    "count": 27
-   },
-   {
-    "name": "Balsta",
-    "count": 27
-   },
-   {
-    "name": "Laholm",
-    "count": 26
-   },
-   {
-    "name": "Marsta",
-    "count": 26
-   },
-   {
-    "name": "Bunkeflostrand",
-    "count": 26
-   },
-   {
-    "name": "Odense",
-    "count": 26
-   },
-   {
-    "name": "Nyköping",
-    "count": 25
-   },
-   {
-    "name": "Landskrona",
-    "count": 25
-   },
-   {
-    "name": "Vanersborg",
-    "count": 25
-   },
-   {
-    "name": "Karlskrona",
-    "count": 24
-   },
-   {
-    "name": "Ludvika",
-    "count": 24
-   },
-   {
-    "name": "Falun",
-    "count": 24
-   },
-   {
-    "name": "Tumba",
-    "count": 23
-   },
-   {
-    "name": "Enskede-Arsta-Vantör",
-    "count": 23
-   },
-   {
-    "name": "Ystad",
-    "count": 23
-   },
-   {
-    "name": "Sandviken",
-    "count": 23
-   },
-   {
-    "name": "Almestad",
-    "count": 23
-   },
-   {
-    "name": "Hovas",
-    "count": 23
-   },
-   {
-    "name": "Eslov",
-    "count": 23
-   },
-   {
-    "name": "Mora",
-    "count": 22
-   },
-   {
-    "name": "Ski",
-    "count": 22
-   },
-   {
-    "name": "Falkenberg",
-    "count": 22
-   },
-   {
-    "name": "Stenungsund",
-    "count": 21
-   },
-   {
-    "name": "Floda",
-    "count": 21
-   },
-   {
-    "name": "Stabekk",
-    "count": 21
-   },
-   {
-    "name": "Larvik",
-    "count": 20
-   },
-   {
-    "name": "Skurup",
-    "count": 20
-   },
-   {
-    "name": "Ålesund",
-    "count": 20
-   },
-   {
-    "name": "Elverum",
-    "count": 20
-   },
-   {
-    "name": "Kristinehamn",
-    "count": 20
-   },
-   {
-    "name": "Lerum",
-    "count": 20
-   },
-   {
-    "name": "Staffanstorp",
-    "count": 20
-   },
-   {
-    "name": "Strangnas",
-    "count": 20
-   },
-   {
-    "name": "Tierp",
-    "count": 19
-   },
-   {
-    "name": "Trosa",
-    "count": 19
-   },
-   {
-    "name": "Bromsten",
-    "count": 19
-   },
-   {
-    "name": "Ekerö",
-    "count": 18
-   },
-   {
-    "name": "Katrineholm",
-    "count": 18
-   },
-   {
-    "name": "Honekulla",
-    "count": 18
-   },
-   {
-    "name": "Huskvarna",
-    "count": 18
-   },
-   {
-    "name": "Johanneshov",
-    "count": 18
-   },
-   {
-    "name": "Ronneby",
-    "count": 18
-   },
-   {
-    "name": "Skövde",
-    "count": 18
-   },
-   {
-    "name": "Gabo",
-    "count": 18
-   },
-   {
-    "name": "Horten",
-    "count": 17
-   },
-   {
-    "name": "Ulricehamn",
-    "count": 17
-   },
-   {
-    "name": "Bjarred",
-    "count": 17
-   },
-   {
-    "name": "Porsgrunn",
-    "count": 17
-   },
-   {
-    "name": "Lindome",
-    "count": 17
-   },
-   {
-    "name": "Sala",
-    "count": 17
-   },
-   {
-    "name": "Jordbro",
-    "count": 17
-   },
-   {
-    "name": "Kungälv",
-    "count": 17
-   },
-   {
-    "name": "Nora",
-    "count": 17
-   },
-   {
-    "name": "Hallsberg",
-    "count": 17
-   },
-   {
-    "name": "Sölvesborg",
-    "count": 16
-   },
-   {
-    "name": "Silkeborg",
-    "count": 16
-   },
-   {
-    "name": "Hollviken",
-    "count": 16
-   },
-   {
-    "name": "Soreidgrenda",
-    "count": 16
-   },
-   {
-    "name": "Kumla",
-    "count": 16
-   },
-   {
-    "name": "Onsala",
-    "count": 16
-   },
-   {
-    "name": "Djursholm",
-    "count": 16
-   },
-   {
-    "name": "Karlskoga",
-    "count": 16
-   },
-   {
-    "name": "Landvetter",
-    "count": 16
-   },
-   {
-    "name": "Torslanda",
-    "count": 16
-   },
-   {
-    "name": "Motala",
-    "count": 16
-   },
-   {
-    "name": "Kista",
-    "count": 15
-   },
-   {
-    "name": "Arvika",
-    "count": 15
-   },
-   {
-    "name": "Fagersta",
-    "count": 15
-   },
-   {
-    "name": "Gjøvik",
-    "count": 15
-   },
-   {
-    "name": "Limhamn",
-    "count": 15
-   },
-   {
-    "name": "Kävlinge",
-    "count": 15
-   },
-   {
-    "name": "Danderyd",
-    "count": 15
-   },
-   {
-    "name": "Hässelby",
-    "count": 15
-   },
-   {
-    "name": "Skara",
-    "count": 15
-   },
-   {
-    "name": "Handen",
-    "count": 14
-   },
-   {
-    "name": "Eksjö",
-    "count": 14
-   },
-   {
-    "name": "Lomma",
-    "count": 14
-   },
-   {
-    "name": "Harstad",
-    "count": 14
-   },
-   {
-    "name": "Oskarshamn",
-    "count": 14
-   },
-   {
-    "name": "Härnösand",
-    "count": 14
-   },
-   {
-    "name": "Kolding",
-    "count": 14
-   },
-   {
-    "name": "Svalöv",
-    "count": 14
-   },
-   {
-    "name": "Aalborg",
-    "count": 14
-   },
-   {
-    "name": "Vallingby",
-    "count": 14
-   },
-   {
-    "name": "Saltsjobaden",
-    "count": 14
-   },
-   {
-    "name": "Gnesta",
-    "count": 14
-   },
-   {
-    "name": "Vallda",
-    "count": 14
-   },
-   {
-    "name": "Gislaved",
-    "count": 14
-   },
-   {
-    "name": "Vellinge",
-    "count": 13
-   },
-   {
-    "name": "Sandvika",
-    "count": 13
-   },
-   {
-    "name": "Horsens",
-    "count": 13
-   },
-   {
-    "name": "Storebo",
-    "count": 13
-   },
-   {
-    "name": "Ronninge",
-    "count": 13
-   },
-   {
-    "name": "Örnsköldsvik",
-    "count": 13
-   },
-   {
-    "name": "Hässleholm",
-    "count": 13
-   },
-   {
-    "name": "Honefoss",
-    "count": 13
-   },
-   {
-    "name": "Ljungby",
-    "count": 13
-   },
-   {
-    "name": "Kleppesto",
-    "count": 13
-   },
-   {
-    "name": "Trangsund",
-    "count": 13
-   },
-   {
-    "name": "Alvsjo",
-    "count": 13
-   },
-   {
-    "name": "Kramfors",
-    "count": 12
-   },
-   {
-    "name": "Hamar",
-    "count": 12
-   },
-   {
-    "name": "Aarhus",
-    "count": 12
-   },
-   {
-    "name": "Söderhamn",
-    "count": 12
-   },
-   {
-    "name": "Leksand",
-    "count": 12
-   },
-   {
-    "name": "Söderköping",
-    "count": 12
-   },
-   {
-    "name": "Søgne",
-    "count": 12
-   },
-   {
-    "name": "Bärums verk",
-    "count": 12
-   },
-   {
-    "name": "Rimbo",
-    "count": 12
-   },
-   {
-    "name": "Matfors",
-    "count": 12
-   },
-   {
-    "name": "Auckland",
-    "count": 12
-   },
-   {
-    "name": "Vetlanda",
-    "count": 11
-   },
-   {
-    "name": "Oxelosund",
-    "count": 11
-   },
-   {
-    "name": "Bodø",
-    "count": 11
-   },
-   {
-    "name": "Nybro",
-    "count": 11
-   },
-   {
-    "name": "Kolsas",
-    "count": 11
-   },
-   {
-    "name": "Kullavik",
-    "count": 11
-   },
-   {
-    "name": "Jar",
-    "count": 11
-   },
-   {
-    "name": "Grimstad",
-    "count": 11
-   },
-   {
-    "name": "Bro",
-    "count": 11
-   },
-   {
-    "name": "Hudiksvall",
-    "count": 11
-   },
-   {
-    "name": "Lillehammer",
-    "count": 11
-   },
-   {
-    "name": "Falköping",
-    "count": 11
-   },
-   {
-    "name": "Kil",
-    "count": 11
-   },
-   {
-    "name": "Koping",
-    "count": 11
-   },
-   {
-    "name": "Kristiansund",
-    "count": 11
-   },
-   {
-    "name": "Surahammar",
-    "count": 11
-   },
-   {
-    "name": "Oxie",
-    "count": 11
-   },
-   {
-    "name": "Grabo",
-    "count": 11
-   },
-   {
-    "name": "Lillestrøm",
-    "count": 11
-   },
-   {
-    "name": "Sola",
-    "count": 11
-   },
-   {
-    "name": "Sjöbo",
-    "count": 11
-   },
-   {
-    "name": "Svedala",
-    "count": 10
-   },
-   {
-    "name": "Vasby",
-    "count": 10
-   },
-   {
-    "name": "Stjordal",
-    "count": 10
-   },
-   {
-    "name": "Brastad",
-    "count": 10
-   },
-   {
-    "name": "Halden",
-    "count": 10
-   },
-   {
-    "name": "Sofiemyr",
-    "count": 10
-   },
-   {
-    "name": "Bo",
-    "count": 10
-   },
-   {
-    "name": "Esbjerg",
-    "count": 10
-   },
-   {
-    "name": "Sandnes",
-    "count": 10
-   },
-   {
-    "name": "Billdal",
-    "count": 10
-   },
-   {
-    "name": "Trollhättan",
-    "count": 10
-   },
-   {
-    "name": "Färjestaden",
-    "count": 10
-   },
-   {
-    "name": "Krylbo",
-    "count": 10
-   },
-   {
-    "name": "Spanga",
-    "count": 10
-   },
-   {
-    "name": "Knivsta",
-    "count": 10
-   },
-   {
-    "name": "Greve",
-    "count": 10
-   },
-   {
-    "name": "Ranheim",
-    "count": 9
-   },
-   {
-    "name": "Älmhult",
-    "count": 9
-   },
-   {
-    "name": "Hjärup",
-    "count": 9
-   },
-   {
-    "name": "Hebo",
-    "count": 9
-   },
-   {
-    "name": "Västervik",
-    "count": 9
-   },
-   {
-    "name": "Ojersjo",
-    "count": 9
-   },
-   {
-    "name": "Klippan",
-    "count": 9
-   },
-   {
-    "name": "Verdal",
-    "count": 9
-   },
-   {
-    "name": "Karlshamn",
-    "count": 9
-   },
-   {
-    "name": "Skedsmokorset",
-    "count": 9
-   },
-   {
-    "name": "Skärholmen",
-    "count": 9
-   },
-   {
-    "name": "Hallstahammar",
-    "count": 9
-   },
-   {
-    "name": "Klofta",
-    "count": 9
-   },
-   {
-    "name": "Bandhagen",
-    "count": 9
-   },
-   {
-    "name": "Gällivare",
-    "count": 9
-   },
-   {
-    "name": "Bjuv",
-    "count": 9
-   },
-   {
-    "name": "Raholt",
-    "count": 9
-   },
-   {
-    "name": "Romakloster",
-    "count": 9
-   },
-   {
-    "name": "Alvesta",
-    "count": 9
-   },
-   {
-    "name": "Norsborg",
-    "count": 9
-   },
-   {
-    "name": "Nassjo",
-    "count": 9
-   },
-   {
-    "name": "Vejle",
-    "count": 8
-   },
-   {
-    "name": "Sønderborg",
-    "count": 8
-   },
-   {
-    "name": "Norrahammar",
-    "count": 8
-   },
-   {
-    "name": "Domsjo",
-    "count": 8
-   },
-   {
-    "name": "Kinna",
-    "count": 8
-   },
-   {
-    "name": "Kongsberg",
-    "count": 8
-   },
-   {
-    "name": "Perstorp",
-    "count": 8
-   },
-   {
-    "name": "Storvik",
-    "count": 8
-   },
-   {
-    "name": "Savedalen",
-    "count": 8
-   },
-   {
-    "name": "Arlöv",
-    "count": 8
-   },
-   {
-    "name": "Gustavsberg",
-    "count": 8
-   },
-   {
-    "name": "Angered",
-    "count": 8
-   },
-   {
-    "name": "Hoganas",
-    "count": 8
-   },
-   {
-    "name": "Frederiksberg",
-    "count": 8
-   },
-   {
-    "name": "Stenhamra",
-    "count": 8
-   },
-   {
-    "name": "Timra",
-    "count": 8
-   },
-   {
-    "name": "Bollnas",
-    "count": 8
-   },
-   {
-    "name": "Haugesund",
-    "count": 8
-   },
-   {
-    "name": "Strommen",
-    "count": 8
-   },
-   {
-    "name": "Sunne",
-    "count": 8
-   },
-   {
-    "name": "Mariestad",
-    "count": 8
-   },
-   {
-    "name": "As",
-    "count": 8
-   },
-   {
-    "name": "Ringsted",
-    "count": 8
-   },
-   {
-    "name": "Tibro",
-    "count": 8
-   },
-   {
-    "name": "Billesholm",
-    "count": 8
-   },
-   {
-    "name": "Mullsjö",
-    "count": 8
-   },
-   {
-    "name": "Maura",
-    "count": 8
-   },
-   {
-    "name": "Kiruna",
-    "count": 8
-   },
-   {
-    "name": "Mariefred",
-    "count": 8
-   },
-   {
-    "name": "Slagelse",
-    "count": 7
-   },
-   {
-    "name": "Asa",
-    "count": 7
-   },
-   {
-    "name": "Radal",
-    "count": 7
-   },
-   {
-    "name": "Bastad",
-    "count": 7
-   },
-   {
-    "name": "Ljusdal",
-    "count": 7
-   },
-   {
-    "name": "Narvik",
-    "count": 7
-   },
-   {
-    "name": "Finnsnes",
-    "count": 7
-   },
-   {
-    "name": "Tiller",
-    "count": 7
-   },
-   {
-    "name": "Svenljunga",
-    "count": 7
-   },
-   {
-    "name": "Lindesberg",
-    "count": 7
-   },
-   {
-    "name": "Viborg",
-    "count": 7
-   },
-   {
-    "name": "Askersund",
-    "count": 7
-   },
-   {
-    "name": "Langhus",
-    "count": 7
-   },
-   {
-    "name": "Nykvarn",
-    "count": 7
-   },
-   {
-    "name": "Enebyberg",
-    "count": 7
-   },
-   {
-    "name": "Alunda",
-    "count": 7
-   },
-   {
-    "name": "Sigtuna",
-    "count": 7
-   },
-   {
-    "name": "Skärhamn",
-    "count": 7
-   },
-   {
-    "name": "Atvidaberg",
-    "count": 7
-   },
-   {
-    "name": "Randaberg",
-    "count": 7
-   },
-   {
-    "name": "Vaggeryd",
-    "count": 7
-   },
-   {
-    "name": "London",
-    "count": 7
-   },
-   {
-    "name": "Godvik",
-    "count": 7
-   },
-   {
-    "name": "Tomelilla",
-    "count": 7
-   },
-   {
-    "name": "Vollen",
-    "count": 7
-   },
-   {
-    "name": "Hallstavik",
-    "count": 7
-   },
-   {
-    "name": "Lycksele",
-    "count": 6
-   },
-   {
-    "name": "Veberod",
-    "count": 6
-   },
-   {
-    "name": "Floro",
-    "count": 6
-   },
-   {
-    "name": "Skanninge",
-    "count": 6
-   },
-   {
-    "name": "Olofström",
-    "count": 6
-   },
-   {
-    "name": "Køge",
-    "count": 6
-   },
-   {
-    "name": "Hovik verk",
-    "count": 6
-   },
-   {
-    "name": "Solleftea",
-    "count": 6
-   },
-   {
-    "name": "Forshaga",
-    "count": 6
-   },
-   {
-    "name": "Loddefjord",
-    "count": 6
-   },
-   {
-    "name": "Mjolby",
-    "count": 6
-   },
-   {
-    "name": "Vadstena",
-    "count": 6
-   },
-   {
-    "name": "Skinnskatteberg",
-    "count": 6
-   },
-   {
-    "name": "Skarpnack",
-    "count": 6
-   },
-   {
-    "name": "Steinkjer",
-    "count": 6
-   },
-   {
-    "name": "Maloy",
-    "count": 6
-   },
-   {
-    "name": "Dal",
-    "count": 6
-   },
-   {
-    "name": "Tananger",
-    "count": 6
-   },
-   {
-    "name": "Nästved",
-    "count": 6
-   },
-   {
-    "name": "Hvidovre",
-    "count": 6
-   },
-   {
-    "name": "Brumunddal",
-    "count": 6
-   },
-   {
-    "name": "Mantorp",
-    "count": 6
-   },
-   {
-    "name": "Vaxholm",
-    "count": 6
-   },
-   {
-    "name": "Herning",
-    "count": 6
-   },
-   {
-    "name": "Algard",
-    "count": 6
-   },
-   {
-    "name": "Arnes",
-    "count": 6
-   },
-   {
-    "name": "Jarpen",
-    "count": 6
-   },
-   {
-    "name": "Osterhaninge",
-    "count": 6
-   },
-   {
-    "name": "Kungsängen",
-    "count": 6
-   },
-   {
-    "name": "Kolltveit",
-    "count": 6
-   },
-   {
-    "name": "Fjäras station",
-    "count": 6
-   },
-   {
-    "name": "Bagsvärd",
-    "count": 6
-   },
-   {
-    "name": "Eydehavn",
-    "count": 6
-   },
-   {
-    "name": "Bara",
-    "count": 6
-   },
-   {
-    "name": "Mjondalen",
-    "count": 6
-   },
-   {
-    "name": "Lillesand",
-    "count": 6
-   },
-   {
-    "name": "Astorp",
-    "count": 6
-   },
-   {
-    "name": "Birkerød",
-    "count": 6
-   },
-   {
-    "name": "Stryn",
-    "count": 6
-   },
-   {
-    "name": "Surte",
-    "count": 6
-   },
-   {
-    "name": "Fetsund",
-    "count": 6
-   },
-   {
-    "name": "Espoo",
-    "count": 5
-   },
-   {
-    "name": "Hyvinkää",
-    "count": 5
-   },
-   {
-    "name": "Ulsteinvik",
-    "count": 5
-   },
-   {
-    "name": "Holstebro",
-    "count": 5
-   },
-   {
-    "name": "Vantaa",
-    "count": 5
-   },
-   {
-    "name": "Rimforsa",
-    "count": 5
-   },
-   {
-    "name": "Froso",
-    "count": 5
-   },
-   {
-    "name": "Skillingaryd",
-    "count": 5
-   },
-   {
-    "name": "Vimmerby",
-    "count": 5
-   },
-   {
-    "name": "Holmsund",
-    "count": 5
-   },
-   {
-    "name": "Backa",
-    "count": 5
-   },
-   {
-    "name": "Madrid",
-    "count": 5
-   },
-   {
-    "name": "Akarp",
-    "count": 5
-   },
-   {
-    "name": "Virum",
-    "count": 5
-   },
-   {
-    "name": "Soborg",
-    "count": 5
-   },
-   {
-    "name": "Nodeland",
-    "count": 5
-   },
-   {
-    "name": "Austevoll",
-    "count": 5
-   },
-   {
-    "name": "Osmo",
-    "count": 5
-   },
-   {
-    "name": "Skanor",
-    "count": 5
-   },
-   {
-    "name": "Solrod",
-    "count": 5
-   },
-   {
-    "name": "Drobak",
-    "count": 5
-   },
-   {
-    "name": "Jarna",
-    "count": 5
-   },
-   {
-    "name": "Ytterby",
-    "count": 5
-   },
-   {
-    "name": "Haslum",
-    "count": 5
-   },
-   {
-    "name": "Tranas",
-    "count": 5
-   },
-   {
-    "name": "Arslev",
-    "count": 5
-   }
+    {
+     "name": "Stockholm",
+     "count": 1851
+    },
+    {
+     "name": "Oslo",
+     "count": 626
+    },
+    {
+     "name": "Ringön",
+     "count": 373
+    },
+    {
+     "name": "Uppsala",
+     "count": 233
+    },
+    {
+     "name": "Bergen",
+     "count": 196
+    },
+    {
+     "name": "Sodra Forstaden",
+     "count": 177
+    },
+    {
+     "name": "Höör",
+     "count": 164
+    },
+    {
+     "name": "Västerås",
+     "count": 157
+    },
+    {
+     "name": "Linköping",
+     "count": 150
+    },
+    {
+     "name": "Helsingborg",
+     "count": 145
+    },
+    {
+     "name": "Taby",
+     "count": 143
+    },
+    {
+     "name": "Lund",
+     "count": 130
+    },
+    {
+     "name": "Copenhagen",
+     "count": 127
+    },
+    {
+     "name": "Gothenburg",
+     "count": 123
+    },
+    {
+     "name": "Trondheim",
+     "count": 116
+    },
+    {
+     "name": "Sollentuna",
+     "count": 113
+    },
+    {
+     "name": "Gävle",
+     "count": 111
+    },
+    {
+     "name": "Örebro",
+     "count": 111
+    },
+    {
+     "name": "Vaxjo",
+     "count": 103
+    },
+    {
+     "name": "Borås",
+     "count": 100
+    },
+    {
+     "name": "Karlstad",
+     "count": 99
+    },
+    {
+     "name": "Norrköping",
+     "count": 98
+    },
+    {
+     "name": "Umeå",
+     "count": 98
+    },
+    {
+     "name": "Huddinge",
+     "count": 97
+    },
+    {
+     "name": "Stavanger",
+     "count": 97
+    },
+    {
+     "name": "Eskilstuna",
+     "count": 92
+    },
+    {
+     "name": "Sundsvall",
+     "count": 91
+    },
+    {
+     "name": "Halmstad",
+     "count": 90
+    },
+    {
+     "name": "Akersberga",
+     "count": 88
+    },
+    {
+     "name": "Tyreso Strand",
+     "count": 81
+    },
+    {
+     "name": "Jönköping",
+     "count": 81
+    },
+    {
+     "name": "Kristiansand",
+     "count": 79
+    },
+    {
+     "name": "Sundbyberg",
+     "count": 66
+    },
+    {
+     "name": "Kungsbacka",
+     "count": 66
+    },
+    {
+     "name": "Östersund",
+     "count": 65
+    },
+    {
+     "name": "Vallentuna",
+     "count": 62
+    },
+    {
+     "name": "Sodra Sandby",
+     "count": 62
+    },
+    {
+     "name": "Lidingö",
+     "count": 60
+    },
+    {
+     "name": "Borlänge",
+     "count": 60
+    },
+    {
+     "name": "Luleå",
+     "count": 59
+    },
+    {
+     "name": "Bromma",
+     "count": 58
+    },
+    {
+     "name": "Upplands Vasby",
+     "count": 57
+    },
+    {
+     "name": "Malmo",
+     "count": 57
+    },
+    {
+     "name": "Mölndal",
+     "count": 56
+    },
+    {
+     "name": "Solna",
+     "count": 55
+    },
+    {
+     "name": "Nacka",
+     "count": 54
+    },
+    {
+     "name": "Askim",
+     "count": 54
+    },
+    {
+     "name": "Asker",
+     "count": 52
+    },
+    {
+     "name": "Helsinki",
+     "count": 51
+    },
+    {
+     "name": "Vastra Frolunda",
+     "count": 49
+    },
+    {
+     "name": "Södertälje",
+     "count": 47
+    },
+    {
+     "name": "Trollhattan",
+     "count": 44
+    },
+    {
+     "name": "Alingsas",
+     "count": 42
+    },
+    {
+     "name": "Ornskoldsvik",
+     "count": 41
+    },
+    {
+     "name": "Partille",
+     "count": 40
+    },
+    {
+     "name": "Varberg",
+     "count": 40
+    },
+    {
+     "name": "Norrtalje",
+     "count": 39
+    },
+    {
+     "name": "Vendelso",
+     "count": 39
+    },
+    {
+     "name": "Boden",
+     "count": 39
+    },
+    {
+     "name": "Alta",
+     "count": 38
+    },
+    {
+     "name": "Kristianstad",
+     "count": 37
+    },
+    {
+     "name": "Drammen",
+     "count": 37
+    },
+    {
+     "name": "Skellefteå",
+     "count": 36
+    },
+    {
+     "name": "Lidkoping",
+     "count": 36
+    },
+    {
+     "name": "Nynashamn",
+     "count": 35
+    },
+    {
+     "name": "Enkoping",
+     "count": 35
+    },
+    {
+     "name": "Trelleborg",
+     "count": 34
+    },
+    {
+     "name": "Sandefjord",
+     "count": 33
+    },
+    {
+     "name": "Varsta",
+     "count": 33
+    },
+    {
+     "name": "Uddevalla",
+     "count": 33
+    },
+    {
+     "name": "Fredrikstad",
+     "count": 33
+    },
+    {
+     "name": "Sarpsborg",
+     "count": 33
+    },
+    {
+     "name": "Kalmar",
+     "count": 33
+    },
+    {
+     "name": "Ängelholm",
+     "count": 33
+    },
+    {
+     "name": "Tønsberg",
+     "count": 32
+    },
+    {
+     "name": "Avesta",
+     "count": 32
+    },
+    {
+     "name": "Loddekopinge",
+     "count": 31
+    },
+    {
+     "name": "Tullinge",
+     "count": 31
+    },
+    {
+     "name": "Skien",
+     "count": 30
+    },
+    {
+     "name": "Moss",
+     "count": 29
+    },
+    {
+     "name": "Nesttun",
+     "count": 29
+    },
+    {
+     "name": "Varnamo",
+     "count": 28
+    },
+    {
+     "name": "Värmdö",
+     "count": 28
+    },
+    {
+     "name": "Jessheim",
+     "count": 28
+    },
+    {
+     "name": "Tromsø",
+     "count": 27
+    },
+    {
+     "name": "Piteå",
+     "count": 27
+    },
+    {
+     "name": "Balsta",
+     "count": 27
+    },
+    {
+     "name": "Visby",
+     "count": 27
+    },
+    {
+     "name": "Hagersten",
+     "count": 27
+    },
+    {
+     "name": "Laholm",
+     "count": 26
+    },
+    {
+     "name": "Odense",
+     "count": 26
+    },
+    {
+     "name": "Bunkeflostrand",
+     "count": 26
+    },
+    {
+     "name": "Marsta",
+     "count": 26
+    },
+    {
+     "name": "Nyköping",
+     "count": 25
+    },
+    {
+     "name": "Landskrona",
+     "count": 25
+    },
+    {
+     "name": "Vanersborg",
+     "count": 25
+    },
+    {
+     "name": "Ludvika",
+     "count": 24
+    },
+    {
+     "name": "Karlskrona",
+     "count": 24
+    },
+    {
+     "name": "Falun",
+     "count": 24
+    },
+    {
+     "name": "Almestad",
+     "count": 23
+    },
+    {
+     "name": "Eslov",
+     "count": 23
+    },
+    {
+     "name": "Enskede-Arsta-Vantör",
+     "count": 23
+    },
+    {
+     "name": "Tumba",
+     "count": 23
+    },
+    {
+     "name": "Sandviken",
+     "count": 23
+    },
+    {
+     "name": "Hovas",
+     "count": 23
+    },
+    {
+     "name": "Ystad",
+     "count": 23
+    },
+    {
+     "name": "Falkenberg",
+     "count": 22
+    },
+    {
+     "name": "Ski",
+     "count": 22
+    },
+    {
+     "name": "Mora",
+     "count": 22
+    },
+    {
+     "name": "Floda",
+     "count": 21
+    },
+    {
+     "name": "Stenungsund",
+     "count": 21
+    },
+    {
+     "name": "Stabekk",
+     "count": 21
+    },
+    {
+     "name": "Lerum",
+     "count": 20
+    },
+    {
+     "name": "Staffanstorp",
+     "count": 20
+    },
+    {
+     "name": "Elverum",
+     "count": 20
+    },
+    {
+     "name": "Strangnas",
+     "count": 20
+    },
+    {
+     "name": "Ålesund",
+     "count": 20
+    },
+    {
+     "name": "Skurup",
+     "count": 20
+    },
+    {
+     "name": "Larvik",
+     "count": 20
+    },
+    {
+     "name": "Kristinehamn",
+     "count": 20
+    },
+    {
+     "name": "Bromsten",
+     "count": 19
+    },
+    {
+     "name": "Trosa",
+     "count": 19
+    },
+    {
+     "name": "Tierp",
+     "count": 19
+    },
+    {
+     "name": "Johanneshov",
+     "count": 18
+    },
+    {
+     "name": "Katrineholm",
+     "count": 18
+    },
+    {
+     "name": "Ekerö",
+     "count": 18
+    },
+    {
+     "name": "Honekulla",
+     "count": 18
+    },
+    {
+     "name": "Skövde",
+     "count": 18
+    },
+    {
+     "name": "Ronneby",
+     "count": 18
+    },
+    {
+     "name": "Gabo",
+     "count": 18
+    },
+    {
+     "name": "Huskvarna",
+     "count": 18
+    },
+    {
+     "name": "Nora",
+     "count": 17
+    },
+    {
+     "name": "Jordbro",
+     "count": 17
+    },
+    {
+     "name": "Horten",
+     "count": 17
+    },
+    {
+     "name": "Kungälv",
+     "count": 17
+    },
+    {
+     "name": "Ulricehamn",
+     "count": 17
+    },
+    {
+     "name": "Lindome",
+     "count": 17
+    },
+    {
+     "name": "Sala",
+     "count": 17
+    },
+    {
+     "name": "Bjarred",
+     "count": 17
+    },
+    {
+     "name": "Hallsberg",
+     "count": 17
+    },
+    {
+     "name": "Porsgrunn",
+     "count": 17
+    },
+    {
+     "name": "Sölvesborg",
+     "count": 16
+    },
+    {
+     "name": "Landvetter",
+     "count": 16
+    },
+    {
+     "name": "Soreidgrenda",
+     "count": 16
+    },
+    {
+     "name": "Motala",
+     "count": 16
+    },
+    {
+     "name": "Karlskoga",
+     "count": 16
+    },
+    {
+     "name": "Djursholm",
+     "count": 16
+    },
+    {
+     "name": "Kumla",
+     "count": 16
+    },
+    {
+     "name": "Onsala",
+     "count": 16
+    },
+    {
+     "name": "Torslanda",
+     "count": 16
+    },
+    {
+     "name": "Silkeborg",
+     "count": 16
+    },
+    {
+     "name": "Hollviken",
+     "count": 16
+    },
+    {
+     "name": "Kista",
+     "count": 15
+    },
+    {
+     "name": "Danderyd",
+     "count": 15
+    },
+    {
+     "name": "Limhamn",
+     "count": 15
+    },
+    {
+     "name": "Kävlinge",
+     "count": 15
+    },
+    {
+     "name": "Gjøvik",
+     "count": 15
+    },
+    {
+     "name": "Skara",
+     "count": 15
+    },
+    {
+     "name": "Arvika",
+     "count": 15
+    },
+    {
+     "name": "Fagersta",
+     "count": 15
+    },
+    {
+     "name": "Hässelby",
+     "count": 15
+    },
+    {
+     "name": "Saltsjobaden",
+     "count": 14
+    },
+    {
+     "name": "Harstad",
+     "count": 14
+    },
+    {
+     "name": "Vallingby",
+     "count": 14
+    },
+    {
+     "name": "Härnösand",
+     "count": 14
+    },
+    {
+     "name": "Aalborg",
+     "count": 14
+    },
+    {
+     "name": "Oskarshamn",
+     "count": 14
+    },
+    {
+     "name": "Eksjö",
+     "count": 14
+    },
+    {
+     "name": "Handen",
+     "count": 14
+    },
+    {
+     "name": "Gnesta",
+     "count": 14
+    },
+    {
+     "name": "Svalöv",
+     "count": 14
+    },
+    {
+     "name": "Vallda",
+     "count": 14
+    },
+    {
+     "name": "Gislaved",
+     "count": 14
+    },
+    {
+     "name": "Lomma",
+     "count": 14
+    },
+    {
+     "name": "Kolding",
+     "count": 14
+    },
+    {
+     "name": "Honefoss",
+     "count": 13
+    },
+    {
+     "name": "Ronninge",
+     "count": 13
+    },
+    {
+     "name": "Örnsköldsvik",
+     "count": 13
+    },
+    {
+     "name": "Ljungby",
+     "count": 13
+    },
+    {
+     "name": "Sandvika",
+     "count": 13
+    },
+    {
+     "name": "Kleppesto",
+     "count": 13
+    },
+    {
+     "name": "Alvsjo",
+     "count": 13
+    },
+    {
+     "name": "Trangsund",
+     "count": 13
+    },
+    {
+     "name": "Vellinge",
+     "count": 13
+    },
+    {
+     "name": "Hässleholm",
+     "count": 13
+    },
+    {
+     "name": "Storebo",
+     "count": 13
+    },
+    {
+     "name": "Horsens",
+     "count": 13
+    },
+    {
+     "name": "Rimbo",
+     "count": 12
+    },
+    {
+     "name": "Söderhamn",
+     "count": 12
+    },
+    {
+     "name": "Bärums verk",
+     "count": 12
+    },
+    {
+     "name": "Leksand",
+     "count": 12
+    },
+    {
+     "name": "Auckland",
+     "count": 12
+    },
+    {
+     "name": "Søgne",
+     "count": 12
+    },
+    {
+     "name": "Kramfors",
+     "count": 12
+    },
+    {
+     "name": "Hamar",
+     "count": 12
+    },
+    {
+     "name": "Söderköping",
+     "count": 12
+    },
+    {
+     "name": "Aarhus",
+     "count": 12
+    },
+    {
+     "name": "Matfors",
+     "count": 12
+    },
+    {
+     "name": "Sola",
+     "count": 11
+    },
+    {
+     "name": "Lillestrøm",
+     "count": 11
+    },
+    {
+     "name": "Falköping",
+     "count": 11
+    },
+    {
+     "name": "Oxelosund",
+     "count": 11
+    },
+    {
+     "name": "Hudiksvall",
+     "count": 11
+    },
+    {
+     "name": "Nybro",
+     "count": 11
+    },
+    {
+     "name": "Jar",
+     "count": 11
+    },
+    {
+     "name": "Grabo",
+     "count": 11
+    },
+    {
+     "name": "Vetlanda",
+     "count": 11
+    },
+    {
+     "name": "Surahammar",
+     "count": 11
+    },
+    {
+     "name": "Koping",
+     "count": 11
+    },
+    {
+     "name": "Grimstad",
+     "count": 11
+    },
+    {
+     "name": "Bro",
+     "count": 11
+    },
+    {
+     "name": "Oxie",
+     "count": 11
+    },
+    {
+     "name": "Lillehammer",
+     "count": 11
+    },
+    {
+     "name": "Kristiansund",
+     "count": 11
+    },
+    {
+     "name": "Kil",
+     "count": 11
+    },
+    {
+     "name": "Kullavik",
+     "count": 11
+    },
+    {
+     "name": "Kolsas",
+     "count": 11
+    },
+    {
+     "name": "Bodø",
+     "count": 11
+    },
+    {
+     "name": "Sjöbo",
+     "count": 11
+    },
+    {
+     "name": "Stjordal",
+     "count": 10
+    },
+    {
+     "name": "Svedala",
+     "count": 10
+    },
+    {
+     "name": "Halden",
+     "count": 10
+    },
+    {
+     "name": "Sofiemyr",
+     "count": 10
+    },
+    {
+     "name": "Greve",
+     "count": 10
+    },
+    {
+     "name": "Spanga",
+     "count": 10
+    },
+    {
+     "name": "Esbjerg",
+     "count": 10
+    },
+    {
+     "name": "Trollhättan",
+     "count": 10
+    },
+    {
+     "name": "Vasby",
+     "count": 10
+    },
+    {
+     "name": "Färjestaden",
+     "count": 10
+    },
+    {
+     "name": "Sandnes",
+     "count": 10
+    },
+    {
+     "name": "Brastad",
+     "count": 10
+    },
+    {
+     "name": "Billdal",
+     "count": 10
+    },
+    {
+     "name": "Krylbo",
+     "count": 10
+    },
+    {
+     "name": "Bo",
+     "count": 10
+    },
+    {
+     "name": "Knivsta",
+     "count": 10
+    },
+    {
+     "name": "Alvesta",
+     "count": 9
+    },
+    {
+     "name": "Älmhult",
+     "count": 9
+    },
+    {
+     "name": "Raholt",
+     "count": 9
+    },
+    {
+     "name": "Västervik",
+     "count": 9
+    },
+    {
+     "name": "Bandhagen",
+     "count": 9
+    },
+    {
+     "name": "Bjuv",
+     "count": 9
+    },
+    {
+     "name": "Ranheim",
+     "count": 9
+    },
+    {
+     "name": "Gällivare",
+     "count": 9
+    },
+    {
+     "name": "Skedsmokorset",
+     "count": 9
+    },
+    {
+     "name": "Hebo",
+     "count": 9
+    },
+    {
+     "name": "Karlshamn",
+     "count": 9
+    },
+    {
+     "name": "Nassjo",
+     "count": 9
+    },
+    {
+     "name": "Romakloster",
+     "count": 9
+    },
+    {
+     "name": "Skärholmen",
+     "count": 9
+    },
+    {
+     "name": "Ojersjo",
+     "count": 9
+    },
+    {
+     "name": "Verdal",
+     "count": 9
+    },
+    {
+     "name": "Hjärup",
+     "count": 9
+    },
+    {
+     "name": "Hallstahammar",
+     "count": 9
+    },
+    {
+     "name": "Klofta",
+     "count": 9
+    },
+    {
+     "name": "Klippan",
+     "count": 9
+    },
+    {
+     "name": "Norsborg",
+     "count": 9
+    },
+    {
+     "name": "Sønderborg",
+     "count": 8
+    },
+    {
+     "name": "Gustavsberg",
+     "count": 8
+    },
+    {
+     "name": "Bollnas",
+     "count": 8
+    },
+    {
+     "name": "Perstorp",
+     "count": 8
+    },
+    {
+     "name": "Ringsted",
+     "count": 8
+    },
+    {
+     "name": "Stenhamra",
+     "count": 8
+    },
+    {
+     "name": "Savedalen",
+     "count": 8
+    },
+    {
+     "name": "Kinna",
+     "count": 8
+    },
+    {
+     "name": "Norrahammar",
+     "count": 8
+    },
+    {
+     "name": "Vejle",
+     "count": 8
+    },
+    {
+     "name": "Strommen",
+     "count": 8
+    },
+    {
+     "name": "Hoganas",
+     "count": 8
+    },
+    {
+     "name": "Kiruna",
+     "count": 8
+    },
+    {
+     "name": "Tibro",
+     "count": 8
+    },
+    {
+     "name": "Domsjo",
+     "count": 8
+    },
+    {
+     "name": "Mariestad",
+     "count": 8
+    },
+    {
+     "name": "Mariefred",
+     "count": 8
+    },
+    {
+     "name": "Mullsjö",
+     "count": 8
+    },
+    {
+     "name": "As",
+     "count": 8
+    },
+    {
+     "name": "Arlöv",
+     "count": 8
+    },
+    {
+     "name": "Sunne",
+     "count": 8
+    },
+    {
+     "name": "Maura",
+     "count": 8
+    },
+    {
+     "name": "Kongsberg",
+     "count": 8
+    },
+    {
+     "name": "Storvik",
+     "count": 8
+    },
+    {
+     "name": "Haugesund",
+     "count": 8
+    },
+    {
+     "name": "Timra",
+     "count": 8
+    },
+    {
+     "name": "Frederiksberg",
+     "count": 8
+    },
+    {
+     "name": "Billesholm",
+     "count": 8
+    },
+    {
+     "name": "Angered",
+     "count": 8
+    },
+    {
+     "name": "Enebyberg",
+     "count": 7
+    },
+    {
+     "name": "Finnsnes",
+     "count": 7
+    },
+    {
+     "name": "Bastad",
+     "count": 7
+    },
+    {
+     "name": "Narvik",
+     "count": 7
+    }
  ]
 }
