@@ -1116,5 +1116,6 @@
   "project_earth_invite_number": "Bjud in 3 kompisar",
   "default_category": "Ingen kategori",
   "trustly_flow_step_1_headline": "Registrering av bankkonto",
-  "project_earth_nav_text": "🌍 Veckopeng i ditt område?"
+  "project_earth_nav_text": "🌍 Veckopeng i ditt område?",
+  "task_history_header": "Select taken"
 }
