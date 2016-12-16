@@ -18,7 +18,7 @@
   "push_withdrawal_parent": "{parent} made a withdrawal of {amount} from {child}s piggy bank",
   "push_timed_assignment_expired": "No reward! The time has run out for {task}.",
   "push_connected_with_parent": "JippiKaYeah! You are now connected to a parent!",
-  "push_invite_accepted": "%s Accepted right now your invitation!",
+  "push_invite_accepted": "{user} has accepted your invitation!",
   "push_new_assignment": "Yihaa! You have got a new task!",
   "push_assignment_active_again": "The task \"%s\" is not available yet. First come, first served!",
   "push_assignment_done": "%s executed right now \"%s\"",

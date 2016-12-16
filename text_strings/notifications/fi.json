@@ -18,7 +18,7 @@
   "push_withdrawal_parent": "{parent} otti {amount} {child}:n säästöpossusta",
   "push_timed_assignment_expired": "Harmi, sinulla ei ole enää {task}.",
   "push_connected_with_parent": "Juhuu! Sinut on linkitetty yhteen vanhempiesi kanssa!",
-  "push_invite_accepted": "%s hyväksyi kutsusi!",
+  "push_invite_accepted": "{user} hyväksyi kutsusi!",
   "push_new_assignment": "Jihaa! Olet saanut uuden tehtävän!",
   "push_assignment_active_again": "Tehtävä \"%s\" on taas saatavilla. Kuka ehtii ensin?",
   "push_assignment_done": "%s suoritti juuri \"%s\"",

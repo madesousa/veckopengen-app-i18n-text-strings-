@@ -18,7 +18,7 @@
   "push_withdrawal_parent": "{parent} trak {amount} fra {child}s sparegris",
   "push_timed_assignment_expired": "Du nåede det desværre ikke {task}.",
   "push_connected_with_parent" : "Tjuhej! Du er nu blevet koblet sammen med en forælder!",
-  "push_invite_accepted" : "%s har lige accepteret din indbydelse!",
+  "push_invite_accepted" : "{user} har lige accepteret din indbydelse!",
   "push_new_assignment" : "Yihaa! Du har fået en ny opgave!",
   "push_assignment_active_again" : "Opgaven \"%s\" er tilgængelig igen. Først til mølle!",
   "push_assignment_done" : "%s har lige udført \"%s\"",
