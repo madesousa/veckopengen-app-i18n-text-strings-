@@ -3,7 +3,6 @@
   "allowance_recurring_2": "månadspeng",
   "allowance_recurring_1_definite": "veckopengen",
   "allowance_recurring_2_definite": "månadspengen",
-
   "push_child_transferred_to_savings": "{child} har sparat {amount}",
   "push_update_recurring_new_task": "Spana in! Du har fått en ny uppgift!",
   "push_update_recurring_new_tasks": "Kolla! Du har fått nya uppgifter!",
@@ -45,7 +44,6 @@
   "push_trustly_monthly_allowance_parent_changed_2": "Nu betalas {child}s månadspeng ut från {parent}s konto",
   "push_trustly_weekly_allowance_parent_changed_child": "Nu betalas din veckopeng ut från {parent}s konto",
   "push_trustly_monthly_allowance_parent_changed_child": "Nu betalas din månadspeng ut från {parent}s konto",
-
   "weekly_allowance_pre_payout_notification": "Idag är det veckopeng!",
   "monthly_allowance_pre_payout_notification": "Idag är det månadspeng!",
   "weekly_allowance_parent_pre_payout_notification": "Dags för {child}s veckopeng!",
@@ -56,20 +54,16 @@
   "notifications_task_done_text": "{task} blev godkänd och du har inkasserat {amount}!",
   "notification_payment_sent_title": "Har veckopengen betalats ut kontant?",
   "notification_payment_sent_text": "{child} fick {amount} i spargrisen. Har du betalat ut den kontant?",
-
   "dashboard_interest_added": "Fick {amount} i sparbonus",
   "dashboard_changed_to_weekly_allowance": "Har gått över till veckopeng.",
   "dashboard_changed_to_monthly_allowance": "Har gått över till månadspeng.",
-
   "overview_text_trustly_payout_completed_parent": "{amount} i {recurring} har överförts",
   "overview_text_trustly_failed_parent": "Överföringen av {recurring} misslyckades",
-
   "trustly_charge_over_limit_email_subject": "Viktigt meddelande om utbetalning",
   "trustly_charge_failed_email_subject": "Meddelande om misslyckad utbetalning",
   "trustly_payout_failed_email_subject": "Meddelande om misslyckad utbetalning och refund",
   "invite_email_subject": "Inbjudan till Veckopengen",
   "login_email_subject": "Logga in på Veckopengen",
-
   "push_data_tracking_assignment_created": "Kolla in! Du har fått en surfpott!",
   "push_data_tracking_assignment_complete_parent": "{child} har klarat sin surfpott uppgift.",
   "push_data_tracking_assignment_complete_child": "Du har klarat din surfpott uppgift!",

@@ -3,7 +3,6 @@
   "allowance_recurring_2": "Mánaðarpeningur",
   "allowance_recurring_1_definite": "veckopengen",
   "allowance_recurring_2_definite": "månadspengen",
-
   "push_child_transferred_to_savings": "{child} har sparat {amount}",
   "push_update_recurring_new_task": "Spana in! Du har fått en ny uppgift!",
   "push_update_recurring_new_tasks": "Kolla! Du har fått nya uppgifter!",
@@ -45,7 +44,6 @@
   "push_trustly_monthly_allowance_parent_changed_2": "Nu betalas {child}s månadspeng ut från {parent}s konto.",
   "push_trustly_weekly_allowance_parent_changed_child": "Nu betalas din veckopeng ut från {parent}s konto.",
   "push_trustly_monthly_allowance_parent_changed_child": "Nu betalas din månadspeng ut från {parent}s konto.",
-
   "weekly_allowance_pre_payout_notification": "Idag är det veckopeng!",
   "monthly_allowance_pre_payout_notification": "Idag är det månadspeng!",
   "weekly_allowance_parent_pre_payout_notification": "Dags för {child}s veckopeng!",
@@ -56,20 +54,16 @@
   "notifications_task_done_text": "{task} blev godkänd och du har inkasserat {amount}!",
   "notification_payment_sent_title": "Har veckopengen betalats ut kontant?",
   "notification_payment_sent_text": "{child} fick {amount} i spargrisen. Har du betalat ut den kontant?",
-
   "dashboard_interest_added": "Fick {amount} i sparbonus",
   "dashboard_changed_to_weekly_allowance": "Har gått över till veckopeng.",
   "dashboard_changed_to_monthly_allowance": "Har gått över till månadspeng.",
-
   "overview_text_trustly_payout_completed_parent": "{amount} i {recurring} har överförts",
   "overview_text_trustly_failed_parent": "Överföringen av {recurring} misslyckades",
-
   "trustly_charge_over_limit_email_subject": "Viktigt meddelande om utbetalning.",
   "trustly_charge_failed_email_subject": "Meddelande om misslyckad utbetalning.",
   "trustly_payout_failed_email_subject": "Meddelande om misslyckad utbetalning och refund.",
   "invite_email_subject": "Inbjudan till Veckopengen",
   "login_email_subject": "Logga in på Veckopengen",
-
   "push_data_tracking_assignment_created": "Kolla in! Du har fått en surfpott!",
   "push_data_tracking_assignment_complete_parent": "{child} har klarat sin surfpott uppgift.",
   "push_data_tracking_assignment_complete_child": "Du har klarat din surfpott uppgift!",
@@ -99,6 +93,8 @@
   "dashboard_child_not_connected": "ekki gleyma að tengja saman",
   "dashboard_child_setup": "Er ekki tilbúið!",
   "dashboard_enable_data_tracking": "Nyhet! Sätt igång surfkoll!",
+  "dashboard_weekly_allowance_over_trustly_limit": "Veckopengen är över beloppsgränsen",
+  "dashboard_monthly_allowance_over_trustly_limit": "Månadspengen är över beloppsgränsen",
   "dashboard_failed_trustly_transaction": "Misslyckad överföring",
   "dashboard_completed_trustly_transaction": "{amount} överfördes till bankkonto",
   "dashboard_assignment_completed": "búin með {task}",
@@ -106,16 +102,14 @@
   "dashboard_goal_archived": "Arkiverade sparmålet {goal}",
   "dashboard_child_trustly_allowance_enabled": "Överföringar aktiverade",
   "dashboard_add_trustly_account": "Lägg till bankkonto",
-  "dashboard_weekly_allowance_over_trustly_limit": "Veckopengen är över beloppsgränsen",
-  "dashboard_monthly_allowance_over_trustly_limit": "Månadspengen är över beloppsgränsen",
   "push_first_wish_created": "{child} har skapat önskelista",
   "push_wish_created": "{child} har lagt till {wish} på önskelistan",
   "push_wish_deleted": "{child} har tagit bort {wish} från önskelistan",
   "push_child_logged_in": "{child} har loggats in!",
   "sms_app_download": "Välkommen till Veckopengen!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{user} arkiverade sparmålet {goal}",
-  "push_weekly_assignment": "Ny uppgift för dagen finns i appen!",
-  "push_new_timed_assignment": "Kika in, du har fått en tidsinställd uppgift!",
-  "push_new_shared_assignment": "Kika in i appen, du är med och tävlar i att bli klar med en uppgift!",
-  "push_new_repeating_assignment": "Kolla in! Du har fått en ny uppgift som du alltid får pengar för att utföra!"
+  "push_weekly_assignment": "Ný verkefni fyrir daginn er í forritinu!",
+  "push_new_timed_assignment": "Kíkja í, hefur þú fengið Tímastillt verkefni!",
+  "push_new_shared_assignment": "Peek inn í app, þú ert að keppa í að ljúka verkefni!",
+  "push_new_repeating_assignment": "Kíkja! Þú ert með nýtt verkefni sem þú færð alltaf peninga til að framkvæma!"
 }
