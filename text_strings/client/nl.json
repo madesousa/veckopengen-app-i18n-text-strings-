@@ -1080,7 +1080,7 @@
   "add_task_choose_category": "Kies een categorie",
   "create_data_usage_task": "Maak Surf Extrakoll",
   "create_task_from_history": "eerdere gegevens",
-  "add_id_number_child": "Voer de persoonlijke gegevens van de eigenaar van de bankrekening van de ontvanger",
+  "add_id_number_child": "Skriv in %1$d personnummer",
   "standing_task_error": "Slechts één deelnemer genoemde taak",
   "no_history_headline": "%1$d geen geschiedenis dan",
   "no_history_desc": "Allemaal geslaagd de data ports hier, dus u kunt gewoon weer geven ze uit!",
@@ -1121,5 +1121,9 @@
   "shared_assignment_text_parent": "%1$d siblings concurreren tegen %2$d in het eerst maalt.",
   "task_expired_headline": "De opdracht werd niet goedgekeurd",
   "task_expired_desc": "Het geven van de opdracht tot het %1$d nog een kans geven",
-  "periodic_task_error": "Selecteer ten minste 1 dag"
+  "periodic_task_error": "Selecteer ten minste 1 dag",
+  "add_account_child_title": "Vem är ägare till %1$d bankkonto?",
+  "me": "Jag",
+  "add_account_child_sign_me": "%1$d bankkonto står på mig och jag har mandat för att signera.",
+  "add_account_child_sign_child": "%1$d sitter med och signerar med bankdosa eller mobild bank ID"
 }

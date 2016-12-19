@@ -1080,7 +1080,7 @@
   "add_task_choose_category": "Valitse luokka",
   "create_data_usage_task": "Luo Surf Extrakoll",
   "create_task_from_history": "edellinen data",
-  "add_id_number_child": "Anna henkilötunnus omistajan saajan pankkitilille",
+  "add_id_number_child": "Kirjoita %1$d Social Security",
   "standing_task_error": "Vain yksi osallistuja mainitun tehtävän",
   "no_history_headline": "%1$d ei ole historiaa kuin",
   "no_history_desc": "Kaikki läpäissyt dataportit täällä, joten voit antaa ne sitten ulos!",
@@ -1121,5 +1121,9 @@
   "shared_assignment_text_parent": "%1$d sisarukset kilpailevat %2$d ensin.",
   "task_expired_headline": "Tehtävä ei hyväksytty",
   "task_expired_desc": "Antaa ulos tehtävän antamaan %1$d toisen mahdollisuuden",
-  "periodic_task_error": "Valitse vähintään 1 päivä"
+  "periodic_task_error": "Valitse vähintään 1 päivä",
+  "add_account_child_title": "Vem är ägare till %1$d bankkonto?",
+  "me": "Jag",
+  "add_account_child_sign_me": "%1$d bankkonto står på mig och jag har mandat för att signera.",
+  "add_account_child_sign_child": "%1$d sitter med och signerar med bankdosa eller mobild bank ID"
 }

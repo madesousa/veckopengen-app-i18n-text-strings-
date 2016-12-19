@@ -1080,7 +1080,7 @@
   "add_task_choose_category": "Veldu flokk",
   "create_data_usage_task": "Skapa Surfkoll",
   "create_task_from_history": "fyrri gögn",
-  "add_id_number_child": "Sláðu inn kennitölu eiganda bankareikning viðtakanda",
+  "add_id_number_child": "Tegund í %1$d tryggingamálaráðuneytið",
   "standing_task_error": "Aðeins einn þátttakandi nefndi verkefni",
   "no_history_headline": "%1$d hafa enga sögu en",
   "no_history_desc": "Allt stóðst gögn höfn hér, svo þú getur einfaldlega gefa þá út aftur!",
@@ -1121,5 +1121,9 @@
   "shared_assignment_text_parent": "%1$d systkini keppa á móti %2$d í fyrsta þjónað.",
   "task_expired_headline": "Verkefnið var ekki samþykkt",
   "task_expired_desc": "Gefa út verkefni til að gefa %1$d annað tækifæri",
-  "periodic_task_error": "Veldu að minnsta kosti 1 dag"
+  "periodic_task_error": "Veldu að minnsta kosti 1 dag",
+  "add_account_child_title": "Vem är ägare till %1$d bankkonto?",
+  "me": "Jag",
+  "add_account_child_sign_me": "%1$d bankkonto står på mig och jag har mandat för att signera.",
+  "add_account_child_sign_child": "%1$d sitter med och signerar med bankdosa eller mobild bank ID"
 }

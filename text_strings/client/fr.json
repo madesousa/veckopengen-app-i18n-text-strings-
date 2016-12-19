@@ -1080,7 +1080,7 @@
   "add_task_choose_category": "Sélectionnez la catégorie",
   "create_data_usage_task": "Créer Surf Extrakoll",
   "create_task_from_history": "les données précédentes",
-  "add_id_number_child": "Entrez l'identification personnelle du propriétaire du compte bancaire du destinataire",
+  "add_id_number_child": "Tapez %1$d la sécurité sociale",
   "standing_task_error": "Une seule tâche des participants mentionnés",
   "no_history_headline": "%1$d ont pas l'histoire que",
   "no_history_desc": "Tous passé les ports de données ici, donc vous pouvez tout simplement les donner à nouveau!",
@@ -1121,5 +1121,9 @@
   "shared_assignment_text_parent": "%1$d frères et sœurs en compétition contre %2$d en premier servi.",
   "task_expired_headline": "La tâche n'a pas été approuvée",
   "task_expired_desc": "Donner à la tâche de donner une autre chance %1$d",
-  "periodic_task_error": "Sélectionnez au moins 1 jour"
+  "periodic_task_error": "Sélectionnez au moins 1 jour",
+  "add_account_child_title": "Vem är ägare till %1$d bankkonto?",
+  "me": "Jag",
+  "add_account_child_sign_me": "%1$d bankkonto står på mig och jag har mandat för att signera.",
+  "add_account_child_sign_child": "%1$d sitter med och signerar med bankdosa eller mobild bank ID"
 }

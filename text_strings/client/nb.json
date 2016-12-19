@@ -1080,7 +1080,7 @@
   "add_task_choose_category": "Velg kategori",
   "create_data_usage_task": "Opprett Surf Extrakoll",
   "create_task_from_history": "tidligere data",
-  "add_id_number_child": "Skriv inn personlig identifisering av eieren av mottakerens bankkonto",
+  "add_id_number_child": "Skriv in %1$d personnummer",
   "standing_task_error": "Bare én deltaker nevnte oppgave",
   "no_history_headline": "%1$d har ingen historie enn",
   "no_history_desc": "Alle passerte data havner her, så kan du bare gi dem ut igjen!",
@@ -1121,5 +1121,9 @@
   "shared_assignment_text_parent": "%1$d søsken konkurrerer mot %2$d i første servert.",
   "task_expired_headline": "Oppgaven ble ikke godkjent",
   "task_expired_desc": "Å gi ut oppgaven å gi %1$d en ny sjanse",
-  "periodic_task_error": "Velg minst en dag"
+  "periodic_task_error": "Velg minst en dag",
+  "add_account_child_title": "Vem är ägare till %1$d bankkonto?",
+  "me": "Jag",
+  "add_account_child_sign_me": "%1$d bankkonto står på mig och jag har mandat för att signera.",
+  "add_account_child_sign_child": "%1$d sitter med och signerar med bankdosa eller mobild bank ID"
 }

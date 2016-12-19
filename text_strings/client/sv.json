@@ -1091,7 +1091,7 @@
   "add_task_choose_category": "Välj kategori",
   "create_data_usage_task": "Skapa Surfkoll",
   "create_task_from_history": "Tidigare uppgifter",
-  "add_id_number_child": "Ange personnummer för ägare till mottagande bankkonto",
+  "add_id_number_child": "Skriv in %1$d personnummer",
   "standing_task_error": "Endast en deltagare på stående uppgift",
   "no_history_headline": "%1$d har ingen historik än",
   "no_history_desc": "Alla klarade uppgifter hamnar här, så du enkelt kan ge ut dem igen!",
@@ -1132,5 +1132,9 @@
   "shared_assignment_text_parent": "%1$d syskon tävlar mot %2$d i först till kvarn.",
   "task_expired_headline": "Uppgiften godkändes inte",
   "task_expired_desc": "Ge ut uppgiften igen för att ge %1$d en ny chans",
-  "periodic_task_error": "Välj minst 1 dag"
+  "periodic_task_error": "Välj minst 1 dag",
+  "add_account_child_title": "Vem är ägare till %1$d bankkonto?",
+  "me": "Jag",
+  "add_account_child_sign_me": "%1$d bankkonto står på mig och jag har mandat för att signera.",
+  "add_account_child_sign_child": "%1$d sitter med och signerar med bankdosa eller mobild bank ID"
 }
