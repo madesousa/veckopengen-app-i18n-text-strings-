@@ -1127,5 +1127,10 @@
   "trustly_info_list_3_child": "Enkla och överskådliga notifieringar",
   "trustly_info_list_4_child": "Fungerar med alla banker",
   "trustly_info_list_5_child": "Verifiering med Mobilt Bank ID",
-  "trustly_info_list_6_child": "Tryggt och säkert med Trustly"
+  "trustly_info_list_6_child": "Tryggt och säkert med Trustly",
+  "add_goal_title_headline": "Vad vill du spara till?",
+  "add_goal_title_help": "MAX %1$d tecken",
+  "add_goal_title": "Titel",
+  "add_goal_desc_headline": "Vill du beskriva vad du sparar till?",
+  "add_goal_desc": "Beskrivning"
 }
