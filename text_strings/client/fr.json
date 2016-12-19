@@ -1118,5 +1118,7 @@
   "trustly_flow_step_1_headline": "Registrering av bankkonto",
   "project_earth_nav_text": "🌍 Veckopeng i ditt område?",
   "task_history_header": "Sélectionnez les tâches",
-  "shared_assignment_text_parent": "%1$d frères et sœurs en compétition contre %2$d en premier servi."
+  "shared_assignment_text_parent": "%1$d frères et sœurs en compétition contre %2$d en premier servi.",
+  "task_expired_headline": "La tâche n'a pas été approuvée",
+  "task_expired_desc": "Donner à la tâche de donner une autre chance %1$d"
 }

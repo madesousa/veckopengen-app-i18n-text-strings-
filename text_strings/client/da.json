@@ -1118,5 +1118,7 @@
   "trustly_flow_step_1_headline": "Registrering av bankkonto",
   "project_earth_nav_text": "🌍 Veckopeng i ditt område?",
   "task_history_header": "Vælg opgaver",
-  "shared_assignment_text_parent": "%1$d søskende konkurrerer mod %2$d i mølle."
+  "shared_assignment_text_parent": "%1$d søskende konkurrerer mod %2$d i mølle.",
+  "task_expired_headline": "Opgaven blev ikke godkendt",
+  "task_expired_desc": "At give den opgave at give %1$d anden chance"
 }
