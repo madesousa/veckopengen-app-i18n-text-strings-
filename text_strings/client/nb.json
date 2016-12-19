@@ -1120,5 +1120,6 @@
   "task_history_header": "Velg oppgaver",
   "shared_assignment_text_parent": "%1$d søsken konkurrerer mot %2$d i første servert.",
   "task_expired_headline": "Oppgaven ble ikke godkjent",
-  "task_expired_desc": "Å gi ut oppgaven å gi %1$d en ny sjanse"
+  "task_expired_desc": "Å gi ut oppgaven å gi %1$d en ny sjanse",
+  "periodic_task_error": "Velg minst en dag"
 }

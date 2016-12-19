@@ -1120,5 +1120,6 @@
   "task_history_header": "Select taken",
   "shared_assignment_text_parent": "%1$d siblings concurreren tegen %2$d in het eerst maalt.",
   "task_expired_headline": "De opdracht werd niet goedgekeurd",
-  "task_expired_desc": "Het geven van de opdracht tot het %1$d nog een kans geven"
+  "task_expired_desc": "Het geven van de opdracht tot het %1$d nog een kans geven",
+  "periodic_task_error": "Selecteer ten minste 1 dag"
 }

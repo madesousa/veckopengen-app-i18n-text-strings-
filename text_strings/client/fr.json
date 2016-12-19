@@ -1120,5 +1120,6 @@
   "task_history_header": "Sélectionnez les tâches",
   "shared_assignment_text_parent": "%1$d frères et sœurs en compétition contre %2$d en premier servi.",
   "task_expired_headline": "La tâche n'a pas été approuvée",
-  "task_expired_desc": "Donner à la tâche de donner une autre chance %1$d"
+  "task_expired_desc": "Donner à la tâche de donner une autre chance %1$d",
+  "periodic_task_error": "Sélectionnez au moins 1 jour"
 }

@@ -1120,5 +1120,6 @@
   "task_history_header": "Valið verkefni",
   "shared_assignment_text_parent": "%1$d systkini keppa á móti %2$d í fyrsta þjónað.",
   "task_expired_headline": "Verkefnið var ekki samþykkt",
-  "task_expired_desc": "Gefa út verkefni til að gefa %1$d annað tækifæri"
+  "task_expired_desc": "Gefa út verkefni til að gefa %1$d annað tækifæri",
+  "periodic_task_error": "Veldu að minnsta kosti 1 dag"
 }

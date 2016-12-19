@@ -1120,5 +1120,6 @@
   "task_history_header": "Valitse tehtävät",
   "shared_assignment_text_parent": "%1$d sisarukset kilpailevat %2$d ensin.",
   "task_expired_headline": "Tehtävä ei hyväksytty",
-  "task_expired_desc": "Antaa ulos tehtävän antamaan %1$d toisen mahdollisuuden"
+  "task_expired_desc": "Antaa ulos tehtävän antamaan %1$d toisen mahdollisuuden",
+  "periodic_task_error": "Valitse vähintään 1 päivä"
 }

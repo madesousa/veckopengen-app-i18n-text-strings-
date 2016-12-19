@@ -1131,5 +1131,6 @@
   "task_history_header": "Välj uppgifter",
   "shared_assignment_text_parent": "%1$d syskon tävlar mot %2$d i först till kvarn.",
   "task_expired_headline": "Uppgiften godkändes inte",
-  "task_expired_desc": "Ge ut uppgiften igen för att ge %1$d en ny chans"
+  "task_expired_desc": "Ge ut uppgiften igen för att ge %1$d en ny chans",
+  "periodic_task_error": "Välj minst 1 dag"
 }

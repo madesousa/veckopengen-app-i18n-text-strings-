@@ -1120,5 +1120,6 @@
   "task_history_header": "Vælg opgaver",
   "shared_assignment_text_parent": "%1$d søskende konkurrerer mod %2$d i mølle.",
   "task_expired_headline": "Opgaven blev ikke godkendt",
-  "task_expired_desc": "At give den opgave at give %1$d anden chance"
+  "task_expired_desc": "At give den opgave at give %1$d anden chance",
+  "periodic_task_error": "Vælg mindst 1 dag"
 }
