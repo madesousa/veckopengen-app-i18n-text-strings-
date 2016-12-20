@@ -1,0 +1,14 @@
+/* Widget left button */
+"widget_add_payment" = "Lägg till betalning";
+
+/* Widget allowance row with monthly allowance */
+"monthly_allowance_days" = "Månadspeng om %d dagar";
+
+/* Widget right button for child */
+"widget_new_goal" = "Nytt mål";
+
+/* Widget right button for parent */
+"widget_new_task" = "Ny uppgift";
+
+/* Widget allowance row with weekly allowance */
+"weekly_allowance_days" = "Veckopeng om %d dagar";

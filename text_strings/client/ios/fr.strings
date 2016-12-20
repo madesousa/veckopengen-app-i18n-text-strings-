@@ -1,0 +1,14 @@
+/* Widget left button */
+"widget_add_payment" = "Add payment";
+
+/* Widget allowance row with monthly allowance */
+"monthly_allowance_days" = "Monthly allowance in %d days";
+
+/* Widget right button for child */
+"widget_new_goal" = "New goal";
+
+/* Widget right button for parent */
+"widget_new_task" = "New task";
+
+/* Widget allowance row with weekly allowance */
+"weekly_allowance_days" = "Weekly allowance in %d days";
