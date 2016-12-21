@@ -1145,5 +1145,6 @@
   "add_goal_desc_headline": "Vill du beskriva vad du sparar till?",
   "add_goal_desc": "Beskrivning",
   "edit_savings_goal": "Redigera sparmål",
-  "task_history_hand_out_tasks": "Ge ut uppgifter"
+  "task_history_hand_out_tasks": "Ge ut uppgifter",
+  "timer_task_help_text": "När tiden gått ut blir uppgiften underkänd"
 }
