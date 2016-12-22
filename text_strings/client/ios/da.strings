@@ -15,3 +15,18 @@
 
 /* Watch saldo label */
 "saldo_with_number" = "Saldo: %d";
+
+/* Watch: loading*/
+"loading" = "Laddar...";
+
+/* Watch: loading from server */
+"loading_from_server" = "Laddar från nätverket...";
+
+/* Watch: log in to phone */
+"login_to_phone" = "Logga in på din telefon";
+
+/* Watch: done loading */
+"done" = "Har laddat färdigt";
+
+/* Watch: retry button */
+"retry" = "Försök igen";
