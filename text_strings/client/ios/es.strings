@@ -12,3 +12,6 @@
 
 /* Widget allowance row with weekly allowance */
 "weekly_allowance_days" = "Weekly allowance in %d days";
+
+/* Watch saldo label */
+"saldo_with_number" = "Saldo: %d";
