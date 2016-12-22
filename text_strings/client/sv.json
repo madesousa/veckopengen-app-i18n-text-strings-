@@ -1146,5 +1146,8 @@
   "add_goal_desc": "Beskrivning",
   "edit_savings_goal": "Redigera sparmål",
   "task_history_hand_out_tasks": "Ge ut uppgifter",
-  "timer_task_help_text": "När tiden gått ut blir uppgiften underkänd"
+  "timer_task_help_text": "När tiden gått ut blir uppgiften underkänd",
+  "task_group_cleaning": "Ordning & reda",
+  "task_group_popular": "Populära",
+  "task_group_strict": "Stränga uppgifter"
 }
