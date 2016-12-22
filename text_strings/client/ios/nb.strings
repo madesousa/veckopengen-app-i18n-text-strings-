@@ -14,7 +14,7 @@
 "weekly_allowance_days" = "Veckopeng om %d dagar";
 
 /* Watch saldo label */
-"saldo_with_number" = "Saldo: %d";
+"saldo_with_number" = "Saldo: %@";
 
 /* Watch: loading*/
 "loading" = "Laddar...";
