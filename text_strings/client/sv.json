@@ -1150,5 +1150,6 @@
   "task_stats_pig_text_3_child": "Wow! Denna vecka är du på uppgång!",
   "task_stats_pig_text_4_child": "Svinbra jobbat! Din statistik är fantastisk",
   "task_stats_pig_text_5_child": "100% klart denna vecka! Du är en stjärna!",
-  "timer_task_assignment_expired": "Inte utförd i tid"
+  "timer_task_assignment_expired": "Inte utförd i tid",
+  "invite_with_camera_recommended": "Rekommenderas"
 }
