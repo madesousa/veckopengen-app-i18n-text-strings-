@@ -10,11 +10,11 @@ describe('Config', () => {
 
   it('all configs should have same number of keys', () => {
     supportedCurrencies.forEach((x) =>
-			supportedCurrencies.forEach(y =>
-				Object.keys(getCurrencyConfig(x)).forEach(xKey =>
-					Object.keys(getCurrencyConfig(y)).forEach(yKey => expect(getCurrencyConfig(x)[yKey]).not.toEqual(undefined, `Have you configured ${yKey} on currecy ${x}?`))
-					)
-				)
-			)
+      supportedCurrencies.forEach(y =>
+        Object.keys(getCurrencyConfig(x)).forEach(xKey =>
+          Object.keys(getCurrencyConfig(y)).forEach(yKey => expect(getCurrencyConfig(x)[yKey]).not.toEqual(undefined, `Have you configured ${yKey} on currecy ${x}?`))
+        )
+      )
+    )
   })
 })

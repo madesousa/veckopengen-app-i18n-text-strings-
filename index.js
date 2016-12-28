@@ -31,7 +31,6 @@ export let getTextStrings = (lang: string) => {
     case 'nb' : return {..._default, ...no}
     case 'nn' : return {..._default, ...no}
     case 'sv' : return {..._default, ...sv}
-    case 'default' : return _default // used in tests
     default : return {..._default, ...en}
   }
 }

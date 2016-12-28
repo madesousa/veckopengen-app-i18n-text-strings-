@@ -1,31 +1,40 @@
 // @flow
+import IgnoredTextStrings from './IgnoredTextStrings.json'
+import {supportedLanguageCodes} from './index.js'
+import defaultTextStrings from './text_strings/client/default.json'
 
 var ignoredKeys = ['currency', 'currencyMinus', 'currencyPlus', 'aint_no_money_desc', 'no_money_pig_parent_text']
 
-export let compareKeys = (firstLang : Object, secondLang : Object, firstLangName : string = '', secondLangName : string = '') => {
-  var keys = Object.keys(firstLang)
-  keys.forEach(key => {
-    var errorMessage
-
-    if (secondLang[key] === undefined || secondLang[key] === '')			{
-      errorMessage = `Lang: '${secondLangName}', Missing key: '${key}'`
-    }
-
-    expect(errorMessage).toEqual(undefined)
-
-    if (secondLang[key].indexOf('$ ') !== -1)			{
-      errorMessage = `Lang: '${firstLangName}', Key: '${key}' has a $ and whitespace, do you mean $s, $d or $c ?`
-    }
-
-    expect(errorMessage).toEqual(undefined)
-  })
-}
-
-export let compareDollarSigns = (firstLang : Object, secondLang : Object, firstLangName : string = '', secondLangName : string = '') => {
+export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
   var keys = Object.keys(firstLang)
   var errorMessages = []
   keys.forEach(key => {
-    if (!ignoredKeys.includes(key) && firstLang[key].split('$').length !== secondLang[key].split('$').length)			{
+    if (secondLang[key] === undefined || secondLang[key] === '') {
+      errorMessages.push(`Lang: '${secondLangName}', Missing key: '${key}'`)
+    }
+
+    if (secondLang[key].indexOf('$ ') !== -1) {
+      errorMessages.push(`Lang: '${firstLangName}', Key: '${key}' has a $ and whitespace, do you mean $s, $d or $c ?`)
+    }
+
+    if (secondLang[key] === firstLang[key] &&
+      firstLangName !== 'sv' &&
+      secondLangName === 'sv' &&
+      !IgnoredTextStrings.includes(key) &&
+      !defaultTextStrings[key] &&
+      supportedLanguageCodes.includes(firstLangName)) {
+      errorMessages.push(`Lang: '${firstLangName}', Key: '${key}' is equal to: '${secondLangName}'`)
+    }
+  })
+
+  expect(errorMessages).toEqual([])
+}
+
+export let compareDollarSigns = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
+  var keys = Object.keys(firstLang)
+  var errorMessages = []
+  keys.forEach(key => {
+    if (!ignoredKeys.includes(key) && firstLang[key].split('$').length !== secondLang[key].split('$').length) {
       errorMessages.push(`Lang: '${secondLangName}', Key: '${key}' has not the same amount of $ signs as text string in ${firstLangName} lang, plz check`)
     }
   })
@@ -33,7 +42,7 @@ export let compareDollarSigns = (firstLang : Object, secondLang : Object, firstL
   expect(errorMessages).toEqual([])
 }
 
-let testCompareKeysWithinTextString = (textString1 : string, textString2 : string, textStringName : string) => {
+let testCompareKeysWithinTextString = (textString1: string, textString2: string, textStringName: string) => {
   // if(textString1 !== "Ny månad och {amount} {currency} av din förra månadspeng har autosparats!")
   //  return undefined
 
@@ -59,16 +68,16 @@ let testCompareKeysWithinTextString = (textString1 : string, textString2 : strin
   return errorMessage
 }
 
-export let compareKeysWithinTextStrings = (firstLang : Object, secondLang : Object, firstLangName : string = '', secondLangName : string = '') => {
+export let compareKeysWithinTextStrings = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
   var keys = Object.keys(firstLang)
   keys.forEach(key => {
     var errorMessage
 
-    var errorMessage = testCompareKeysWithinTextString(firstLang[key], secondLang[key], key)
+    errorMessage = testCompareKeysWithinTextString(firstLang[key], secondLang[key], key)
     // console.log(errorMessage)
     expect(errorMessage).toEqual(undefined)
 
-    if (secondLang[key].indexOf('$ ') !== -1)			{
+    if (secondLang[key].indexOf('$ ') !== -1) {
       errorMessage = `Lang: '${firstLangName}', Key: '${key}' has a $ and whitespace, do you mean $s, $d or $c ?`
     }
     expect(errorMessage).toEqual(undefined)

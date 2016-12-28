@@ -1,12 +1,12 @@
 import {languageCodes} from '../index'
-import {compareKeys, compareKeysWithinTextStrings} from '../TestUtil'
+import {compareKeys} from '../TestUtil'
 jest.disableAutomock()
 
 var textStringsTypes = ['notifications', 'templates']
 
 var textStrings = {}
-textStringsTypes.forEach(textStringsType => textStrings[textStringsType] = {})
-textStringsTypes.forEach(textStringsType => languageCodes.forEach(lang => textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)))
+textStringsTypes.forEach(textStringsType => { textStrings[textStringsType] = {} })
+textStringsTypes.forEach(textStringsType => languageCodes.forEach(lang => { textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`) }))
 
 textStringsTypes.forEach(textStringsType => {
   describe(`${textStringsType} TextStrings`, () => {

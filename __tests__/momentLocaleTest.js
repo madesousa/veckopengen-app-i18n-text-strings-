@@ -13,7 +13,7 @@ let getMomentLocale = (languageCode) => {
 }
 
 describe('MomentLocale', () => {
-	// The test below may look a bit stupid but it will fail when we add a new supported language code without importing a new momentum locale, plz keep, Anders 2016-09-18
+  // The test below may look a bit stupid but it will fail when we add a new supported language code without importing a new momentum locale, plz keep, Anders 2016-09-18
   it('it should return something else than en for every supported language code', () => {
     var enLocale = getMomentLocale('en')
     var supportedLanguageCodesTest = supportedLanguageCodes.filter((lang) => lang !== 'en')

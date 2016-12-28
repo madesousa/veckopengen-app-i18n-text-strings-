@@ -1,0 +1,23 @@
+{
+  "extends": ["standard-flow", "standard", "standard-react"],
+  "parser": "babel-eslint",
+
+  "ecmaFeatures": {
+    "jsx": true
+  },
+
+  "env": {
+    "es6": true,
+    "jasmine": true
+  },
+
+  "plugins": [
+    "react",
+    "react-native",
+    "flowtype"
+  ],
+
+  "globals": {
+    "ErrorUtils" : false
+  }
+}

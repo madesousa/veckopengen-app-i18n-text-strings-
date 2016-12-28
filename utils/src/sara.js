@@ -3,12 +3,12 @@ var fs = require('fs')
 let templateDir = './text_strings/client'
 let getPath = (file) => `${templateDir}/${file}`
 
-var default_path = getPath('default.json')
-var _default = fs.readFileSync(default_path, {encoding: 'utf8'})
+var defaultPath = getPath('default.json')
+var _default = fs.readFileSync(defaultPath, {encoding: 'utf8'})
 _default = JSON.parse(_default)
 
-var sv_path = getPath('sv.json')
-var sv = fs.readFileSync(sv_path, {encoding: 'utf8'})
+var svPath = getPath('sv.json')
+var sv = fs.readFileSync(svPath, {encoding: 'utf8'})
 sv = JSON.parse(sv)
 
 let syncTextStrings = (file) => {
@@ -58,5 +58,5 @@ fs.readdirSync(templateDir).forEach((languageCode) => syncTextStrings(languageCo
 
 // fix swedish TextStrings formatting
 sv = JSON.stringify(sv, undefined, 2)
-fs.unlinkSync(sv_path)
-fs.writeFileSync(sv_path, sv, {encoding: 'utf8'})
+fs.unlinkSync(svPath)
+fs.writeFileSync(svPath, sv, {encoding: 'utf8'})
