@@ -1152,4 +1152,7 @@
   "task_stats_pig_text_5_child": "100% klart denna vecka! Du är en stjärna!",
   "timer_task_assignment_expired": "Inte utförd i tid",
   "invite_with_camera_recommended": "Rekommenderas"
+  "invite_with_camera_recommended": "Rekommenderas",
+  "sibling_faster_failed_child": "Ett syskon va snabbare än dig. Bättre lycka nästa gång",
+  "sibling_faster_failed_parent": "Ett syskon va snabbare. Bättre lycka nästa gång"
 }
