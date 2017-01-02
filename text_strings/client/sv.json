@@ -1024,7 +1024,6 @@
   "recurring_task_temp_text": "Återkommande uppgift",
   "edit_wish_navbar": "Önskning %1$d",
   "mark_not_purchased": "Avmarkera köpt",
-  "wishlist_created_by": "Skapad i Veckopengen 🎅",
   "create_wishlist": "Skapa önskelista",
   "wishlist_news_popover_headline": "Skapa din önskelista!",
   "wishlist_news_popover_desc": "Nu kan du skapa din egna önskelista till julafton och dela den med dina föräldrar. Så att de vet vad du vill ha!",
@@ -1153,5 +1152,8 @@
   "timer_task_assignment_expired": "Inte utförd i tid",
   "invite_with_camera_recommended": "Rekommenderas",
   "sibling_faster_failed_child": "Ett syskon va snabbare än dig. Bättre lycka nästa gång",
-  "sibling_faster_failed_parent": "Ett syskon va snabbare. Bättre lycka nästa gång"
+  "sibling_faster_failed_parent": "Ett syskon va snabbare. Bättre lycka nästa gång",
+  "birthday_wish_list_child": "%1$d önskelista",
+  "birthday_wish_list_parent": "Min önskelista",
+  "wishlist_created_by": "Skapad i Veckopengen 🎉"
 }

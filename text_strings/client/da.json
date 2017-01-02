@@ -1013,7 +1013,6 @@
   "recurring_task_temp_text": "Tilbagevendende opgave",
   "edit_wish_navbar": "Ønske %1$d",
   "mark_not_purchased": "Fravælg købt",
-  "wishlist_created_by": "Oprettet i Gimi 🎅",
   "create_wishlist": "Opret ønskeseddel",
   "wishlist_news_popover_headline": "Opret din ønskeseddel!",
   "wishlist_news_popover_desc": "Nu kan du oprette din egen ønskeseddel til juleaften og dele den med dine forældre. Så ved de, hvad du gerne vil have!",
@@ -1142,5 +1141,8 @@
   "timer_task_assignment_expired": "Inte utförd i tid",
   "invite_with_camera_recommended": "Rekommenderas",
   "sibling_faster_failed_child": "Ett syskon va snabbare än dig. Bättre lycka nästa gång",
-  "sibling_faster_failed_parent": "Ett syskon va snabbare. Bättre lycka nästa gång"
+  "sibling_faster_failed_parent": "Ett syskon va snabbare. Bättre lycka nästa gång",
+  "birthday_wish_list_child": "%1$d önskelista",
+  "birthday_wish_list_parent": "Min önskelista",
+  "wishlist_created_by": "Oprettet i Gimi 🎅"
 }

@@ -1013,7 +1013,6 @@
   "recurring_task_temp_text": "Recurring task",
   "edit_wish_navbar": "Wish %1$d",
   "mark_not_purchased": "Unmark as bought",
-  "wishlist_created_by": "Created in Gimi 🎅",
   "create_wishlist": "Create wishlist",
   "wishlist_news_popover_headline": "Create your wishlist!",
   "wishlist_news_popover_desc": "Now you can create your own wishlist for Christmas Eve and share it with your parents. So they know what you want!",
@@ -1142,5 +1141,8 @@
   "timer_task_assignment_expired": "Inte utförd i tid",
   "invite_with_camera_recommended": "Rekommenderas",
   "sibling_faster_failed_child": "Ett syskon va snabbare än dig. Bättre lycka nästa gång",
-  "sibling_faster_failed_parent": "Ett syskon va snabbare. Bättre lycka nästa gång"
+  "sibling_faster_failed_parent": "Ett syskon va snabbare. Bättre lycka nästa gång",
+  "birthday_wish_list_child": "%1$d önskelista",
+  "birthday_wish_list_parent": "Min önskelista",
+  "wishlist_created_by": "Created in Gimi 🎅"
 }

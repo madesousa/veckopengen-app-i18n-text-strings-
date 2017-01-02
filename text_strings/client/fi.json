@@ -1013,7 +1013,6 @@
   "recurring_task_temp_text": "Toistuva tehtävä",
   "edit_wish_navbar": "Toivomus %1$d",
   "mark_not_purchased": "Poista ostomerkintä",
-  "wishlist_created_by": "Luotu Viikkoraha-sovelluksessa 🎅",
   "create_wishlist": "Luo toivomuslista",
   "wishlist_news_popover_headline": "Luo oma toivomuslista!",
   "wishlist_news_popover_desc": "Nyt voit luoda oman joululahjatoivomuslistan ja jakaa sen vanhammillesi. Sitten he saavat tietää toiveesi!",
@@ -1142,5 +1141,8 @@
   "timer_task_assignment_expired": "Inte utförd i tid",
   "invite_with_camera_recommended": "Rekommenderas",
   "sibling_faster_failed_child": "Ett syskon va snabbare än dig. Bättre lycka nästa gång",
-  "sibling_faster_failed_parent": "Ett syskon va snabbare. Bättre lycka nästa gång"
+  "sibling_faster_failed_parent": "Ett syskon va snabbare. Bättre lycka nästa gång",
+  "birthday_wish_list_child": "%1$d önskelista",
+  "birthday_wish_list_parent": "Min önskelista",
+  "wishlist_created_by": "Luotu Viikkoraha-sovelluksessa 🎅"
 }
