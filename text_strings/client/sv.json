@@ -1157,6 +1157,6 @@
   "birthday_today": "🎉 Födelsedag idag! 🎉",
   "days_left_to_birthday": "🎉 %1$d dagar till födelsedag 🎉",
   "day_left_to_birthday": "🎉 Födelsedag imorgon 🎉",
-  "birthday_wish_list_parent": "%1$d önskelista",
-  "birthday_wish_list_child": "Min önskelista"
+  "birthday_wish_list_child": "Min önskelista",
+  "birthday_wish_list_parent": "%1$d önskelista"
 }
