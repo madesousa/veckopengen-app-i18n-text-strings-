@@ -110,5 +110,9 @@
   "template_title_immigrants": "Samla ihop saker till flyktingar",
   "template_description_immigrants": "Samla saker som vi kan ge bort",
   "template_title_help_pet": "Rasta husdjuret",
-  "template_description_help_pet": "Ta en promenad på minst 10 min"
+  "template_description_help_pet": "Ta en promenad på minst 10 min",
+  "template_title_garden_rake": "Harken in de tuin",
+  "template_description_help_pet": "Harken bladeren in de tuin",
+  "template_title_get_mail": "Klik hier voor de mail",
+  "template_description_template_get_mail": "Gaan en de e-mail en zet het op de tafel"
 }

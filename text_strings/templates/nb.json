@@ -110,5 +110,9 @@
   "template_title_immigrants": "Samle sammen saker til flyktninger",
   "template_description_immigrants": "Samle saker som vi kan gi bort",
   "template_title_help_pet": "Gå tur med husdyret",
-  "template_description_help_pet": "Ta en gåtur på minst 10 min"
+  "template_description_help_pet": "Ta en gåtur på minst 10 min",
+  "template_title_garden_rake": "Raking i hagen",
+  "template_description_help_pet": "Raker løv i hagen",
+  "template_title_get_mail": "Få mail",
+  "template_description_template_get_mail": "Last ned elementet og sette den på bordet"
 }
