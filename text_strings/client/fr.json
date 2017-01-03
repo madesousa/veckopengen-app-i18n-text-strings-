@@ -1087,7 +1087,6 @@
   "project_earth_headline": "Vad är den genomsnittliga veckopengen i ditt närområde?",
   "project_earth_area": "Område",
   "project_earth_search": "Sök!",
-  "project_earth_invite_facebook": "Bjud in med Facbook",
   "project_earth_desc_1": "Vecko- och månadspeng kan skilja sig mycket beroende på vilket område man bor i. Vi har använt oss av agrigerad data från appen för att reda på den vanligaste veckopengen i ditt område!",
   "project_earth_desc_2": "Allt du behöver göra är att bjuda in tre kompisar för att ta del av datan!",
   "project_earth_allowance_text": "Dessa siffror är ett genomsnitt på den lokala veckopengen, detta kan innebära att summorna får ett extremvärde om det är få användare i den valda regionen.",
@@ -1147,5 +1146,6 @@
   "days_left_to_birthday": "🎉%1$d jours à l'anniversaire 🎉",
   "day_left_to_birthday": "🎉 1 jour à l'anniversaire 🎉",
   "birthday_wish_list_child": "ma liste",
-  "birthday_wish_list_parent": "%1$d Wishlist"
+  "birthday_wish_list_parent": "%1$d Wishlist",
+  "project_earth_invite_facebook": "Inviter avec Facebook"
 }
