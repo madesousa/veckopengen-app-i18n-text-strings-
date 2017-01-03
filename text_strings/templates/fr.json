@@ -112,7 +112,7 @@
   "template_title_help_pet": "Rasta husdjuret",
   "template_description_help_pet": "Ta en promenad på minst 10 min",
   "template_title_garden_rake": "Ratisser dans le jardin",
-  "template_description_help_pet": "Ratisser des feuilles dans le jardin",
+  "template_description_garden_rake": "Ratisser des feuilles dans le jardin",
   "template_title_get_mail": "Être envoyé",
   "template_description_get_mail": "Télécharger l'article et le mettre sur la table",
   "template_title_collect_wash": "Samla smutstvätt",

@@ -112,7 +112,7 @@
   "template_title_help_pet": "Lemmikkieläinten ulkoiluttaminen",
   "template_description_help_pet": "Ulkoiluttaminen vähintään 10 minuutin ajan",
   "template_title_garden_rake": "Haravointi puutarhassa",
-  "template_description_help_pet": "Haravointi lehdet puutarhassa",
+  "template_description_garden_rake": "Haravointi lehdet puutarhassa",
   "template_title_get_mail": "Lähetetä",
   "template_description_get_mail": "Lataa kohde ja laita se pöydälle",
   "template_title_collect_wash": "Samla smutstvätt",

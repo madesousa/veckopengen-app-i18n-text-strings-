@@ -112,7 +112,7 @@
   "template_title_help_pet": "Help with the house pet",
   "template_description_help_pet": "Take a walk of at least ten minutes",
   "template_title_garden_rake": "Raking in the garden",
-  "template_description_help_pet": "Raking leaves in the garden",
+  "template_description_garden_rake": "Raking leaves in the garden",
   "template_title_get_mail": "Get the mail",
   "template_description_get_mail": "Get the mail, and put it on the table",
   "template_title_collect_wash": "Samla smutstvätt",
