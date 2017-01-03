@@ -114,5 +114,19 @@
   "template_title_garden_rake": "Raka í garðinum",
   "template_description_help_pet": "Rakstur laufum í garðinum",
   "template_title_get_mail": "Fá póst",
-  "template_description_template_get_mail": "Sækja hlutinn og setja það á borðið"
+  "template_description_get_mail": "Sækja hlutinn og setja það á borðið",
+  "template_title_collect_wash": "Samla smutstvätt",
+  "template_description_collect_wash": "Samla smutstvätt och lägg det i tvättkorgen",
+  "template_title_brush_teeth": "Borsta tänderna",
+  "template_description_brush_teeth": "Borsta tänderna",
+  "template_title_empty_litter": "Töm bajslådan",
+  "template_description_empty_litter": "Töm bajslådan och städa upp",
+  "template_title_tuck_siblings": "Natta småsyskon",
+  "template_description_tuck_siblings": "Bädda ner småsyskon i sängen",
+  "template_title_shovel_snow": "Skotta snö",
+  "template_description_shovel_snow": "Skotta uppfarten och runt bilen",
+  "template_title_get_new_paper": "Natta småsyskon",
+  "template_description_get_new_paper": "Bädda ner småsyskon i sängen",
+  "template_title_snowman": "Bygg en snögubbe",
+  "template_description_snowman": "Bygg en snögubbe utanför huset"
 }
