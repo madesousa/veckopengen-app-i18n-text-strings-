@@ -1147,5 +1147,8 @@
   "day_left_to_birthday": "🎉 1 jour à l'anniversaire 🎉",
   "birthday_wish_list_child": "ma liste",
   "birthday_wish_list_parent": "%1$d Wishlist",
-  "project_earth_invite_facebook": "Inviter avec Facebook"
+  "project_earth_invite_facebook": "Inviter avec Facebook",
+  "birthday_popover_header": "Créez votre liste de cadeaux!",
+  "birthday_popover_desc": "Maintenant, vous pouvez créer une liste de souhaits pour votre anniversaire et le partager avec vos parents et amis. Bonne chance!",
+  "birthday_popover_create": "Créer une liste de souhaits"
 }

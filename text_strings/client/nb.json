@@ -1147,5 +1147,8 @@
   "day_left_to_birthday": "🎉 en dag til bursdag 🎉",
   "birthday_wish_list_child": "Min ønskeliste",
   "birthday_wish_list_parent": "%1$d ønskeliste",
-  "project_earth_invite_facebook": "Inviter med Facebook"
+  "project_earth_invite_facebook": "Inviter med Facebook",
+  "birthday_popover_header": "Lag din ønskeliste!",
+  "birthday_popover_desc": "Nå kan du lage en ønskeliste for bursdagen din og dele det med dine foreldre og venner. Lykke til!",
+  "birthday_popover_create": "Lag din ønskeliste"
 }

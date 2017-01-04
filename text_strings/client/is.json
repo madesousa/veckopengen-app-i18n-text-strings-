@@ -1147,5 +1147,8 @@
   "day_left_to_birthday": "🎉 1 dagur í afmæli 🎉",
   "birthday_wish_list_child": "Óskalistinn minn",
   "birthday_wish_list_parent": "%1$d Óskalisti",
-  "project_earth_invite_facebook": "Bjóða með Facebook"
+  "project_earth_invite_facebook": "Bjóða með Facebook",
+  "birthday_popover_header": "Búa óskalista!",
+  "birthday_popover_desc": "Nú getur þú búið til óska ​​lista fyrir afmælið þitt og deila því með foreldra þína og vini. Gangi þér vel!",
+  "birthday_popover_create": "Búa óskalista"
 }

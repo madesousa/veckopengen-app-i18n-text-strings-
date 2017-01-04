@@ -1147,5 +1147,8 @@
   "day_left_to_birthday": "🎉 1 päivän-syntymäpäivä 🎉",
   "birthday_wish_list_child": "toivelistalle",
   "birthday_wish_list_parent": "%1$d toivelistaan",
-  "project_earth_invite_facebook": "Kutsu Facebook"
+  "project_earth_invite_facebook": "Kutsu Facebook",
+  "birthday_popover_header": "Luo toivelista!",
+  "birthday_popover_desc": "Nyt voit luoda toivelistalla syntymäpäivä ja jaa se vanhemmat ja ystävät. Onnea!",
+  "birthday_popover_create": "Luo toivelista"
 }

@@ -1158,5 +1158,8 @@
   "day_left_to_birthday": "🎉 Födelsedag imorgon 🎉",
   "birthday_wish_list_child": "Min önskelista",
   "birthday_wish_list_parent": "%1$d önskelista",
-  "project_earth_invite_facebook": "Bjud in med Facebook"
+  "project_earth_invite_facebook": "Bjud in med Facebook",
+  "birthday_popover_header": "Skapa din önskelista!",
+  "birthday_popover_desc": "Nu kan du skapa en önskelista till din födelsedag och dela den med dina föräldrar och vänner. Lycka till!",
+  "birthday_popover_create": "Skapa önskelista"
 }

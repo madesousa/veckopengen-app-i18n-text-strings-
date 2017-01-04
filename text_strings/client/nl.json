@@ -1147,5 +1147,8 @@
   "day_left_to_birthday": "🎉 1 dag om de verjaardag 🎉",
   "birthday_wish_list_child": "mijn verlanglijst",
   "birthday_wish_list_parent": "%1$d verlanglijst",
-  "project_earth_invite_facebook": "Uitnodigen met Facebook"
+  "project_earth_invite_facebook": "Uitnodigen met Facebook",
+  "birthday_popover_header": "Maak uw verlanglijstje!",
+  "birthday_popover_desc": "Nu kunt u een verlanglijstje voor je verjaardag te creëren en te delen met je ouders en vrienden. Good luck!",
+  "birthday_popover_create": "Maak Wish List"
 }
