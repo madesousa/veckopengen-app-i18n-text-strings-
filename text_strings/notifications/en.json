@@ -111,5 +111,6 @@
   "push_weekly_assignment": "A new task is available for today!",
   "push_new_timed_assignment": "Take a look, you have received a timed task!",
   "push_new_shared_assignment": "Check it out, you're in competition to complete a task!",
-  "push_new_repeating_assignment": "Take a look, you have received a repeatable task!"
+  "push_new_repeating_assignment": "Take a look, you have received a repeatable task!",
+  "push_check_wish_list": "En månad kvar till din födelsedag. Kolla önskelistan!"
 }
