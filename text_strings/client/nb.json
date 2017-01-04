@@ -1150,5 +1150,11 @@
   "project_earth_invite_facebook": "Inviter med Facebook",
   "birthday_popover_header": "Lag din ønskeliste!",
   "birthday_popover_desc": "Nå kan du lage en ønskeliste for bursdagen din og dele det med dine foreldre og venner. Lykke til!",
-  "birthday_popover_create": "Lag din ønskeliste"
+  "birthday_popover_create": "Lag din ønskeliste",
+  "create_task_big_text": "Komponer dine egne data",
+  "create_task_small_text": "Skapa egen",
+  "history_task_big_text": "Gi ut favorittene igjen!",
+  "history_task_small_text": "tidligere data",
+  "data_task_big_text": "Sett en grense for sufandet",
+  "data_task_small_text": "Surfpotten"
 }

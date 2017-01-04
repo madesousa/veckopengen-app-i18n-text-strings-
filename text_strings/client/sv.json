@@ -1161,5 +1161,11 @@
   "project_earth_invite_facebook": "Bjud in med Facebook",
   "birthday_popover_header": "Skapa din önskelista!",
   "birthday_popover_desc": "Nu kan du skapa en önskelista till din födelsedag och dela den med dina föräldrar och vänner. Lycka till!",
-  "birthday_popover_create": "Skapa önskelista"
+  "birthday_popover_create": "Skapa önskelista",
+  "create_task_big_text": "Komponera din egna uppgift",
+  "create_task_small_text": "Skapa egen",
+  "history_task_big_text": "Ge ut favoriterna igen!",
+  "history_task_small_text": "Tidigare uppgifter",
+  "data_task_big_text": "Sätt en gräns för sufandet",
+  "data_task_small_text": "Surfpotten"
 }

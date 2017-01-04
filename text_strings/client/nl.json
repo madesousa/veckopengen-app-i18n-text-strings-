@@ -1150,5 +1150,11 @@
   "project_earth_invite_facebook": "Uitnodigen met Facebook",
   "birthday_popover_header": "Maak uw verlanglijstje!",
   "birthday_popover_desc": "Nu kunt u een verlanglijstje voor je verjaardag te creëren en te delen met je ouders en vrienden. Good luck!",
-  "birthday_popover_create": "Maak Wish List"
+  "birthday_popover_create": "Maak Wish List",
+  "create_task_big_text": "Stel uw eigen gegevens",
+  "create_task_small_text": "Maak je eigen",
+  "history_task_big_text": "Geef de favorieten weer!",
+  "history_task_small_text": "eerdere gegevens",
+  "data_task_big_text": "Een limiet voor sufandet",
+  "data_task_small_text": "Surfpotten"
 }

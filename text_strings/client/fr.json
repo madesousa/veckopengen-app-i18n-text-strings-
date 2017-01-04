@@ -1150,5 +1150,11 @@
   "project_earth_invite_facebook": "Inviter avec Facebook",
   "birthday_popover_header": "Créez votre liste de cadeaux!",
   "birthday_popover_desc": "Maintenant, vous pouvez créer une liste de souhaits pour votre anniversaire et le partager avec vos parents et amis. Bonne chance!",
-  "birthday_popover_create": "Créer une liste de souhaits"
+  "birthday_popover_create": "Créer une liste de souhaits",
+  "create_task_big_text": "Composez vos propres données",
+  "create_task_small_text": "Créez votre propre",
+  "history_task_big_text": "Distribuez les favoris à nouveau!",
+  "history_task_small_text": "les données précédentes",
+  "data_task_big_text": "Fixer une limite pour sufandet",
+  "data_task_small_text": "Surfpotten"
 }
