@@ -112,7 +112,7 @@
   "push_new_timed_assignment": "Kurkistaa sisään, sinulla ajoitettu tehtävä!",
   "push_new_shared_assignment": "Kurkistaa app, olet kilpailevat Tehtävän suorittamiseen!",
   "push_new_repeating_assignment": "Tutustu! Sinulla on uusi tehtävä, joka saat aina rahat suorittaa!",
-  "push_check_wish_list": "En månad kvar till din födelsedag. Kolla önskelistan!",
-  "push_assignment_approved_parent": "{parent} godkände uppgiften {task}.",
-  "dashboard_assignment_approved": "Uppgiften {task} blev godkänd."
+  "push_check_wish_list": "Kuukausi vasemmalle syntymäpäivä. Tarkista toivelistalla!",
+  "push_assignment_approved_parent": "{parent} Hyväksytty tehtävän {task}",
+  "dashboard_assignment_approved": "Tehtävä {task} hyväksyttiin."
 }

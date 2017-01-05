@@ -112,7 +112,7 @@
   "push_new_timed_assignment": "Kigger på, har du fået en tidsindstillet opgave!",
   "push_new_shared_assignment": "Kig ind i app, du konkurrerer i at fuldføre en opgave!",
   "push_new_repeating_assignment": "Tjek! Du har en ny opgave, som du altid få pengene til at udføre!",
-  "push_check_wish_list": "En månad kvar till din födelsedag. Kolla önskelistan!",
-  "push_assignment_approved_parent": "{parent} godkände uppgiften {task}.",
-  "dashboard_assignment_approved": "Uppgiften {task} blev godkänd."
+  "push_check_wish_list": "En måned tilbage til din fødselsdag. Tjek ønskelisten!",
+  "push_assignment_approved_parent": "{} Approved parenteral opgave {}.",
+  "dashboard_assignment_approved": "Opgaven {task} blev godkendt."
 }

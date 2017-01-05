@@ -112,7 +112,7 @@
   "push_new_timed_assignment": "Take a look, you have received a timed task!",
   "push_new_shared_assignment": "Check it out, you're in competition to complete a task!",
   "push_new_repeating_assignment": "Take a look, you have received a repeatable task!",
-  "push_check_wish_list": "En månad kvar till din födelsedag. Kolla önskelistan!",
-  "push_assignment_approved_parent": "{parent} godkände uppgiften {task}.",
-  "dashboard_assignment_approved": "Uppgiften {task} blev godkänd."
+  "push_check_wish_list": "One month left to your birthday. Check the wish list!",
+  "push_assignment_approved_parent": "{parent} Approved task {task}.",
+  "dashboard_assignment_approved": "The task {task} was approved."
 }
