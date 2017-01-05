@@ -1,7 +1,6 @@
 {
-    "currency": "%1$c",
-    "currencyMinus": "-%1$c",
-    "currencyPlus": "+%1$c",
+    "currencyMinus": "-%1$d",
+    "currencyPlus": "+%1$d",
     "proportion": "%1$d/%2$d",
     "percent_suffix": "%",
     "feedback_happy":"Happy 😀",

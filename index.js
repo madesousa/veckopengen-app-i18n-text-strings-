@@ -70,7 +70,7 @@ export let getLangugageCodes = () => LanguageCodes.filter(languageCode => suppor
 
 export let getConfig
 
-export let getDefaultCurrency = (userCountryCode: string) => {
+export let getDefaultCurrency = (userCountryCode: string): Currency => {
   var currency = getCurrency(DefaultCurrencies[userCountryCode])
 
   if (currency) {

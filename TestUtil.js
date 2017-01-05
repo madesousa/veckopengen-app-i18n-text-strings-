@@ -30,12 +30,12 @@ export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: 
   expect(errorMessages).toEqual([])
 }
 
-export let compareDollarSigns = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
+export let compareDollarSigns = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '', template: string = '$') => {
   var keys = Object.keys(firstLang)
   var errorMessages = []
   keys.forEach(key => {
-    if (!ignoredKeys.includes(key) && firstLang[key].split('$').length !== secondLang[key].split('$').length) {
-      errorMessages.push(`Lang: '${secondLangName}', Key: '${key}' has not the same amount of $ signs as text string in ${firstLangName} lang, plz check`)
+    if (!ignoredKeys.includes(key) && firstLang[key].split(template).length !== secondLang[key].split(template).length) {
+      errorMessages.push(`Lang: '${secondLangName}', Key: '${key}' has not the same amount of ${template} signs as text string in ${firstLangName} lang, plz check`)
     }
   })
 
