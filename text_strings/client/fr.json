@@ -1156,5 +1156,7 @@
   "history_task_big_text": "Distribuez les favoris à nouveau!",
   "history_task_small_text": "les données précédentes",
   "data_task_big_text": "Fixer une limite pour sufandet",
-  "data_task_small_text": "Surfpotten"
+  "data_task_small_text": "Surfpotten",
+  "add_task_start": "Commencez!",
+  "add_task_inspiration": "Vinter inspiration"
 }

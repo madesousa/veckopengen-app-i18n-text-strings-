@@ -1167,5 +1167,7 @@
   "history_task_big_text": "Ge ut favoriterna igen!",
   "history_task_small_text": "Tidigare uppgifter",
   "data_task_big_text": "Sätt en gräns för sufandet",
-  "data_task_small_text": "Surfpotten"
+  "data_task_small_text": "Surfpotten",
+  "add_task_start": "Kom igång!",
+  "add_task_inspiration": "Vinterinspiration"
 }
