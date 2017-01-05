@@ -112,5 +112,7 @@
   "push_new_timed_assignment": "Gluren in, je hebt een getimede taak gekregen!",
   "push_new_shared_assignment": "Neem een ​​kijkje in de app, je concurreren in het voltooien van een taak!",
   "push_new_repeating_assignment": "Check out! U heeft een nieuwe taak die u altijd het geld om uit te voeren!",
-  "push_check_wish_list": "En månad kvar till din födelsedag. Kolla önskelistan!"
+  "push_check_wish_list": "En månad kvar till din födelsedag. Kolla önskelistan!",
+  "push_assignment_approved_parent": "{parent} godkände uppgiften {task}.",
+  "dashboard_assignment_approved": "Uppgiften {task} blev godkänd."
 }
