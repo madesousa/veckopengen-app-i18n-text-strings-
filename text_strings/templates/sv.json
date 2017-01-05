@@ -124,10 +124,15 @@
   "template_title_tuck_siblings": "Natta småsyskon",
   "template_description_tuck_siblings": "Bädda ner småsyskon i sängen",
   "template_title_shovel_snow": "Skotta snö",
-  "template_description_shovel_snow": "Skotta uppfarten och runt bilen",
-  "template_title_get_new_paper": "Natta småsyskon",
-  "template_description_get_new_paper": "Bädda ner småsyskon i sängen",
+  "template_description_shovel_snow": "Skotta så att man kommer fram till entrén",
+  "template_title_news_paper": "Hämta morgontidningen",
+  "template_description_news_paper": "Lägg på middagsbordet",
+  "template_title_clean_play": "Städa efter lek",
+  "template_description_clean_play": "Ställ tillbaka leksakerna och gör fint",
+  "template_title_news_clean_tv": "Städa Tv-rummet",
+  "template_description_clean_tv": "Gör iordning kontroller och gör fint",
+  "template_title_get_night_siblings": "Natta småsyskon",
+  "template_description_get_night_siblings": "Bädda ner småsyskon i sängen",
   "template_title_snowman": "Bygg en snögubbe",
-  "template_description_snowman": "Bygg en snögubbe utanför huset"
-
+  "template_description_snowman": "Glöm inte morot som näsan!"
 }
