@@ -234,16 +234,6 @@
        "task_group_cleaning",
        "task_group_popular",
        "task_group_strict",
-       "task_stats_pig_text_1_parent",
-       "task_stats_pig_text_2_parent",
-       "task_stats_pig_text_3_parent",
-       "task_stats_pig_text_4_parent",
-       "task_stats_pig_text_5_parent",
-       "task_stats_pig_text_1_child",
-       "task_stats_pig_text_2_child",
-       "task_stats_pig_text_3_child",
-       "task_stats_pig_text_4_child",
-       "task_stats_pig_text_5_child",
        "timer_task_assignment_expired",
        "invite_with_camera_recommended",
        "sibling_faster_failed_child",
@@ -320,5 +310,7 @@
    "push_account_select_failed",
    "push_data_tracking_assignment_failed_child",
    "push_data_tracking_assignment_reminder",
-   "dashboard_assignment_completed"
+   "dashboard_assignment_completed",
+   "task_type_timer",
+   "task_type_standing"
      ]
