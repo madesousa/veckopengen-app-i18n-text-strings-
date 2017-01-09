@@ -1158,5 +1158,10 @@
   "data_task_big_text": "Angiv en grænse for sufandet",
   "data_task_small_text": "Surfbeløb",
   "add_task_start": "Kom godt i gang!",
-  "add_task_inspiration": "Vinter inspiration"
+  "add_task_inspiration": "Vinter inspiration",
+  "task_editor_add_participant": "Tilføj deltagere",
+  "task_type_periodic": "GENTAGNE",
+  "task_type_timer": "Timer",
+  "task_type_standing": "Stående",
+  "task_type_non_recurring": "Engangs Opgave"
 }

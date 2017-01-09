@@ -1158,5 +1158,10 @@
   "data_task_big_text": "Asettaa rajan sufandet",
   "data_task_small_text": "Kokonaismäärästä",
   "add_task_start": "Aloita!",
-  "add_task_inspiration": "talvi inspiraatio"
+  "add_task_inspiration": "talvi inspiraatio",
+  "task_editor_add_participant": "Lisää osallistujia",
+  "task_type_periodic": "MÄÄRÄAIKAISKOULUTUS",
+  "task_type_timer": "tuntia",
+  "task_type_standing": "muotokuva",
+  "task_type_non_recurring": "Kertakäyttöiset Task"
 }

@@ -1169,5 +1169,10 @@
   "data_task_big_text": "Sätt en gräns för sufandet",
   "data_task_small_text": "Surfpotten",
   "add_task_start": "Kom igång!",
-  "add_task_inspiration": "Vinterinspiration"
+  "add_task_inspiration": "Vinterinspiration",
+  "task_editor_add_participant": "Lägg till deltagare",
+  "task_type_periodic": "Återkommande",
+  "task_type_timer": "Timer",
+  "task_type_standing": "Stående",
+  "task_type_non_recurring": "Engångsuppgift"
 }

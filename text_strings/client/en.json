@@ -1158,5 +1158,10 @@
   "data_task_big_text": "Set a limit for sufandet",
   "data_task_small_text": "Data tracking",
   "add_task_start": "Get started!",
-  "add_task_inspiration": "winter inspiration"
+  "add_task_inspiration": "winter inspiration",
+  "task_editor_add_participant": "Add participants",
+  "task_type_periodic": "Recurrent",
+  "task_type_timer": "Timer",
+  "task_type_standing": "Standing",
+  "task_type_non_recurring": "Disposable Task"
 }

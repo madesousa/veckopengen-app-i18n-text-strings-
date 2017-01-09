@@ -1158,5 +1158,10 @@
   "data_task_big_text": "Setja takmörk fyrir sufandet",
   "data_task_small_text": "Surfpotten",
   "add_task_start": "Byrja!",
-  "add_task_inspiration": "vetur innblástur"
+  "add_task_inspiration": "vetur innblástur",
+  "task_editor_add_participant": "Bæta þátttakendum",
+  "task_type_periodic": "Reglubundin",
+  "task_type_timer": "klukkustundir",
+  "task_type_standing": "Portrait",
+  "task_type_non_recurring": "einnota Task"
 }
