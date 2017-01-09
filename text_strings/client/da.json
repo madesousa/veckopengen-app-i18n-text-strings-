@@ -1164,5 +1164,6 @@
   "task_type_timer": "Timer",
   "task_type_standing": "Stående",
   "task_type_non_recurring": "Engangs Opgave",
-  "task_participants_error": "Deltagerne kan ikke redigeres i bakspejlet"
+  "task_participants_error": "Deltagerne kan ikke redigeres i bakspejlet",
+  "add_participants_nav_text": "Tilføj børn"
 }

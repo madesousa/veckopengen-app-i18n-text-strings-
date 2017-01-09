@@ -1175,5 +1175,6 @@
   "task_type_timer": "Timer",
   "task_type_standing": "Stående",
   "task_type_non_recurring": "Engångsuppgift",
-  "task_participants_error": "Antal deltagare kan inte redigeras i efterhand"
+  "task_participants_error": "Antal deltagare kan inte redigeras i efterhand",
+  "add_participants_nav_text": "Lägg till barn"
 }

@@ -1164,5 +1164,6 @@
   "task_type_timer": "tuntia",
   "task_type_standing": "muotokuva",
   "task_type_non_recurring": "Kertakäyttöiset Task",
-  "task_participants_error": "Osallistujat ei voi muokata jälkikäteen"
+  "task_participants_error": "Osallistujat ei voi muokata jälkikäteen",
+  "add_participants_nav_text": "Lisää lapsia"
 }

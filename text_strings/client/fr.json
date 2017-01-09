@@ -1164,5 +1164,6 @@
   "task_type_timer": "heures",
   "task_type_standing": "portrait",
   "task_type_non_recurring": "Tâche jetable",
-  "task_participants_error": "Les participants ne peuvent pas être modifiés rétrospectivement"
+  "task_participants_error": "Les participants ne peuvent pas être modifiés rétrospectivement",
+  "add_participants_nav_text": "Ajouter les enfants"
 }
