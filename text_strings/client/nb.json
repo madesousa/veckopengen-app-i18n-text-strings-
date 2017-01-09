@@ -1163,5 +1163,6 @@
   "task_type_periodic": "PERIODISKE",
   "task_type_timer": "Timer",
   "task_type_standing": "Stående",
-  "task_type_non_recurring": "engangs Task"
+  "task_type_non_recurring": "engangs Task",
+  "task_participants_error": "Deltakerne kan ikke redigeres i ettertid"
 }

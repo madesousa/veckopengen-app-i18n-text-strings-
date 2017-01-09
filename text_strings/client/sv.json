@@ -1174,5 +1174,6 @@
   "task_type_periodic": "Återkommande",
   "task_type_timer": "Timer",
   "task_type_standing": "Stående",
-  "task_type_non_recurring": "Engångsuppgift"
+  "task_type_non_recurring": "Engångsuppgift",
+  "task_participants_error": "Antal deltagare kan inte redigeras i efterhand"
 }

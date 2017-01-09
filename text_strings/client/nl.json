@@ -1163,5 +1163,6 @@
   "task_type_periodic": "PERIODIEKE",
   "task_type_timer": "uur",
   "task_type_standing": "portret",
-  "task_type_non_recurring": "wegwerp Task"
+  "task_type_non_recurring": "wegwerp Task",
+  "task_participants_error": "Deelnemers kunnen niet worden bewerkt achteraf"
 }

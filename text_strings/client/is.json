@@ -1163,5 +1163,6 @@
   "task_type_periodic": "Reglubundin",
   "task_type_timer": "klukkustundir",
   "task_type_standing": "Portrait",
-  "task_type_non_recurring": "einnota Task"
+  "task_type_non_recurring": "einnota Task",
+  "task_participants_error": "Þátttakendur geta ekki breytt eftir á að hyggja"
 }

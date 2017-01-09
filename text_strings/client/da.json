@@ -1163,5 +1163,6 @@
   "task_type_periodic": "GENTAGNE",
   "task_type_timer": "Timer",
   "task_type_standing": "Stående",
-  "task_type_non_recurring": "Engangs Opgave"
+  "task_type_non_recurring": "Engangs Opgave",
+  "task_participants_error": "Deltagerne kan ikke redigeres i bakspejlet"
 }

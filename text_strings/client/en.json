@@ -1163,5 +1163,6 @@
   "task_type_periodic": "Recurrent",
   "task_type_timer": "Timer",
   "task_type_standing": "Standing",
-  "task_type_non_recurring": "Disposable Task"
+  "task_type_non_recurring": "Disposable Task",
+  "task_participants_error": "Participants can not be edited in retrospect"
 }

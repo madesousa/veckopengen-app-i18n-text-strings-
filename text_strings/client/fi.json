@@ -1163,5 +1163,6 @@
   "task_type_periodic": "MÄÄRÄAIKAISKOULUTUS",
   "task_type_timer": "tuntia",
   "task_type_standing": "muotokuva",
-  "task_type_non_recurring": "Kertakäyttöiset Task"
+  "task_type_non_recurring": "Kertakäyttöiset Task",
+  "task_participants_error": "Osallistujat ei voi muokata jälkikäteen"
 }
