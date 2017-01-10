@@ -1060,7 +1060,7 @@
   "task_editor_for_parent_edit_header": "Redigera uppgift",
   "task_editor_for_parent_create_header": "Skapa uppgift",
   "task_earned_this_week": "Tjänat denna vecka",
-  "task_percentage_done": "Utförandegrad",
+  "task_percentage_done": "suorituskyky Grade",
   "tasks_done_one": "%1$d utförd uppgift",
   "tasks_done_multi": "%1$d utförda uppgifter",
   "task_header": "%1$d har %2$d %3$d och kan tjäna %4$c",
