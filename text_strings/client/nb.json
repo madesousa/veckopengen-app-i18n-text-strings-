@@ -1165,5 +1165,17 @@
   "task_type_standing": "Stående",
   "task_type_non_recurring": "engangs Task",
   "task_participants_error": "Deltakerne kan ikke redigeres i ettertid",
-  "add_participants_nav_text": "Legg barn"
+  "add_participants_nav_text": "Legg barn",
+  "rate_app_store_headline": "Betygsätt i App Store",
+  "rate_play_store_headline": "Betygsätt i Play store",
+  "rate_app_store_desc": "Vad kul att du använder Veckopengen. Vad tycker du om Appen?",
+  "rate_app_store_good": "Bra",
+  "rate_app_store_bad": "Kan bli bättre",
+  "happy_customer_headline": "Vad kul att du är nöjd",
+  "happy_customer_desc": "Vad kul att du är nöjd. Om du vill så betygsätt 5 stjärnor i App Store. Det skulle motivera våra utvecklare att göra appen ännu bättre.",
+  "happy_customer_rate": "Till App Store",
+  "happy_customer_later": "Senare",
+  "sad_customer_headline": "Vad tråkigt att du är missnöjd",
+  "sad_customer_desc": "Vad tråkigt att du är missnöjd. Om du vill så lämna gärna lite feedback. Det skulle motivera våra utvecklare att göra appen ännu bättre.",
+  "sad_customer_feedback": "Till Feedback"
 }
