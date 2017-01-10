@@ -1,6 +1,7 @@
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 
 // @martin, alright, i would first do this as a seperate project called anna becuase we dont want to screw up sara and this might not work
+
 var fs = require('fs')
 var translate = require('google-translate-api')
 
@@ -17,10 +18,9 @@ let translateTextStringForFile = (file, textId) => {
   // node 6 api docs you can find online.
 
   // one case you need to handle is the strings with "$1%s", perhaps the google lib wont translate it
-
   if (file === 'default.json') { return Promise.resolve() }
 
-  if (file === 'sv.json') {
+  if (file === 'sv.json' || file === '.DS_Store') {
     return Promise.resolve()
   }
 
