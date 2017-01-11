@@ -114,5 +114,6 @@
   "push_new_repeating_assignment": "Tjek! Du har en ny opgave, som du altid få pengene til at udføre!",
   "push_check_wish_list": "En måned tilbage til din fødselsdag. Tjek ønskelisten!",
   "push_assignment_approved_parent": "{parent} godkendte opgaven {task}.",
-  "dashboard_assignment_approved": "Opgaven {task} blev godkendt."
+  "dashboard_assignment_approved": "Opgaven {task} blev godkendt.",
+  "push_payout_message_parent": "Just nu: {amount} överförs till {child} imorgon."
 }

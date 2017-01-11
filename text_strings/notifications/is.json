@@ -114,5 +114,6 @@
   "push_new_repeating_assignment": "Kíkja! Þú ert með nýtt verkefni sem þú færð alltaf peninga til að framkvæma!",
   "push_check_wish_list": "Einn mánuður eftir að afmæli. Athugaðu óskalistanum!",
   "push_assignment_approved_parent": "{parent} æð verkefni {task}",
-  "dashboard_assignment_approved": "Verkefni {task} var samþykkt."
+  "dashboard_assignment_approved": "Verkefni {task} var samþykkt.",
+  "push_payout_message_parent": "Just nu: {amount} överförs till {child} imorgon."
 }

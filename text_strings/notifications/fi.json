@@ -114,5 +114,6 @@
   "push_new_repeating_assignment": "Tutustu! Sinulla on uusi tehtävä, joka saat aina rahat suorittaa!",
   "push_check_wish_list": "Kuukausi vasemmalle syntymäpäivä. Tarkista toivelistalla!",
   "push_assignment_approved_parent": "{parent} Hyväksytty tehtävän {task}",
-  "dashboard_assignment_approved": "Tehtävä {task} hyväksyttiin."
+  "dashboard_assignment_approved": "Tehtävä {task} hyväksyttiin.",
+  "push_payout_message_parent": "Just nu: {amount} överförs till {child} imorgon."
 }
