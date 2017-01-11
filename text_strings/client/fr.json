@@ -1177,5 +1177,6 @@
   "sad_customer_headline": "Vad tråkigt att du är missnöjd",
   "sad_customer_desc": "Vad tråkigt att du är missnöjd. Om du vill så lämna gärna lite feedback. Det skulle motivera våra utvecklare att göra appen ännu bättre.",
   "sad_customer_feedback": "Till Feedback",
-  "data_task_big_text": "Fixer une limite pour le surf"
+  "data_task_big_text": "Fixer une limite pour le surf",
+  "parent_settings_invite_family_member": "Invite Parent"
 }
