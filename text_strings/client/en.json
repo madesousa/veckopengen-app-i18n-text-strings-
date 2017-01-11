@@ -386,7 +386,7 @@
   "trustly_transacations_pending": "Pending transactions",
   "no_money_pig_parent_head": "Welcome to %1$d piggy bank",
   "no_money_pig_parent_text": "This is where your child can save money. Hand out tasks or make a deposit to make the piggy bank grow.",
-  "new_account_value": "(Now %1$c)",
+  "new_account_value": "(Now %1$d)",
   "new_update_headline": "Big news!",
   "new_update_text_1": "Stop thinking about if you paid out the allowance or not!",
   "new_update_text_2": "Automatic banktransfer of your child's allowance",
