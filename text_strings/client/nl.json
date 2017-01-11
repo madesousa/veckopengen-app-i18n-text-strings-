@@ -1155,7 +1155,6 @@
   "create_task_small_text": "Maak je eigen",
   "history_task_big_text": "Geef de favorieten weer!",
   "history_task_small_text": "eerdere gegevens",
-  "data_task_big_text": "Een limiet voor sufandet",
   "data_task_small_text": "Surfpotten",
   "add_task_start": "Aan de slag!",
   "add_task_inspiration": "winter inspiratie",
@@ -1165,5 +1164,6 @@
   "task_type_standing": "portret",
   "task_type_non_recurring": "wegwerp Task",
   "task_participants_error": "Deelnemers kunnen niet worden bewerkt achteraf",
-  "add_participants_nav_text": "kinderen toe te voegen"
+  "add_participants_nav_text": "kinderen toe te voegen",
+  "data_task_big_text": "Een limiet voor surfen"
 }

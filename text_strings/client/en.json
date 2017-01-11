@@ -1155,7 +1155,6 @@
   "create_task_small_text": "Create Your own",
   "history_task_big_text": "Give out the favorites again!",
   "history_task_small_text": "previous data",
-  "data_task_big_text": "Set a limit for sufandet",
   "data_task_small_text": "Data tracking",
   "add_task_start": "Get started!",
   "add_task_inspiration": "winter inspiration",
@@ -1165,5 +1164,6 @@
   "task_type_standing": "Standing",
   "task_type_non_recurring": "Disposable Task",
   "task_participants_error": "Participants can not be edited in retrospect",
-  "add_participants_nav_text": "Add children"
+  "add_participants_nav_text": "Add children",
+  "data_task_big_text": "Set a limit for surfing"
 }

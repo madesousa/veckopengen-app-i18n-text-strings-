@@ -1155,7 +1155,6 @@
   "create_task_small_text": "Opret din egen",
   "history_task_big_text": "Giv ud favoritterne igen!",
   "history_task_small_text": "tidligere data",
-  "data_task_big_text": "Angiv en grænse for sufandet",
   "data_task_small_text": "Surfbeløb",
   "add_task_start": "Kom godt i gang!",
   "add_task_inspiration": "Vinter inspiration",
@@ -1165,5 +1164,6 @@
   "task_type_standing": "Portræt",
   "task_type_non_recurring": "Engangs Opgave",
   "task_participants_error": "Deltagerne kan ikke redigeres i bakspejlet",
-  "add_participants_nav_text": "Tilføj børn"
+  "add_participants_nav_text": "Tilføj børn",
+  "data_task_big_text": "Angiv en grænse for surfing"
 }

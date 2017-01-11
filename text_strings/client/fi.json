@@ -1155,7 +1155,6 @@
   "create_task_small_text": "Luo oma",
   "history_task_big_text": "Anna suosikit taas!",
   "history_task_small_text": "edellinen data",
-  "data_task_big_text": "Asettaa rajan sufandet",
   "data_task_small_text": "Kokonaismäärästä",
   "add_task_start": "Aloita!",
   "add_task_inspiration": "talvi inspiraatio",
@@ -1165,5 +1164,6 @@
   "task_type_standing": "muotokuva",
   "task_type_non_recurring": "Kertakäyttöiset Task",
   "task_participants_error": "Osallistujat ei voi muokata jälkikäteen",
-  "add_participants_nav_text": "Lisää lapsia"
+  "add_participants_nav_text": "Lisää lapsia",
+  "data_task_big_text": "Asettaa rajan surfing"
 }

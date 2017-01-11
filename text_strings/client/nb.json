@@ -1155,7 +1155,6 @@
   "create_task_small_text": "Lag din egen",
   "history_task_big_text": "Gi ut favorittene igjen!",
   "history_task_small_text": "tidligere data",
-  "data_task_big_text": "Sett en grense for surfingen",
   "data_task_small_text": "Surfemengden",
   "add_task_start": "Kom i gang!",
   "add_task_inspiration": "Vinter inspirasjon",
@@ -1165,5 +1164,6 @@
   "task_type_standing": "Stående",
   "task_type_non_recurring": "engangs Task",
   "task_participants_error": "Deltakerne kan ikke redigeres i ettertid",
-  "add_participants_nav_text": "Legg barn"
+  "add_participants_nav_text": "Legg barn",
+  "data_task_big_text": "Sett en grense for surfing"
 }

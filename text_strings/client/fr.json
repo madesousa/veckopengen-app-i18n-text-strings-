@@ -1155,7 +1155,6 @@
   "create_task_small_text": "Créez votre propre",
   "history_task_big_text": "Distribuez les favoris à nouveau!",
   "history_task_small_text": "les données précédentes",
-  "data_task_big_text": "Fixer une limite pour sufandet",
   "data_task_small_text": "Surfpotten",
   "add_task_start": "Commencez!",
   "add_task_inspiration": "Vinter inspiration",
@@ -1165,5 +1164,6 @@
   "task_type_standing": "portrait",
   "task_type_non_recurring": "Tâche jetable",
   "task_participants_error": "Les participants ne peuvent pas être modifiés rétrospectivement",
-  "add_participants_nav_text": "Ajouter les enfants"
+  "add_participants_nav_text": "Ajouter les enfants",
+  "data_task_big_text": "Fixer une limite pour le surf"
 }

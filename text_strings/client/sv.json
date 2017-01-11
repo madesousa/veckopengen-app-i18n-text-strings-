@@ -1166,7 +1166,6 @@
   "create_task_small_text": "Skapa egen",
   "history_task_big_text": "Ge ut favoriterna igen!",
   "history_task_small_text": "Tidigare uppgifter",
-  "data_task_big_text": "Sätt en gräns för sufandet",
   "data_task_small_text": "Surfpotten",
   "add_task_start": "Kom igång!",
   "add_task_inspiration": "Vinterinspiration",
@@ -1176,5 +1175,6 @@
   "task_type_standing": "Stående",
   "task_type_non_recurring": "Engångsuppgift",
   "task_participants_error": "Antal deltagare kan inte redigeras i efterhand",
-  "add_participants_nav_text": "Lägg till barn"
+  "add_participants_nav_text": "Lägg till barn",
+  "data_task_big_text": "Sätt en gräns för surfandet"
 }

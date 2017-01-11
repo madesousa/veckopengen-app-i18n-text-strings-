@@ -1155,7 +1155,6 @@
   "create_task_small_text": "Búðu til þinn eigin",
   "history_task_big_text": "Gefðu út eftirlæti aftur!",
   "history_task_small_text": "fyrri gögn",
-  "data_task_big_text": "Setja takmörk fyrir sufandet",
   "data_task_small_text": "Surfpotten",
   "add_task_start": "Byrja!",
   "add_task_inspiration": "vetur innblástur",
@@ -1165,5 +1164,6 @@
   "task_type_standing": "Portrait",
   "task_type_non_recurring": "einnota Task",
   "task_participants_error": "Þátttakendur geta ekki breytt eftir á að hyggja",
-  "add_participants_nav_text": "Bæta börn"
+  "add_participants_nav_text": "Bæta börn",
+  "data_task_big_text": "Setja takmörk fyrir brimbrettabrun"
 }
