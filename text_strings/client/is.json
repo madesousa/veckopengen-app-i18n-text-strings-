@@ -1155,7 +1155,6 @@
   "create_task_small_text": "Búðu til þinn eigin",
   "history_task_big_text": "Gefðu út eftirlæti aftur!",
   "history_task_small_text": "fyrri gögn",
-  "data_task_big_text": "Setja takmörk fyrir sufandet",
   "data_task_small_text": "Surfpotten",
   "add_task_start": "Byrja!",
   "add_task_inspiration": "vetur innblástur",
@@ -1177,5 +1176,6 @@
   "happy_customer_later": "Senare",
   "sad_customer_headline": "Vad tråkigt att du är missnöjd",
   "sad_customer_desc": "Vad tråkigt att du är missnöjd. Om du vill så lämna gärna lite feedback. Det skulle motivera våra utvecklare att göra appen ännu bättre.",
-  "sad_customer_feedback": "Till Feedback"
+  "sad_customer_feedback": "Till Feedback",
+  "data_task_big_text": "Setja takmörk fyrir brimbrettabrun"
 }

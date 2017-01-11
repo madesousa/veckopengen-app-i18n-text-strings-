@@ -1155,7 +1155,6 @@
   "create_task_small_text": "Create Your own",
   "history_task_big_text": "Give out the favorites again!",
   "history_task_small_text": "previous data",
-  "data_task_big_text": "Set a limit for sufandet",
   "data_task_small_text": "Data tracking",
   "add_task_start": "Get started!",
   "add_task_inspiration": "winter inspiration",
@@ -1177,5 +1176,6 @@
   "happy_customer_later": "Senare",
   "sad_customer_headline": "Vad tråkigt att du är missnöjd",
   "sad_customer_desc": "Vad tråkigt att du är missnöjd. Om du vill så lämna gärna lite feedback. Det skulle motivera våra utvecklare att göra appen ännu bättre.",
-  "sad_customer_feedback": "Till Feedback"
+  "sad_customer_feedback": "Till Feedback",
+  "data_task_big_text": "Set a limit for surfing"
 }
