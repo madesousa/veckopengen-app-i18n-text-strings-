@@ -386,7 +386,7 @@
   "trustly_transacations_pending": "Igangværende transaktioner",
   "no_money_pig_parent_head": "Velkommen til %1$d sparegris",
   "no_money_pig_parent_text": "Her kan %1$d spare op af sine %2$d. Giv oplysninger eller foretag en indbetaling for hurtigere at få den til at vokse.",
-  "new_account_value": "(Nu %1$d)",
+  "new_account_value": "(Nu %1$d) ",
   "new_update_headline": "Nyhed!",
   "new_update_text_1": "Hold op med at tænke på, at du har udleveret uge- eller månedspengene!",
   "new_update_text_2": "Automatisk udbetaling af uge- eller månedspenge",
