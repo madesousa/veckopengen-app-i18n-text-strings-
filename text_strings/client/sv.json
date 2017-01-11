@@ -1114,7 +1114,7 @@
   "add_account_child_title": "Vem är ägare till %1$d bankkonto?",
   "me": "Jag",
   "add_account_child_sign_me": "%1$d bankkonto står på mig och jag har mandat för att signera.",
-  "add_account_child_sign_child": "%1$d sitter med och signerar med bankdosa eller mobilt bank ID",
+  "add_account_child_sign_child": "%1$d sitter med och signerar med bankdosa eller mobilt bank ID.",
   "trustly_info_list_1_parent": "Automatisk utbetalning dagen för \n vecko- eller månadspeng",
   "trustly_info_list_2_parent": "Direkt till ditt barns bankkonto",
   "trustly_info_list_3_parent": "Enkla och överskådliga notifieringar",
