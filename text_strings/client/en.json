@@ -1063,7 +1063,7 @@
   "task_percentage_done": "Performance Grade",
   "tasks_done_one": "%1$d completed task",
   "tasks_done_multi": "%1$d completed tasks",
-  "task_header": "%1$d har %2$d %3$d och kan tjäna %4$c",
+  "task_header": "%1$d has %2$d %3$d and can get %4$c",
   "task_list_history": "History",
   "add_task_recurring_standing": "Kan utföras igen efter att den blivit godkänd",
   "is_task_approved_child": "Är du klar med uppgiften?",

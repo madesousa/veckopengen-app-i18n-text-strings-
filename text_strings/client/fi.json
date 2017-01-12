@@ -1063,7 +1063,7 @@
   "task_percentage_done": "suorituskyky Grade",
   "tasks_done_one": "%1$d valmistunut tehtävän",
   "tasks_done_multi": "%1$d valmiit tehtävät",
-  "task_header": "%1$d har %2$d %3$d och kan tjäna %4$c",
+  "task_header": "%1$d har %2$d %3$d ja voi palvella%4$c",
   "task_list_history": "historiallinen",
   "add_task_recurring_standing": "Kan utföras igen efter att den blivit godkänd",
   "is_task_approved_child": "Är du klar med uppgiften?",
