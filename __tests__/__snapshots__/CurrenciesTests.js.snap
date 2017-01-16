@@ -1,32 +1,48 @@
 exports[`Currencies it should return supported supportedCurrencyCodes 1`] = `
 Array [
-  "SEK",
-  "NOK",
-  "DKK",
-  "GBP",
-  "USD",
-  "EUR",
-  "AUD",
-  "CAD",
-  "NZD",
-  "INR",
-  "ZAR",
-  "NAD",
-  "BWP",
-  "SZL",
-  "LSL",
-  "ZMF",
-  "TZS",
-  "KES",
-  "UGX",
-  "NGN",
-  "XAF",
-  "GHS",
-  "LRD",
-  "SLL",
-  "GMD",
-  "SCR",
-  "MUR",
-  "SHP",
+  Object {
+    "code": "SEK",
+    "name": "Swedish Krona",
+  },
+  Object {
+    "code": "NOK",
+    "name": "Norwegian Krone",
+  },
+  Object {
+    "code": "DKK",
+    "name": "Danish Krone",
+  },
+  Object {
+    "code": "GBP",
+    "name": "Pound Sterling",
+  },
+  Object {
+    "code": "USD",
+    "name": "US Dollar",
+  },
+  Object {
+    "code": "EUR",
+    "name": "Euro",
+  },
+  Object {
+    "code": "AUD",
+    "name": "Australian Dollar",
+  },
+  Object {
+    "code": "CAD",
+    "name": "Canadian Dollar",
+  },
+  Object {
+    "code": "NZD",
+    "name": "New Zealand Dollar",
+  },
+  Object {
+    "code": "INR",
+    "name": "Indian Rupee",
+  },
+  Object {
+    "code": "ZAR",
+    "name": "Rand",
+  },
 ]
 `;

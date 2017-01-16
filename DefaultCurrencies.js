@@ -17,22 +17,5 @@ export default {
   'CA': 'CAD',
   'NZ': 'NZD',
   'IN': 'INR',
-  'ZA': 'ZAR',
-  'NA': 'NAD',
-  'BW': 'BWP',
-  'SZ': 'SZL',
-  'LS': 'LSL',
-  'ZM': 'ZMF',
-  'TZ': 'TZS',
-  'KE': 'KES',
-  'UG': 'UGX',
-  'NG': 'NGN',
-  'CM': 'XAF',
-  'GH': 'GHS',
-  'LR': 'LRD',
-  'SL': 'SLL',
-  'GM': 'GMD',
-  'SC': 'SCR',
-  'MU': 'MUR',
-  'SH': 'SHP'
+  'ZA': 'ZAR'
 }

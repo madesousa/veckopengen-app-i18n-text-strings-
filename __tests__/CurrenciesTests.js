@@ -1,4 +1,4 @@
-import {getSupportedCurrencyCodes, getDefaultCurrencyCode} from '../index'
+import {getSupportedCurrencyInfos, getDefaultCurrencyCode} from '../index'
 import DefaultCurrencies from '../DefaultCurrencies'
 import ExchangeRates from '../ExchangeRates'
 
@@ -6,9 +6,9 @@ jest.disableAutomock()
 
 describe('Currencies', () => {
   it('it should return supported supportedCurrencyCodes', () => {
-    expect(getSupportedCurrencyCodes()).not.toEqual(undefined)
-    expect(getSupportedCurrencyCodes().length).toEqual(28)
-    expect(getSupportedCurrencyCodes()).toMatchSnapshot()
+    expect(getSupportedCurrencyInfos()).not.toEqual(undefined)
+    expect(getSupportedCurrencyInfos().length).toEqual(11)
+    expect(getSupportedCurrencyInfos()).toMatchSnapshot()
   })
 
   it('it should return default currency', () => {
@@ -18,6 +18,10 @@ describe('Currencies', () => {
     expect(getDefaultCurrencyCode('SE')).toEqual('SEK')
     expect(getDefaultCurrencyCode('BE')).toEqual('EUR')
     expect(getDefaultCurrencyCode()).toEqual('EUR')
+  })
+
+  it('all currencies in Default CurrecyCodes needs to be in supported Currency Codes', () => {
+    Object.values(DefaultCurrencies).forEach((currencyCode) => expect(getSupportedCurrencyInfos().find((currencyInfo) => currencyInfo.code === currencyCode)).toBeDefined())
   })
 
   Object.keys(DefaultCurrencies).forEach(key => {

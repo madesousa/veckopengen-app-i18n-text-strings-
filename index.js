@@ -20,11 +20,20 @@ import countryCodes2PhoneNumberPrefixes from './countryCodes2PhoneNumberPrefixes
 import DefaultCurrencies from './DefaultCurrencies'
 export var supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en']
 export var languageCodes = ['da', 'fi', 'is', 'sv', 'nb', 'en', 'fr', 'nl']
-export let getSupportedCurrencyCodes = () => {
-  var set = new Set()
-  Object.values(DefaultCurrencies).forEach((currencyCode) => set.add(currencyCode))
-  return Array.from(set.values())
-}
+
+export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> => [
+  {code: 'SEK', name: 'Swedish Krona'},
+  {code: 'NOK', name: 'Norwegian Krone'},
+  {code: 'DKK', name: 'Danish Krone'},
+  {code: 'GBP', name: 'Pound Sterling'},
+  {code: 'USD', name: 'US Dollar'},
+  {code: 'EUR', name: 'Euro'},
+  {code: 'AUD', name: 'Australian Dollar'},
+  {code: 'CAD', name: 'Canadian Dollar'},
+  {code: 'NZD', name: 'New Zealand Dollar'},
+  {code: 'INR', name: 'Indian Rupee'},
+  {code: 'ZAR', name: 'Rand'}
+]
 
 export let getTextStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
