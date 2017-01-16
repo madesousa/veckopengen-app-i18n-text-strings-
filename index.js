@@ -14,14 +14,17 @@ import enLocale from 'moment/locale/en-gb'
 import CountryCodes from './CountryCodes.json'
 import Regions from './Regions.json'
 import Cities from './Cities.json'
-import Currencies from './Currencies.json'
 import Timezones from './TimeZones.json'
 import LanguageCodes from './LanguageCodes.json'
 import countryCodes2PhoneNumberPrefixes from './countryCodes2PhoneNumberPrefixes.json'
 import DefaultCurrencies from './DefaultCurrencies'
 export var supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en']
 export var languageCodes = ['da', 'fi', 'is', 'sv', 'nb', 'en', 'fr', 'nl']
-var supportedCurrencies = Object.values(DefaultCurrencies)
+export let getSupportedCurrencyCodes = () => {
+  var set = new Set()
+  Object.values(DefaultCurrencies).forEach((currencyCode) => set.add(currencyCode))
+  return Array.from(set.values())
+}
 
 export let getTextStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
@@ -63,23 +66,6 @@ export let getCountries = () => CountryCodes
 export let getCountry = (countryCode: string) => CountryCodes.find(country => country.code === countryCode)
 export let getPhoneNumberPrefix = (countryCode: string) => parseInt(countryCodes2PhoneNumberPrefixes[countryCode.toUpperCase()])
 export let getCountryCodeFromLocale = (locale: string) => locale.slice(-2)
-export let getCurrencies = () => Currencies.filter(currency => supportedCurrencies.indexOf(currency.fields.iso_4217_name) !== -1)
 export let getTimezones = () => Timezones
-export let getCurrency = (currencyCode: string) => getCurrencies().find(currency => currency.fields.iso_4217_name === currencyCode)
 export let getLangugageCodes = () => LanguageCodes.filter(languageCode => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
-
-export let getConfig
-
-export let getDefaultCurrency = (userCountryCode: string): Currency => {
-  var currency = getCurrency(DefaultCurrencies[userCountryCode])
-
-  if (currency) {
-    return currency.fields
-  }
-
-  return getCurrency('EUR').fields
-}
-
-export let getDefaultCurrencyId = (userCountryCode: string) => {
-  return getDefaultCurrency(userCountryCode).model_id
-}
+export let getDefaultCurrencyCode = (userCountryCode: string): string => DefaultCurrencies[userCountryCode] || 'EUR'
