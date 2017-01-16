@@ -582,7 +582,6 @@
   "sign_up_phone_headline": "Hva er ditt telefonnummer?",
   "forgot_automatic_text": "Ikke utbetalte ukepenger legges automatisk i %1$d sparegris",
   "forgot_save_text": "Ikke utbetalte ukepenger adderes til neste uke",
-  "bar_code_scanner_help_text": "Skanne koden fra din forelders konto",
   "top_list_suggestions": "Forslag fra topplisten",
   "sign_up_email": "Hva er din e-post?",
   "transactions_no_expenses": "Ingen utlegg ennå :)!",
@@ -1178,5 +1177,7 @@
   "parent_settings_invite_family_member": "Inviter Parent",
   "rate_app_store_headline": "Ranger i App Store",
   "rate_play_store_headline": "Ranger i Play store",
-  "happy_customer_rate": "Til App Store"
+  "happy_customer_rate": "Til App Store",
+  "bar_code_scanner_help_text_child": "Skanne koden fra din forelders konto",
+  "bar_code_scanner_help_text_parent": "Skanne koden fra barnets konto"
 }

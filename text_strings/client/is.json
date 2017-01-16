@@ -582,7 +582,6 @@
   "sign_up_phone_headline": "Vad är ditt telefonnummer?",
   "forgot_automatic_text": "Ej utbetald veckopeng läggs automatiskt i %1$d spargris",
   "forgot_save_text": "Ej utbetald veckopeng adderas till nästa vecka",
-  "bar_code_scanner_help_text": "Skanna koden från din förälders konto",
   "top_list_suggestions": "Förslag från topplistan",
   "sign_up_email": "Vad är din e-post?",
   "transactions_no_expenses": "Inga utlägg än :)!",
@@ -1178,5 +1177,7 @@
   "parent_settings_invite_family_member": "Bjóða Parent",
   "rate_app_store_headline": "Gefa í App Store",
   "rate_play_store_headline": "Hlutfall í Play Store",
-  "happy_customer_rate": "To App Store"
+  "happy_customer_rate": "To App Store",
+  "bar_code_scanner_help_text_child": "Skanna kóðann úr foreldri reikningnum þínum",
+  "bar_code_scanner_help_text_parent": "Skanna kóða frá reikningi barnsins"
 }

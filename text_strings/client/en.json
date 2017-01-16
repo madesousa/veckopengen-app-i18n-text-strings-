@@ -582,7 +582,6 @@
   "sign_up_phone_headline": "What's your mobile number?",
   "forgot_automatic_text": "Weekly allowance that´s not paid in time will automatically be put into %1$d piggy bank",
   "forgot_save_text": "Weekly allowance that´s not paid in time will be added on next week",
-  "bar_code_scanner_help_text": "Scan the code from your parent's account to connect!",
   "top_list_suggestions": "Suggestions from the top list",
   "sign_up_email": "What's your email?",
   "transactions_no_expenses": "No expenses yet :)!",
@@ -1178,5 +1177,7 @@
   "parent_settings_invite_family_member": "Invite Parent",
   "rate_app_store_headline": "Rate the App Store",
   "rate_play_store_headline": "Rate in Play Store",
-  "happy_customer_rate": "To App Store"
+  "happy_customer_rate": "To App Store",
+  "bar_code_scanner_help_text_child": "Scan the code from your parent's account to connect!",
+  "bar_code_scanner_help_text_parent": "Scan the code from your child's account"
 }

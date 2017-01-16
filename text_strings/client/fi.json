@@ -582,7 +582,6 @@
   "sign_up_phone_headline": "Mikä on puhelinnumerosi?",
   "forgot_automatic_text": "Maksamattomat viikkorahat siirretään automaattisesti %1$dn säästöpossuun",
   "forgot_save_text": "Maksamattomat viikkorahat lisätään ensi viikolle",
-  "bar_code_scanner_help_text": "Skannaa koodi vanhempasi tililtä",
   "top_list_suggestions": "Ehdotus suosikkilistalta",
   "sign_up_email": "Mikä on sähköpostisi?",
   "transactions_no_expenses": "Ei maksuja :)!",
@@ -1178,5 +1177,7 @@
   "parent_settings_invite_family_member": "Kutsu Parent",
   "rate_app_store_headline": "Arvioi App Store",
   "rate_play_store_headline": "Korko Play Store",
-  "happy_customer_rate": "Että App Store"
+  "happy_customer_rate": "Että App Store",
+  "bar_code_scanner_help_text_child": "Skannaa koodi vanhempasi tililtä",
+  "bar_code_scanner_help_text_parent": "Skannaus koodin lapsesi tilin"
 }
