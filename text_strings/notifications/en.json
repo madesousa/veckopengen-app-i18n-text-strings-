@@ -114,5 +114,6 @@
   "push_new_repeating_assignment": "Take a look, you have received a repeatable task!",
   "push_check_wish_list": "One month left to your birthday. Check the wish list!",
   "push_assignment_approved_parent": "{parent} Approved task {task}.",
-  "dashboard_assignment_approved": "The task {task} was approved."
+  "dashboard_assignment_approved": "The task {task} was approved.",
+  "push_payout_message_parent": "{amount} will be transferred to {child} tomorrow."
 }

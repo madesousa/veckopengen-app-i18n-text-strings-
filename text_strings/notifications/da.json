@@ -101,7 +101,7 @@
   "dashboard_child_trustly_account_ongoing": "Afventer tilslutning til bankkontoen",
   "dashboard_goal_archived": "Arkiverade sparmålet {goal}",
   "dashboard_child_trustly_allowance_enabled": "Överföringar aktiverade",
-  "dashboard_add_trustly_account": "Lägg till Bankkonto (BETA)",
+  "dashboard_add_trustly_account": "Lägg till Bankkonto",
   "push_first_wish_created": "{child} har skapat önskelista",
   "push_wish_created": "{child} har lagt till {wish} på önskelistan",
   "push_wish_deleted": "{child} har tagit bort {wish} från önskelistan",
@@ -114,5 +114,6 @@
   "push_new_repeating_assignment": "Tjek! Du har en ny opgave, som du altid få pengene til at udføre!",
   "push_check_wish_list": "En måned tilbage til din fødselsdag. Tjek ønskelisten!",
   "push_assignment_approved_parent": "{parent} godkendte opgaven {task}.",
-  "dashboard_assignment_approved": "Opgaven {task} blev godkendt."
+  "dashboard_assignment_approved": "Opgaven {task} blev godkendt.",
+  "push_payout_message_parent": "I øjeblikket: {amount} overføres til {child} i morgen."
 }

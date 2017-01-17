@@ -101,7 +101,7 @@
   "dashboard_child_trustly_account_ongoing": "Anslutning av bankkonton pågår",
   "dashboard_goal_archived": "Arkiverade sparmålet {goal}",
   "dashboard_child_trustly_allowance_enabled": "Överföringar aktiverade",
-  "dashboard_add_trustly_account": "Lägg till Bankkonto (BETA)",
+  "dashboard_add_trustly_account": "Lägg till Bankkonto",
   "push_first_wish_created": "{child} har skapat önskelista",
   "push_wish_created": "{child} har lagt till {wish} på önskelistan",
   "push_wish_deleted": "{child} har tagit bort {wish} från önskelistan",
@@ -114,5 +114,6 @@
   "push_new_repeating_assignment": "Kolla in! Du har fått en ny uppgift som du alltid får pengar för att utföra!",
   "push_check_wish_list": "En månad kvar till din födelsedag. Kolla önskelistan!",
   "push_assignment_approved_parent": "{parent} godkände uppgiften {task}.",
-  "dashboard_assignment_approved": "Uppgiften {task} blev godkänd."
+  "dashboard_assignment_approved": "Uppgiften {task} blev godkänd.",
+  "push_payout_message_parent": "Just nu: {amount} överförs till {child} imorgon."
 }

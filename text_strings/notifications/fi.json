@@ -101,7 +101,7 @@
   "dashboard_child_trustly_account_ongoing": "Liitetään pankkitiliä",
   "dashboard_goal_archived": "Arkiverade sparmålet {goal}",
   "dashboard_child_trustly_allowance_enabled": "Överföringar aktiverade",
-  "dashboard_add_trustly_account": "Lägg till Bankkonto (BETA)",
+  "dashboard_add_trustly_account": "Lägg till Bankkonto",
   "push_first_wish_created": "{child} har skapat önskelista",
   "push_wish_created": "{child} har lagt till {wish} på önskelistan",
   "push_wish_deleted": "{child} har tagit bort {wish} från önskelistan",
@@ -114,5 +114,6 @@
   "push_new_repeating_assignment": "Tutustu! Sinulla on uusi tehtävä, joka saat aina rahat suorittaa!",
   "push_check_wish_list": "Kuukausi vasemmalle syntymäpäivä. Tarkista toivelistalla!",
   "push_assignment_approved_parent": "{parent} Hyväksytty tehtävän {task}",
-  "dashboard_assignment_approved": "Tehtävä {task} hyväksyttiin."
+  "dashboard_assignment_approved": "Tehtävä {task} hyväksyttiin.",
+  "push_payout_message_parent": "Tällä hetkellä: {amount} siirretään {child} huomenna."
 }
