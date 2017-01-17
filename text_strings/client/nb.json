@@ -1179,5 +1179,6 @@
   "rate_play_store_headline": "Ranger i Play store",
   "happy_customer_rate": "Til App Store",
   "bar_code_scanner_help_text_child": "Skanne koden fra din forelders konto",
-  "bar_code_scanner_help_text_parent": "Skanne koden fra barnets konto"
+  "bar_code_scanner_help_text_parent": "Skanne koden fra barnets konto",
+  "task_editor_type_of_task": "Type informasjon"
 }

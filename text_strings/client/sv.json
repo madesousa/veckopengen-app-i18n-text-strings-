@@ -1192,5 +1192,6 @@
   "rate_play_store_headline": "Betygsätt i Play store",
   "happy_customer_rate": "Till App Store",
   "bar_code_scanner_help_text_child": "Skanna koden från din förälders konto",
-  "bar_code_scanner_help_text_parent": "Skanna koden från ditt barns konto"
+  "bar_code_scanner_help_text_parent": "Skanna koden från ditt barns konto",
+  "task_editor_type_of_task": "Typ av uppgift"
 }

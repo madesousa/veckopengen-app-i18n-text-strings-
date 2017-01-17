@@ -1179,5 +1179,6 @@
   "rate_play_store_headline": "Rate in Play Store",
   "happy_customer_rate": "Naar App Store",
   "bar_code_scanner_help_text_child": "Scan de code van je ouders rekening",
-  "bar_code_scanner_help_text_parent": "Scan de code van de rekening van uw kind"
+  "bar_code_scanner_help_text_parent": "Scan de code van de rekening van uw kind",
+  "task_editor_type_of_task": "Type informatie"
 }

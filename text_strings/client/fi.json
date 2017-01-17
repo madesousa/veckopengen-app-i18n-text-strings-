@@ -1179,5 +1179,6 @@
   "rate_play_store_headline": "Korko Play Store",
   "happy_customer_rate": "Että App Store",
   "bar_code_scanner_help_text_child": "Skannaa koodi vanhempasi tililtä",
-  "bar_code_scanner_help_text_parent": "Skannaus koodin lapsesi tilin"
+  "bar_code_scanner_help_text_parent": "Skannaus koodin lapsesi tilin",
+  "task_editor_type_of_task": "Tiedon tyyppi"
 }
