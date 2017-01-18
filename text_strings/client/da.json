@@ -1180,5 +1180,6 @@
   "happy_customer_rate": "til App Store",
   "bar_code_scanner_help_text_child": "Scan koden fra din forælders konto",
   "bar_code_scanner_help_text_parent": "Scan koden fra dit barns konto",
-  "task_editor_type_of_task": "Type af information"
+  "task_editor_type_of_task": "Type af information",
+  "suggest_task_child": "foreslå opgave"
 }

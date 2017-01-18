@@ -1164,6 +1164,7 @@
   "task_type_non_recurring": "Kertakäyttöiset Task",
   "task_participants_error": "Osallistujat ei voi muokata jälkikäteen",
   "add_participants_nav_text": "Lisää lapsia",
+  "data_task_big_text": "Asettaa rajan surfing",
   "rate_app_store_desc": "Mitä hauskaa käyttää taskurahaa. Mitä mieltä olet app?",
   "rate_app_store_good": "hyvä",
   "rate_app_store_bad": "Voisi olla parempi",
@@ -1173,12 +1174,12 @@
   "sad_customer_headline": "Olen pahoillani, että olet tyytymätön",
   "sad_customer_desc": "Olen pahoillani, että olet tyytymätön. Jos haluat, jätä palautetta. Se motivoisi kehittäjät voivat tehdä sovellus vielä paremmin.",
   "sad_customer_feedback": "for Palaute",
-  "data_task_big_text": "Asettaa rajan surfing",
   "parent_settings_invite_family_member": "Kutsu Parent",
   "rate_app_store_headline": "Arvioi App Store",
   "rate_play_store_headline": "Korko Play Store",
   "happy_customer_rate": "Että App Store",
   "bar_code_scanner_help_text_child": "Skannaa koodi vanhempasi tililtä",
   "bar_code_scanner_help_text_parent": "Skannaus koodin lapsesi tilin",
-  "task_editor_type_of_task": "Tiedon tyyppi"
+  "task_editor_type_of_task": "Tiedon tyyppi",
+  "suggest_task_child": "Ehdota tehtävä"
 }

@@ -1164,6 +1164,7 @@
   "task_type_non_recurring": "wegwerp Task",
   "task_participants_error": "Deelnemers kunnen niet worden bewerkt achteraf",
   "add_participants_nav_text": "kinderen toe te voegen",
+  "data_task_big_text": "Een limiet voor surfen",
   "rate_app_store_desc": "Wat leuk om zakgeld te gebruiken. Wat vind je van de app?",
   "rate_app_store_good": "goed",
   "rate_app_store_bad": "Kan beter",
@@ -1173,12 +1174,12 @@
   "sad_customer_headline": "Het spijt me dat u niet tevreden bent",
   "sad_customer_desc": "Het spijt me dat u niet tevreden bent. Als u wilt, laat dan wat feedback. Het zou ontwikkelaars te motiveren om de app nog beter te maken.",
   "sad_customer_feedback": "voor feedback",
-  "data_task_big_text": "Een limiet voor surfen",
   "parent_settings_invite_family_member": "Nodig Parent",
   "rate_app_store_headline": "Beoordeel de App Store",
   "rate_play_store_headline": "Rate in Play Store",
   "happy_customer_rate": "Naar App Store",
   "bar_code_scanner_help_text_child": "Scan de code van je ouders rekening",
   "bar_code_scanner_help_text_parent": "Scan de code van de rekening van uw kind",
-  "task_editor_type_of_task": "Type informatie"
+  "task_editor_type_of_task": "Type informatie",
+  "suggest_task_child": "Suggestie taak"
 }

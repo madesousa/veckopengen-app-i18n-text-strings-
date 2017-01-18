@@ -1164,6 +1164,7 @@
   "task_type_non_recurring": "Disposable Task",
   "task_participants_error": "Participants can not be edited in retrospect",
   "add_participants_nav_text": "Add children",
+  "data_task_big_text": "Set a limit for surfing",
   "rate_app_store_desc": "What fun to use pocket money. What do you think about the app?",
   "rate_app_store_good": "Good",
   "rate_app_store_bad": "Could be better",
@@ -1173,12 +1174,12 @@
   "sad_customer_headline": "I'm sorry that you are unhappy",
   "sad_customer_desc": "I'm sorry that you are unhappy. If you like, please leave some feedback. It would motivate developers to make the app even better.",
   "sad_customer_feedback": "for Feedback",
-  "data_task_big_text": "Set a limit for surfing",
   "parent_settings_invite_family_member": "Invite Parent",
   "rate_app_store_headline": "Rate the App Store",
   "rate_play_store_headline": "Rate in Play Store",
   "happy_customer_rate": "To App Store",
   "bar_code_scanner_help_text_child": "Scan the code from your parent's account to connect!",
   "bar_code_scanner_help_text_parent": "Scan the code from your child's account",
-  "task_editor_type_of_task": "Type of task"
+  "task_editor_type_of_task": "Type of task",
+  "suggest_task_child": "Suggest task"
 }

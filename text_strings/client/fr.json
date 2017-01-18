@@ -1164,6 +1164,7 @@
   "task_type_non_recurring": "Tâche jetable",
   "task_participants_error": "Les participants ne peuvent pas être modifiés rétrospectivement",
   "add_participants_nav_text": "Ajouter les enfants",
+  "data_task_big_text": "Fixer une limite pour le surf",
   "rate_app_store_desc": "Quel plaisir d'utiliser l'argent de poche. Que pensez-vous à propos de l'application?",
   "rate_app_store_good": "bon",
   "rate_app_store_bad": "Pourrait être mieux",
@@ -1173,12 +1174,12 @@
   "sad_customer_headline": "Je suis désolé que vous n'êtes pas satisfait",
   "sad_customer_desc": "Je suis désolé que vous êtes malheureux. Si vous le souhaitez, laisser des commentaires s'il vous plaît. Il serait motiver les développeurs à rendre l'application encore mieux.",
   "sad_customer_feedback": "pour Feedback",
-  "data_task_big_text": "Fixer une limite pour le surf",
   "parent_settings_invite_family_member": "Invite Parent",
   "rate_app_store_headline": "Donnez votre avis sur App Store",
   "rate_play_store_headline": "Taux en Play Store",
   "happy_customer_rate": "À App Store",
   "bar_code_scanner_help_text_child": "Scannez le code à partir de votre compte parent",
   "bar_code_scanner_help_text_parent": "Scannez le code à partir du compte de votre enfant",
-  "task_editor_type_of_task": "Type d'information"
+  "task_editor_type_of_task": "Type d'information",
+  "suggest_task_child": "Proposer tâche"
 }

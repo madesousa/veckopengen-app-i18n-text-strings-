@@ -1176,7 +1176,6 @@
   "task_participants_error": "Antal deltagare kan inte redigeras i efterhand",
   "add_participants_nav_text": "Lägg till barn",
   "data_task_big_text": "Sätt en gräns för surfandet",
-  "add_participants_nav_text": "Lägg till barn",
   "rate_app_store_desc": "Vad kul att du använder Veckopengen. Vad tycker du om Appen?",
   "rate_app_store_good": "Bra",
   "rate_app_store_bad": "Kan bli bättre",
@@ -1186,12 +1185,12 @@
   "sad_customer_headline": "Vad tråkigt att du är missnöjd",
   "sad_customer_desc": "Vad tråkigt att du är missnöjd. Om du vill så lämna gärna lite feedback. Det skulle motivera våra utvecklare att göra appen ännu bättre.",
   "sad_customer_feedback": "Till Feedback",
-  "data_task_big_text": "Sätt en gräns för surfandet",
   "parent_settings_invite_family_member": "Bjud in förälder",
   "rate_app_store_headline": "Betygsätt i App Store",
   "rate_play_store_headline": "Betygsätt i Play store",
   "happy_customer_rate": "Till App Store",
   "bar_code_scanner_help_text_child": "Skanna koden från din förälders konto",
   "bar_code_scanner_help_text_parent": "Skanna koden från ditt barns konto",
-  "task_editor_type_of_task": "Typ av uppgift"
+  "task_editor_type_of_task": "Typ av uppgift",
+  "suggest_task_child": "Föreslå uppgift"
 }

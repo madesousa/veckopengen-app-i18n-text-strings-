@@ -1164,6 +1164,7 @@
   "task_type_non_recurring": "einnota Task",
   "task_participants_error": "Þátttakendur geta ekki breytt eftir á að hyggja",
   "add_participants_nav_text": "Bæta börn",
+  "data_task_big_text": "Setja takmörk fyrir brimbrettabrun",
   "rate_app_store_desc": "Hvað gaman að nota vasapeninga. Hvað finnst þér um app?",
   "rate_app_store_good": "gott",
   "rate_app_store_bad": "Gæti verið betra",
@@ -1173,12 +1174,12 @@
   "sad_customer_headline": "Fyrirgefðu að þú ert óánægður",
   "sad_customer_desc": "Fyrirgefðu að þú ert óánægður. Ef þú vilt, vinsamlegast láta nokkrar athugasemdir. Það myndi hvetja verktaki til að gera app enn betra.",
   "sad_customer_feedback": "fyrir Feedback",
-  "data_task_big_text": "Setja takmörk fyrir brimbrettabrun",
   "parent_settings_invite_family_member": "Bjóða Parent",
   "rate_app_store_headline": "Gefa í App Store",
   "rate_play_store_headline": "Hlutfall í Play Store",
   "happy_customer_rate": "To App Store",
   "bar_code_scanner_help_text_child": "Skanna kóðann úr foreldri reikningnum þínum",
   "bar_code_scanner_help_text_parent": "Skanna kóða frá reikningi barnsins",
-  "task_editor_type_of_task": "Gerð upplýsinga"
+  "task_editor_type_of_task": "Gerð upplýsinga",
+  "suggest_task_child": "Benda verkefni"
 }
