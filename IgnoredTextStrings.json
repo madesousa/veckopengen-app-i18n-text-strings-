@@ -311,5 +311,6 @@
    "push_data_tracking_assignment_reminder",
    "dashboard_assignment_completed",
    "task_type_timer",
-   "task_type_standing"
+   "task_type_standing",
+   "show_history"
      ]

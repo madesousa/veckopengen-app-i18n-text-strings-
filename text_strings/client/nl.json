@@ -1181,5 +1181,6 @@
   "bar_code_scanner_help_text_child": "Scan de code van je ouders rekening",
   "bar_code_scanner_help_text_parent": "Scan de code van de rekening van uw kind",
   "task_editor_type_of_task": "Type informatie",
-  "suggest_task_child": "Suggestie taak"
+  "suggest_task_child": "Suggestie taak",
+  "show_history": "geschiedenis bekijken"
 }

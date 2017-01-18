@@ -1181,5 +1181,6 @@
   "bar_code_scanner_help_text_child": "Skannaa koodi vanhempasi tililtä",
   "bar_code_scanner_help_text_parent": "Skannaus koodin lapsesi tilin",
   "task_editor_type_of_task": "Tiedon tyyppi",
-  "suggest_task_child": "Ehdota tehtävä"
+  "suggest_task_child": "Ehdota tehtävä",
+  "show_history": "Katso historia"
 }

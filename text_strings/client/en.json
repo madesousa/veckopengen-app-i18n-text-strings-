@@ -1181,5 +1181,6 @@
   "bar_code_scanner_help_text_child": "Scan the code from your parent's account to connect!",
   "bar_code_scanner_help_text_parent": "Scan the code from your child's account",
   "task_editor_type_of_task": "Type of task",
-  "suggest_task_child": "Suggest task"
+  "suggest_task_child": "Suggest task",
+  "show_history": "View history"
 }
