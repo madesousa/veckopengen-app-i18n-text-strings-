@@ -115,5 +115,7 @@
   "push_check_wish_list": "En månad kvar till din födelsedag. Kolla önskelistan!",
   "push_assignment_approved_parent": "{parent} godkände uppgiften {task}.",
   "dashboard_assignment_approved": "Uppgiften {task} blev godkänd.",
-  "push_payout_message_parent": "Just nu: {amount} överförs till {child} imorgon."
+  "push_payout_message_parent": "Just nu: {amount} överförs till {child} imorgon.",
+  "push_task_enabled": "Nu kan du utföra uppgiften {task}!",
+  "push_disabled_task_created": "{child} har föreslagit uppgiften {task}!"
 }

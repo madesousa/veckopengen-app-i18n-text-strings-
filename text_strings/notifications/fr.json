@@ -115,5 +115,7 @@
   "push_check_wish_list": "Un mois laissé à votre anniversaire. Consultez la liste de souhaits!",
   "push_assignment_approved_parent": "{parent} Approuvé la tâche {task}",
   "dashboard_assignment_approved": "La tâche {task} a été approuvé.",
-  "push_payout_message_parent": "Actuellement: {amount} est transféré à {child} demain."
+  "push_payout_message_parent": "Actuellement: {amount} est transféré à {child} demain.",
+  "push_task_enabled": "Maintenant, vous pouvez effectuer la tâche {task}!",
+  "push_disabled_task_created": "tâche {child} a proposé {task}!"
 }

@@ -115,5 +115,7 @@
   "push_check_wish_list": "Kuukausi vasemmalle syntymäpäivä. Tarkista toivelistalla!",
   "push_assignment_approved_parent": "{parent} Hyväksytty tehtävän {task}",
   "dashboard_assignment_approved": "Tehtävä {task} hyväksyttiin.",
-  "push_payout_message_parent": "Tällä hetkellä: {amount} siirretään {child} huomenna."
+  "push_payout_message_parent": "Tällä hetkellä: {amount} siirretään {child} huomenna.",
+  "push_task_enabled": "Nyt voit suorittaa tehtävän {task}!",
+  "push_disabled_task_created": "{child} on ehdottanut tehtäväksi {task}!"
 }

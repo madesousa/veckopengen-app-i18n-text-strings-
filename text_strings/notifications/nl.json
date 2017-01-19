@@ -115,5 +115,7 @@
   "push_check_wish_list": "Een maand over om uw verjaardag. Controleer de zoeklijst!",
   "push_assignment_approved_parent": "{parent} Goedgekeurde taak {task}.",
   "dashboard_assignment_approved": "De taak {task} doos werd goedgekeurd.",
-  "push_payout_message_parent": "Momenteel: {amount} wordt overgedragen aan {child} morgen."
+  "push_payout_message_parent": "Momenteel: {amount} wordt overgedragen aan {child} morgen.",
+  "push_task_enabled": "Nu kunt u de {task} doos uit te voeren!",
+  "push_disabled_task_created": "{child} heeft voorgesteld {task} doos!"
 }
