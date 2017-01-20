@@ -1182,5 +1182,7 @@
   "bar_code_scanner_help_text_parent": "Scan the code from your child's account",
   "task_editor_type_of_task": "Type of task",
   "suggest_task_child": "Suggest task",
-  "show_history": "View history"
+  "show_history": "View history",
+  "is_being_payed_to_bank_account": "Betalas ut till konto",
+  "payed_to_bank_account": "Paid to account"
 }
