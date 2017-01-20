@@ -115,5 +115,9 @@
   "push_check_wish_list": "En måned tilbage til din fødselsdag. Tjek ønskelisten!",
   "push_assignment_approved_parent": "{parent} godkendte opgaven {task}.",
   "dashboard_assignment_approved": "Opgaven {task} blev godkendt.",
-  "push_payout_message_parent": "I øjeblikket: {amount} overføres til {child} i morgen."
+  "push_task_enabled": "Nu kan du udføre opgaven {task}!",
+  "push_disabled_task_created": "{child} har foreslået opgave {task}!",
+  "push_weekly_payout_message_parent": "{amount} af godtgørelsen blev overført til {child}s bankkonto.",
+  "push_monthly_payout_message_parent": "{amount} af et månedligt blev overført til {child}s bankkonto.",
+  "push_charge_message_parent": "I øjeblikket: {amount} overføres til {child} morgendagens bankkonto."
 }
