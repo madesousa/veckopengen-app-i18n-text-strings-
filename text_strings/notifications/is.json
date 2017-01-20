@@ -115,7 +115,9 @@
   "push_check_wish_list": "Einn mánuður eftir að afmæli. Athugaðu óskalistanum!",
   "push_assignment_approved_parent": "{parent} æð verkefni {task}",
   "dashboard_assignment_approved": "Verkefni {task} var samþykkt.",
-  "push_payout_message_parent": "Nú: {amount} er flutt til {child} morgun.",
   "push_task_enabled": "Nú er hægt að framkvæma verkefni {task}!",
-  "push_disabled_task_created": "{child} hefur lagt verkefni {task}!"
+  "push_disabled_task_created": "{child} hefur lagt verkefni {task}!",
+  "push_weekly_payout_message_parent": "{amount} vasapeninga var flutt til {child}'s bankareikning.",
+  "push_monthly_payout_message_parent": "{amount} af mánaðarlega vasapeninga var flutt til {child}'s bankareikning.",
+  "push_charge_message_parent": "Nú: {amount} er flutt til {child}'s á morgun bankareikning."
 }

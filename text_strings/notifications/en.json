@@ -115,7 +115,9 @@
   "push_check_wish_list": "One month left to your birthday. Check the wish list!",
   "push_assignment_approved_parent": "{parent} Approved task {task}.",
   "dashboard_assignment_approved": "The task {task} was approved.",
-  "push_payout_message_parent": "{amount} will be transferred to {child} tomorrow.",
   "push_task_enabled": "Now you can perform the task {task}!",
-  "push_disabled_task_created": "{child} has proposed task {task}!"
+  "push_disabled_task_created": "{child} has proposed task {task}!",
+  "push_weekly_payout_message_parent": "{Amount} of the allowance was transferred to {child} 's bank account.",
+  "push_monthly_payout_message_parent": "{Amount} of the monthly allowance was transferred to {child} 's bank account.",
+  "push_charge_message_parent": "Currently: {amount} is transferred to {child} 's bank account tomorrow."
 }
