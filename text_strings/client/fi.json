@@ -1185,5 +1185,6 @@
   "show_history": "Katso historia",
   "is_being_payed_to_bank_account": "Maksetaan tilille",
   "payed_to_bank_account": "Maksetaan tilille",
-  "task_needs_approval": "Tämä tehtävä ehdottaa %1$d. Anna sille, jos haluat, tai poistaa sen."
+  "task_needs_approval": "Tämä tehtävä ehdottaa %1$d. Anna sille, jos haluat, tai poistaa sen.",
+  "task_needs_approval_child": "Tämä tehtävä on hyväksyttävä vanhemman ennen kuin voit tehdä."
 }

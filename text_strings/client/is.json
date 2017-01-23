@@ -1185,5 +1185,6 @@
   "show_history": "Skoða sögu",
   "is_being_payed_to_bank_account": "Greiðist á reikning",
   "payed_to_bank_account": "Greiddur til reikning",
-  "task_needs_approval": "Þetta verkefni er lagt %1$d. Gefa það út ef þú vilt, eða eyða henni."
+  "task_needs_approval": "Þetta verkefni er lagt %1$d. Gefa það út ef þú vilt, eða eyða henni.",
+  "task_needs_approval_child": "Þetta verkefni verður að vera samþykkt af foreldri áður en hægt er að framkvæma."
 }

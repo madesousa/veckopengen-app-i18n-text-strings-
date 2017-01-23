@@ -1185,5 +1185,6 @@
   "show_history": "Visa historik",
   "is_being_payed_to_bank_account": "Gæld til konto",
   "payed_to_bank_account": "Betalt til konto",
-  "task_needs_approval": "Denne opgave er foreslået af %1$d. Giv det ud, hvis du vil, eller slette det."
+  "task_needs_approval": "Denne opgave er foreslået af %1$d. Giv det ud, hvis du vil, eller slette det.",
+  "task_needs_approval_child": "Denne opgave skal godkendes af en forælder, før du kan udføre."
 }
