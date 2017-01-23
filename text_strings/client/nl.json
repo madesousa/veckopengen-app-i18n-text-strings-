@@ -1183,6 +1183,7 @@
   "task_editor_type_of_task": "Type informatie",
   "suggest_task_child": "Suggestie taak",
   "show_history": "geschiedenis bekijken",
-  "is_being_payed_to_bank_account": "Betalas ut till konto",
-  "payed_to_bank_account": "Betaald om rekening te houden"
+  "is_being_payed_to_bank_account": "Te betalen om rekening te houden",
+  "payed_to_bank_account": "Betaald om rekening te houden",
+  "task_needs_approval": "Deze taak wordt door %1$d voorgesteld. Geef het als je wilt, of te verwijderen."
 }

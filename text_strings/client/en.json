@@ -1183,6 +1183,7 @@
   "task_editor_type_of_task": "Type of task",
   "suggest_task_child": "Suggest task",
   "show_history": "View history",
-  "is_being_payed_to_bank_account": "Betalas ut till konto",
-  "payed_to_bank_account": "Paid to account"
+  "is_being_payed_to_bank_account": "Payable to account",
+  "payed_to_bank_account": "Paid to account",
+  "task_needs_approval": "This task is proposed by %1$d. Give it out if you want, or delete it."
 }

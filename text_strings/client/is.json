@@ -1183,6 +1183,7 @@
   "task_editor_type_of_task": "Gerð upplýsinga",
   "suggest_task_child": "Benda verkefni",
   "show_history": "Skoða sögu",
-  "is_being_payed_to_bank_account": "Betalas ut till konto",
-  "payed_to_bank_account": "Greiddur til reikning"
+  "is_being_payed_to_bank_account": "Greiðist á reikning",
+  "payed_to_bank_account": "Greiddur til reikning",
+  "task_needs_approval": "Þetta verkefni er lagt %1$d. Gefa það út ef þú vilt, eða eyða henni."
 }

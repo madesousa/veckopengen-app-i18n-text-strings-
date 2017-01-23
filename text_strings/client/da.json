@@ -1183,6 +1183,7 @@
   "task_editor_type_of_task": "Type af information",
   "suggest_task_child": "foreslå opgave",
   "show_history": "Visa historik",
-  "is_being_payed_to_bank_account": "Betalas ut till konto",
-  "payed_to_bank_account": "Betalt til konto"
+  "is_being_payed_to_bank_account": "Gæld til konto",
+  "payed_to_bank_account": "Betalt til konto",
+  "task_needs_approval": "Denne opgave er foreslået af %1$d. Giv det ud, hvis du vil, eller slette det."
 }

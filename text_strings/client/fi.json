@@ -1183,6 +1183,7 @@
   "task_editor_type_of_task": "Tiedon tyyppi",
   "suggest_task_child": "Ehdota tehtävä",
   "show_history": "Katso historia",
-  "is_being_payed_to_bank_account": "Betalas ut till konto",
-  "payed_to_bank_account": "Maksetaan tilille"
+  "is_being_payed_to_bank_account": "Maksetaan tilille",
+  "payed_to_bank_account": "Maksetaan tilille",
+  "task_needs_approval": "Tämä tehtävä ehdottaa %1$d. Anna sille, jos haluat, tai poistaa sen."
 }

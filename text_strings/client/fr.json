@@ -1183,6 +1183,7 @@
   "task_editor_type_of_task": "Type d'information",
   "suggest_task_child": "Proposer tâche",
   "show_history": "Voir l'historique",
-  "is_being_payed_to_bank_account": "Betalas ut till konto",
-  "payed_to_bank_account": "Payé pour compte"
+  "is_being_payed_to_bank_account": "À payer sur le compte",
+  "payed_to_bank_account": "Payé pour compte",
+  "task_needs_approval": "Cette tâche est proposé par %1$d. Donnez-lui si vous voulez, ou le supprimer."
 }
