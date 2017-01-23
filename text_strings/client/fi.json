@@ -1187,6 +1187,6 @@
   "payed_to_bank_account": "Maksetaan tilille",
   "task_needs_approval": "Tämä tehtävä ehdottaa %1$d. Anna sille, jos haluat, tai poistaa sen.",
   "task_needs_approval_child": "Tämä tehtävä on hyväksyttävä vanhemman ennen kuin voit tehdä.",
-  "days_until_trustly_payment_text_parent": "%1$d päivää jäljellä ennen rahat siirtyvät %1$d Pankkitilit",
+  "days_until_trustly_payment_text_parent": "%1$d päivää jäljellä ennen rahat siirtyvät %2$d Pankkitilit",
   "days_until_trustly_payment_text_child": "%1$d päivää aikaa rahat siirretään pankkitilille"
 }

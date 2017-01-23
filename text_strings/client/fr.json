@@ -1187,6 +1187,6 @@
   "payed_to_bank_account": "Payé pour compte",
   "task_needs_approval": "Cette tâche est proposé par %1$d. Donnez-lui si vous voulez, ou le supprimer.",
   "task_needs_approval_child": "Cette tâche doit être approuvée par un parent avant de pouvoir exécuter.",
-  "days_until_trustly_payment_text_parent": "%1$d jours à gauche jusqu'à ce que l'argent est transféré à %1$ Comptes bancaires d",
+  "days_until_trustly_payment_text_parent": "%1$d jours à gauche jusqu'à ce que l'argent est transféré à %2$d Comptes bancaires d",
   "days_until_trustly_payment_text_child": "%1$d jours à gauche jusqu'à ce que l'argent est transféré à votre compte bancaire"
 }
