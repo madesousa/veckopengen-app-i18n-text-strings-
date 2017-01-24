@@ -119,5 +119,6 @@
   "push_disabled_task_created": "{child} har foreslået opgave {task}!",
   "push_weekly_payout_message_parent": "{amount} af godtgørelsen blev overført til {child}s bankkonto.",
   "push_monthly_payout_message_parent": "{amount} af et månedligt blev overført til {child}s bankkonto.",
-  "push_charge_message_parent": "I øjeblikket: {amount} overføres til {child} morgendagens bankkonto."
+  "push_charge_message_parent": "I øjeblikket: {amount} overføres til {child} morgendagens bankkonto.",
+  "dashboard_disabled_task_created": "Foreslået opgave {task}."
 }

@@ -4,7 +4,7 @@
 var fs = require('fs')
 var translate = require('google-translate-api')
 
-let templateDir = './text_strings/client'
+let templateDir = './text_strings/notifications'
 let getPath = (file) => `${templateDir}/${file}`
 
 let translateTextStringForFile = (file, textId) => {

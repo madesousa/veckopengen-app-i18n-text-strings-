@@ -119,5 +119,6 @@
   "push_disabled_task_created": "{child} heeft voorgesteld {task} doos!",
   "push_weekly_payout_message_parent": "{amount} van de vergoeding werd overgebracht naar {child}'s bankrekening.",
   "push_monthly_payout_message_parent": "{amount} van de maandelijkse toelage werd overgebracht naar {child}'s bankrekening.",
-  "push_charge_message_parent": "Momenteel: {amount} wordt overgedragen aan {child}'s bankrekening morgen."
+  "push_charge_message_parent": "Momenteel: {amount} wordt overgedragen aan {child}'s bankrekening morgen.",
+  "dashboard_disabled_task_created": "Voorgestelde taak {task}."
 }
