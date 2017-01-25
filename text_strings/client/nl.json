@@ -1188,5 +1188,6 @@
   "task_needs_approval": "Deze taak wordt door %1$d voorgesteld. Geef het als je wilt, of te verwijderen.",
   "task_needs_approval_child": "Deze taak moet door een ouder te worden goedgekeurd voordat u kunt uitvoeren.",
   "days_until_trustly_payment_text_parent": "%1$d dagen tot het geld wordt overgedragen aan %2$d Bankrekeningen",
-  "days_until_trustly_payment_text_child": "%1$d dagen tot het geld wordt overgemaakt op uw bankrekening"
+  "days_until_trustly_payment_text_child": "%1$d dagen tot het geld wordt overgemaakt op uw bankrekening",
+  "qr_code_hint_text_parent_parent": "Wanneer de code wordt gescand door uw fammiljemedlem gekoppelde je!"
 }

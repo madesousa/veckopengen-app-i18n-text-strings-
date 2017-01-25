@@ -1188,5 +1188,6 @@
   "task_needs_approval": "This task is proposed by %1$d. Give it out if you want, or delete it.",
   "task_needs_approval_child": "This task must be approved by a parent before you can perform.",
   "days_until_trustly_payment_text_parent": "%1$d days left until the money is transferred to %2$d Bank Accounts",
-  "days_until_trustly_payment_text_child": "%1$d days left until the money is transferred to your bank account"
+  "days_until_trustly_payment_text_child": "%1$d days left until the money is transferred to your bank account",
+  "qr_code_hint_text_parent_parent": "When the code is scanned by your family member you will be connected!"
 }

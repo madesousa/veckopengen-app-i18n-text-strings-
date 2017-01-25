@@ -1188,5 +1188,6 @@
   "task_needs_approval": "Þetta verkefni er lagt %1$d. Gefa það út ef þú vilt, eða eyða henni.",
   "task_needs_approval_child": "Þetta verkefni verður að vera samþykkt af foreldri áður en hægt er að framkvæma.",
   "days_until_trustly_payment_text_parent": "%1$d dagar eftir þar til fé er flutt til %2$d bankareikninga",
-  "days_until_trustly_payment_text_child": "%1$d dagar eftir þangað sem fé er flutt á bankareikning þinn"
+  "days_until_trustly_payment_text_child": "%1$d dagar eftir þangað sem fé er flutt á bankareikning þinn",
+  "qr_code_hint_text_parent_parent": "Þegar númer er skönnuð af fammiljemedlem þinn tengt þig!"
 }

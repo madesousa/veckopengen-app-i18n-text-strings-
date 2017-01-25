@@ -1188,5 +1188,6 @@
   "task_needs_approval": "Denne oppgaven er foreslått av %1$d. Gi det ut hvis du vil, eller slette den.",
   "task_needs_approval_child": "Denne oppgaven må være godkjent av en forelder før du kan utføre.",
   "days_until_trustly_payment_text_parent": "%1$d dager igjen til pengene er overført til %2$d bankkontoer",
-  "days_until_trustly_payment_text_child": "%1$d dager igjen til pengene er overført til bankkontoen din"
+  "days_until_trustly_payment_text_child": "%1$d dager igjen til pengene er overført til bankkontoen din",
+  "qr_code_hint_text_parent_parent": "Når koden er skannet av din fammiljemedlem koblet deg opp!"
 }
