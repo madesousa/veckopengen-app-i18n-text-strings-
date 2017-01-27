@@ -1146,7 +1146,7 @@
   "day_left_to_birthday": "🎉 1 dag til fødselsdag 🎉",
   "birthday_wish_list_child": "min ønskeliste",
   "birthday_wish_list_parent": "%1$d ønskeliste",
-  "project_earth_invite_facebook": "Inviter med facebook
+  "project_earth_invite_facebook": "Inviter med facebook",
   "Birthday_popover_header": "Opret din ønskeliste!",
   "birthday_popover_desc": "Nu kan du oprette en ønskeliste til din fødselsdag og dele den med dine forældre og venner. Held og lykke!",
   "birthday_popover_create": "Opret huskeseddel",
@@ -1188,6 +1188,6 @@
   "task_needs_approval": "Denne opgave er foreslået af %1$d. Del den ud, hvis du vil, eller slet den.",
   "task_needs_approval_child": "Denne opgave skal godkendes af en forælder, før du kan udføre den.",
   "days_until_trustly_payment_text_parent": "%1$d dage tilbage, inden pengene er overført til %2$d bankkonto",
-  "days_until_trustly_payment_text_child": "%1$d dage tilbage, indtil pengene er overført til din bankkonto"
+  "days_until_trustly_payment_text_child": "%1$d dage tilbage, indtil pengene er overført til din bankkonto",
   "qr_code_hint_text_parent_parent": "Når koden er scannet, er dit familiemedlem tilknyttet dig!"
 }
