@@ -1190,6 +1190,6 @@
   "days_until_trustly_payment_text_parent": "%1$d päivää jäljellä ennen rahat siirtyvät %2$d Pankkitilit",
   "days_until_trustly_payment_text_child": "%1$d päivää aikaa rahat siirretään pankkitilille",
   "qr_code_hint_text_parent_parent": "Kun koodi skannataan oman fammiljemedlem liittyy sinut!",
-  "change_allowance_trustly_error_header": "Pågående transaktion!",
-  "change_allowance_trustly_error_desc": "Vi kan inte ändra dessa uppgifter medan en transaktion pågår! vänligen försök senare :)"
+  "change_allowance_trustly_error_header": "Vireillä kauppa!",
+  "change_allowance_trustly_error_desc": "Emme voi muuttaa näitä tietoja, kun tapahtuma on käynnissä! yritä myöhemmin :)"
 }

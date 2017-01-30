@@ -312,5 +312,6 @@
    "dashboard_assignment_completed",
    "task_type_timer",
    "task_type_standing",
-   "show_history"
+   "show_history",
+   "change_allowance_trustly_error_header"
      ]

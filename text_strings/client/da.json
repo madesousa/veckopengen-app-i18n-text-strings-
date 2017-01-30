@@ -1191,5 +1191,5 @@
   "days_until_trustly_payment_text_child": "%1$d dage tilbage, indtil pengene er overført til din bankkonto",
   "qr_code_hint_text_parent_parent": "Når koden er scannet, er dit familiemedlem tilknyttet dig!",
   "change_allowance_trustly_error_header": "Pågående transaktion!",
-  "change_allowance_trustly_error_desc": "Vi kan inte ändra dessa uppgifter medan en transaktion pågår! vänligen försök senare :)"
+  "change_allowance_trustly_error_desc": "Vi kan ikke ændre disse data, mens en transaktion er i gang! prøv senere :)"
 }
