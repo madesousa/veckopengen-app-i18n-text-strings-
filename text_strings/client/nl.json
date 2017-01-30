@@ -1189,5 +1189,7 @@
   "task_needs_approval_child": "Deze taak moet door een ouder te worden goedgekeurd voordat u kunt uitvoeren.",
   "days_until_trustly_payment_text_parent": "%1$d dagen tot het geld wordt overgedragen aan %2$d Bankrekeningen",
   "days_until_trustly_payment_text_child": "%1$d dagen tot het geld wordt overgemaakt op uw bankrekening",
-  "qr_code_hint_text_parent_parent": "Wanneer de code wordt gescand door uw fammiljemedlem gekoppelde je!"
+  "qr_code_hint_text_parent_parent": "Wanneer de code wordt gescand door uw fammiljemedlem gekoppelde je!",
+  "change_allowance_trustly_error_header": "Pågående transaktion!",
+  "change_allowance_trustly_error_desc": "Vi kan inte ändra dessa uppgifter medan en transaktion pågår! vänligen försök senare :)"
 }

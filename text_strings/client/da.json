@@ -1189,5 +1189,7 @@
   "task_needs_approval_child": "Denne opgave skal godkendes af en forælder, før du kan udføre den.",
   "days_until_trustly_payment_text_parent": "%1$d dage tilbage, inden pengene er overført til %2$d bankkonto",
   "days_until_trustly_payment_text_child": "%1$d dage tilbage, indtil pengene er overført til din bankkonto",
-  "qr_code_hint_text_parent_parent": "Når koden er scannet, er dit familiemedlem tilknyttet dig!"
+  "qr_code_hint_text_parent_parent": "Når koden er scannet, er dit familiemedlem tilknyttet dig!",
+  "change_allowance_trustly_error_header": "Pågående transaktion!",
+  "change_allowance_trustly_error_desc": "Vi kan inte ändra dessa uppgifter medan en transaktion pågår! vänligen försök senare :)"
 }

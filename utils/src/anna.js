@@ -31,7 +31,7 @@ let translateTextStringForFile = (file, textId) => {
     fs.unlinkSync(path)
     fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
   }).catch(err => {
-    return Promise.reject(new Error(`Error on textId${textId}. message:${err}. file: ${file}`))
+    return Promise.reject(new Error(`Error on textId ${textId}. message: ${err}. file: ${file}`))
   })
   // replace gamla med nya
   // sen spara till fil

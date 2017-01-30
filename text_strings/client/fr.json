@@ -1189,5 +1189,7 @@
   "task_needs_approval_child": "Cette tâche doit être approuvée par un parent avant de pouvoir exécuter.",
   "days_until_trustly_payment_text_parent": "%1$d jours à gauche jusqu'à ce que l'argent est transféré à %2$d Comptes bancaires d",
   "days_until_trustly_payment_text_child": "%1$d jours à gauche jusqu'à ce que l'argent est transféré à votre compte bancaire",
-  "qr_code_hint_text_parent_parent": "Lorsque le code est balayé par votre fammiljemedlem vous lié up!"
+  "qr_code_hint_text_parent_parent": "Lorsque le code est balayé par votre fammiljemedlem vous lié up!",
+  "change_allowance_trustly_error_header": "Pågående transaktion!",
+  "change_allowance_trustly_error_desc": "Vi kan inte ändra dessa uppgifter medan en transaktion pågår! vänligen försök senare :)"
 }
