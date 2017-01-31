@@ -1194,5 +1194,9 @@
   "change_allowance_trustly_error_desc": "Við getum ekki breytt þessum gögnum en viðskipti eru í gangi! reyndu síðar :)",
   "add_wish_error": "Title má ekki vera autt",
   "savings_goal_map_bouble_text": "Þú bjargaðir %1$d! ef þú heldur áfram á þessum hraða er %2$d vikur þar til þú nærð markmiðum þínum",
-  "trustly_big_info_text_3": "Om du vill ändra vilken dag %1$s betalas kan du göra det under barnets inställningar."
+  "trustly_big_info_text_3": "Om du vill ändra vilken dag %1$s betalas kan du göra det under barnets inställningar.",
+  "change_allowance_error_title": "Breyting% 1$d",
+  "change_allowance_error_desc": "Hafðu í huga að þegar þú breytir %1$d þá hugsanlega verðlaun frá gögnin hverfa. Því er best að breyta %1$d eftir %2$d útborgun.",
+  "this_week": "í þessari viku",
+  "this_month": "mánuði"
 }

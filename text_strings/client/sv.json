@@ -1205,5 +1205,9 @@
   "change_allowance_trustly_error_desc": "Vi kan inte ändra dessa uppgifter medan en transaktion pågår! vänligen försök senare :)",
   "add_wish_error": "Title får inte vara tom",
   "savings_goal_map_bouble_text": "Du har sparat %1$d! om du fortsätter i den här takten är de %2$d veckor tills du når ditt mål",
-  "trustly_big_info_text_3": "Om du vill ändra vilken dag %1$s betalas ut kan du göra det under barnets inställningar."
+  "trustly_big_info_text_3": "Om du vill ändra vilken dag %1$s betalas ut kan du göra det under barnets inställningar.",
+  "change_allowance_error_title": "Ändra %1$d",
+  "change_allowance_error_desc": "Tänk på att när du ändrar %1$d så kommer eventuella belöningar från uppgifter att försvinna. Det är därför bäst att ändra %1$d direkt efter %2$d utbetalning.",
+  "this_week": "veckans",
+  "this_month": "månadens"
 }

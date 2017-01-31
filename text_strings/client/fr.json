@@ -1194,5 +1194,9 @@
   "change_allowance_trustly_error_desc": "Nous ne pouvons pas changer ces données alors qu'une transaction est en cours! s'il vous plaît essayer plus tard :)",
   "add_wish_error": "Titre ne peut être vide",
   "savings_goal_map_bouble_text": "Vous avez sauvé %1$d Cards! si vous continuez à ce rythme est le %2$d semaines jusqu'à ce que vous atteignez votre objectif",
-  "trustly_big_info_text_3": "Om du vill ändra vilken dag %1$s betalas kan du göra det under barnets inställningar."
+  "trustly_big_info_text_3": "Om du vill ändra vilken dag %1$s betalas kan du göra det under barnets inställningar.",
+  "change_allowance_error_title": "Variation %1$d",
+  "change_allowance_error_desc": "Gardez à l'esprit que lorsque vous changez le %1$d alors les récompenses potentielles à partir des données disparaissent. Par conséquent, il est préférable de changer le %1$d après %2$d paiement.",
+  "this_week": "cette semaine",
+  "this_month": "mois"
 }

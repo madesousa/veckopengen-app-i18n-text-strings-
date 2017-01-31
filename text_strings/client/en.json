@@ -1194,5 +1194,9 @@
   "change_allowance_trustly_error_desc": "We can not change these data while a transaction is in progress! please try later :)",
   "add_wish_error": "Title can not be empty",
   "savings_goal_map_bouble_text": "You saved %1$d! if you continue at this rate is the %2$d weeks until you reach your goal",
-  "trustly_big_info_text_3": "Om du vill ändra vilken dag %1$s betalas kan du göra det under barnets inställningar."
+  "trustly_big_info_text_3": "Om du vill ändra vilken dag %1$s betalas kan du göra det under barnets inställningar.",
+  "change_allowance_error_title": "Change %1$d",
+  "change_allowance_error_desc": "Keep in mind that when you change the %1$d then the potential rewards from the data disappear. Therefore, it is best to change the %1$d after %2$d payout.",
+  "this_week": "this week",
+  "this_month": "month"
 }
