@@ -1193,5 +1193,5 @@
   "change_allowance_trustly_error_header": "Pågående transaktion!",
   "change_allowance_trustly_error_desc": "Vi kan ikke ændre disse data, mens en transaktion er i gang! prøv senere :)",
   "add_wish_error": "Titel kan ikke være tom",
-  "savings_goal_map_bouble_text": "Du har sparat %1$d kr! om du fortsätter i den här takten är de %2$d veckor tills du når ditt mål"
+  "savings_goal_map_bouble_text": "Du reddede %1$d! hvis du fortsætter i dette tempo er %2$d uger, indtil du når dit mål"
 }
