@@ -1192,5 +1192,6 @@
   "qr_code_hint_text_parent_parent": "Wanneer de code wordt gescand door uw fammiljemedlem gekoppelde je!",
   "change_allowance_trustly_error_header": "In afwachting transactie!",
   "change_allowance_trustly_error_desc": "We kunnen deze gegevens niet wijzigen terwijl een transactie is in volle gang! Probeer het later :)",
-  "add_wish_error": "Titel mag niet leeg zijn"
+  "add_wish_error": "Titel mag niet leeg zijn",
+  "savings_goal_map_bouble_text": "Du har sparat %1$d kr! om du fortsätter i den här takten är de %2$d veckor tills du når ditt mål"
 }

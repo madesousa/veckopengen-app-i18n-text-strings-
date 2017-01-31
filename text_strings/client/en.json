@@ -1192,5 +1192,6 @@
   "qr_code_hint_text_parent_parent": "When the code is scanned by your family member you will be connected!",
   "change_allowance_trustly_error_header": "Pending transaction!",
   "change_allowance_trustly_error_desc": "We can not change these data while a transaction is in progress! please try later :)",
-  "add_wish_error": "Title can not be empty"
+  "add_wish_error": "Title can not be empty",
+  "savings_goal_map_bouble_text": "Du har sparat %1$d kr! om du fortsätter i den här takten är de %2$d veckor tills du når ditt mål"
 }

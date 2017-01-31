@@ -1192,5 +1192,6 @@
   "qr_code_hint_text_parent_parent": "Þegar númer er skönnuð af fammiljemedlem þinn tengt þig!",
   "change_allowance_trustly_error_header": "Bíður viðskipti!",
   "change_allowance_trustly_error_desc": "Við getum ekki breytt þessum gögnum en viðskipti eru í gangi! reyndu síðar :)",
-  "add_wish_error": "Title má ekki vera autt"
+  "add_wish_error": "Title má ekki vera autt",
+  "savings_goal_map_bouble_text": "Du har sparat %1$d kr! om du fortsätter i den här takten är de %2$d veckor tills du når ditt mål"
 }
