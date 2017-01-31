@@ -16,5 +16,6 @@
   "suffix": " kr",
   "thousandsSeparator": ".",
   "decimalMark": ",",
-  "minimumSavingsBonusAmount": 50
+  "minimumSavingsBonusAmount": 50,
+  "minimumTransactionAmount": 4
 }
