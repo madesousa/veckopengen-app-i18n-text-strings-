@@ -1191,5 +1191,6 @@
   "days_until_trustly_payment_text_child": "%1$d dagar eftir þangað sem fé er flutt á bankareikning þinn",
   "qr_code_hint_text_parent_parent": "Þegar númer er skönnuð af fammiljemedlem þinn tengt þig!",
   "change_allowance_trustly_error_header": "Bíður viðskipti!",
-  "change_allowance_trustly_error_desc": "Við getum ekki breytt þessum gögnum en viðskipti eru í gangi! reyndu síðar :)"
+  "change_allowance_trustly_error_desc": "Við getum ekki breytt þessum gögnum en viðskipti eru í gangi! reyndu síðar :)",
+  "add_wish_error": "Title má ekki vera autt"
 }

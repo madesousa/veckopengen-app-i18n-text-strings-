@@ -1191,5 +1191,6 @@
   "days_until_trustly_payment_text_child": "%1$d dager igjen til pengene er overført til bankkontoen din",
   "qr_code_hint_text_parent_parent": "Når koden er skannet av din fammiljemedlem koblet deg opp!",
   "change_allowance_trustly_error_header": "Pågående transaktion!",
-  "change_allowance_trustly_error_desc": "Vi kan ikke endre disse dataene mens en transaksjon pågår! Prøv igjen senere :)"
+  "change_allowance_trustly_error_desc": "Vi kan ikke endre disse dataene mens en transaksjon pågår! Prøv igjen senere :)",
+  "add_wish_error": "Tittel kan ikke være tom"
 }

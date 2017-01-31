@@ -1202,5 +1202,6 @@
   "days_until_trustly_payment_text_child": "%1$d dagar kvar tills pengarna överförs till ditt bankonto",
   "qr_code_hint_text_parent_parent": "När koden scannas av din fammiljemedlem kopplas ni ihop!",
   "change_allowance_trustly_error_header": "Pågående transaktion!",
-  "change_allowance_trustly_error_desc": "Vi kan inte ändra dessa uppgifter medan en transaktion pågår! vänligen försök senare :)"
+  "change_allowance_trustly_error_desc": "Vi kan inte ändra dessa uppgifter medan en transaktion pågår! vänligen försök senare :)",
+  "add_wish_error": "Title får inte vara tom"
 }

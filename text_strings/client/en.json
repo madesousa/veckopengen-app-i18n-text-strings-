@@ -1191,5 +1191,6 @@
   "days_until_trustly_payment_text_child": "%1$d days left until the money is transferred to your bank account",
   "qr_code_hint_text_parent_parent": "When the code is scanned by your family member you will be connected!",
   "change_allowance_trustly_error_header": "Pending transaction!",
-  "change_allowance_trustly_error_desc": "We can not change these data while a transaction is in progress! please try later :)"
+  "change_allowance_trustly_error_desc": "We can not change these data while a transaction is in progress! please try later :)",
+  "add_wish_error": "Title can not be empty"
 }

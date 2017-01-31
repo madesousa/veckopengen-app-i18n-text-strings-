@@ -1191,5 +1191,6 @@
   "days_until_trustly_payment_text_child": "%1$d päivää aikaa rahat siirretään pankkitilille",
   "qr_code_hint_text_parent_parent": "Kun koodi skannataan oman fammiljemedlem liittyy sinut!",
   "change_allowance_trustly_error_header": "Vireillä kauppa!",
-  "change_allowance_trustly_error_desc": "Emme voi muuttaa näitä tietoja, kun tapahtuma on käynnissä! yritä myöhemmin :)"
+  "change_allowance_trustly_error_desc": "Emme voi muuttaa näitä tietoja, kun tapahtuma on käynnissä! yritä myöhemmin :)",
+  "add_wish_error": "Otsikko ei voi olla tyhjä"
 }

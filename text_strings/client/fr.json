@@ -1191,5 +1191,6 @@
   "days_until_trustly_payment_text_child": "%1$d jours à gauche jusqu'à ce que l'argent est transféré à votre compte bancaire",
   "qr_code_hint_text_parent_parent": "Lorsque le code est balayé par votre fammiljemedlem vous lié up!",
   "change_allowance_trustly_error_header": "transaction en attente!",
-  "change_allowance_trustly_error_desc": "Nous ne pouvons pas changer ces données alors qu'une transaction est en cours! s'il vous plaît essayer plus tard :)"
+  "change_allowance_trustly_error_desc": "Nous ne pouvons pas changer ces données alors qu'une transaction est en cours! s'il vous plaît essayer plus tard :)",
+  "add_wish_error": "Titre ne peut être vide"
 }
