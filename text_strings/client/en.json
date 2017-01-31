@@ -1198,5 +1198,6 @@
   "change_allowance_error_title": "Change %1$d",
   "change_allowance_error_desc": "Keep in mind that when you change the %1$d then the potential rewards from the data disappear. Therefore, it is best to change the %1$d after %2$d payout.",
   "this_week": "this week",
-  "this_month": "month"
+  "this_month": "month",
+  "add_task_mountain_pack": "Scales package"
 }
