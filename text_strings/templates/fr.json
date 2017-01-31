@@ -45,6 +45,8 @@
   "group_description_start": "--",
   "group_name_winter_special": "Winter special",
   "group_description_winter_special": "--",
+  "group_name_mountain_pack": "package Scales",
+  "group_description_mountain_pack": "--",
   "template_title_clean_room": "Städa rummet",
   "template_description_clean_room": "Ta undan saker och gör rent",
   "template_title_set_table": "Duka till middagen",
@@ -134,5 +136,15 @@
   "template_title_get_night_siblings": "Restez frères et sœurs",
   "template_description_get_night_siblings": "Intégrer les jeunes frères et sœurs dans le lit",
   "template_title_snowman": "Construire un bonhomme de neige",
-  "template_description_snowman": "Ne pas oublier le nez de carotte!"
+  "template_description_snowman": "Ne pas oublier le nez de carotte!",
+  "template_title_snowman_mountain_special": "Faire un bonhomme de neige",
+  "template_description_snowman_mountain_special": "Faites un bonhomme de neige avec les yeux et le nez. debout à côté, puis prendre une photo.",
+  "template_title_wood_mountain_special": "Construire une tour de rondins",
+  "template_description_wood_mountain_special": "Construire une tour aussi haute que possible des grumes. Fota depuis la tour.",
+  "template_title_angel_mountain_special": "Faites un ange dans la neige",
+  "template_description_angel_mountain_special": "Ajouter dans la neige et faire un ange dans la neige en déplaçant vos bras et les jambes. Ensuite, prendre une photo de l'ange.",
+  "template_title_junk_mountain_special": "Ramasser les ordures et les jeter",
+  "template_description_junk_mountain_special": "Trouver des débris et le jeter à la poubelle la plus proche peut, prendre une photo lorsque vous jetez.",
+  "template_title_dish_mountain_special": "drive",
+  "template_description_dish_mountain_special": "Aide et laver la vaisselle après le dîner et prendre une photo."
 }

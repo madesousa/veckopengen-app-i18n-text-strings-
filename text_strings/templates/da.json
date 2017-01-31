@@ -45,6 +45,8 @@
   "group_description_start": "--",
   "group_name_winter_special": "Winter special",
   "group_description_winter_special": "--",
+  "group_name_mountain_pack": "Scales pakke",
+  "group_description_mountain_pack": "--",
   "template_title_clean_room": "Gør rent på værelset",
   "template_description_clean_room": "Ryd op og gør rent",
   "template_title_set_table": "Dæk bord til aftensmad",
@@ -134,5 +136,15 @@
   "template_title_get_night_siblings": "Ophold søskende",
   "template_description_get_night_siblings": "Integrer de yngre søskende i seng",
   "template_title_snowman": "Byg en snemand",
-  "template_description_snowman": "Glem ikke den gulerod næse!"
+  "template_description_snowman": "Glem ikke den gulerod næse!",
+  "template_title_snowman_mountain_special": "Lav en snemand",
+  "template_description_snowman_mountain_special": "Lav en snemand med øjne og næse. stå ved siden af ​​og derefter tage et billede.",
+  "template_title_wood_mountain_special": "Byg et tårn af logfiler",
+  "template_description_wood_mountain_special": "Byg et tårn så højt som muligt af logfiler. Fota siden tårnet.",
+  "template_title_angel_mountain_special": "Gøre en sne engel",
+  "template_description_angel_mountain_special": "Tilføj i sneen og lave en sne engel ved at flytte dine arme og ben. Så tage et billede af englen.",
+  "template_title_junk_mountain_special": "Pick up trash og kaste",
+  "template_description_junk_mountain_special": "Find vragrester i og smide det i den nærmeste skraldespand, tage et billede, når du smider det.",
+  "template_title_dish_mountain_special": "Drive",
+  "template_description_dish_mountain_special": "Hjælp og vaske op efter middag og tage et billede."
 }

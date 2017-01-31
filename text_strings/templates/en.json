@@ -45,6 +45,8 @@
   "group_description_start": "--",
   "group_name_winter_special": "Winter special",
   "group_description_winter_special": "--",
+  "group_name_mountain_pack": "Scales package",
+  "group_description_mountain_pack": "--",
   "template_title_clean_room": "Clean the room",
   "template_description_clean_room": "Put things away and clean up",
   "template_title_set_table": "Set the table for dinner",
@@ -134,5 +136,15 @@
   "template_title_get_night_siblings": "Stay siblings",
   "template_description_get_night_siblings": "Embed the younger siblings in bed",
   "template_title_snowman": "Build a Snowman",
-  "template_description_snowman": "Do not forget the carrot nose!"
+  "template_description_snowman": "Do not forget the carrot nose!",
+  "template_title_snowman_mountain_special": "Make a Snowman",
+  "template_description_snowman_mountain_special": "Make a snowman with eyes and nose. stand next door and then take a picture.",
+  "template_title_wood_mountain_special": "Build a tower of logs",
+  "template_description_wood_mountain_special": "Build a tower as high as possible of logs. Fota since the tower.",
+  "template_title_angel_mountain_special": "Do a snow angel",
+  "template_description_angel_mountain_special": "Add in the snow and make a snow angel by moving your arms and legs. Then take a picture of the angel.",
+  "template_title_junk_mountain_special": "Pick up trash and throw",
+  "template_description_junk_mountain_special": "Find debris in and throw it in the nearest trash can, take a picture when you throw it.",
+  "template_title_dish_mountain_special": "Dish",
+  "template_description_dish_mountain_special": "Help and wash the dishes after dinner and take a picture."
 }

@@ -45,6 +45,8 @@
   "group_description_start": "--",
   "group_name_winter_special": "Winter special",
   "group_description_winter_special": "--",
+  "group_name_mountain_pack": "schalen pakket",
+  "group_description_mountain_pack": "--",
   "template_title_clean_room": "Städa rummet",
   "template_description_clean_room": "Ta undan saker och gör rent",
   "template_title_set_table": "Duka till middagen",
@@ -134,5 +136,15 @@
   "template_title_get_night_siblings": "Blijf broers en zussen",
   "template_description_get_night_siblings": "Insluiten de jongere broers en zussen in bed",
   "template_title_snowman": "Bouw een Sneeuwman",
-  "template_description_snowman": "Vergeet niet de wortel neus!"
+  "template_description_snowman": "Vergeet niet de wortel neus!",
+  "template_title_snowman_mountain_special": "Maak een sneeuwpop",
+  "template_description_snowman_mountain_special": "Maak een sneeuwpop met de ogen en neus. staan ​​naast de deur en dan een foto te nemen.",
+  "template_title_wood_mountain_special": "Bouw een toren van logs",
+  "template_description_wood_mountain_special": "Bouw een toren zo hoog mogelijk van de logs. Fota sinds de toren.",
+  "template_title_angel_mountain_special": "Gör en snöängel",
+  "template_description_angel_mountain_special": "Voeg in de sneeuw en een sneeuw engel door het bewegen van je armen en benen. neem dan een beeld van de engel.",
+  "template_title_junk_mountain_special": "Pick-up prullenbak en gooi",
+  "template_description_junk_mountain_special": "Vind puin in en gooi het in de dichtstbijzijnde prullenbak, neem een ​​foto als je gooit.",
+  "template_title_dish_mountain_special": "rit",
+  "template_description_dish_mountain_special": "Hulp en de afwas na het diner en neem een ​​foto."
 }

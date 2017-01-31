@@ -45,6 +45,8 @@
   "group_description_start": "--",
   "group_name_winter_special": "Winter special",
   "group_description_winter_special": "--",
+  "group_name_mountain_pack": "Scales pakki",
+  "group_description_mountain_pack": "-",
   "template_title_clean_room": "Städa rummet",
   "template_description_clean_room": "Ta undan saker och gör rent",
   "template_title_set_table": "Duka till middagen",
@@ -134,5 +136,15 @@
   "template_title_get_night_siblings": "Dvöl systkina",
   "template_description_get_night_siblings": "Fella yngri systkini í rúminu",
   "template_title_snowman": "Byggja snjókall",
-  "template_description_snowman": "Ekki gleyma gulrót nefið!"
+  "template_description_snowman": "Ekki gleyma gulrót nefið!",
+  "template_title_snowman_mountain_special": "Gera snjókall",
+  "template_description_snowman_mountain_special": "Gera snjókall með augu og nef. standa við hliðina og þá taka mynd.",
+  "template_title_wood_mountain_special": "Byggja turn af logs",
+  "template_description_wood_mountain_special": "Byggja turn eins hátt og mögulegt er af logs. Fota frá turninum.",
+  "template_title_angel_mountain_special": "Gera snjó engil",
+  "template_description_angel_mountain_special": "Bæta í snjónum og gera snjó engil með því að færa handleggi og fætur. Þá taka mynd af englinum.",
+  "template_title_junk_mountain_special": "Pick upp rusl og henda",
+  "template_description_junk_mountain_special": "Finndu rusl í og ​​henda henni í næsta ruslið getur, taka mynd þegar þú kasta.",
+  "template_title_dish_mountain_special": "Drive",
+  "template_description_dish_mountain_special": "Hjálp og þvo leirtau eftir kvöldmat og taka mynd."
 }

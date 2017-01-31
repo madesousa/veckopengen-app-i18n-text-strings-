@@ -45,6 +45,8 @@
   "group_description_start": "--",
   "group_name_winter_special": "Winter special",
   "group_description_winter_special": "--",
+  "group_name_mountain_pack": "Scales pakke",
+  "group_description_mountain_pack": "--",
   "template_title_clean_room": "Rydde rommet",
   "template_description_clean_room": "Ta bort saker og gjør rent",
   "template_title_set_table": "Dekk på til middagen",
@@ -134,5 +136,15 @@
   "template_title_get_night_siblings": "Hold søsken",
   "template_description_get_night_siblings": "Embed yngre søsken i seng",
   "template_title_snowman": "Bygg en snømann",
-  "template_description_snowman": "Ikke glem gulrot nese!"
+  "template_description_snowman": "Ikke glem gulrot nese!",
+  "template_title_snowman_mountain_special": "Lag en snømann",
+  "template_description_snowman_mountain_special": "Lag en snømann med øyne og nese. stå ved siden av og deretter ta et bilde.",
+  "template_title_wood_mountain_special": "Bygge et tårn av logger",
+  "template_description_wood_mountain_special": "Bygg et tårn så høyt som mulig av loggene. Fota siden tårnet.",
+  "template_title_angel_mountain_special": "Gjør en snø engel",
+  "template_description_angel_mountain_special": "Legg i snøen og lage en snø engel ved å bevege armer og ben. Så et bilde av engelen.",
+  "template_title_junk_mountain_special": "Plukk opp søppel og kaste",
+  "template_description_junk_mountain_special": "Finn rusk og kaste den i nærmeste søppelbøtta, ta et bilde når du kaster den.",
+  "template_title_dish_mountain_special": "Drive",
+  "template_description_dish_mountain_special": "Hjelp og ta oppvasken etter middag og ta et bilde."
 }
