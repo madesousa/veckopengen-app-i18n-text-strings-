@@ -1193,5 +1193,6 @@
   "change_allowance_trustly_error_header": "Bíður viðskipti!",
   "change_allowance_trustly_error_desc": "Við getum ekki breytt þessum gögnum en viðskipti eru í gangi! reyndu síðar :)",
   "add_wish_error": "Title má ekki vera autt",
-  "savings_goal_map_bouble_text": "Þú bjargaðir %1$d! ef þú heldur áfram á þessum hraða er %2$d vikur þar til þú nærð markmiðum þínum"
+  "savings_goal_map_bouble_text": "Þú bjargaðir %1$d! ef þú heldur áfram á þessum hraða er %2$d vikur þar til þú nærð markmiðum þínum",
+  "trustly_big_info_text_3": "Om du vill ändra vilken dag %1$s betalas kan du göra det under barnets inställningar."
 }

@@ -1193,5 +1193,6 @@
   "change_allowance_trustly_error_header": "Pending transaction!",
   "change_allowance_trustly_error_desc": "We can not change these data while a transaction is in progress! please try later :)",
   "add_wish_error": "Title can not be empty",
-  "savings_goal_map_bouble_text": "You saved %1$d! if you continue at this rate is the %2$d weeks until you reach your goal"
+  "savings_goal_map_bouble_text": "You saved %1$d! if you continue at this rate is the %2$d weeks until you reach your goal",
+  "trustly_big_info_text_3": "Om du vill ändra vilken dag %1$s betalas kan du göra det under barnets inställningar."
 }

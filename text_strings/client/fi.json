@@ -1193,5 +1193,6 @@
   "change_allowance_trustly_error_header": "Vireillä kauppa!",
   "change_allowance_trustly_error_desc": "Emme voi muuttaa näitä tietoja, kun tapahtuma on käynnissä! yritä myöhemmin :)",
   "add_wish_error": "Otsikko ei voi olla tyhjä",
-  "savings_goal_map_bouble_text": "Pelastit %1$d! jos jatkat tällä vauhdilla on %2$d viikkoa, kunnes olet saavuttanut tavoitteen"
+  "savings_goal_map_bouble_text": "Pelastit %1$d! jos jatkat tällä vauhdilla on %2$d viikkoa, kunnes olet saavuttanut tavoitteen",
+  "trustly_big_info_text_3": "Om du vill ändra vilken dag %1$s betalas kan du göra det under barnets inställningar."
 }
