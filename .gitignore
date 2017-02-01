@@ -2,10 +2,8 @@ node_modules
 .idea
 npm-debug.log
 .DS_Store
-sara/dest/sara.js
 
-utils/dest/jenny.js
-
-utils/dest/sara.js
-
-utils/dest/anna.js
+utils/dest/
+utils/dest/
+utils/dest/
+utils/dest/
