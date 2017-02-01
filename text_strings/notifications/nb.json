@@ -108,7 +108,7 @@
   "push_child_logged_in": "{child} har loggats in!",
   "sms_app_download": "Välkommen till Veckopengen!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{user} arkiverade sparmålet {goal}",
-  "push_weekly_assignment": "Ny oppgave for dagen er i app! ({task})",
+  "push_weekly_assignment": "Ny oppgave for dagen er i app! ({task} {value})",
   "push_new_timed_assignment": "Titte på, du har en tidsbestemt oppgave!",
   "push_new_shared_assignment": "Kikke inn i app, du konkurrerer i å fullføre en oppgave!",
   "push_new_repeating_assignment": "Sjekk ut! Du har en ny oppgave som du alltid få pengene til å utføre!",

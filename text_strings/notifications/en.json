@@ -108,7 +108,7 @@
   "push_child_logged_in": "{child} has logged in!",
   "sms_app_download": "Welcome to Gimi!!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{user} archived savings goal {goal}",
-  "push_weekly_assignment": "A new task is available for today! ({task})",
+  "push_weekly_assignment": "A new task is available for today! ({task} {value})",
   "push_new_timed_assignment": "Take a look, you have received a timed task!",
   "push_new_shared_assignment": "Check it out, you're in competition to complete a task!",
   "push_new_repeating_assignment": "Take a look, you have received a repeatable task!",
