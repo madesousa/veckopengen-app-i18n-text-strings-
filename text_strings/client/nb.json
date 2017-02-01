@@ -1199,5 +1199,7 @@
   "change_allowance_error_desc": "Husk at når du endrer %1$d da den potensielle gevinsten fra dataene forsvinner. Derfor er det best å endre %1$d etter %2$d utbetaling.",
   "this_week": "denne uken",
   "this_month": "måned",
-  "add_task_mountain_pack": "Scales pakke"
+  "add_task_mountain_pack": "Scales pakke",
+  "no_product_desc": "Ingen Produkt",
+  "task_product_header": "Velg produkt"
 }

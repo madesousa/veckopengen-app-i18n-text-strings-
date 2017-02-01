@@ -1199,5 +1199,7 @@
   "change_allowance_error_desc": "Muista, että kun muutat %1$d sitten mahdollisten palkkioiden datasta katoavat. Siksi on parasta vaihtaa %1$d kuluttua %2$d voitto.",
   "this_week": "tällä viikolla",
   "this_month": "kuukausi",
-  "add_task_mountain_pack": "Scales paketti"
+  "add_task_mountain_pack": "Scales paketti",
+  "no_product_desc": "ei Tuotteen",
+  "task_product_header": "Valitse tuote"
 }
