@@ -108,7 +108,7 @@
   "push_child_logged_in": "{child} har loggats in!",
   "sms_app_download": "Välkommen till Veckopengen!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{user} arkiverade sparmålet {goal}",
-  "push_weekly_assignment": "Uusi tehtävä päivä on app! ({task} {value})",
+  "push_weekly_assignment": "Uusi tehtävä päivä on app! ({task}, {value})",
   "push_new_timed_assignment": "Kurkistaa sisään, sinulla ajoitettu tehtävä!",
   "push_new_shared_assignment": "Kurkistaa app, olet kilpailevat Tehtävän suorittamiseen!",
   "push_new_repeating_assignment": "Tutustu! Sinulla on uusi tehtävä, joka saat aina rahat suorittaa!",
