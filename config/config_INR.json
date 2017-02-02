@@ -1,5 +1,5 @@
-
-"name": "INR",{
+{
+  "name": "INR",
   "incrementInterval" : 50,
   "cheeseburgerValue" : 50,
   "spotifyValue" : 1000,
