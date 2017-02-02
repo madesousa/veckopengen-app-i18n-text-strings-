@@ -1199,5 +1199,6 @@
   "change_allowance_error_desc": "Husk, at når du ændrer %1$d så de potentielle gevinster fra data forsvinder. Derfor er det bedst at ændre %1$d efter %2$d udbetaling.",
   "this_week": "denne uge",
   "this_month": "måned",
-  "add_task_mountain_pack": "Scales pakke"
+  "add_task_mountain_pack": "Scales pakke",
+  "navbar_header_add_savings": "Nye besparelser målrette %1$d"
 }

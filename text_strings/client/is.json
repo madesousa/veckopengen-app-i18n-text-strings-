@@ -1199,5 +1199,6 @@
   "change_allowance_error_desc": "Hafðu í huga að þegar þú breytir %1$d þá hugsanlega verðlaun frá gögnin hverfa. Því er best að breyta %1$d eftir %2$d útborgun.",
   "this_week": "í þessari viku",
   "this_month": "mánuði",
-  "add_task_mountain_pack": "Scales pakki"
+  "add_task_mountain_pack": "Scales pakki",
+  "navbar_header_add_savings": "Ný sparnað miða %1$d"
 }

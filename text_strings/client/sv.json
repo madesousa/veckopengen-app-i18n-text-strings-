@@ -1210,5 +1210,6 @@
   "change_allowance_error_desc": "Tänk på att när du ändrar %1$d så kommer eventuella belöningar från uppgifter att försvinna. Det är därför bäst att ändra %1$d direkt efter %2$d utbetalning.",
   "this_week": "veckans",
   "this_month": "månadens",
-  "add_task_mountain_pack": "Fjällpaketet"
+  "add_task_mountain_pack": "Fjällpaketet",
+  "navbar_header_add_savings": "Nytt sparmål för %1$d"
 }

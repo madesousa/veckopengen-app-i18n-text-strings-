@@ -1199,5 +1199,6 @@
   "change_allowance_error_desc": "Houd er rekening mee dat wanneer u de %1$d verander dan de mogelijke beloning van de gegevens verdwijnen. Daarom is het het beste om de %1$d veranderen na %2$d uitbetaling.",
   "this_week": "deze week",
   "this_month": "maand",
-  "add_task_mountain_pack": "schalen pakket"
+  "add_task_mountain_pack": "schalen pakket",
+  "navbar_header_add_savings": "Nieuwe besparingen richten %1$d"
 }

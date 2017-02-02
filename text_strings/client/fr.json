@@ -1199,5 +1199,6 @@
   "change_allowance_error_desc": "Gardez à l'esprit que lorsque vous changez le %1$d alors les récompenses potentielles à partir des données disparaissent. Par conséquent, il est préférable de changer le %1$d après %2$d paiement.",
   "this_week": "cette semaine",
   "this_month": "mois",
-  "add_task_mountain_pack": "package Scales"
+  "add_task_mountain_pack": "package Scales",
+  "navbar_header_add_savings": "De nouvelles économies ciblent %1$d"
 }
