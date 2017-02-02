@@ -1203,6 +1203,7 @@
   "navbar_header_add_savings": "Nye besparelser målrette %1$d",
   "history_goal_text": "Forrige besparelse mål",
   "create_goal_big_text": "Sammensæt dine egne besparelser mål",
-  "create_goal_small_text": "Skapa eget",
-  "goal_history_header": "Spara igen?"
+  "create_goal_small_text": "Skabe egne",
+  "goal_history_header": "Gem igen?"
+
 }
