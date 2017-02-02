@@ -1200,5 +1200,6 @@
   "this_week": "deze week",
   "this_month": "maand",
   "add_task_mountain_pack": "schalen pakket",
-  "navbar_header_add_savings": "Nieuwe besparingen richten %1$d"
+  "navbar_header_add_savings": "Nieuwe besparingen richten %1$d",
+  "history_goal_text": "Tidigare sparmål"
 }

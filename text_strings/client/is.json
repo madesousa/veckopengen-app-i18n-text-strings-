@@ -1200,5 +1200,6 @@
   "this_week": "í þessari viku",
   "this_month": "mánuði",
   "add_task_mountain_pack": "Scales pakki",
-  "navbar_header_add_savings": "Ný sparnað miða %1$d"
+  "navbar_header_add_savings": "Ný sparnað miða %1$d",
+  "history_goal_text": "Tidigare sparmål"
 }

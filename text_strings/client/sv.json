@@ -1211,5 +1211,6 @@
   "this_week": "veckans",
   "this_month": "månadens",
   "add_task_mountain_pack": "Fjällpaketet",
-  "navbar_header_add_savings": "Nytt sparmål för %1$d"
+  "navbar_header_add_savings": "Nytt sparmål för %1$d",
+  "history_goal_text": "Tidigare sparmål"
 }

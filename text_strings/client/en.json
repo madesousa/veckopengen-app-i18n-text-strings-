@@ -1200,5 +1200,6 @@
   "this_week": "this week",
   "this_month": "month",
   "add_task_mountain_pack": "Scales package",
-  "navbar_header_add_savings": "New savings target %1$d"
+  "navbar_header_add_savings": "New savings target %1$d",
+  "history_goal_text": "Tidigare sparmål"
 }
