@@ -1,4 +1,5 @@
 {
+  "name": "EUR",
   "incrementInterval" : 0.5,
   "cheeseburgerValue" : 1,
   "spotifyValue" : 10,
