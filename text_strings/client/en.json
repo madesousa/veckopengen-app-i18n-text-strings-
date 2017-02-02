@@ -1201,5 +1201,7 @@
   "this_month": "month",
   "add_task_mountain_pack": "Scales package",
   "navbar_header_add_savings": "New savings target %1$d",
-  "history_goal_text": "Previous saving target"
+  "history_goal_text": "Previous saving target",
+  "create_goal_big_text": "Compose your own savings goals",
+  "create_goal_small_text": "Create your own"
 }

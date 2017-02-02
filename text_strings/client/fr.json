@@ -1201,5 +1201,7 @@
   "this_month": "mois",
   "add_task_mountain_pack": "package Scales",
   "navbar_header_add_savings": "De nouvelles économies ciblent %1$d",
-  "history_goal_text": "Précédent cible d'économie"
+  "history_goal_text": "Précédent cible d'économie",
+  "create_goal_big_text": "Composez vos propres objectifs d'épargne",
+  "create_goal_small_text": "Créer votre propre"
 }

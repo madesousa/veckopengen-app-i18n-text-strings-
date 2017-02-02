@@ -1201,5 +1201,7 @@
   "this_month": "kuukausi",
   "add_task_mountain_pack": "Scales paketti",
   "navbar_header_add_savings": "Uusi säästötavoite %1$d",
-  "history_goal_text": "Edellinen säästötavoite"
+  "history_goal_text": "Edellinen säästötavoite",
+  "create_goal_big_text": "Säveltää omia säästöjä tavoitteet",
+  "create_goal_small_text": "Luo oma"
 }
