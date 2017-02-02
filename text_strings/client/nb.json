@@ -1201,5 +1201,10 @@
   "this_month": "måned",
   "add_task_mountain_pack": "Scales pakke",
   "no_product_desc": "Ingen Produkt",
-  "task_product_header": "Velg produkt"
+  "task_product_header": "Velg produkt",
+  "navbar_header_add_savings": "Nye innsparinger målrette %1$d",
+  "history_goal_text": "Forrige sparing mål",
+  "create_goal_big_text": "Komponer dine egne sparemålene",
+  "create_goal_small_text": "Lag din egen",
+  "goal_history_header": "Lagre på nytt?"
 }

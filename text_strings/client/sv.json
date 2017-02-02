@@ -1212,5 +1212,10 @@
   "this_month": "månadens",
   "add_task_mountain_pack": "Fjällpaketet",
   "no_product_desc": "No Product",
-  "task_product_header": "Select Product"
+  "task_product_header": "Select Product",
+  "navbar_header_add_savings": "Nytt sparmål för %1$d",
+  "history_goal_text": "Tidigare sparmål",
+  "create_goal_big_text": "Komponera ditt egna sparmål",
+  "create_goal_small_text": "Skapa eget",
+  "goal_history_header": "Spara igen?"
 }

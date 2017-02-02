@@ -1201,5 +1201,10 @@
   "this_month": "month",
   "add_task_mountain_pack": "Scales package",
   "no_product_desc": "No Product",
-  "task_product_header": "Select Product"
+  "task_product_header": "Select Product",
+  "navbar_header_add_savings": "New savings target %1$d",
+  "history_goal_text": "Previous saving target",
+  "create_goal_big_text": "Compose your own savings goals",
+  "create_goal_small_text": "Create your own",
+  "goal_history_header": "Save again?"
 }

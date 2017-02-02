@@ -1201,5 +1201,10 @@
   "this_month": "mánuði",
   "add_task_mountain_pack": "Scales pakki",
   "no_product_desc": "engin vara",
-  "task_product_header": "Veldu vöru"
+  "task_product_header": "Veldu vöru",
+  "navbar_header_add_savings": "Ný sparnað miða %1$d",
+  "history_goal_text": "Fyrri sparnaður miða",
+  "create_goal_big_text": "Semja eigin sparnað markmiðum",
+  "create_goal_small_text": "Búðu til þína eigin",
+  "goal_history_header": "Vista aftur?"
 }
