@@ -1206,5 +1206,6 @@
   "history_goal_text": "Fyrri sparnaður miða",
   "create_goal_big_text": "Semja eigin sparnað markmiðum",
   "create_goal_small_text": "Búðu til þína eigin",
-  "goal_history_header": "Vista aftur?"
+  "goal_history_header": "Vista aftur?",
+  "not_authenticated_error_message": "Ouuups, varst þú ekki innskráður. Villu skýrsla hefur verið send og við erum að vinna að lausn á vandanum.\n\n Reyndu að skrá þig aftur!"
 }

@@ -1206,5 +1206,6 @@
   "history_goal_text": "Vorige besparingsdoelstelling",
   "create_goal_big_text": "Stel uw eigen spaargeld doelen",
   "create_goal_small_text": "Maak je eigen",
-  "goal_history_header": "Bewaar ook alweer?"
+  "goal_history_header": "Bewaar ook alweer?",
+  "not_authenticated_error_message": "Ouuups, was je uitgelogd. Er is een fout rapport is verstuurd en we werken aan een oplossing.\n\n Probeer opnieuw in te loggen!"
 }

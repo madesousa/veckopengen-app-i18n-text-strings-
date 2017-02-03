@@ -40,16 +40,14 @@ let translateTextStringForFile = (file, textId) => {
   }).catch(err => {
     return Promise.reject(new Error(`Error on textId ${textId}. message: ${err}. file: ${file}`))
   })
-  // replace gamla med nya
-  // sen spara till fil
-
-  // Save changes
 }
 
 let textIdToTranslate = process.argv[2]
 
-// @martin parse process.argv which contains the inputs you executed the app with, for example, npm run anna -- text_id,
-// then the value of textid will be in the process.argv array at place 3 or 4
-Promise.all(fs.readdirSync(templateDir).map((file) => translateTextStringForFile(file, textIdToTranslate)))
-.then(() => console.log('saved Successfully :)'))
-.catch((err) => console.error(err))
+if (!textIdToTranslate) { console.log('use: npm run anna -- <text_id>') }
+
+if (textIdToTranslate) {
+  Promise.all(fs.readdirSync(templateDir).map((file) => translateTextStringForFile(file, textIdToTranslate)))
+    .then(() => console.log('saved Successfully :)'))
+    .catch((err) => console.error(err))
+}

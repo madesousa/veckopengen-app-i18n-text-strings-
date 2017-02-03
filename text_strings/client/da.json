@@ -1206,5 +1206,6 @@
   "history_goal_text": "Forrige besparelse mål",
   "create_goal_big_text": "Sammensæt dine egne besparelser mål",
   "create_goal_small_text": "Skabe egne",
-  "goal_history_header": "Gem igen?"
+  "goal_history_header": "Gem igen?",
+  "not_authenticated_error_message": "Ouuups, du var logget ud. En fejl rapport er blevet sendt, og vi arbejder på en løsning.\n\n Prøv at logge på igen!"
 }
