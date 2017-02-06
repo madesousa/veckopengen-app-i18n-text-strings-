@@ -120,5 +120,6 @@
   "push_weekly_payout_message_parent": "{amount} i veckopeng överfördes till {child}s bankkonto.",
   "push_monthly_payout_message_parent": "{amount} i månadspeng överfördes till {child}s bankkonto.",
   "push_charge_message_parent": "Just nu: {amount} överförs till {child}s bankkonto imorgon.",
-  "dashboard_disabled_task_created": "Föreslagit uppgiften {task}."
+  "dashboard_disabled_task_created": "Föreslagit uppgiften {task}.",
+  "push_trustly_mandate_revoked": "Ditt bankkonto är nu frånkopplad, uppdatera dina uppgifter för att använda banköverföringar."
 }

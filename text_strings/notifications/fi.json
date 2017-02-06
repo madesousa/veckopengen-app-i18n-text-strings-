@@ -120,5 +120,6 @@
   "push_weekly_payout_message_parent": "{amount} hyvityksen siirrettiin {child} pankkitilille.",
   "push_monthly_payout_message_parent": "{amount} kuukausittaista korvauksen siirrettiin {child} pankkitilille.",
   "push_charge_message_parent": "Tällä hetkellä: {amount} siirretään {child} pankkitilille huomenna.",
-  "dashboard_disabled_task_created": "Ehdotetut tehtävä {task}."
+  "dashboard_disabled_task_created": "Ehdotetut tehtävä {task}.",
+  "push_trustly_mandate_revoked": "Pankkitilisi on nyt irrotettu, päivitä tiedot käyttää tilisiirron."
 }

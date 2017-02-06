@@ -120,5 +120,6 @@
   "push_weekly_payout_message_parent": "{amount} vasapeninga var flutt til {child}'s bankareikning.",
   "push_monthly_payout_message_parent": "{amount} af mánaðarlega vasapeninga var flutt til {child}'s bankareikning.",
   "push_charge_message_parent": "Nú: {amount} er flutt til {child}'s á morgun bankareikning.",
-  "dashboard_disabled_task_created": "Leiðbeinandi verkefni {task} ."
+  "dashboard_disabled_task_created": "Leiðbeinandi verkefni {task}.",
+  "push_trustly_mandate_revoked": "bankareikning þinn er nú ótengdur, uppfæra upplýsingar til að nota millifærslur."
 }

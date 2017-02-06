@@ -4,7 +4,7 @@
 var fs = require('fs')
 var translate = require('google-translate-api')
 var AnnaHelper = require('./AnnaHelper')
-let templateDir = './text_strings/client'
+let templateDir = './text_strings/notifications'
 let getPath = (file) => `${templateDir}/${file}`
 var {toHash, fromHash} = AnnaHelper
 
