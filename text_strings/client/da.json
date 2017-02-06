@@ -1193,7 +1193,7 @@
   "change_allowance_trustly_error_desc": "Vi kan ikke ændre disse data, mens en transaktion er i gang! prøv senere :)",
   "add_wish_error": "Titel kan ikke være tom",
   "savings_goal_map_bouble_text": "Du reddede %1$d! hvis du fortsætter i dette tempo er %2$d uger, indtil du når dit mål",
-  "trustly_big_info_text_3": "Om du vill ändra vilken dag %1$s betalas kan du göra det under barnets inställningar.",
+  "trustly_big_info_text_3": "Kvote barnet normalt foretrækkes fra din konto dagen før betalingsdatoen. Hvis du ønsker at ændre nogen dage ugentlig ydelse er betalt, kan du gøre det i løbet af barnets præferencer.",
   "change_allowance_error_title": "Ændring %1$d",
   "change_allowance_error_desc": "Husk, at når du ændrer %1$d så de potentielle gevinster fra data forsvinder. Derfor er det bedst at ændre %1$d efter %2$d udbetaling.",
   "this_week": "denne uge",
