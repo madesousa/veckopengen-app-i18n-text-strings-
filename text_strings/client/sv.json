@@ -1219,5 +1219,7 @@
   "goal_history_header": "Spara igen?",
   "not_authenticated_error_message": "Ouuups, du loggades ut. En felrapport har skickats iväg och vi arbetar på en lösning. \n\n Prova att logga in igen!",
   "trustly_child_connected_account_info_weekly": "Nu betalas veckopengen ut till ditt konto automatiskt varje %1$d. Nu kan du därför föra över pengarna från din spargris till din veckopeng och placera dina belöningar direkt i veckopengen.",
-  "trustly_child_connected_account_info_monthly": "Nu betalas månadspengen ut till ditt konto automatiskt varje månad den %1$d. Nu kan du därför föra över pengarna från din spargris till din månadspeng och placera dina belöningar direkt i månadspengen."
+  "trustly_child_connected_account_info_monthly": "Nu betalas månadspengen ut till ditt konto automatiskt varje månad den %1$d. Nu kan du därför föra över pengarna från din spargris till din månadspeng och placera dina belöningar direkt i månadspengen.",
+  "about_trustly_1": "<b>Trustly Group AB</b> (org.nr 556754-8655) är ett svenskt auktoriserat betalningsinstitut under tillsyn av Finansinspektionen. Bolaget bedriver tillståndspliktig betaltjänstverksamhet i enlighet med lagen (2010:751) om betaltjänster och har genom underrättelse till Finansinspektionen tillstånd att tillhandahålla betaltjänster inom EU/EES.",
+  "about_trustly_2": "Trustly tar fram tjänster för överföringar mellan bankkonton och har idag flera stora kunder som Avanza och Paypal och de finns idag i 28 länder i Europa."
 }

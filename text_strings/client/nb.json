@@ -1208,5 +1208,7 @@
   "goal_history_header": "Lagre på nytt?",
   "not_authenticated_error_message": "Ouuups, du ble logget ut. En feilrapport er sendt, og vi jobber med en løsning.\n\n Prøv å logge på igjen!",
   "trustly_child_connected_account_info_weekly": "Nå har betalt lommepenger på kontoen din automatisk hver %1$d. Nå kan du derfor overføre penger fra sparegrisen til din ukentlige barnetrygd og plassere belønningen direkte i den ukentlige kvote.",
-  "trustly_child_connected_account_info_monthly": "Nå månedlige utbetaling betales til kontoen din automatisk hver måned %1$d. Nå kan du derfor overføre penger fra sparegrisen for den månedlige kvote og plassere belønninger rett i den månedlige utbetalingen."
+  "trustly_child_connected_account_info_monthly": "Nå månedlige utbetaling betales til kontoen din automatisk hver måned %1$d. Nå kan du derfor overføre penger fra sparegrisen for den månedlige kvote og plassere belønninger rett i den månedlige utbetalingen.",
+  "about_trustly_1": "<B> trustly Group AB </ b> (org.nr 556754-8655) er en svensk godkjente betalingsforetak under tilsyn av Finanstilsynet. Selskapet gjennomfører betalings virksomhet i samsvar med loven (2010: 751) om betalingstjenester og ved melding til Finanstilsynet for å gi betalingstjenester innenfor EU / EØS.",
+  "about_trustly_2": "Trustly utvikle tjenester for overføringer mellom bankkonti og nå har flere store kunder, Avanza og Paypal, som er i dag i 28 land i Europa."
 }

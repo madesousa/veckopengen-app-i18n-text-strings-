@@ -1208,5 +1208,7 @@
   "goal_history_header": "Enregistrer à nouveau?",
   "not_authenticated_error_message": "Ouuups, vous avez été déconnecté. Un rapport d'erreur a été envoyé et nous travaillons sur une solution.\n\n Essayez de vous connecter à nouveau!",
   "trustly_child_connected_account_info_weekly": "Maintenant, versé de l'argent de poche à votre compte automatiquement chaque %1$d. Maintenant, vous pouvez donc transférer l'argent de votre tirelire à votre allocation hebdomadaire et placez vos récompenses directement dans l'allocation hebdomadaire.",
-  "trustly_child_connected_account_info_monthly": "Maintenant, l'allocation mensuelle est versée à votre compte automatiquement chaque mois le %1$d. Maintenant, vous pouvez donc transférer l'argent de votre tirelire pour votre allocation mensuelle et placez vos récompenses en plein allocation mensuelle."
+  "trustly_child_connected_account_info_monthly": "Maintenant, l'allocation mensuelle est versée à votre compte automatiquement chaque mois le %1$d. Maintenant, vous pouvez donc transférer l'argent de votre tirelire pour votre allocation mensuelle et placez vos récompenses en plein allocation mensuelle.",
+  "about_trustly_1": "<B> trustly Group AB </ b> (org.nr 556754-8655) est un suédois établissements de paiement agréés sous la supervision de la FSA. La Société effectue des opérations de paiement, conformément à la loi (2010: 751) sur les services de paiement et par notification à l'Autorité de surveillance financière pour fournir des services de paiement au sein de l'UE / EEE.",
+  "about_trustly_2": "Trustly développer des services pour les transferts entre comptes bancaires et a maintenant plusieurs grands clients, Avanza et Paypal, qui sont actuellement dans 28 pays d'Europe."
 }
