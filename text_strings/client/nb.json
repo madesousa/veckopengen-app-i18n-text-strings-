@@ -1193,7 +1193,7 @@
   "change_allowance_trustly_error_desc": "Vi kan ikke endre disse dataene mens en transaksjon pågår! Prøv igjen senere :)",
   "add_wish_error": "Tittel kan ikke være tom",
   "savings_goal_map_bouble_text": "Du reddet %1$d! hvis du fortsetter på denne frekvensen er %2$d uker til du når målet ditt",
-  "trustly_big_info_text_3": "Om du vill ändra vilken dag %1$s betalas kan du göra det under barnets inställningar.",
+  "trustly_big_info_text_3": "Barnet kvote blir normalt foretrukket fra kontoen din dagen før utbetalingsdato. Hvis du vil endre hvilken som helst dag i uken kvote er betalt, kan du gjøre det i løpet av barnets preferanser.",
   "change_allowance_error_title": "Endring %1$d",
   "change_allowance_error_desc": "Husk at når du endrer %1$d da den potensielle gevinsten fra dataene forsvinner. Derfor er det best å endre %1$d etter %2$d utbetaling.",
   "this_week": "denne uken",
