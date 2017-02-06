@@ -336,7 +336,6 @@
   "trustly_parent_settings_text3": "Du kan enkelt avsluta överföringar till ett barn genom att gå in på 'Bankkonto och överföringar' undet ett barns inställningar",
   "trustly_parent_settings_trustly_text": "Alla kontoöverföringar sker med Trustly som står under Finansinspektionen",
   "trustly_child_account_connected_headline": "Ditt konto har registrerats!",
-  "trustly_child_connected_account_info": "Nu betalas Veckopengen ut till ditt konto automatiskt varje fredag. Nu kan du därför föra över pengarna från din spargris till din veckopeng och placera dina belöningar direkt i veckopengen.",
   "trustly_cancel_yes": "Ja, jag är säker",
   "trustly_cancel_no": "Nej",
   "trustly_cancel_all_transactions": "Vill du avsluta alla dina automatiska överföringar?",
@@ -1207,5 +1206,7 @@
   "create_goal_big_text": "Composez vos propres objectifs d'épargne",
   "create_goal_small_text": "Créer votre propre",
   "goal_history_header": "Enregistrer à nouveau?",
-  "not_authenticated_error_message": "Ouuups, vous avez été déconnecté. Un rapport d'erreur a été envoyé et nous travaillons sur une solution.\n\n Essayez de vous connecter à nouveau!"
+  "not_authenticated_error_message": "Ouuups, vous avez été déconnecté. Un rapport d'erreur a été envoyé et nous travaillons sur une solution.\n\n Essayez de vous connecter à nouveau!",
+  "trustly_child_connected_account_info_weekly": "Maintenant, versé de l'argent de poche à votre compte automatiquement chaque %1$d. Maintenant, vous pouvez donc transférer l'argent de votre tirelire à votre allocation hebdomadaire et placez vos récompenses directement dans l'allocation hebdomadaire.",
+  "trustly_child_connected_account_info_monthly": "Maintenant, l'allocation mensuelle est versée à votre compte automatiquement chaque mois le %1$d. Maintenant, vous pouvez donc transférer l'argent de votre tirelire pour votre allocation mensuelle et placez vos récompenses en plein allocation mensuelle."
 }

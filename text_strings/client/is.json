@@ -336,7 +336,6 @@
   "trustly_parent_settings_text3": "Það er einfalt að hætta við millifærslu til barnsins þíns með því að fara inn á 'Reikningar og millifærslur'hjá stillingum barnsins.",
   "trustly_parent_settings_trustly_text": "Allar reikningsmillifærslur fara í gegnum Trustly sem er í gegnum fjármálaeftirlitið FSA",
   "trustly_child_account_connected_headline": "Þinn reikningur er skráður!",
-  "trustly_child_connected_account_info": "Nú færðu borgaðan vikupening inn á reikninginn þinn sjálfvirkt á hverjum föstudegi.Þess vegna getur þú nú fært yfir peninga frá sparigrísnum yfir í vikupeninginn og komið þínum verðlaunum beint fyrir í vikupeningnum.",
   "trustly_cancel_yes": "Já, ég er viss",
   "trustly_cancel_no": "Nei",
   "trustly_cancel_all_transactions": "Viltu hætta við allar sjálfvirkar millifærslur?",
@@ -1207,5 +1206,7 @@
   "create_goal_big_text": "Semja eigin sparnað markmiðum",
   "create_goal_small_text": "Búðu til þína eigin",
   "goal_history_header": "Vista aftur?",
-  "not_authenticated_error_message": "Ouuups, varst þú ekki innskráður. Villu skýrsla hefur verið send og við erum að vinna að lausn á vandanum.\n\n Reyndu að skrá þig aftur!"
+  "not_authenticated_error_message": "Ouuups, varst þú ekki innskráður. Villu skýrsla hefur verið send og við erum að vinna að lausn á vandanum.\n\n Reyndu að skrá þig aftur!",
+  "trustly_child_connected_account_info_weekly": "Nú greiða vasapeninga á reikninginn þinn sjálfkrafa í hvert %1$d. Nú geta því að flytja peninga frá Grís bankann þinn til að vikulega barnabætur og setja gáfum þínum beint inn í vikulega vasapeninga.",
+  "trustly_child_connected_account_info_monthly": "Nú mánaðarlega vasapeninga er greidd inn á reikninginn þinn sjálfkrafa í hverjum mánuði %1$d. Nú geta því að flytja peninga frá Grís bankann þinn fyrir mánaðarlega vasapeninga og setja gáfum þínum rétt í mánaðarlega vasapeninga."
 }

@@ -336,7 +336,6 @@
   "trustly_parent_settings_text3": "Du kan enkelt avsluta överföringar till ett barn genom att gå in på 'Bankkonto och överföringar' undet ett barns inställningar",
   "trustly_parent_settings_trustly_text": "Alla kontoöverföringar sker med Trustly som står under Finansinspektionen",
   "trustly_child_account_connected_headline": "Ditt konto har registrerats!",
-  "trustly_child_connected_account_info": "Nu betalas Veckopengen ut till ditt konto automatiskt varje fredag. Nu kan du därför föra över pengarna från din spargris till din veckopeng och placera dina belöningar direkt i veckopengen.",
   "trustly_cancel_yes": "Ja, jag är säker",
   "trustly_cancel_no": "Nej",
   "trustly_cancel_all_transactions": "Vill du avsluta alla dina automatiska överföringar?",
@@ -1207,5 +1206,7 @@
   "create_goal_big_text": "Stel uw eigen spaargeld doelen",
   "create_goal_small_text": "Maak je eigen",
   "goal_history_header": "Bewaar ook alweer?",
-  "not_authenticated_error_message": "Ouuups, was je uitgelogd. Er is een fout rapport is verstuurd en we werken aan een oplossing.\n\n Probeer opnieuw in te loggen!"
+  "not_authenticated_error_message": "Ouuups, was je uitgelogd. Er is een fout rapport is verstuurd en we werken aan een oplossing.\n\n Probeer opnieuw in te loggen!",
+  "trustly_child_connected_account_info_weekly": "Nu betaalde zakgeld op uw rekening automatisch elke %1$d. Nu kun je dus het geld van je spaarpot om uw wekelijkse toelage en plaats je beloningen direct in de wekelijkse toelage.",
+  "trustly_child_connected_account_info_monthly": "Nu is de maandelijkse vergoeding wordt betaald op uw rekening automatisch elke maand de %1$d. Nu kunt u dus het geld van uw spaarpot voor uw maandelijkse toelage en plaats uw beloningen in het maandelijkse toelage."
 }

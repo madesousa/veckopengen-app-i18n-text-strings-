@@ -336,7 +336,6 @@
   "trustly_parent_settings_text3": "Du kan enkelt avslutte overføringer til et barn gjennom å gå inn på 'Bankkonto og overføringer' under et barn sine innstillinger",
   "trustly_parent_settings_trustly_text": "Alle kontooverføringer skjer med Trustly som er lagt under 'Finansinspektionen'",
   "trustly_child_account_connected_headline": "Din konto har blitt registrert!",
-  "trustly_child_connected_account_info": "Ukepengene blir nå utbetalt automatisk til din konto hver fredag. Nå kan du derfor overføre pengene fra sparegrisen din til dine ukepenger og plassere dine belønninger direkte i ukepengene.",
   "trustly_cancel_yes": "Ja, jeg er sikker",
   "trustly_cancel_no": "Nei",
   "trustly_cancel_all_transactions": "Vil du avslutte dine automatiske overføringer?",
@@ -1207,5 +1206,7 @@
   "create_goal_big_text": "Komponer dine egne sparemålene",
   "create_goal_small_text": "Lag din egen",
   "goal_history_header": "Lagre på nytt?",
-  "not_authenticated_error_message": "Ouuups, du ble logget ut. En feilrapport er sendt, og vi jobber med en løsning.\n\n Prøv å logge på igjen!"
+  "not_authenticated_error_message": "Ouuups, du ble logget ut. En feilrapport er sendt, og vi jobber med en løsning.\n\n Prøv å logge på igjen!",
+  "trustly_child_connected_account_info_weekly": "Nå har betalt lommepenger på kontoen din automatisk hver %1$d. Nå kan du derfor overføre penger fra sparegrisen til din ukentlige barnetrygd og plassere belønningen direkte i den ukentlige kvote.",
+  "trustly_child_connected_account_info_monthly": "Nå månedlige utbetaling betales til kontoen din automatisk hver måned %1$d. Nå kan du derfor overføre penger fra sparegrisen for den månedlige kvote og plassere belønninger rett i den månedlige utbetalingen."
 }

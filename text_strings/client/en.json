@@ -336,7 +336,6 @@
   "trustly_parent_settings_text3": "You can easily end transfers to a child by going into 'Bankkonto och överföringar' under a childs settings",
   "trustly_parent_settings_trustly_text": "All account transfers happens with Trustly which is controled by Finansinspektionen",
   "trustly_child_account_connected_headline": "Your account has been registered!",
-  "trustly_child_connected_account_info": "The weekly pocket money will now automatically be paid out to your account every friday. You can therefore now transfer money from your piggy bank to your weekly pocket money and place rewards directly into the weekly pocket money.",
   "trustly_cancel_yes": "Yes, i am sure",
   "trustly_cancel_no": "No",
   "trustly_cancel_all_transactions": "Do you want to end all your automatic transfers?",
@@ -1207,5 +1206,7 @@
   "create_goal_big_text": "Compose your own savings goals",
   "create_goal_small_text": "Create your own",
   "goal_history_header": "Save again?",
-  "not_authenticated_error_message": "Ouuups, you were logged out. An error report has been sent and we are working on a solution.\n\n Try to log in again!"
+  "not_authenticated_error_message": "Ouuups, you were logged out. An error report has been sent and we are working on a solution.\n\n Try to log in again!",
+  "trustly_child_connected_account_info_weekly": "Now paid pocket money to your account automatically every %1$d. Now you can therefore transfer the money from your piggy bank to your weekly allowance and place your rewards directly into the weekly allowance.",
+  "trustly_child_connected_account_info_monthly": "Now the monthly allowance is paid to your account automatically every month the %1$d. Now you can therefore transfer the money from your piggy bank for your monthly allowance and place your rewards right in the monthly allowance."
 }

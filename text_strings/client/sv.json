@@ -336,7 +336,6 @@
   "trustly_parent_settings_text3": "Du kan enkelt avsluta överföringar till ett barn genom att gå in på 'Bankkonto och överföringar' undet ett barns inställningar",
   "trustly_parent_settings_trustly_text": "Alla kontoöverföringar sker med Trustly som står under Finansinspektionen",
   "trustly_child_account_connected_headline": "Ditt konto har registrerats!",
-  "trustly_child_connected_account_info": "Nu betalas Veckopengen ut till ditt konto automatiskt varje fredag. Nu kan du därför föra över pengarna från din spargris till din veckopeng och placera dina belöningar direkt i veckopengen.",
   "trustly_cancel_yes": "Ja, jag är säker",
   "trustly_cancel_no": "Nej",
   "trustly_cancel_all_transactions": "Vill du avsluta alla dina automatiska överföringar?",
@@ -1218,5 +1217,7 @@
   "create_goal_big_text": "Komponera ditt egna sparmål",
   "create_goal_small_text": "Skapa eget",
   "goal_history_header": "Spara igen?",
-  "not_authenticated_error_message": "Ouuups, du loggades ut. En felrapport har skickats iväg och vi arbetar på en lösning. \n\n Prova att logga in igen!"
+  "not_authenticated_error_message": "Ouuups, du loggades ut. En felrapport har skickats iväg och vi arbetar på en lösning. \n\n Prova att logga in igen!",
+  "trustly_child_connected_account_info_weekly": "Nu betalas veckopengen ut till ditt konto automatiskt varje %1$d. Nu kan du därför föra över pengarna från din spargris till din veckopeng och placera dina belöningar direkt i veckopengen.",
+  "trustly_child_connected_account_info_monthly": "Nu betalas månadspengen ut till ditt konto automatiskt varje månad den %1$d. Nu kan du därför föra över pengarna från din spargris till din månadspeng och placera dina belöningar direkt i månadspengen."
 }
