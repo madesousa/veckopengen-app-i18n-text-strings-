@@ -1166,5 +1166,6 @@
   "about_trustly_1": "<B> trustly Group AB </ b> (org.nr 556.754-8655) er en svensk autoriserede betalingsinstitutter under tilsyn af Finanstilsynet. Selskabet driver betalingstransaktioner i overensstemmelse med lov (2010: 751) om betalingstjenester og ved meddelelse til Finanstilsynet til at udbyde betalingstjenester inden for EU / EØS.",
   "about_trustly_2": "Trustly udvikle tjenester til overførsler mellem bankkonti og nu har flere store kunder, Avanza og Paypal, som i øjeblikket i 28 lande i Europa.",
   "general_and": "og",
-  "suggested_task_message": "Data Publishers sendt til %1$d"
+  "suggested_task_message": "Data Publishers sendt til %1$d",
+  "trustly_child_connected_success": "Du har nu parret din bankkonto med lommepenge! Du er nødt til at bede en forælder til at slappe af deres bankkonto til deres kvoter for at kunne sende penge til dig."
 }

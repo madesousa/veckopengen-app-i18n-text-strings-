@@ -1166,5 +1166,6 @@
   "about_trustly_1": "<B> trustly Group AB </ b> (org.nr 556754-8655) est un suédois établissements de paiement agréés sous la supervision de la FSA. La Société effectue des opérations de paiement, conformément à la loi (2010: 751) sur les services de paiement et par notification à l'Autorité de surveillance financière pour fournir des services de paiement au sein de l'UE / EEE.",
   "about_trustly_2": "Trustly développer des services pour les transferts entre comptes bancaires et a maintenant plusieurs grands clients, Avanza et Paypal, qui sont actuellement dans 28 pays d'Europe.",
   "general_and": "et",
-  "suggested_task_message": "Éditeurs de données envoyées à %1$d"
+  "suggested_task_message": "Éditeurs de données envoyées à %1$d",
+  "trustly_child_connected_success": "Vous avez maintenant jumelé votre compte bancaire avec de l'argent de poche! Vous devez demander à un parent pour se détendre à leur compte bancaire à leur allocation afin d'être en mesure d'envoyer de l'argent à vous."
 }

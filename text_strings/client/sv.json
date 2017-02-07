@@ -1177,5 +1177,6 @@
   "about_trustly_1": "<b>Trustly Group AB</b> (org.nr 556754-8655) är ett svenskt auktoriserat betalningsinstitut under tillsyn av Finansinspektionen. Bolaget bedriver tillståndspliktig betaltjänstverksamhet i enlighet med lagen (2010:751) om betaltjänster och har genom underrättelse till Finansinspektionen tillstånd att tillhandahålla betaltjänster inom EU/EES.",
   "about_trustly_2": "Trustly tar fram tjänster för överföringar mellan bankkonton och har idag flera stora kunder som Avanza och Paypal och de finns idag i 28 länder i Europa.",
   "general_and": "och",
-  "suggested_task_message": "Uppgiftsförlag skickad till %1$d"
+  "suggested_task_message": "Uppgiftsförlag skickad till %1$d",
+  "trustly_child_connected_success": "Du har nu kopplat ihop ditt bankkonto med Veckopengen! Du behöver be en förälder att koppla sitt bankkonto till Veckopengen för att de ska kunna skicka pengar till dig."
 }
