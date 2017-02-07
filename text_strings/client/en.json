@@ -1167,5 +1167,6 @@
   "about_trustly_2": "Trustly develop services for transfers between bank accounts and now has several large customers, Avanza and Paypal, which are currently in 28 countries in Europe.",
   "general_and": "and",
   "suggested_task_message": "Data Publishers sent to %1$d",
-  "trustly_child_connected_success": "You have now paired your bank account with Gimi! You need to ask a parent to connect their bank account to their allowance in order to be able to send money to you."
+  "trustly_child_connected_success": "You have now paired your bank account with Gimi! You need to ask a parent to connect their bank account to their allowance in order to be able to send money to you.",
+  "trustly_success_allowance": "transferred"
 }

@@ -1167,5 +1167,6 @@
   "about_trustly_2": "Trustly kehittää palveluja väliset siirrot pankkitilien ja nyt on useita suuria asiakkaita, Avanza ja Paypal, jotka ovat tällä hetkellä 28 maassa Euroopassa.",
   "general_and": "ja",
   "suggested_task_message": "Data Publishers lähetettiin %1$d",
-  "trustly_child_connected_success": "Nyt olet yhdistänyt pankkitilin taskurahaa! Sinun täytyy kysyä vanhemman rentoutua heidän pankkitilille niiden korvaus, jotta voi lähettää rahaa teille."
+  "trustly_child_connected_success": "Nyt olet yhdistänyt pankkitilin taskurahaa! Sinun täytyy kysyä vanhemman rentoutua heidän pankkitilille niiden korvaus, jotta voi lähettää rahaa teille.",
+  "trustly_success_allowance": "siirretty"
 }

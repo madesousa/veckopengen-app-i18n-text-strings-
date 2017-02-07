@@ -1167,5 +1167,6 @@
   "about_trustly_2": "Trustly utvikle tjenester for overføringer mellom bankkonti og nå har flere store kunder, Avanza og Paypal, som er i dag i 28 land i Europa.",
   "general_and": "og",
   "suggested_task_message": "Data Utgivere sendt til %1$d",
-  "trustly_child_connected_success": "Du har nå koblet bankkontoen med lommepenger! Du må spørre en forelder til å slappe av sin bankkonto til sin kvote for å kunne sende penger til deg."
+  "trustly_child_connected_success": "Du har nå koblet bankkontoen med lommepenger! Du må spørre en forelder til å slappe av sin bankkonto til sin kvote for å kunne sende penger til deg.",
+  "trustly_success_allowance": "overføres"
 }

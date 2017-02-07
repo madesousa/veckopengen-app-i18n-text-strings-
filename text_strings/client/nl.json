@@ -1167,5 +1167,6 @@
   "about_trustly_2": "Trustly ontwikkelen diensten voor overschrijvingen tussen bankrekeningen en heeft nu een aantal grote klanten, Avanza en Paypal, die op dit moment in 28 landen in Europa.",
   "general_and": "en",
   "suggested_task_message": "Uitgevers gegevens verstuurd naar %1$d",
-  "trustly_child_connected_success": "Je hebt nu gekoppeld uw bankrekening met zakgeld! Je nodig hebt om een ​​ouder te vragen om hun bankrekening te ontspannen om hun vergoeding om te kunnen om geld te sturen naar jou."
+  "trustly_child_connected_success": "Je hebt nu gekoppeld uw bankrekening met zakgeld! Je nodig hebt om een ​​ouder te vragen om hun bankrekening te ontspannen om hun vergoeding om te kunnen om geld te sturen naar jou.",
+  "trustly_success_allowance": "overgedragen"
 }

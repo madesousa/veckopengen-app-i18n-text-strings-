@@ -1178,5 +1178,6 @@
   "about_trustly_2": "Trustly tar fram tjänster för överföringar mellan bankkonton och har idag flera stora kunder som Avanza och Paypal och de finns idag i 28 länder i Europa.",
   "general_and": "och",
   "suggested_task_message": "Uppgiftsförlag skickad till %1$d",
-  "trustly_child_connected_success": "Du har nu kopplat ihop ditt bankkonto med Veckopengen! Du behöver be en förälder att koppla sitt bankkonto till Veckopengen för att de ska kunna skicka pengar till dig."
+  "trustly_child_connected_success": "Du har nu kopplat ihop ditt bankkonto med Veckopengen! Du behöver be en förälder att koppla sitt bankkonto till Veckopengen för att de ska kunna skicka pengar till dig.",
+  "trustly_success_allowance": "Överfört"
 }
