@@ -518,7 +518,7 @@
   "add_child_allowance_weekly": "Hvilken dag i ugen?",
   "add_child_allowance_month": "Hvilken dag i måneden?",
   "add_child_allowance_forgot": "Hvad skal der ske, hvis du glemmer?",
-  "add_child_allowance_intrest_text_weekly": "Med %1$d kr. i sparegrisen bliver opsparingsbonussen \n<boldGreen>%2$d</boldGreen> i slutningen af ugen",
+  "add_child_allowance_intrest_text_weekly": "Med %1$d i sparegrisen bliver opsparingsbonussen \n<boldGreen>%2$d</boldGreen> i slutningen af ugen",
   "add_child_allowance_intrest_text_monthly": "Med %1$d i sparegrisen bliver opsparingsbonussen \n<boldGreen>%2$d</boldGreen> i slutningen af måneden",
   "add_child_allowance_intrest_headline": "Vil du give %1$d en opsparingsrente?",
   "add_child_allowance_intrest_under_headline": "Den mest sædvanlige rente lige nu er %1$d%",

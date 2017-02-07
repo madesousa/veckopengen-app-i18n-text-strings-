@@ -518,7 +518,7 @@
   "add_child_allowance_weekly": "What day of the week?",
   "add_child_allowance_month": "What day of the month?",
   "add_child_allowance_forgot": "What will happen if you forget?",
-  "add_child_allowance_intrest_text_weekly": "With %1$d kr in the piggy bank the savings bonus will be <boldGreen>%2$d</boldGreen> at the end of the week",
+  "add_child_allowance_intrest_text_weekly": "With %1$d in the piggy bank the savings bonus will be <boldGreen>%2$d</boldGreen> at the end of the week",
   "add_child_allowance_intrest_text_monthly": "With %1$d in the piggy bank the savings bonus will be <boldGreen>%2$d</boldGreen> at the end of the month",
   "add_child_allowance_intrest_headline": "Do you want to give %1$d an interest rate?",
   "add_child_allowance_intrest_under_headline": "Most common interest rate right now is %1$d%",
