@@ -8,7 +8,7 @@
   "push_update_recurring_new_tasks": "Katso! Olet saanut uusia tehtäviä!",
   "push_weekly_interest_added": "Onnea! Viikon säästöbonus on laitettu säästöpossuun",
   "push_monthly_interest_added": "Onnea! Kuukauden säästöbonus on laitettu säästöpossuun",
-  "push_goal_created": "{human} on luonut säästötavoitteeen {goal}.",
+  "push_goal_created": "{user} on luonut säästötavoitteeen {goal}.",
   "push_goal_completed_child": "Olet saavuttanut säästötavoitteen {goal}.",
   "push_goal_completed_parent": "{child} on saavuttanut säästötavoitteen {goal}.",
   "push_full_allowance_paid_out_by_parent": "%s merkitsi juuri, että olet saanut %s",

@@ -8,7 +8,7 @@
   "push_update_recurring_new_tasks": "Hey! You have got new tasks!",
   "push_weekly_interest_added": "Congratulations! This week's savings bonus has been put into your piggy bank",
   "push_monthly_interest_added": "Congratulations! This month's savings bonus has been put into your piggy bank",
-  "push_goal_created": "{human} has created the savings goal {goal}.",
+  "push_goal_created": "{user} has created the savings goal {goal}.",
   "push_goal_completed_child": "You have reached your savings goal {goal}.",
   "push_goal_completed_parent": "{child} has reached the savings goal {goal}.",
   "push_full_allowance_paid_out_by_parent": "%s marked right now that you have received your %s",

@@ -8,7 +8,7 @@
   "push_update_recurring_new_tasks": "Hohei! Du har fått nye oppgaver!",
   "push_weekly_interest_added": "Gratulerer! Ukens sparebonus har blitt lagt i sparegrisen",
   "push_monthly_interest_added": "Gratulerer! Månedens sparebonus har blitt lagt i sparegrisen",
-  "push_goal_created": "{human} har opprettet sparemålet {goal}.",
+  "push_goal_created": "{user} har opprettet sparemålet {goal}.",
   "push_goal_completed_child": "Du har uppnåt sparmålet {goal}.",
   "push_goal_completed_parent": "{child} har uppnåt sparmålet {goal}.",
   "push_full_allowance_paid_out_by_parent": "%s markerte akkurat at du fått dine %s",
