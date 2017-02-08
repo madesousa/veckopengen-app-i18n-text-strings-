@@ -1179,5 +1179,8 @@
   "general_and": "och",
   "suggested_task_message": "Uppgiftsförlag skickad till %1$d",
   "trustly_child_connected_success": "Du har nu kopplat ihop ditt bankkonto med Veckopengen! Du behöver be en förälder att koppla sitt bankkonto till Veckopengen för att de ska kunna skicka pengar till dig.",
-  "trustly_success_allowance": "Överfört"
+  "trustly_success_allowance": "Överfört",
+  "vp_startpage_slide1_text": "Text om Veckopengen 1",
+  "vp_startpage_slide2_text": "Text om Veckopengen 1",
+  "vp_startpage_slide3_text": "Text om Veckopengen 1"
 }

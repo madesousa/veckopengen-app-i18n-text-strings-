@@ -1168,5 +1168,8 @@
   "general_and": "en",
   "suggested_task_message": "Uitgevers gegevens verstuurd naar %1$d",
   "trustly_child_connected_success": "Je hebt nu gekoppeld uw bankrekening met zakgeld! Je nodig hebt om een ​​ouder te vragen om hun bankrekening te ontspannen om hun vergoeding om te kunnen om geld te sturen naar jou.",
-  "trustly_success_allowance": "overgedragen"
+  "trustly_success_allowance": "overgedragen",
+  "vp_startpage_slide1_text": "Text om Veckopengen 1 -",
+  "vp_startpage_slide2_text": "Text om Veckopengen 1 -",
+  "vp_startpage_slide3_text": "Text om Veckopengen 1 -"
 }

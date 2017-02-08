@@ -1168,5 +1168,8 @@
   "general_and": "og",
   "suggested_task_message": "Gögn Publishers send til %1$d",
   "trustly_child_connected_success": "Þú hefur nú pöruð bankareikning þinn með vasa peninga! Þú þarft að spyrja foreldri til að slaka á bankareikning sinn til bóta þeirra í því skyni að vera fær um að senda peninga til þín.",
-  "trustly_success_allowance": "flutt"
+  "trustly_success_allowance": "flutt",
+  "vp_startpage_slide1_text": "Text om Veckopengen 1 -",
+  "vp_startpage_slide2_text": "Text om Veckopengen 1 -",
+  "vp_startpage_slide3_text": "Text om Veckopengen 1 -"
 }

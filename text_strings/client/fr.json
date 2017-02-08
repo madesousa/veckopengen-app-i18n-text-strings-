@@ -1168,5 +1168,8 @@
   "general_and": "et",
   "suggested_task_message": "Éditeurs de données envoyées à %1$d",
   "trustly_child_connected_success": "Vous avez maintenant jumelé votre compte bancaire avec de l'argent de poche! Vous devez demander à un parent pour se détendre à leur compte bancaire à leur allocation afin d'être en mesure d'envoyer de l'argent à vous.",
-  "trustly_success_allowance": "transféré"
+  "trustly_success_allowance": "transféré",
+  "vp_startpage_slide1_text": "Text om Veckopengen 1 -",
+  "vp_startpage_slide2_text": "Text om Veckopengen 1 -",
+  "vp_startpage_slide3_text": "Text om Veckopengen 1 -"
 }

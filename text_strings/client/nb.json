@@ -1168,5 +1168,8 @@
   "general_and": "og",
   "suggested_task_message": "Data Utgivere sendt til %1$d",
   "trustly_child_connected_success": "Du har nå koblet bankkontoen med lommepenger! Du må spørre en forelder til å slappe av sin bankkonto til sin kvote for å kunne sende penger til deg.",
-  "trustly_success_allowance": "overføres"
+  "trustly_success_allowance": "overføres",
+  "vp_startpage_slide1_text": "Text om Veckopengen 1 -",
+  "vp_startpage_slide2_text": "Text om Veckopengen 1 -",
+  "vp_startpage_slide3_text": "Text om Veckopengen 1 -"
 }
