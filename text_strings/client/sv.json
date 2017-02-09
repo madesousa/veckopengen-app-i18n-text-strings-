@@ -1182,5 +1182,7 @@
   "trustly_success_allowance": "Överfört",
   "vp_startpage_slide1_text": "Text om Veckopengen 1",
   "vp_startpage_slide2_text": "Text om Veckopengen 1",
-  "vp_startpage_slide3_text": "Text om Veckopengen 1"
+  "vp_startpage_slide3_text": "Text om Veckopengen 1",
+  "show_reciept": "Visa kvitto",
+  "payed_to_account_magic": "Utbetalad till konto"
 }

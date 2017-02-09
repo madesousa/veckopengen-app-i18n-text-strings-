@@ -1171,5 +1171,7 @@
   "trustly_success_allowance": "transferred",
   "vp_startpage_slide1_text": "Text om Veckopengen 1 -",
   "vp_startpage_slide2_text": "Text om Veckopengen 1 -",
-  "vp_startpage_slide3_text": "Text om Veckopengen 1 -"
+  "vp_startpage_slide3_text": "Text om Veckopengen 1 -",
+  "show_reciept": "View receipt",
+  "payed_to_account_magic": "Paid to the account"
 }
