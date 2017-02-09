@@ -102,7 +102,7 @@
   "dashboard_goal_archived": "Archived savings goal {goal}",
   "dashboard_child_trustly_allowance_enabled": "Bank transactions activated",
   "dashboard_add_trustly_account": "Connect bank account",
-  "push_first_wish_created": "{child} has created a wish list",
+  "push_first_wish_created": "{child} has created their wish list with the wish {wish}!",
   "push_wish_created": "{child} has added {wish} to their wish list",
   "push_wish_deleted": "{child} has removed {wish} from their wish list",
   "push_child_logged_in": "{child} has logged in!",
