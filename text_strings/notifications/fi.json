@@ -139,5 +139,10 @@
   "monthly_allowance_parent_pre_payout_notification_1": "Dags för {child}s månadspeng2!",
   "monthly_allowance_parent_pre_payout_notification_2": "Dags för {child}s månadspeng3!",
   "monthly_allowance_parent_pre_payout_notification_3": "Dags för {child}s månadspeng4!",
-  "monthly_allowance_parent_pre_payout_notification_4": "Dags för {child}s månadspeng5!"
+  "monthly_allowance_parent_pre_payout_notification_4": "Dags för {child}s månadspeng5!",
+  "push_weekly_assignment_0": "Uusi tehtävä päivä on app! ({task}, {value}) 0",
+  "push_weekly_assignment_1": "Uusi tehtävä päivä on app! ({task}, {value}) 1",
+  "push_weekly_assignment_2": "Uusi tehtävä päivä on app! ({task}, {value}) 2",
+  "push_weekly_assignment_3": "Uusi tehtävä päivä on app! ({task}, {value}) 3",
+  "push_weekly_assignment_4": "Uusi tehtävä päivä on app! ({task}, {value}) 4"
 }

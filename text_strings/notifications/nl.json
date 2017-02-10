@@ -106,7 +106,6 @@
   "push_child_logged_in": "{child} har loggats in!",
   "sms_app_download": "Välkommen till Veckopengen!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{user} arkiverade sparmålet {goal}",
-  "push_weekly_assignment": "Nieuwe taak voor de dag is in de app! ({task}, {value})",
   "push_new_timed_assignment": "Gluren in, je hebt een getimede taak gekregen!",
   "push_new_shared_assignment": "Neem een ​​kijkje in de app, je concurreren in het voltooien van een taak!",
   "push_new_repeating_assignment": "Check out! U heeft een nieuwe taak die u altijd het geld om uit te voeren!",
@@ -139,5 +138,10 @@
   "monthly_allowance_parent_pre_payout_notification_1": "Dags för {child}s månadspeng2!",
   "monthly_allowance_parent_pre_payout_notification_2": "Dags för {child}s månadspeng3!",
   "monthly_allowance_parent_pre_payout_notification_3": "Dags för {child}s månadspeng4!",
-  "monthly_allowance_parent_pre_payout_notification_4": "Dags för {child}s månadspeng5!"
+  "monthly_allowance_parent_pre_payout_notification_4": "Dags för {child}s månadspeng5!",
+  "push_weekly_assignment_0": "Nieuwe taak voor de dag is in de app! ({task}, {value}) 0",
+  "push_weekly_assignment_1": "Nieuwe taak voor de dag is in de app! ({task}, {value}) 1",
+  "push_weekly_assignment_2": "Nieuwe taak voor de dag is in de app! ({task}, {value}) 2",
+  "push_weekly_assignment_3": "Nieuwe taak voor de dag is in de app! ({task}, {value}) 3",
+  "push_weekly_assignment_4": "Nieuwe taak voor de dag is in de app! ({task}, {value}) 4"
 }

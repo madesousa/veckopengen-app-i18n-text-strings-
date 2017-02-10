@@ -106,7 +106,6 @@
   "push_child_logged_in": "{child} has logged in!",
   "sms_app_download": "Welcome to Gimi!!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{user} archived savings goal {goal}",
-  "push_weekly_assignment": "A new task is available for today! ({task}, {value})",
   "push_new_timed_assignment": "Take a look, you have received a timed task!",
   "push_new_shared_assignment": "Check it out, you're in competition to complete a task!",
   "push_new_repeating_assignment": "Take a look, you have received a repeatable task!",
@@ -139,5 +138,10 @@
   "monthly_allowance_parent_pre_payout_notification_1": "Dags för {child}s månadspeng2!",
   "monthly_allowance_parent_pre_payout_notification_2": "Dags för {child}s månadspeng3!",
   "monthly_allowance_parent_pre_payout_notification_3": "Dags för {child}s månadspeng4!",
-  "monthly_allowance_parent_pre_payout_notification_4": "Dags för {child}s månadspeng5!"
+  "monthly_allowance_parent_pre_payout_notification_4": "Dags för {child}s månadspeng5!",
+  "push_weekly_assignment_0": "New task for the day is in the app! ({task}, {value}) 0",
+  "push_weekly_assignment_1": "New task for the day is in the app! ({task}, {value}) 1",
+  "push_weekly_assignment_2": "New task for the day is in the app! ({task}, {value}) 2",
+  "push_weekly_assignment_3": "New task for the day is in the app! ({task}, {value}) 3",
+  "push_weekly_assignment_4": "New task for the day is in the app! ({task}, {value}) 4"
 }
