@@ -1156,8 +1156,6 @@
   "task_product_header": "Sélectionner un produit",
   "navbar_header_add_savings": "De nouvelles économies ciblent %1$d",
   "history_goal_text": "Précédent cible d'économie",
-  "create_goal_big_text": "Composez vos propres objectifs d'épargne",
-  "create_goal_small_text": "Créer votre propre",
   "goal_history_header": "Enregistrer à nouveau?",
   "not_authenticated_error_message": "Ouuups, vous avez été déconnecté. Un rapport d'erreur a été envoyé et nous travaillons sur une solution.\n\n Essayez de vous connecter à nouveau!",
   "trustly_child_connected_account_info_weekly": "Maintenant, versé de l'argent de poche à votre compte automatiquement chaque %1$d. Maintenant, vous pouvez donc transférer l'argent de votre tirelire à votre allocation hebdomadaire et placez vos récompenses directement dans l'allocation hebdomadaire.",
@@ -1174,5 +1172,7 @@
   "show_reciept": "Voir la réception",
   "payed_to_account_magic": "Payé pour le compte",
   "login_again": "Connectez-vous à nouveau",
-  "goal_editor_save_new": "Créez vos propres objectifs d'épargne"
+  "goal_editor_save_new": "Créez vos propres objectifs d'épargne",
+  "create_goal_big_text": "Le sauver comme il l'a",
+  "create_goal_small_text": "Créer des objectifs d'épargne"
 }

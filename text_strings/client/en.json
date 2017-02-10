@@ -1156,8 +1156,6 @@
   "task_product_header": "Select Product",
   "navbar_header_add_savings": "New savings target %1$d",
   "history_goal_text": "Previous saving target",
-  "create_goal_big_text": "Compose your own savings goals",
-  "create_goal_small_text": "Create your own",
   "goal_history_header": "Save again?",
   "not_authenticated_error_message": "Ouuups, you were logged out. An error report has been sent and we are working on a solution.\n\n Try to log in again!",
   "trustly_child_connected_account_info_weekly": "Now paid pocket money to your account automatically every %1$d. Now you can therefore transfer the money from your piggy bank to your weekly allowance and place your rewards directly into the weekly allowance.",
@@ -1174,5 +1172,7 @@
   "show_reciept": "View receipt",
   "payed_to_account_magic": "Paid to the account",
   "login_again": "Login again",
-  "goal_editor_save_new": "Create your own savings goals"
+  "goal_editor_save_new": "Create your own savings goals",
+  "create_goal_big_text": "The save as he has",
+  "create_goal_small_text": "Create savings goals"
 }

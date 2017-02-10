@@ -1156,8 +1156,6 @@
   "task_product_header": "Valitse tuote",
   "navbar_header_add_savings": "Uusi säästötavoite %1$d",
   "history_goal_text": "Edellinen säästötavoite",
-  "create_goal_big_text": "Säveltää omia säästöjä tavoitteet",
-  "create_goal_small_text": "Luo oma",
   "goal_history_header": "Tallenna uudelleen?",
   "not_authenticated_error_message": "Ouuups, olit kirjautunut ulos. Virheraportti on lähetetty ja olemme kehittämässä ratkaisua.\n\n Yritä kirjautua uudelleen!",
   "trustly_child_connected_account_info_weekly": "Nyt maksetaan taskurahaa tilillesi automaattisesti jokaisen %1$d. Nyt voit siis siirtää rahaa säästöpossu omaan viikkoraha ja aseta palkintoja suoraan viikkoraha.",
@@ -1174,5 +1172,7 @@
   "show_reciept": "Katso kuitti",
   "payed_to_account_magic": "Maksetaan tilille",
   "login_again": "Kirjaudu uudelleen",
-  "goal_editor_save_new": "Luo oma säästöjä tavoitteet"
+  "goal_editor_save_new": "Luo oma säästöjä tavoitteet",
+  "create_goal_big_text": "Tallenna nimellä hänellä on",
+  "create_goal_small_text": "Luo säästöjä tavoitteet"
 }

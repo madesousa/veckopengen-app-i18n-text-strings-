@@ -1167,8 +1167,6 @@
   "task_product_header": "Välj produkt",
   "navbar_header_add_savings": "Nytt sparmål för %1$d",
   "history_goal_text": "Tidigare sparmål",
-  "create_goal_big_text": "Komponera ditt egna sparmål",
-  "create_goal_small_text": "Skapa eget",
   "goal_history_header": "Spara igen?",
   "not_authenticated_error_message": "Ouuups, du loggades ut. En felrapport har skickats iväg och vi arbetar på en lösning. \n\n Prova att logga in igen!",
   "trustly_child_connected_account_info_weekly": "Nu betalas veckopengen ut till ditt konto automatiskt varje %1$d. Nu kan du därför föra över pengarna från din spargris till din veckopeng och placera dina belöningar direkt i veckopengen.",
@@ -1185,5 +1183,7 @@
   "show_reciept": "Visa kvitto",
   "payed_to_account_magic": "Utbetalad till konto",
   "login_again": "Logga in igen",
-  "goal_editor_save_new": "Skapa eget sparmål"
+  "goal_editor_save_new": "Skapa eget sparmål",
+  "create_goal_big_text": "Den som spar han har",
+  "create_goal_small_text": "Skapa sparmål"
 }

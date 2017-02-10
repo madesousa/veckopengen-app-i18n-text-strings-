@@ -1156,8 +1156,6 @@
   "task_product_header": "Vælg produkt",
   "navbar_header_add_savings": "Nye besparelser målrette %1$d",
   "history_goal_text": "Forrige besparelse mål",
-  "create_goal_big_text": "Sammensæt dine egne besparelser mål",
-  "create_goal_small_text": "Skabe egne",
   "goal_history_header": "Gem igen?",
   "not_authenticated_error_message": "Ouuups, du var logget ud. En fejl rapport er blevet sendt, og vi arbejder på en løsning.\n\n Prøv at logge på igen!",
   "trustly_child_connected_account_info_weekly": "Nu betalt lommepenge til din konto automatisk hver %1$d. Nu kan du derfor overføre penge fra din sparegris til din ugentlige ydelse og placere dine belønninger direkte i ugentlig ydelse.",
@@ -1174,5 +1172,7 @@
   "show_reciept": "Vis kvittering",
   "payed_to_account_magic": "Betalt til kontoen",
   "login_again": "Logga in igen",
-  "goal_editor_save_new": "Skapa eget sparmål"
+  "goal_editor_save_new": "Skapa eget sparmål",
+  "create_goal_big_text": "Den som spar han har",
+  "create_goal_small_text": "Opret besparelser mål"
 }
