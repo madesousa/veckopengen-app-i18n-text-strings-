@@ -167,7 +167,6 @@
   "goal_met_text": "%1$d har oppnådd sparemålet\n\"%2$d\"",
   "goal_editor_title_edit": "Rediger sparemål",
   "goal_editor_title_new": "Nytt sparemål",
-  "goal_editor_save_new": "Skape sparemål",
   "goal_editor_save_edit": "Lagre",
   "goal_editor_title_input_hint": "Hva vil du spare til?",
   "goal_editor_description_input_hint": "Beskrivelse (Valgfri)",
@@ -1174,5 +1173,6 @@
   "vp_startpage_slide3_text": "Text om Veckopengen 1 -",
   "show_reciept": "Vis kvittering",
   "payed_to_account_magic": "Betales til konto",
-  "login_again": "Logg inn igjen"
+  "login_again": "Logg inn igjen",
+  "goal_editor_save_new": "Skapa eget spørsmål"
 }

@@ -167,7 +167,6 @@
   "goal_met_text": "%1$d hefur náð markmiði\n\"%2$d\"",
   "goal_editor_title_edit": "Breyta markmiði",
   "goal_editor_title_new": "Nýtt markmið",
-  "goal_editor_save_new": "Búa til markmið",
   "goal_editor_save_edit": "vista",
   "goal_editor_title_input_hint": "fyrir hverju villt þú spara?",
   "goal_editor_description_input_hint": "Lýsing (sjálfval)",
@@ -1174,5 +1173,6 @@
   "vp_startpage_slide3_text": "Text om Veckopengen 1 -",
   "show_reciept": "Skoða kvittun",
   "payed_to_account_magic": "Greiddur til reikning",
-  "login_again": "Innskráning aftur"
+  "login_again": "Innskráning aftur",
+  "goal_editor_save_new": "Búðu til þinn eigin sparnað markmiðum"
 }

@@ -167,7 +167,6 @@
   "goal_met_text": "%1$d has achieved the savings goal\n\"%2$d\"",
   "goal_editor_title_edit": "Edit savings goal",
   "goal_editor_title_new": "New savings goal",
-  "goal_editor_save_new": "Create savings goal",
   "goal_editor_save_edit": "Save",
   "goal_editor_title_input_hint": "What are you saving for?",
   "goal_editor_description_input_hint": "Description (Optional)",
@@ -1174,5 +1173,6 @@
   "vp_startpage_slide3_text": "Text om Veckopengen 1 -",
   "show_reciept": "View receipt",
   "payed_to_account_magic": "Paid to the account",
-  "login_again": "Login again"
+  "login_again": "Login again",
+  "goal_editor_save_new": "Create your own savings goals"
 }

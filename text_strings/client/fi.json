@@ -167,7 +167,6 @@
   "goal_met_text": "%1$d on saavuttanut säästötavoitteet\n\"%2$d\"",
   "goal_editor_title_edit": "Muokkaa säästötavoitetta",
   "goal_editor_title_new": "Uusi säästötavoite",
-  "goal_editor_save_new": "Luo säästötavoite",
   "goal_editor_save_edit": "Tallenna",
   "goal_editor_title_input_hint": "Mitä varten haluat säästää?",
   "goal_editor_description_input_hint": "Kuvaus (ei pakollinen)",
@@ -1174,5 +1173,6 @@
   "vp_startpage_slide3_text": "Text om Veckopengen 1 -",
   "show_reciept": "Katso kuitti",
   "payed_to_account_magic": "Maksetaan tilille",
-  "login_again": "Kirjaudu uudelleen"
+  "login_again": "Kirjaudu uudelleen",
+  "goal_editor_save_new": "Luo oma säästöjä tavoitteet"
 }

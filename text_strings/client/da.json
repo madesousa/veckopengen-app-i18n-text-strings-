@@ -167,7 +167,6 @@
   "goal_met_text": "%1$d har opnået opsparingsmålet\n\"%2$d\"",
   "goal_editor_title_edit": "Redigere opsparingsmål",
   "goal_editor_title_new": "Nyt opsparingsmål",
-  "goal_editor_save_new": "Opret opsparingsmål",
   "goal_editor_save_edit": "Gem",
   "goal_editor_title_input_hint": "Hvad vil du spare op til?",
   "goal_editor_description_input_hint": "Beskrivelse (Valgfri)",
@@ -1174,5 +1173,6 @@
   "vp_startpage_slide3_text": "Text om Veckopengen 1 -",
   "show_reciept": "Vis kvittering",
   "payed_to_account_magic": "Betalt til kontoen",
-  "login_again": "Logga in igen"
+  "login_again": "Logga in igen",
+  "goal_editor_save_new": "Skapa eget sparmål"
 }

@@ -167,7 +167,6 @@
   "goal_met_text": "%1$d har uppnått sparmålet\n\"%2$d\"",
   "goal_editor_title_edit": "Redigera sparmål",
   "goal_editor_title_new": "Nytt sparmål",
-  "goal_editor_save_new": "Skapa sparmål",
   "goal_editor_save_edit": "Spara",
   "goal_editor_title_input_hint": "Vad vill du spara till?",
   "goal_editor_description_input_hint": "Beskrivning (Valfri)",
@@ -1174,5 +1173,6 @@
   "vp_startpage_slide3_text": "Text om Veckopengen 1 -",
   "show_reciept": "Voir la réception",
   "payed_to_account_magic": "Payé pour le compte",
-  "login_again": "Connectez-vous à nouveau"
+  "login_again": "Connectez-vous à nouveau",
+  "goal_editor_save_new": "Créez vos propres objectifs d'épargne"
 }
