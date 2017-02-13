@@ -1173,6 +1173,6 @@
   "payed_to_account_magic": "Paid to the account",
   "login_again": "Login again",
   "goal_editor_save_new": "Create your own savings goals",
-  "create_goal_big_text": "The save as he has",
-  "create_goal_small_text": "Create savings goals"
+  "create_goal_big_text": "Compose your own savings goals",
+  "create_goal_small_text": "Create your own"
 }
