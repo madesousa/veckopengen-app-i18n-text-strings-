@@ -509,7 +509,7 @@
   "edit_child_interest": "Vil du ændre %1$d opsparingsrente?",
   "add_child_tasks_info_headline": "Godt gået!",
   "add_child_task_info_text_good": "Du har valgt <boldGreen>%1$d %2$d</boldGreen>, og %3$d vil lære at tage ansvar og at god opførsel belønnes.",
-  "add_child_task_info_text_bad": "Du har valgt <boldRed>%1$d %2$d</boldRed>, og %3$d lærer ikke at tage ansvar og at god opførsel belønnes.",
+  "add_child_task_info_text_bad": "Du har valgt <boldRed>%1$d %2$d</boldRed>. %3$d vil hjælpe mere hjemme, hvis du deler nogle opgaver!",
   "add_child_task_one": "opgave",
   "add_child_task_multi": "opgaver",
   "add_child_task_first": "Tilføj en første opgave!",
