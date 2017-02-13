@@ -509,7 +509,7 @@
   "edit_child_interest": "Haluatko muuttaa %1$dn säästökorkoa?",
   "add_child_tasks_info_headline": "Hyvin tehty!",
   "add_child_task_info_text_good": "Olet valinnut <boldGreen>%1$d %2$d</boldGreen> ja %3$d oppii kantamaan vastuuta ja odottamaan palkintoa hyvästä käytöksestä.",
-  "add_child_task_info_text_bad": "Olet valinnut <boldRed>%1$d %2$d</boldRed> ja %3$d ei opi kantamaan vastuuta ja odottamaan palkintoa hyvästä käytöksestä.",
+  "add_child_task_info_text_bad": "Olet valinnut <boldRed>%1$d %2$d</boldRed>. %3$d auttaa enemmän kotona, jos jaat tietoja!",
   "add_child_task_one": "Tehtävä",
   "add_child_task_multi": "Tehtävät",
   "add_child_task_first": "Lisää ensimmäinen tehtävä!",
