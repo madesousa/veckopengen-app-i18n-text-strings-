@@ -2,7 +2,11 @@
 
 // @martin, alright, i would first do this as a seperate project called anna becuase we dont want to screw up sara and this might not work
 var fs = require('fs')
-var translate = require('google-translate-api')
+var translate = require('@google-cloud/translate')({
+  projectId: 'gimi-969a7',
+  keyFilename: './utils/gkey/Gimi-b4f63676ca99.json'
+})
+
 var AnnaHelper = require('./AnnaHelper')
 let templateDir = './text_strings/client'
 let getPath = (file) => `${templateDir}/${file}`
@@ -30,15 +34,16 @@ let translateTextStringForFile = (file, textId) => {
   // hash %1$d to num evals to work with google translate
   stringToTranslate = toHash(stringToTranslate)
 
-  return translate(stringToTranslate, {to: lang}).then(res => {
-    var translatedText = fromHash(res.text)
+  return translate.translate(stringToTranslate, lang, (err, translation) => {
+    if (err) {
+      return console.log(`Error on textId ${textId}. message: ${err}. file: ${file}`)
+    }
+    var translatedText = fromHash(translation)
     console.log(`Translated text: '${stringToTranslate}' to: '${translatedText}' in ${file}`)
     TextStrings[textId] = translatedText
     TextStrings = JSON.stringify(TextStrings, undefined, 2)
     fs.unlinkSync(path)
-    fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
-  }).catch(err => {
-    return Promise.reject(new Error(`Error on textId ${textId}. message: ${err}. file: ${file}`))
+    return fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
   })
 }
 
