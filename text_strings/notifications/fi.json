@@ -114,9 +114,9 @@
   "push_monthly_allowance_pre_payout_parent_2": "{child}n kuukausirahan aika",
   "push_monthly_allowance_pre_payout_parent_3": "{child}n kuukausirahan aika",
   "push_monthly_allowance_pre_payout_parent_4": "{child}n kuukausirahan aika",
-  "push_weekly_assignment_0": "Uusi tehtävä päivä on app! ({task}, {value})",
-  "push_weekly_assignment_1": "Uusi tehtävä päivä on app! ({task}, {value})",
-  "push_weekly_assignment_2": "Uusi tehtävä päivä on app! ({task}, {value})",
-  "push_weekly_assignment_3": "Uusi tehtävä päivä on app! ({task}, {value})",
-  "push_weekly_assignment_4": "Uusi tehtävä päivä on app! ({task}, {value})"
+  "push_weekly_assignment_0": "Tänään, voit {task} varten {value}, joka deal!",
+  "push_weekly_assignment_1": "Huomenta ystävät! Nykyään voit ansaita {value}! Mene app ja katso, mitä tehtävää olet tekemässä!",
+  "push_weekly_assignment_2": "Olet saanut uuden tehtävän: {task} sisään ja katso, mitä voit ansaita!",
+  "push_weekly_assignment_3": "Uusi tehtävä! Jee! Voit tulla {value} rikkaampi! App tarkistaa, mitä tehtävää teet!",
+  "push_weekly_assignment_4": "Uusi tehtävä! {task} Box! App ja katso, mitä voit ansaita!"
 }

@@ -114,9 +114,9 @@
   "push_monthly_allowance_pre_payout_parent_2": "Time for {child}'s monthly allowance!",
   "push_monthly_allowance_pre_payout_parent_3": "Time for {child}'s monthly allowance!",
   "push_monthly_allowance_pre_payout_parent_4": "Time for {child}'s monthly allowance!",
-  "push_weekly_assignment_0": "Nouvelle tâche pour la journée est dans l'application! ({task}, {value})",
-  "push_weekly_assignment_1": "Nouvelle tâche pour la journée est dans l'application! ({task}, {value})",
-  "push_weekly_assignment_2": "Nouvelle tâche pour la journée est dans l'application! ({task}, {value})",
-  "push_weekly_assignment_3": "Nouvelle tâche pour la journée est dans l'application! ({task}, {value})",
-  "push_weekly_assignment_4": "Nouvelle tâche pour la journée est dans l'application! ({task}, {value})"
+  "push_weekly_assignment_0": "Aujourd'hui, vous pouvez {task} pour {value}, qui traitent!",
+  "push_weekly_assignment_1": "Les bons amis du matin! Aujourd'hui, vous pouvez gagner {value}! Allez dans l'application et voir ce que la tâche que vous faites!",
+  "push_weekly_assignment_2": "Vous avez reçu une nouvelle tâche: {task} et vérifier ce que vous pouvez gagner!",
+  "push_weekly_assignment_3": "Nouvelle tâche! Yay! Vous pouvez devenir {value} plus riche! Dans l'application pour vérifier ce que la tâche que vous faites!",
+  "push_weekly_assignment_4": "Nouvelle tâche! {task} Box! Dans l'application et vérifier ce que vous pouvez gagner!"
 }

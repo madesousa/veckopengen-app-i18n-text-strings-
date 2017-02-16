@@ -114,9 +114,9 @@
   "push_monthly_allowance_pre_payout_parent_2": "Tími fyrir {child}'s månadspeng3!",
   "push_monthly_allowance_pre_payout_parent_3": "Tími fyrir {child}'s månadspeng4!",
   "push_monthly_allowance_pre_payout_parent_4": "Tími fyrir {child}'s månadspeng5!",
-  "push_weekly_assignment_0": "Ný verkefni fyrir daginn er í forritinu! ({task}, {value}) 0",
-  "push_weekly_assignment_1": "Ný verkefni fyrir daginn er í forritinu! ({task}, {value}) 1",
-  "push_weekly_assignment_2": "Ný verkefni fyrir daginn er í forritinu! ({task}, {value}) 2",
-  "push_weekly_assignment_3": "Ný verkefni fyrir daginn er í forritinu! ({task}, {value}) 3",
-  "push_weekly_assignment_4": "Ný verkefni fyrir daginn er í forritinu! ({task}, {value}) 4"
+  "push_weekly_assignment_0": "Í dag, getur þú {task} fyrir {value}, sem fjalla!",
+  "push_weekly_assignment_1": "Góðan daginn vinir! Í dag er hægt að vinna sér inn {value}! Farið inn í app og sjá hvað verkefni sem þú ert að gera!",
+  "push_weekly_assignment_2": "Þú hefur fengið ný verkefni: {task} í og ​​athuga hvað þú getur fengið!",
+  "push_weekly_assignment_3": "Nýtt Task! Yay! Þú getur orðið {value} ríkari! Í forritinu til að athuga hvað verkefni sem þú ert að gera!",
+  "push_weekly_assignment_4": "Nýtt verkefni! {task} Box! Í forritinu og athuga hvað þú getur fengið!"
 }

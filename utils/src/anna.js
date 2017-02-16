@@ -8,51 +8,56 @@ var translate = require('@google-cloud/translate')({
 })
 
 var AnnaHelper = require('./AnnaHelper')
-let templateDir = './text_strings/client'
-let getPath = (file) => `${templateDir}/${file}`
-var {toHash, fromHash} = AnnaHelper
+let templateDir = ['./text_strings/client', './text_strings/notifications', './text_strings/templates']
 
-let translateTextStringForFile = (file, textId) => {
-  if (file === 'default.json') { return Promise.resolve() }
-  if (file.indexOf('.json') === -1) { return Promise.resolve() }
+let RunAnna = (filePath):* => {
+  let getPath = (file) => `${filePath}/${file}`
+  var {toHash, fromHash} = AnnaHelper
+  let translateTextStringForFile = (file, textId) => {
+    if (file === 'default.json') { return Promise.resolve() }
+    if (file.indexOf('.json') === -1) { return Promise.resolve() }
 
-  if (file === 'sv.json') {
-    return Promise.resolve()
-  }
-
-  var path = getPath(file)
-  var TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
-  TextStrings = JSON.parse(TextStrings)
-  var stringToTranslate = TextStrings[textId]
-
-  if (!stringToTranslate) { return Promise.reject(`Cant find textid: ${textId} in file: ${path}`) }
-  var lang = file.replace('TextStrings_', '').replace('.json', '')
-  if (lang === 'nb') {
-    lang = 'no'
-  }
-
-  // hash %1$d to num evals to work with google translate
-  stringToTranslate = toHash(stringToTranslate)
-
-  return translate.translate(stringToTranslate, lang, (err, translation) => {
-    if (err) {
-      return console.log(`Error on textId ${textId}. message: ${err}. file: ${file}`)
+    if (file === 'sv.json') {
+      return Promise.resolve()
     }
-    var translatedText = fromHash(translation)
-    console.log(`Translated text: '${stringToTranslate}' to: '${translatedText}' in ${file}`)
-    TextStrings[textId] = translatedText
-    TextStrings = JSON.stringify(TextStrings, undefined, 2)
-    fs.unlinkSync(path)
-    return fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
-  })
+
+    var path = getPath(file)
+    var TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
+    TextStrings = JSON.parse(TextStrings)
+    var stringToTranslate = TextStrings[textId]
+
+    if (!stringToTranslate) { return Promise.reject(`Cant find textid: ${textId} in file: ${path}`) }
+    var lang = file.replace('TextStrings_', '').replace('.json', '')
+    if (lang === 'nb') {
+      lang = 'no'
+    }
+
+    // hash %1$d to num evals to work with google translate
+    stringToTranslate = toHash(stringToTranslate)
+
+    return translate.translate(stringToTranslate, lang, (err, translation) => {
+      if (err) {
+        return console.log(`Error on textId ${textId}. message: ${err}. file: ${file}`)
+      }
+      var translatedText = fromHash(translation)
+      console.log(`Translated text: '${stringToTranslate}' to: '${translatedText}' in ${filePath}/${file}`)
+      TextStrings[textId] = translatedText
+      TextStrings = JSON.stringify(TextStrings, undefined, 2)
+      fs.unlinkSync(path)
+      return fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
+    })
+  }
+
+  let textIdToTranslate = process.argv[2]
+
+  if (!textIdToTranslate) { console.log('use: npm run anna -- <text_id>') }
+
+  if (textIdToTranslate) {
+    Promise.all(fs.readdirSync(filePath).map((file) => translateTextStringForFile(file, textIdToTranslate)))
+      .then(() => console.log('saved Successfully :)'))
+      .catch((err) => console.error(err))
+  }
 }
-
-let textIdToTranslate = process.argv[2]
-
-if (!textIdToTranslate) { console.log('use: npm run anna -- <text_id>') }
-
-if (textIdToTranslate) {
-  Promise.all(fs.readdirSync(templateDir).map((file) => translateTextStringForFile(file, textIdToTranslate)))
-    .then(() => console.log('saved Successfully :)'))
-    .catch((err) => console.error(err))
-}
+templateDir.forEach((filePath) => {
+  RunAnna(filePath)
+})

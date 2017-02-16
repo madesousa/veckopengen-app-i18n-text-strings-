@@ -114,9 +114,9 @@
   "push_monthly_allowance_pre_payout_parent_2": "Time for {child}'s monthly allowance!",
   "push_monthly_allowance_pre_payout_parent_3": "Time for {child}'s monthly allowance!",
   "push_monthly_allowance_pre_payout_parent_4": "Time for {child}'s monthly allowance!",
-  "push_weekly_assignment_0": "New task for the day is in the app! ({task}, {value})",
-  "push_weekly_assignment_1": "New task for the day is in the app! ({task}, {value})",
-  "push_weekly_assignment_2": "New task for the day is in the app! ({task}, {value})",
-  "push_weekly_assignment_3": "New task for the day is in the app! ({task}, {value})",
-  "push_weekly_assignment_4": "New task for the day is in the app! ({task}, {value})"
+  "push_weekly_assignment_0": "Today, you can {task} for {value}, which deal!",
+  "push_weekly_assignment_1": "Good morning Buddy! Today you can earn {value}! Go into the app and see what task you're doing!",
+  "push_weekly_assignment_2": "You have received a new task: {task} in and check out what you can earn!",
+  "push_weekly_assignment_3": "New Task! Yay! You can become {value} richer! In the app to check out what task you're doing!",
+  "push_weekly_assignment_4": "New task! {task} Box! In the app and check out what you can earn!"
 }

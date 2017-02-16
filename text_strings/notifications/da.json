@@ -114,9 +114,9 @@
   "push_monthly_allowance_pre_payout_parent_2": "Tid til {child}s månedspenge!",
   "push_monthly_allowance_pre_payout_parent_3": "Tid til {child}s månedspenge!",
   "push_monthly_allowance_pre_payout_parent_4": "Tid til {child}s månedspenge!",
-  "push_weekly_assignment_0": "Ny opgave for dagen er i den app! ({task}, {value})",
-  "push_weekly_assignment_1": "Ny opgave for dagen er i den app! ({task}, {value})",
-  "push_weekly_assignment_2": "Ny opgave for dagen er i den app! ({task}, {value})",
-  "push_weekly_assignment_3": "Ny opgave for dagen er i den app! ({task}, {value})",
-  "push_weekly_assignment_4": "Ny opgave for dagen er i den app! ({task}, {value})"
+  "push_weekly_assignment_0": "I dag, kan du {task} for {value}, hvilket deal!",
+  "push_weekly_assignment_1": "Godmorgen venner! I dag kan du tjene {value}! Gå ind i app og se, hvilken opgave du laver!",
+  "push_weekly_assignment_2": "Du har modtaget en ny opgave: {task} i og tjek hvad du kan tjene!",
+  "push_weekly_assignment_3": "Ny opgave! Yay! Du kan blive {value} rigere! I app til at tjekke hvilken opgave du laver!",
+  "push_weekly_assignment_4": "Ny opgave! {task} Box! I app og se, hvad du kan tjene!"
 }
