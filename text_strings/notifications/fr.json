@@ -118,5 +118,7 @@
   "push_weekly_assignment_1": "Les bons amis du matin! Aujourd'hui, vous pouvez gagner {value}! Allez dans l'application et voir ce que la tâche que vous faites!",
   "push_weekly_assignment_2": "Vous avez reçu une nouvelle tâche: {task} et vérifier ce que vous pouvez gagner!",
   "push_weekly_assignment_3": "Nouvelle tâche! Yay! Vous pouvez devenir {value} plus riche! Dans l'application pour vérifier ce que la tâche que vous faites!",
-  "push_weekly_assignment_4": "Nouvelle tâche! {task} Box! Dans l'application et vérifier ce que vous pouvez gagner!"
+  "push_weekly_assignment_4": "Nouvelle tâche! {task} Box! Dans l'application et vérifier ce que vous pouvez gagner!",
+  "push_weekly_allowance_trustly_pre_payout": "Payout demain: En ce moment {amount} de la provision pour {child}s 'compte bancaire.",
+  "push_monthly_allowance_trustly_pre_payout": "Payout demain: En ce moment {amount} allocation mensuelle de {child}s 'compte bancaire."
 }

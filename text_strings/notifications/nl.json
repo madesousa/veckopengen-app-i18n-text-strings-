@@ -118,5 +118,7 @@
   "push_weekly_assignment_1": "Goede morgen vrienden! Vandaag kunt u {value} te verdienen! Ga naar de app en te zien wat taak die u aan het doen bent!",
   "push_weekly_assignment_2": "U hebt een nieuwe taak gekregen: {task} in en uit te checken wat je kunt verdienen!",
   "push_weekly_assignment_3": "Nieuwe taak! Yay! U kunt {value} rijker! In de app om te controleren wat taak die u aan het doen bent!",
-  "push_weekly_assignment_4": "Nieuwe taak! {task} Box! In de app en bekijk wat je kunt verdienen!"
+  "push_weekly_assignment_4": "Nieuwe taak! {task} Box! In de app en bekijk wat je kunt verdienen!",
+  "push_weekly_allowance_trustly_pre_payout": "Uitbetaling morgen: Op dit moment {amount} in de voorziening voor {child}'s bankrekening.",
+  "push_monthly_allowance_trustly_pre_payout": "Uitbetaling morgen: Op dit moment {amount} maandelijkse toelage om {child}'s bankrekening."
 }

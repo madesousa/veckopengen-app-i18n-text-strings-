@@ -118,5 +118,7 @@
   "push_weekly_assignment_1": "God morgen venner! I dag kan du tjene {value}! Gå inn i app og se hva oppgaven du gjør!",
   "push_weekly_assignment_2": "Du har fått en ny oppgave: {task} inn og sjekke ut hva du kan tjene!",
   "push_weekly_assignment_3": "Ny oppgave! Yay! Du kan bli {value} rikere! I app for å sjekke ut hva oppgaven du gjør!",
-  "push_weekly_assignment_4": "Ny oppgave! {task} Box! I app og sjekke ut hva du kan tjene!"
+  "push_weekly_assignment_4": "Ny oppgave! {task} Box! I app og sjekke ut hva du kan tjene!",
+  "push_weekly_allowance_trustly_pre_payout": "Utbetaling i morgen: Akkurat nå {amount} i kvote for {child}s bankkonto.",
+  "push_monthly_allowance_trustly_pre_payout": "Utbetaling i morgen: Akkurat nå {amount} månedlig kvote til {child}s bankkonto."
 }

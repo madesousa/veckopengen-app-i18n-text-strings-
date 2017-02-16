@@ -118,5 +118,7 @@
   "push_weekly_assignment_1": "Huomenta ystävät! Nykyään voit ansaita {value}! Mene app ja katso, mitä tehtävää olet tekemässä!",
   "push_weekly_assignment_2": "Olet saanut uuden tehtävän: {task} sisään ja katso, mitä voit ansaita!",
   "push_weekly_assignment_3": "Uusi tehtävä! Jee! Voit tulla {value} rikkaampi! App tarkistaa, mitä tehtävää teet!",
-  "push_weekly_assignment_4": "Uusi tehtävä! {task} Box! App ja katso, mitä voit ansaita!"
+  "push_weekly_assignment_4": "Uusi tehtävä! {task} Box! App ja katso, mitä voit ansaita!",
+  "push_weekly_allowance_trustly_pre_payout": "Palautusprosentti huomenna: Juuri nyt {amount} ja avustus {child} pankkitilille.",
+  "push_monthly_allowance_trustly_pre_payout": "Palautusprosentti huomenna: Juuri nyt {amount} kuukausittain perustuvaa lisää {child} pankkitilille."
 }

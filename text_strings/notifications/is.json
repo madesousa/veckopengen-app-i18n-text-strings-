@@ -118,5 +118,7 @@
   "push_weekly_assignment_1": "Góðan daginn vinir! Í dag er hægt að vinna sér inn {value}! Farið inn í app og sjá hvað verkefni sem þú ert að gera!",
   "push_weekly_assignment_2": "Þú hefur fengið ný verkefni: {task} í og ​​athuga hvað þú getur fengið!",
   "push_weekly_assignment_3": "Nýtt Task! Yay! Þú getur orðið {value} ríkari! Í forritinu til að athuga hvað verkefni sem þú ert að gera!",
-  "push_weekly_assignment_4": "Nýtt verkefni! {task} Box! Í forritinu og athuga hvað þú getur fengið!"
+  "push_weekly_assignment_4": "Nýtt verkefni! {task} Box! Í forritinu og athuga hvað þú getur fengið!",
+  "push_weekly_allowance_trustly_pre_payout": "Útborgun á morgun: Núna {amount} í vasapeninga fyrir {child}'s bankareikning.",
+  "push_monthly_allowance_trustly_pre_payout": "Útborgun á morgun: Núna {amount} mánaðarlega vasapeninga til {child}'s bankareikning."
 }
