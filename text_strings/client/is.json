@@ -1177,5 +1177,7 @@
   "create_goal_small_text": "Búðu til þína eigin",
   "suggest_tasks_child": "Benda gögn",
   "slow_connection_warning_title": "Tengingin tekur lengri tíma en venjulega",
-  "slow_connection_warning_desc": "Gakktu úr skugga um að þú hefur góðan tengingu við Internetið og reyndu aftur!"
+  "slow_connection_warning_desc": "Gakktu úr skugga um að þú hefur góðan tengingu við Internetið og reyndu aftur!",
+  "popover_trustly_max_warning_title": "Hámarkið 1000SEK",
+  "popover_trustly_max_warning_text": "%1$d ætti nú að fá útborgun af %2$d yfir 1.000. Draga á undir 1000 SEK fyrir greiðslu til að fara fram."
 }

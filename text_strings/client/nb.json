@@ -1177,5 +1177,7 @@
   "create_goal_small_text": "Skapa eget",
   "suggest_tasks_child": "foreslå data",
   "slow_connection_warning_title": "Tilkoblingen tar lengre tid enn vanlig",
-  "slow_connection_warning_desc": "Kontroller at du har en god forbindelse til Internett, og prøv igjen!"
+  "slow_connection_warning_desc": "Kontroller at du har en god forbindelse til Internett, og prøv igjen!",
+  "popover_trustly_max_warning_title": "Den maksimale grensen 1000SEK",
+  "popover_trustly_max_warning_text": "%1$d skal nå motta en utbetaling på %2$d på over 1000. Reduser til under 1000 SEK for betalingen skal gjennomføres."
 }
