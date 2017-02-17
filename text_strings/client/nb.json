@@ -1174,5 +1174,6 @@
   "login_again": "Logg inn igjen",
   "goal_editor_save_new": "Lag dine egne sparemålene",
   "create_goal_big_text": "Komponer dine egne sparemålene",
-  "create_goal_small_text": "Skapa eget"
+  "create_goal_small_text": "Skapa eget",
+  "suggest_tasks_child": "foreslå data"
 }

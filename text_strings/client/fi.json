@@ -1174,5 +1174,6 @@
   "login_again": "Kirjaudu uudelleen",
   "goal_editor_save_new": "Luo oma säästöjä tavoitteet",
   "create_goal_big_text": "Säveltää omia säästöjä tavoitteet",
-  "create_goal_small_text": "Luo oma"
+  "create_goal_small_text": "Luo oma",
+  "suggest_tasks_child": "Ehdota data"
 }

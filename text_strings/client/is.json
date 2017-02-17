@@ -1174,5 +1174,6 @@
   "login_again": "Innskráning aftur",
   "goal_editor_save_new": "Búðu til þinn eigin sparnað markmiðum",
   "create_goal_big_text": "Semja eigin sparnað markmiðum",
-  "create_goal_small_text": "Búðu til þína eigin"
+  "create_goal_small_text": "Búðu til þína eigin",
+  "suggest_tasks_child": "Benda gögn"
 }

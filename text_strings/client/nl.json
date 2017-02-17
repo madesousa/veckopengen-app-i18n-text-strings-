@@ -1174,5 +1174,6 @@
   "login_again": "loggen weer",
   "goal_editor_save_new": "Creëer je eigen spaargeld doelen",
   "create_goal_big_text": "Stel uw eigen spaargeld doelen",
-  "create_goal_small_text": "Maak je eigen"
+  "create_goal_small_text": "Maak je eigen",
+  "suggest_tasks_child": "Suggestie data"
 }

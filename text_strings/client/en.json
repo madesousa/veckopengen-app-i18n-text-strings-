@@ -1174,5 +1174,6 @@
   "login_again": "Login again",
   "goal_editor_save_new": "Create your own savings goals",
   "create_goal_big_text": "Compose your own savings goals",
-  "create_goal_small_text": "Create your own"
+  "create_goal_small_text": "Create your own",
+  "suggest_tasks_child": "Suggest data"
 }

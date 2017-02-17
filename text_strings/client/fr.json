@@ -1174,5 +1174,6 @@
   "login_again": "Connectez-vous à nouveau",
   "goal_editor_save_new": "Créez vos propres objectifs d'épargne",
   "create_goal_big_text": "Composez vos propres objectifs d'épargne",
-  "create_goal_small_text": "Créer votre propre"
+  "create_goal_small_text": "Créer votre propre",
+  "suggest_tasks_child": "Proposer des données"
 }
