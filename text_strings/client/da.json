@@ -419,7 +419,7 @@
   "time_to_payout_popover_header_child_no_balance": "Godt, at du har sparet!",
   "time_to_payout_today_in_cash_popover_header": "I dag er der %1$s",
   "time_to_payout_today_in_cash_popover_text": "%1$d fik <b>%2$d</b> i %3$s.",
-  "time_to_payout_today_in_cash_popover_header_no_transaction": "Idag är det %1$s.",
+  "time_to_payout_today_in_cash_popover_header_no_transaction": "I dag er der %1$s.",
   "time_to_payout_today_in_cash_popover_text_no_transaction": "%1$d har fået %2$s %3$s.",
   "time_to_payout_today_to_external_bankaccount_popover_header_parent": "I dag har %1$d fået %2$d",
   "time_to_payout_today_to_external_bankaccount_popover_header_child": "I dag har du fået ugepenge",
