@@ -1179,5 +1179,6 @@
   "slow_connection_warning_title": "Forbindelsen tager længere tid end normalt",
   "slow_connection_warning_desc": "Sørg for at du har en god forbindelse til internettet, og prøv igen!",
   "popover_trustly_max_warning_title": "Den maksimale grænse 1000SEK",
-  "popover_trustly_max_warning_text": "%1$d bør nu modtage en udbetaling på %2$d på over 1.000. Reducer til under 1000 SEK for betaling, der skal udføres."
+  "popover_trustly_max_warning_text": "%1$d bør nu modtage en udbetaling på %2$d på over 1.000. Reducer til under 1000 SEK for betaling, der skal udføres.",
+  "task_history_title": "tidligere data"
 }

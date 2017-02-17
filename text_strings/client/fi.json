@@ -1179,5 +1179,6 @@
   "slow_connection_warning_title": "Yhteys kestää tavallista kauemmin",
   "slow_connection_warning_desc": "Varmista, että olet hyvä yhteys Internetiin ja yritä uudelleen!",
   "popover_trustly_max_warning_title": "Suurin raja 1000SEK",
-  "popover_trustly_max_warning_text": "%1$d pitäisi nyt saada voittosi %2$d yli 1000. Vähennä alle 1000 kruunua maksu suoritetaan."
+  "popover_trustly_max_warning_text": "%1$d pitäisi nyt saada voittosi %2$d yli 1000. Vähennä alle 1000 kruunua maksu suoritetaan.",
+  "task_history_title": "edellinen data"
 }
