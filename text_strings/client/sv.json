@@ -1194,5 +1194,7 @@
   "task_history_title": "Tidigare uppgifter",
   "project_earth_area_warning": "Välj ett område!",
   "popover_rate_in_appstore_yes": "Jag gillar den",
-  "popover_rate_in_appstore_no": "Nej tack"
+  "popover_rate_in_appstore_no": "Nej tack",
+  "popover_rate_in_appstore_title": "Gillar du veckopengen?",
+  "popover_rate_in_appstore_text": "Gillar du veckopengen och skulle du vilja betygsätta den? Det hjälper oss att förbättra appen."
 }
