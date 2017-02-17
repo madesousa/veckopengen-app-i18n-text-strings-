@@ -1166,9 +1166,9 @@
   "suggested_task_message": "Data Publishers lähetettiin %1$d",
   "trustly_child_connected_success": "Nyt olet yhdistänyt pankkitilin taskurahaa! Sinun täytyy kysyä vanhemman rentoutua heidän pankkitilille niiden korvaus, jotta voi lähettää rahaa teille.",
   "trustly_success_allowance": "siirretty",
-  "vp_startpage_slide1_text":  "Yhdessä voitte opetella taskurahojen käyttöä ja säästämistä",
-  "vp_startpage_slide2_text":  "Liity tuhansien perheiden mukaan muuttamaan käsityksiä rahankäytöstä",
-  "vp_startpage_slide3_text":  "Anna nuorille ansaittua taloudellista vapautta ja vastuuta",
+  "vp_startpage_slide1_text": "Yhdessä voitte opetella taskurahojen käyttöä ja säästämistä",
+  "vp_startpage_slide2_text": "Liity tuhansien perheiden mukaan muuttamaan käsityksiä rahankäytöstä",
+  "vp_startpage_slide3_text": "Anna nuorille ansaittua taloudellista vapautta ja vastuuta",
   "show_reciept": "Katso kuitti",
   "payed_to_account_magic": "Maksetaan tilille",
   "login_again": "Kirjaudu uudelleen",
@@ -1181,5 +1181,7 @@
   "popover_trustly_max_warning_title": "Suurin raja 1000SEK",
   "popover_trustly_max_warning_text": "%1$d pitäisi nyt saada voittosi %2$d yli 1000. Vähennä alle 1000 kruunua maksu suoritetaan.",
   "task_history_title": "edellinen data",
-  "project_earth_area_warning": "Valitse alue!"
+  "project_earth_area_warning": "Valitse alue!",
+  "popover_rate_in_appstore_yes": "Tykkään",
+  "popover_rate_in_appstore_no": "ei kiitos"
 }

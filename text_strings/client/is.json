@@ -1181,5 +1181,7 @@
   "popover_trustly_max_warning_title": "Hámarkið 1000SEK",
   "popover_trustly_max_warning_text": "%1$d ætti nú að fá útborgun af %2$d yfir 1.000. Draga á undir 1000 SEK fyrir greiðslu til að fara fram.",
   "task_history_title": "fyrri gögn",
-  "project_earth_area_warning": "Velja svæði!"
+  "project_earth_area_warning": "Velja svæði!",
+  "popover_rate_in_appstore_yes": "Mér finnst það",
+  "popover_rate_in_appstore_no": "Nei takk"
 }

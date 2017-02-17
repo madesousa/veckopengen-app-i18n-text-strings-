@@ -1166,9 +1166,9 @@
   "suggested_task_message": "Data Publishers sent to %1$d",
   "trustly_child_connected_success": "You have now paired your bank account with Gimi! You need to ask a parent to connect their bank account to their allowance in order to be able to send money to you.",
   "trustly_success_allowance": "transferred",
-  "vp_startpage_slide1_text":  "Together you can learn about pocket money and how to keep or spending it",
-  "vp_startpage_slide2_text":  "Join thousands of families that will change the way we see money today",
-  "vp_startpage_slide3_text":  "Give young people the financial freedom and responsibility they deserve",
+  "vp_startpage_slide1_text": "Together you can learn about pocket money and how to keep or spending it",
+  "vp_startpage_slide2_text": "Join thousands of families that will change the way we see money today",
+  "vp_startpage_slide3_text": "Give young people the financial freedom and responsibility they deserve",
   "show_reciept": "View receipt",
   "payed_to_account_magic": "Paid to the account",
   "login_again": "Login again",
@@ -1181,5 +1181,7 @@
   "popover_trustly_max_warning_title": "The maximum limit 1000SEK",
   "popover_trustly_max_warning_text": "%1$d should now receive a payout of %2$d of over 1,000. Reduce to under 1000 SEK for the payment to be carried out.",
   "task_history_title": "previous data",
-  "project_earth_area_warning": "Select a region!"
+  "project_earth_area_warning": "Select a region!",
+  "popover_rate_in_appstore_yes": "I like it",
+  "popover_rate_in_appstore_no": "no thanks"
 }
