@@ -1175,5 +1175,7 @@
   "goal_editor_save_new": "Lag dine egne sparemålene",
   "create_goal_big_text": "Komponer dine egne sparemålene",
   "create_goal_small_text": "Skapa eget",
-  "suggest_tasks_child": "foreslå data"
+  "suggest_tasks_child": "foreslå data",
+  "slow_connection_warning_title": "Tilkoblingen tar lengre tid enn vanlig",
+  "slow_connection_warning_desc": "Kontroller at du har en god forbindelse til Internett, og prøv igjen!"
 }

@@ -1175,5 +1175,7 @@
   "goal_editor_save_new": "Búðu til þinn eigin sparnað markmiðum",
   "create_goal_big_text": "Semja eigin sparnað markmiðum",
   "create_goal_small_text": "Búðu til þína eigin",
-  "suggest_tasks_child": "Benda gögn"
+  "suggest_tasks_child": "Benda gögn",
+  "slow_connection_warning_title": "Tengingin tekur lengri tíma en venjulega",
+  "slow_connection_warning_desc": "Gakktu úr skugga um að þú hefur góðan tengingu við Internetið og reyndu aftur!"
 }

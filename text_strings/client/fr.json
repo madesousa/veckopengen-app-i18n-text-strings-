@@ -1175,5 +1175,7 @@
   "goal_editor_save_new": "Créez vos propres objectifs d'épargne",
   "create_goal_big_text": "Composez vos propres objectifs d'épargne",
   "create_goal_small_text": "Créer votre propre",
-  "suggest_tasks_child": "Proposer des données"
+  "suggest_tasks_child": "Proposer des données",
+  "slow_connection_warning_title": "La connexion prend plus de temps que d'habitude",
+  "slow_connection_warning_desc": "Assurez-vous d'avoir une bonne connexion à Internet et essayez à nouveau!"
 }

@@ -1175,5 +1175,7 @@
   "goal_editor_save_new": "Luo oma säästöjä tavoitteet",
   "create_goal_big_text": "Säveltää omia säästöjä tavoitteet",
   "create_goal_small_text": "Luo oma",
-  "suggest_tasks_child": "Ehdota data"
+  "suggest_tasks_child": "Ehdota data",
+  "slow_connection_warning_title": "Yhteys kestää tavallista kauemmin",
+  "slow_connection_warning_desc": "Varmista, että olet hyvä yhteys Internetiin ja yritä uudelleen!"
 }

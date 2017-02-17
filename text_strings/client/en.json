@@ -1175,5 +1175,7 @@
   "goal_editor_save_new": "Create your own savings goals",
   "create_goal_big_text": "Compose your own savings goals",
   "create_goal_small_text": "Create your own",
-  "suggest_tasks_child": "Suggest data"
+  "suggest_tasks_child": "Suggest data",
+  "slow_connection_warning_title": "The connection takes longer than usual",
+  "slow_connection_warning_desc": "Make sure you have a good connection to the Internet and try again!"
 }

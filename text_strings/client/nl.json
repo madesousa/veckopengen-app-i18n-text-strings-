@@ -1175,5 +1175,7 @@
   "goal_editor_save_new": "Creëer je eigen spaargeld doelen",
   "create_goal_big_text": "Stel uw eigen spaargeld doelen",
   "create_goal_small_text": "Maak je eigen",
-  "suggest_tasks_child": "Suggestie data"
+  "suggest_tasks_child": "Suggestie data",
+  "slow_connection_warning_title": "De verbinding duurt langer dan normaal",
+  "slow_connection_warning_desc": "Zorg ervoor dat u een goede verbinding met het internet en probeer het opnieuw!"
 }
