@@ -75,7 +75,7 @@
   "dashboard_goal_archived": "Arkiverade sparmålet {goal.title}",
   "dashboard_child_trustly_allowance_enabled": "Överföringar aktiverade",
   "dashboard_add_trustly_account": "Lägg till Bankkonto",
-  "push_first_wish_created":	 "{child} har oprettet ønskeseddel og har anmodet om en {wish}!",
+  "push_first_wish_created":	"{child} har oprettet ønskeseddel og har anmodet om en {wish}!",
   "push_wish_created":	 "{child} har tilføjet {wish} til ønskelisten",
   "push_wish_deleted":	 "{child} har slettet {wish} fra ønskelisten",
   "push_child_logged_in":	 "{child} er logget på!",
