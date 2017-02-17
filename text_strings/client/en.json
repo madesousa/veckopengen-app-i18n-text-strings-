@@ -623,7 +623,7 @@
   "popover_button_read_data_tips": "Read smart surfing tips!",
   "popover_button_change_data_task": "Change the surf pot",
   "popover_news_data_tracking": "Now there is an assignment called Surf check, which on a weekly basis rewards your children when they surf smart.",
-  "popover_news_data_track_headline": "New! Surf Smart",
+  "popover_news_data_track_headline": "surf Smart",
   "data_tracking_completed_popover_head": "You passed the surf pot!",
   "data_tracking_completed_popover_info": "You used %1$d and got a reward of <boldGreen>%2$d</boldGreen>",
   "my_settings_text": "My settings",
