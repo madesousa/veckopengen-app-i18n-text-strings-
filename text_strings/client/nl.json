@@ -1183,5 +1183,7 @@
   "task_history_title": "eerdere gegevens",
   "project_earth_area_warning": "Selecteer een regio!",
   "popover_rate_in_appstore_yes": "Ik vind het leuk",
-  "popover_rate_in_appstore_no": "Nee, bedankt"
+  "popover_rate_in_appstore_no": "Nee, bedankt",
+  "popover_rate_in_appstore_title": "Net als wekelijkse toelage?",
+  "popover_rate_in_appstore_text": "Net als de wekelijkse uitkering en wil je worden? Het zal ons helpen om de app te verbeteren."
 }

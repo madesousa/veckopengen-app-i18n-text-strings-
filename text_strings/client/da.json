@@ -1183,5 +1183,7 @@
   "task_history_title": "tidligere data",
   "project_earth_area_warning": "Vælg en region!",
   "popover_rate_in_appstore_yes": "Jeg kan lide det",
-  "popover_rate_in_appstore_no": "Nej tak"
+  "popover_rate_in_appstore_no": "Nej tak",
+  "popover_rate_in_appstore_title": "Ligesom ugentlig ydelse?",
+  "popover_rate_in_appstore_text": "Ligesom ugentlig ydelse og vil du vurdere det? Det vil hjælpe os med at forbedre den app."
 }

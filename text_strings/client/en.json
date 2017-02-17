@@ -1183,5 +1183,7 @@
   "task_history_title": "previous data",
   "project_earth_area_warning": "Select a region!",
   "popover_rate_in_appstore_yes": "I like it",
-  "popover_rate_in_appstore_no": "no thanks"
+  "popover_rate_in_appstore_no": "no thanks",
+  "popover_rate_in_appstore_title": "Like weekly allowance?",
+  "popover_rate_in_appstore_text": "Like weekly allowance and would you rate it? It will help us improve the app."
 }

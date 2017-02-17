@@ -1183,5 +1183,7 @@
   "task_history_title": "edellinen data",
   "project_earth_area_warning": "Valitse alue!",
   "popover_rate_in_appstore_yes": "Tykkään",
-  "popover_rate_in_appstore_no": "ei kiitos"
+  "popover_rate_in_appstore_no": "ei kiitos",
+  "popover_rate_in_appstore_title": "Kuten viikkoraha?",
+  "popover_rate_in_appstore_text": "Kuten viikkoraha ja arvioisit sen? Se auttaa meitä parantamaan sovelluksen."
 }

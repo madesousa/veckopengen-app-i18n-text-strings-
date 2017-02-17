@@ -1183,5 +1183,7 @@
   "task_history_title": "fyrri gögn",
   "project_earth_area_warning": "Velja svæði!",
   "popover_rate_in_appstore_yes": "Mér finnst það",
-  "popover_rate_in_appstore_no": "Nei takk"
+  "popover_rate_in_appstore_no": "Nei takk",
+  "popover_rate_in_appstore_title": "Eins vikulega vasapeninga?",
+  "popover_rate_in_appstore_text": "Eins vikulega vasapeninga og viltu gefa henni? Það mun hjálpa okkur að bæta app."
 }

@@ -1183,5 +1183,7 @@
   "task_history_title": "tidligere data",
   "project_earth_area_warning": "Velg en region!",
   "popover_rate_in_appstore_yes": "Jeg liker det",
-  "popover_rate_in_appstore_no": "Nei takk"
+  "popover_rate_in_appstore_no": "Nei takk",
+  "popover_rate_in_appstore_title": "Som ukentlig kvote?",
+  "popover_rate_in_appstore_text": "Som ukentlig barnetrygd og skulle det blitt? Det vil hjelpe oss med å forbedre programmet."
 }
