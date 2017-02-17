@@ -1180,5 +1180,6 @@
   "slow_connection_warning_desc": "Make sure you have a good connection to the Internet and try again!",
   "popover_trustly_max_warning_title": "The maximum limit 1000SEK",
   "popover_trustly_max_warning_text": "%1$d should now receive a payout of %2$d of over 1,000. Reduce to under 1000 SEK for the payment to be carried out.",
-  "task_history_title": "previous data"
+  "task_history_title": "previous data",
+  "project_earth_area_warning": "Select a region!"
 }

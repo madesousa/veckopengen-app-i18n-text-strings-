@@ -1180,5 +1180,6 @@
   "slow_connection_warning_desc": "Zorg ervoor dat u een goede verbinding met het internet en probeer het opnieuw!",
   "popover_trustly_max_warning_title": "De maximum 1000SEK",
   "popover_trustly_max_warning_text": "%1$d moet nu krijgen een uitbetaling van %2$d van meer dan 1.000. Terug te brengen tot onder de 1000 SEK voor de betaling uit te voeren.",
-  "task_history_title": "eerdere gegevens"
+  "task_history_title": "eerdere gegevens",
+  "project_earth_area_warning": "Selecteer een regio!"
 }
