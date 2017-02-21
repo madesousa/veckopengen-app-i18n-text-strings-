@@ -1198,5 +1198,6 @@
   "popover_rate_in_appstore_title": "Gillar du veckopengen?",
   "popover_rate_in_appstore_text": "Gillar du veckopengen och skulle du vilja betygsätta den? Det hjälper oss att förbättra appen.",
   "premium_free_promo_title": "Bank Powers för 0 kr",
-  "premium_free_promo_desc": "Vill du aktivera Kontoöverföringar och låta vecko- eller månadspengen betalas ut till ditt barns bankkonto? Det är helt gratis till 1:a juli."
+  "premium_free_promo_desc": "Vill du aktivera Kontoöverföringar och låta vecko- eller månadspengen betalas ut till ditt barns bankkonto? Det är helt gratis till 1:a juli.",
+  "login_description": "Välj hur du vill logga in."
 }
