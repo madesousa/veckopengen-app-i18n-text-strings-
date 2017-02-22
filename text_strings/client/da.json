@@ -1188,5 +1188,7 @@
   "popover_rate_in_appstore_text": "Ligesom ugentlig ydelse og vil du vurdere det? Det vil hjælpe os med at forbedre den app.",
   "premium_free_promo_title": "Power Bank for 0 kr",
   "premium_free_promo_desc": "Ønsker du at aktivere konto Overførsler og tillade ugentlige eller månedlige godtgørelse udbetales til dit barns bankkonto? Det er helt gratis til 1. juli.",
-  "login_description": "Vælg, hvordan du ønsker at logge på."
+  "login_description": "Vælg, hvordan du ønsker at logge på.",
+  "goal_map_find_more": "Find flere sparemål",
+  "goal_map_keep_saving": "Men hvad sker der, hvis du fortsætter med at spare?"
 }

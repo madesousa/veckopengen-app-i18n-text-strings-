@@ -1188,5 +1188,7 @@
   "popover_rate_in_appstore_text": "Comme allocation hebdomadaire et évalueriez-vous? Il nous aidera à améliorer l'application.",
   "premium_free_promo_title": "Power Bank pour 0 kr",
   "premium_free_promo_desc": "Voulez-vous activer les transferts de compte et de permettre l'allocation hebdomadaire ou mensuelle versée sur le compte bancaire de votre enfant? Il est complètement libre au 1er Juillet.",
-  "login_description": "Choisissez comment vous voulez vous connecter."
+  "login_description": "Choisissez comment vous voulez vous connecter.",
+  "goal_map_find_more": "Trouver plus de cibles d'épargne",
+  "goal_map_keep_saving": "Mais ce qui se passe si vous continuez à sauver?"
 }
