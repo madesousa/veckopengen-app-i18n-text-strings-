@@ -12,7 +12,7 @@ let templateDir = ['./text_strings/client', './text_strings/notifications', './t
 
 let RunAnna = (filePath):* => {
   let getPath = (file) => `${filePath}/${file}`
-  var {toHash, fromHash} = AnnaHelper
+  var {toHash, fromHash, translationTemplate} = AnnaHelper
   let translateTextStringForFile = (file, textId) => {
     if (file === 'default.json') { return Promise.resolve() }
     if (file.indexOf('.json') === -1) { return Promise.resolve() }
@@ -41,7 +41,7 @@ let RunAnna = (filePath):* => {
       }
       var translatedText = fromHash(translation)
       console.log(`Translated text: '${stringToTranslate}' to: '${translatedText}' in ${filePath}/${file}`)
-      TextStrings[textId] = translatedText
+      TextStrings[textId] = translationTemplate + translatedText
       TextStrings = JSON.stringify(TextStrings, undefined, 2)
       fs.unlinkSync(path)
       return fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})

@@ -19,4 +19,5 @@ let fromHash = (text: string) => {
   return text
 }
 
-module.exports = {toHash, fromHash}
+let translationTemplate = '*** Google Translated ***'
+module.exports = {toHash, fromHash, translationTemplate}
