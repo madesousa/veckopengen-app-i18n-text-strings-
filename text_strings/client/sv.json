@@ -552,7 +552,7 @@
   "edit_child_phone": "Vad är %1$d mobilnummer?",
   "user_terms_link": "http://veckopengen.se/villkor/",
   "about_us_link": "http://veckopengen.se/om-oss/",
-  "faq_link_string": "http://veckopengen.se/faq/",
+  "faq_link_string": "https://intercom.help/gimi",
   "connect_to_parent_not_logged_in_email_header": "Har du fått ett email?",
   "connect_to_parent_not_logged_in_email_text": "Gå till mailet och tryck på länken för att bli ihopkopplad med din familjemedlem",
   "connect_to_parent_not_logged_in_sms_header": "Har du fått ett sms?",
