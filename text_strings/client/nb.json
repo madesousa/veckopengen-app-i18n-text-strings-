@@ -1190,5 +1190,6 @@
   "premium_free_promo_desc": "Ønsker du å aktivere kontooverføringer og la ukentlig eller månedlig godtgjørelse betalt til barnets bankkonto? Det er helt gratis å 1. juli.",
   "login_description": "Velg hvordan du ønsker å logge inn.",
   "goal_map_find_more": "Finn flere sparemålene",
-  "goal_map_keep_saving": "Men hva skjer hvis du fortsetter å spare?"
+  "goal_map_keep_saving": "Men hva skjer hvis du fortsetter å spare?",
+  "add_child_age": "Age"
 }

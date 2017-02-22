@@ -1190,5 +1190,6 @@
   "premium_free_promo_desc": "Do you want to activate Account Transfers and allow weekly or monthly allowance paid to your child's bank account? It is completely free to 1st July.",
   "login_description": "Choose how you want to log in.",
   "goal_map_find_more": "Find more savings targets",
-  "goal_map_keep_saving": "But what happens if you continue to save?"
+  "goal_map_keep_saving": "But what happens if you continue to save?",
+  "add_child_age": "Age"
 }
