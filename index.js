@@ -16,7 +16,6 @@ import DefaultCurrencies from './DefaultCurrencies'
 export var supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en']
 export var supportedTimeZonesAndroid = ['Europe/Stockholm', 'Europe/Oslo', 'Europe/Helsinki', 'Europe/Copenhagen', 'Europe/Prague', 'Europe/London', 'America/New_York', 'America/Los_Angeles', 'America/Vancouver', 'America/Panama', 'Pacific/Guam', 'Pacific/Palau', 'America/Puerto_Rico', 'Africa/Windhoek', 'Australia/Sydney', 'America/Toronto', 'Pacific/Auckland', 'Asia/Calcutta', 'Africa/Cairo']
 export var languageCodes = ['da', 'fi', 'is', 'sv', 'nb', 'en', 'fr', 'nl']
-import {Platform} from 'react-native'
 
 export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> => [
   {code: 'SEK', name: 'Swedish Krona'},
@@ -51,11 +50,11 @@ export let getCountries = () => CountryCodes
 export let getCountry = (countryCode: string) => CountryCodes.find(country => country.code === countryCode)
 export let getPhoneNumberPrefix = (countryCode: string) => parseInt(countryCodes2PhoneNumberPrefixes[countryCode.toUpperCase()])
 export let getCountryCodeFromLocale = (locale: string) => locale.slice(-2)
-export let getTimezones = () => Platform.OS === 'ios' ? Timezones : getTimezonesForAndroid()
+export let getTimezones = () => Timezones
 export let getLangugageCodes = () => LanguageCodes.filter(languageCode => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
 export let getDefaultCurrencyCode = (userCountryCode: string): string => DefaultCurrencies[userCountryCode] || 'EUR'
 
-export let getTimezonesForAndroid = () => {
+export let getSupportedTimeZones = () => {
   var shortList = []
   Timezones.map((zone, index) => {
     if (supportedTimeZonesAndroid.indexOf(zone.value) !== -1) {
