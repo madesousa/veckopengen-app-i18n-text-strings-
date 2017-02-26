@@ -1203,5 +1203,6 @@
   "goal_map_find_more": "Hitta fler sparmål",
   "goal_map_keep_saving": "Men vad händer om du fortsätter spara?",
   "add_child_age": "Ålder",
-  "child_settings_data_tracking": "Surfa lagom"
+  "child_settings_data_tracking": "Surfa lagom",
+  "child_settings_data_tracking_test": "Gör vårt surftest"
 }
