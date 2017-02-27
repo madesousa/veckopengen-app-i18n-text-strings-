@@ -1198,5 +1198,7 @@
   "sign_in_as_parent": "*** Google Translated ***Log in as yourself",
   "sign_in_as_child_popover_header": "*** Google Translated ***Log in as a child",
   "sign_in_as_child_popover_desc": "*** Google Translated ***You are now logged in as your child %1$d. You can always log back into your own account in the child's preferences.",
-  "allowance_recommended": "*** Google Translated ***recommended"
+  "allowance_recommended": "*** Google Translated ***recommended",
+  "parent_settings_surfguide": "*** Google Translated ***Tips for good surfing behavior",
+  "child_settings_surfguide": "*** Google Translated ***Recommends"
 }

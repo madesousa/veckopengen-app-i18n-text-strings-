@@ -1209,5 +1209,7 @@
   "sign_in_as_parent": "Logga in som dig själv",
   "sign_in_as_child_popover_header": "Logga in som barn",
   "sign_in_as_child_popover_desc": "Du loggas nu in som ditt barn %1$d. Du kan när som helst logga tillbaka till ditt egna konto under barnets inställningar.",
-  "allowance_recommended": "Rekommenderas"
+  "allowance_recommended": "Rekommenderas",
+  "parent_settings_surfguide": "Tips för bra surfbeteende",
+  "child_settings_surfguide": "Surftips"
 }

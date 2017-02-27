@@ -1198,5 +1198,7 @@
   "sign_in_as_parent": "*** Google Translated ***Meld u aan als jezelf",
   "sign_in_as_child_popover_header": "*** Google Translated ***Meld u aan als een kind",
   "sign_in_as_child_popover_desc": "*** Google Translated ***U bent nu aangemeld als uw kind %1$d. U kunt altijd inloggen terug in uw eigen rekening in de voorkeuren van het kind.",
-  "allowance_recommended": "*** Google Translated ***aanbevolen"
+  "allowance_recommended": "*** Google Translated ***aanbevolen",
+  "parent_settings_surfguide": "*** Google Translated ***Tips voor een goede surfgedrag",
+  "child_settings_surfguide": "*** Google Translated ***beveelt"
 }
