@@ -1200,5 +1200,6 @@
   "sign_in_as_child_popover_desc": "*** Google Translated ***Olet nyt kirjautunut sisään kun lapsi %1$d. Voit aina kirjautua takaisin omaan huomioon lapsen mieltymyksiä.",
   "allowance_recommended": "*** Google Translated ***suositeltava",
   "parent_settings_surfguide": "*** Google Translated ***Vinkkejä hyvä aallokko käyttäytymistä",
-  "child_settings_surfguide": "*** Google Translated ***suosittelee"
+  "child_settings_surfguide": "*** Google Translated ***suosittelee",
+  "transaction_reverted": "*** Google Translated ***Palautettu Transaction:"
 }

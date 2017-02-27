@@ -1200,5 +1200,6 @@
   "sign_in_as_child_popover_desc": "*** Google Translated ***Du er nå logget inn som barnet %1$d. Du kan alltid logge deg inn på din egen konto i barnets preferanser.",
   "allowance_recommended": "*** Google Translated ***anbefales",
   "parent_settings_surfguide": "*** Google Translated ***Tips for god surfing oppførsel",
-  "child_settings_surfguide": "*** Google Translated ***anbefaler"
+  "child_settings_surfguide": "*** Google Translated ***anbefaler",
+  "transaction_reverted": "*** Google Translated ***Falt Transaksjons:"
 }

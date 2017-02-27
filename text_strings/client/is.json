@@ -1200,5 +1200,6 @@
   "sign_in_as_child_popover_desc": "*** Google Translated ***Þú ert nú skráður inn sem barnið %1$d. Þú getur alltaf inn aftur inn í eigin reikning þinn í óskum barnsins.",
   "allowance_recommended": "*** Google Translated ***mælt",
   "parent_settings_surfguide": "*** Google Translated ***Ábendingar fyrir góða brimbrettabrun hegðun",
-  "child_settings_surfguide": "*** Google Translated ***mælir"
+  "child_settings_surfguide": "*** Google Translated ***mælir",
+  "transaction_reverted": "*** Google Translated ***Afturkölluð Transaction:"
 }

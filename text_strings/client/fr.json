@@ -1200,5 +1200,6 @@
   "sign_in_as_child_popover_desc": "*** Google Translated ***Vous êtes maintenant connecté en tant que votre enfant %1$d. Vous pouvez toujours vous connecter à votre propre compte dans les préférences de l'enfant.",
   "allowance_recommended": "*** Google Translated ***recommandé",
   "parent_settings_surfguide": "*** Google Translated ***Conseils pour un bon comportement de surf",
-  "child_settings_surfguide": "*** Google Translated ***Recommande"
+  "child_settings_surfguide": "*** Google Translated ***Recommande",
+  "transaction_reverted": "*** Google Translated ***Transaction Reconverti"
 }

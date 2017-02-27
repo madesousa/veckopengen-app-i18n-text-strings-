@@ -1211,5 +1211,6 @@
   "sign_in_as_child_popover_desc": "Du loggas nu in som ditt barn %1$d. Du kan när som helst logga tillbaka till ditt egna konto under barnets inställningar.",
   "allowance_recommended": "Rekommenderas",
   "parent_settings_surfguide": "Tips för bra surfbeteende",
-  "child_settings_surfguide": "Surftips"
+  "child_settings_surfguide": "Surftips",
+  "transaction_reverted": "*** Google Translated ***återgick transaktion"
 }
