@@ -1201,5 +1201,6 @@
   "allowance_recommended": "*** Google Translated ***anbefales",
   "parent_settings_surfguide": "*** Google Translated ***Tips til god surfing opførsel",
   "child_settings_surfguide": "*** Google Translated ***henstiller",
-  "transaction_reverted": "*** Google Translated ***Gendannet transaktion:"
+  "transaction_reverted": "*** Google Translated ***Gendannet transaktion:",
+  "qr_code_hint_text_child_parent": "*** Google Translated ***For at parre din konto med en forælders konto: Spørg dine forældre til at hente app&#39;en på deres enhed. Din forælder derefter trykke <b>forbinde med familiemedlemmer</b> til at forbinde og oprette kontoen."
 }

@@ -1201,5 +1201,6 @@
   "allowance_recommended": "*** Google Translated ***aanbevolen",
   "parent_settings_surfguide": "*** Google Translated ***Tips voor een goede surfgedrag",
   "child_settings_surfguide": "*** Google Translated ***beveelt",
-  "transaction_reverted": "*** Google Translated ***Bekeerd Transactie:"
+  "transaction_reverted": "*** Google Translated ***Bekeerd Transactie:",
+  "qr_code_hint_text_child_parent": "*** Google Translated ***Te koppelen je account aan met het account van een van de ouders: Vraag je ouders om de app op hun apparaat te downloaden. Je ouders en druk op <b>contact met familieleden</b> om te verbinden en de rekening."
 }

@@ -1201,5 +1201,6 @@
   "allowance_recommended": "*** Google Translated ***mælt",
   "parent_settings_surfguide": "*** Google Translated ***Ábendingar fyrir góða brimbrettabrun hegðun",
   "child_settings_surfguide": "*** Google Translated ***mælir",
-  "transaction_reverted": "*** Google Translated ***Afturkölluð Transaction:"
+  "transaction_reverted": "*** Google Translated ***Afturkölluð Transaction:",
+  "qr_code_hint_text_child_parent": "*** Google Translated ***Að para upp reikning þinn með reikning foreldris: Biddu foreldra þína til að sækja app á tækinu sínu. foreldri þitt ýttu síðan <b>tengja við fjölskyldu</b> til að tengja og búa til reikning."
 }

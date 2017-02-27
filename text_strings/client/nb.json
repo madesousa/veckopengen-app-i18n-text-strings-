@@ -1201,5 +1201,6 @@
   "allowance_recommended": "*** Google Translated ***anbefales",
   "parent_settings_surfguide": "*** Google Translated ***Tips for god surfing oppførsel",
   "child_settings_surfguide": "*** Google Translated ***anbefaler",
-  "transaction_reverted": "*** Google Translated ***Falt Transaksjons:"
+  "transaction_reverted": "*** Google Translated ***Falt Transaksjons:",
+  "qr_code_hint_text_child_parent": "*** Google Translated ***For å koble opp kontoen din med en forelder konto: Spør foreldrene dine om å laste ned appen på enhetene sine. dine foreldre og trykk deretter <b>kontakt med familiemedlemmer</b> til å koble til og opprette kontoen."
 }

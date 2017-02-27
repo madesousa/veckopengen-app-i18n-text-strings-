@@ -1212,5 +1212,6 @@
   "allowance_recommended": "Rekommenderas",
   "parent_settings_surfguide": "Tips för bra surfbeteende",
   "child_settings_surfguide": "Surftips",
-  "transaction_reverted": "*** Google Translated ***återgick transaktion"
+  "transaction_reverted": "*** Google Translated ***återgick transaktion",
+  "qr_code_hint_text_child_parent": "Så här kopplar du ihop ditt konto med en förälders konto:\n Be din förälder att ladda ner appen på sin enhet. Din förälder trycker sedan på <b>koppla ihop med familjemedlem</b> för att koppla ihop och skapa konto."
 }

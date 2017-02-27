@@ -1201,5 +1201,6 @@
   "allowance_recommended": "*** Google Translated ***suositeltava",
   "parent_settings_surfguide": "*** Google Translated ***Vinkkejä hyvä aallokko käyttäytymistä",
   "child_settings_surfguide": "*** Google Translated ***suosittelee",
-  "transaction_reverted": "*** Google Translated ***Palautettu Transaction:"
+  "transaction_reverted": "*** Google Translated ***Palautettu Transaction:",
+  "qr_code_hint_text_child_parent": "*** Google Translated ***Pareiksi tilillesi vanhemman tilin: Pyydä vanhempiasi lataa sovellusta laitteeseensa. Vanhempasi paina <b>yhteyden perheenjäsenten</b> yhdistää ja luoda tilin."
 }
