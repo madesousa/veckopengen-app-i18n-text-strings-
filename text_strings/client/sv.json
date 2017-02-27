@@ -1204,5 +1204,7 @@
   "goal_map_keep_saving": "Men vad händer om du fortsätter spara?",
   "add_child_age": "Ålder",
   "child_settings_data_tracking": "Surfa lagom",
-  "child_settings_data_tracking_test": "Gör vårt surftest"
+  "child_settings_data_tracking_test": "Gör vårt surftest",
+  "sing_in_as_child_popover_header": "Logga in som barn",
+  "sing_in_as_child_popover_desc": "du loggas nu in som ditt barn %1$d. Du kan när som helst logga tillbaka till ditt egna konto under barnets inställningar."
 }

@@ -1193,5 +1193,7 @@
   "goal_map_keep_saving": "En hvað gerist ef þú heldur áfram að spara?",
   "add_child_age": "Aldur",
   "child_settings_data_tracking": "*** Google Translated ***MYNDIR meðallagi",
-  "child_settings_data_tracking_test": "*** Google Translated ***Gera brim okkar próf"
+  "child_settings_data_tracking_test": "*** Google Translated ***Gera brim okkar próf",
+  "sing_in_as_child_popover_header": "*** Google Translated ***Skráðu þig í sem barn",
+  "sing_in_as_child_popover_desc": "*** Google Translated ***Þú ert nú skráður inn sem barnið %1$d. Þú getur alltaf inn aftur inn í eigin reikning þinn í óskum barnsins."
 }

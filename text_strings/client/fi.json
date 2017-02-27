@@ -1193,5 +1193,7 @@
   "goal_map_keep_saving": "Mutta mitä tapahtuu, jos edelleen säästää?",
   "add_child_age": "ikä",
   "child_settings_data_tracking": "*** Google Translated ***Puut kohtalainen",
-  "child_settings_data_tracking_test": "*** Google Translated ***Tee meidän surf testi"
+  "child_settings_data_tracking_test": "*** Google Translated ***Tee meidän surf testi",
+  "sing_in_as_child_popover_header": "*** Google Translated ***Kirjaudu sisään kuin lapsi",
+  "sing_in_as_child_popover_desc": "*** Google Translated ***Olet nyt kirjautunut sisään kun lapsi %1$d. Voit aina kirjautua takaisin omaan huomioon lapsen mieltymyksiä."
 }

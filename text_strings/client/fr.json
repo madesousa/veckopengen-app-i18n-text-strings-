@@ -1193,5 +1193,7 @@
   "goal_map_keep_saving": "Mais ce qui se passe si vous continuez à sauver?",
   "add_child_age": "âge",
   "child_settings_data_tracking": "*** Google Translated ***Arbres modérés",
-  "child_settings_data_tracking_test": "*** Google Translated ***Faites notre test de surf"
+  "child_settings_data_tracking_test": "*** Google Translated ***Faites notre test de surf",
+  "sing_in_as_child_popover_header": "*** Google Translated ***Connectez-vous comme un enfant",
+  "sing_in_as_child_popover_desc": "*** Google Translated ***Vous êtes maintenant connecté en tant que votre enfant %1$d. Vous pouvez toujours vous connecter à votre propre compte dans les préférences de l'enfant."
 }

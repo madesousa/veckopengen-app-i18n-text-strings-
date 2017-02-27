@@ -1193,5 +1193,7 @@
   "goal_map_keep_saving": "Maar wat gebeurt er als u doorgaat met het redden?",
   "add_child_age": "leeftijd",
   "child_settings_data_tracking": "*** Google Translated ***Door de stamboom matige",
-  "child_settings_data_tracking_test": "*** Google Translated ***Maak onze surf-test"
+  "child_settings_data_tracking_test": "*** Google Translated ***Maak onze surf-test",
+  "sing_in_as_child_popover_header": "*** Google Translated ***Meld u aan als een kind",
+  "sing_in_as_child_popover_desc": "*** Google Translated ***U bent nu aangemeld als uw kind %1$d. U kunt altijd inloggen terug in uw eigen rekening in de voorkeuren van het kind."
 }
