@@ -1194,6 +1194,8 @@
   "add_child_age": "ikä",
   "child_settings_data_tracking": "*** Google Translated ***Puut kohtalainen",
   "child_settings_data_tracking_test": "*** Google Translated ***Tee meidän surf testi",
-  "sing_in_as_child_popover_header": "*** Google Translated ***Kirjaudu sisään kuin lapsi",
-  "sing_in_as_child_popover_desc": "*** Google Translated ***Olet nyt kirjautunut sisään kun lapsi %1$d. Voit aina kirjautua takaisin omaan huomioon lapsen mieltymyksiä."
+  "sign_in_as_parent_section": "*** Google Translated ***Takaisin sinulle",
+  "sign_in_as_parent": "*** Google Translated ***Kirjautua sisään itse",
+  "sign_in_as_child_popover_header": "*** Google Translated ***Kirjaudu sisään kuin lapsi",
+  "sign_in_as_child_popover_desc": "*** Google Translated ***Olet nyt kirjautunut sisään kun lapsi %1$d. Voit aina kirjautua takaisin omaan huomioon lapsen mieltymyksiä."
 }

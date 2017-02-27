@@ -1194,6 +1194,8 @@
   "add_child_age": "Age",
   "child_settings_data_tracking": "*** Google Translated ***Trær moderate",
   "child_settings_data_tracking_test": "*** Google Translated ***Gjør vår surfe test",
-  "sing_in_as_child_popover_header": "*** Google Translated ***Logg inn som et barn",
-  "sing_in_as_child_popover_desc": "*** Google Translated ***Du er nå logget inn som barnet %1$d. Du kan alltid logge deg inn på din egen konto i barnets preferanser."
+  "sign_in_as_parent_section": "*** Google Translated ***Tilbake til deg",
+  "sign_in_as_parent": "*** Google Translated ***Logg inn som deg selv",
+  "sign_in_as_child_popover_header": "*** Google Translated ***Logg inn som et barn",
+  "sign_in_as_child_popover_desc": "*** Google Translated ***Du er nå logget inn som barnet %1$d. Du kan alltid logge deg inn på din egen konto i barnets preferanser."
 }

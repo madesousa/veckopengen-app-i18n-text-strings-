@@ -1194,6 +1194,8 @@
   "add_child_age": "Aldur",
   "child_settings_data_tracking": "*** Google Translated ***MYNDIR meðallagi",
   "child_settings_data_tracking_test": "*** Google Translated ***Gera brim okkar próf",
-  "sing_in_as_child_popover_header": "*** Google Translated ***Skráðu þig í sem barn",
-  "sing_in_as_child_popover_desc": "*** Google Translated ***Þú ert nú skráður inn sem barnið %1$d. Þú getur alltaf inn aftur inn í eigin reikning þinn í óskum barnsins."
+  "sign_in_as_parent_section": "*** Google Translated ***Til baka til þín",
+  "sign_in_as_parent": "*** Google Translated ***Skráðu þig í eins og sjálfan þig",
+  "sign_in_as_child_popover_header": "*** Google Translated ***Skráðu þig í sem barn",
+  "sign_in_as_child_popover_desc": "*** Google Translated ***Þú ert nú skráður inn sem barnið %1$d. Þú getur alltaf inn aftur inn í eigin reikning þinn í óskum barnsins."
 }

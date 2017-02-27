@@ -1194,6 +1194,8 @@
   "add_child_age": "leeftijd",
   "child_settings_data_tracking": "*** Google Translated ***Door de stamboom matige",
   "child_settings_data_tracking_test": "*** Google Translated ***Maak onze surf-test",
-  "sing_in_as_child_popover_header": "*** Google Translated ***Meld u aan als een kind",
-  "sing_in_as_child_popover_desc": "*** Google Translated ***U bent nu aangemeld als uw kind %1$d. U kunt altijd inloggen terug in uw eigen rekening in de voorkeuren van het kind."
+  "sign_in_as_parent_section": "*** Google Translated ***Terug naar je",
+  "sign_in_as_parent": "*** Google Translated ***Meld u aan als jezelf",
+  "sign_in_as_child_popover_header": "*** Google Translated ***Meld u aan als een kind",
+  "sign_in_as_child_popover_desc": "*** Google Translated ***U bent nu aangemeld als uw kind %1$d. U kunt altijd inloggen terug in uw eigen rekening in de voorkeuren van het kind."
 }

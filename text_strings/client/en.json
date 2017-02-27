@@ -1194,6 +1194,8 @@
   "add_child_age": "Age",
   "child_settings_data_tracking": "*** Google Translated ***CHARTS moderate",
   "child_settings_data_tracking_test": "*** Google Translated ***Make our surf test",
-  "sing_in_as_child_popover_header": "*** Google Translated ***Log in as a child",
-  "sing_in_as_child_popover_desc": "*** Google Translated ***You are now logged in as your child %1$d. You can always log back into your own account in the child's preferences."
+  "sign_in_as_parent_section": "*** Google Translated ***Back to you",
+  "sign_in_as_parent": "*** Google Translated ***Log in as yourself",
+  "sign_in_as_child_popover_header": "*** Google Translated ***Log in as a child",
+  "sign_in_as_child_popover_desc": "*** Google Translated ***You are now logged in as your child %1$d. You can always log back into your own account in the child's preferences."
 }
