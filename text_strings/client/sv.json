@@ -1220,5 +1220,6 @@
   "create_steps_tracking_desc": "*** Google Translated ***Välj den mängd åtgärder som du tycker %1$d bör göra",
   "add_steps_trackingassignment_header_data": "*** Google Translated ***Steg per vecka",
   "add_steps_trackingassignment_header_reward": "*** Google Translated ***Belöningar på måndag",
-  "add_steps_trackingassignment_data_info": "*** Google Translated ***Läs Om hälsofördelar"
+  "add_steps_trackingassignment_data_info": "*** Google Translated ***Läs Om hälsofördelar",
+  "task_editor_created_at": "Skapades för %1$d"
 }

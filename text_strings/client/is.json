@@ -1209,5 +1209,6 @@
   "create_steps_tracking_desc": "*** Google Translated ***Veldu upphæð skrefum sem þú telur %1$d ættir að gera",
   "add_steps_trackingassignment_header_data": "*** Google Translated ***Steps á viku",
   "add_steps_trackingassignment_header_reward": "*** Google Translated ***Verðlaun á mánudaginn",
-  "add_steps_trackingassignment_data_info": "*** Google Translated ***Lesa um heilsa hagur"
+  "add_steps_trackingassignment_data_info": "*** Google Translated ***Lesa um heilsa hagur",
+  "task_editor_created_at": "*** Google Translated ***búið %1$d"
 }

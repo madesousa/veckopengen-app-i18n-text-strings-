@@ -1209,5 +1209,6 @@
   "create_steps_tracking_desc": "*** Google Translated ***Choisissez le nombre d'étapes que vous pensez %1$d devrait faire",
   "add_steps_trackingassignment_header_data": "*** Google Translated ***Étapes par semaine",
   "add_steps_trackingassignment_header_reward": "*** Google Translated ***Récompenses lundi",
-  "add_steps_trackingassignment_data_info": "*** Google Translated ***Lire sur les prestations de santé"
+  "add_steps_trackingassignment_data_info": "*** Google Translated ***Lire sur les prestations de santé",
+  "task_editor_created_at": "*** Google Translated ***Créé %1$d"
 }

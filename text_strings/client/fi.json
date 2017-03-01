@@ -1209,5 +1209,6 @@
   "create_steps_tracking_desc": "*** Google Translated ***Valitse määrä vaiheita, että luulet %1$d pitäisi tehdä",
   "add_steps_trackingassignment_header_data": "*** Google Translated ***Vaiheet viikossa",
   "add_steps_trackingassignment_header_reward": "*** Google Translated ***Rewards maanantaina",
-  "add_steps_trackingassignment_data_info": "*** Google Translated ***Lue Tietoja terveyshyötyjä"
+  "add_steps_trackingassignment_data_info": "*** Google Translated ***Lue Tietoja terveyshyötyjä",
+  "task_editor_created_at": "*** Google Translated ***Luotu %1$d"
 }
