@@ -1216,9 +1216,9 @@
   "qr_code_hint_text_child_parent": "Så här kopplar du ihop ditt konto med en förälders konto:\n Be din förälder att ladda ner appen på sin enhet. Din förälder trycker sedan på <b>koppla ihop med familjemedlem</b> för att koppla ihop och skapa konto.",
   "reciept_regret_transaction_title": "Ångra transaktion?",
   "reciept_regret_transaction_desc": "Vill du ångra din transaktion genom att skapa en likadan transaktion ”åt andra hållet”?",
-  "create_steps_tracking_header": "*** Google Translated ***Give out the steps",
-  "create_steps_tracking_desc": "*** Google Translated ***Choose the amount of steps that you think %1$d should do",
-  "add_steps_trackingassignment_header_data": "*** Google Translated ***Steps per week",
-  "add_steps_trackingassignment_header_reward": "*** Google Translated ***Rewards on Monday",
-  "add_steps_trackingassignment_data_info": "*** Google Translated ***Read About health benefits"
+  "create_steps_tracking_header": "*** Google Translated ***Ge ut stegen",
+  "create_steps_tracking_desc": "*** Google Translated ***Välj den mängd åtgärder som du tycker %1$d bör göra",
+  "add_steps_trackingassignment_header_data": "*** Google Translated ***Steg per vecka",
+  "add_steps_trackingassignment_header_reward": "*** Google Translated ***Belöningar på måndag",
+  "add_steps_trackingassignment_data_info": "*** Google Translated ***Läs Om hälsofördelar"
 }
