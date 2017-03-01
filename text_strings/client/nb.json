@@ -1202,5 +1202,7 @@
   "parent_settings_surfguide": "*** Google Translated ***Tips for god surfing oppførsel",
   "child_settings_surfguide": "*** Google Translated ***anbefaler",
   "transaction_reverted": "*** Google Translated ***Falt Transaksjons:",
-  "qr_code_hint_text_child_parent": "*** Google Translated ***For å koble opp kontoen din med en forelder konto: Spør foreldrene dine om å laste ned appen på enhetene sine. dine foreldre og trykk deretter <b>kontakt med familiemedlemmer</b> til å koble til og opprette kontoen."
+  "qr_code_hint_text_child_parent": "*** Google Translated ***For å koble opp kontoen din med en forelder konto: Spør foreldrene dine om å laste ned appen på enhetene sine. dine foreldre og trykk deretter <b>kontakt med familiemedlemmer</b> til å koble til og opprette kontoen.",
+  "reciept_regret_transaction_title": "*** Google Translated ***Angre transaksjon?",
+  "reciept_regret_transaction_desc": "*** Google Translated ***Ønsker du å avbryte transaksjonen ved å opprette en lignende transaksjon \"den andre veien\"?"
 }

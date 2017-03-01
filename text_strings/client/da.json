@@ -1202,5 +1202,7 @@
   "parent_settings_surfguide": "*** Google Translated ***Tips til god surfing opførsel",
   "child_settings_surfguide": "*** Google Translated ***henstiller",
   "transaction_reverted": "*** Google Translated ***Gendannet transaktion:",
-  "qr_code_hint_text_child_parent": "*** Google Translated ***For at parre din konto med en forælders konto: Spørg dine forældre til at hente app&#39;en på deres enhed. Din forælder derefter trykke <b>forbinde med familiemedlemmer</b> til at forbinde og oprette kontoen."
+  "qr_code_hint_text_child_parent": "*** Google Translated ***For at parre din konto med en forælders konto: Spørg dine forældre til at hente app&#39;en på deres enhed. Din forælder derefter trykke <b>forbinde med familiemedlemmer</b> til at forbinde og oprette kontoen.",
+  "reciept_regret_transaction_title": "*** Google Translated ***Fortryd transaktion?",
+  "reciept_regret_transaction_desc": "*** Google Translated ***Ønsker du at annullere din transaktion ved at oprette en lignende transaktion \"den anden vej\"?"
 }
