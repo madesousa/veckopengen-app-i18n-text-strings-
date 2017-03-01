@@ -2,7 +2,7 @@ import {languageCodes} from '../index'
 import {compareKeys, compareKeysWithinTextStrings} from '../TestUtil'
 jest.disableAutomock()
 
-var textStringsTypes = ['notifications', 'templates']
+var textStringsTypes = ['server', 'templates']
 
 var textStrings = {}
 textStringsTypes.forEach(textStringsType => { textStrings[textStringsType] = {} })
