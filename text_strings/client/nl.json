@@ -1204,5 +1204,10 @@
   "transaction_reverted": "*** Google Translated ***Bekeerd Transactie:",
   "qr_code_hint_text_child_parent": "*** Google Translated ***Te koppelen je account aan met het account van een van de ouders: Vraag je ouders om de app op hun apparaat te downloaden. Je ouders en druk op <b>contact met familieleden</b> om te verbinden en de rekening.",
   "reciept_regret_transaction_title": "*** Google Translated ***Ongedaan maken transactie?",
-  "reciept_regret_transaction_desc": "*** Google Translated ***Wilt u uw transactie te annuleren door het creëren van een soortgelijke transactie \"de andere kant\"?"
+  "reciept_regret_transaction_desc": "*** Google Translated ***Wilt u uw transactie te annuleren door het creëren van een soortgelijke transactie \"de andere kant\"?",
+  "create_steps_tracking_header": "*** Google Translated ***Give de stappen",
+  "create_steps_tracking_desc": "*** Google Translated ***Kies het aantal stappen dat je denkt dat %1$d moet doen",
+  "add_steps_trackingassignment_header_data": "*** Google Translated ***Stappen per week",
+  "add_steps_trackingassignment_header_reward": "*** Google Translated ***Beloningen op maandag",
+  "add_steps_trackingassignment_data_info": "*** Google Translated ***Lees meer over voordelen voor de gezondheid"
 }

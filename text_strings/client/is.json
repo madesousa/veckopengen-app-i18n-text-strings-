@@ -1204,5 +1204,10 @@
   "transaction_reverted": "*** Google Translated ***Afturkölluð Transaction:",
   "qr_code_hint_text_child_parent": "*** Google Translated ***Að para upp reikning þinn með reikning foreldris: Biddu foreldra þína til að sækja app á tækinu sínu. foreldri þitt ýttu síðan <b>tengja við fjölskyldu</b> til að tengja og búa til reikning.",
   "reciept_regret_transaction_title": "*** Google Translated ***Afturkalla viðskipti?",
-  "reciept_regret_transaction_desc": "*** Google Translated ***Viltu hætta viðskiptin með því að búa til svipaða færslu \"á hinn veginn\"?"
+  "reciept_regret_transaction_desc": "*** Google Translated ***Viltu hætta viðskiptin með því að búa til svipaða færslu \"á hinn veginn\"?",
+  "create_steps_tracking_header": "*** Google Translated ***Give út skrefin",
+  "create_steps_tracking_desc": "*** Google Translated ***Veldu upphæð skrefum sem þú telur %1$d ættir að gera",
+  "add_steps_trackingassignment_header_data": "*** Google Translated ***Steps á viku",
+  "add_steps_trackingassignment_header_reward": "*** Google Translated ***Verðlaun á mánudaginn",
+  "add_steps_trackingassignment_data_info": "*** Google Translated ***Lesa um heilsa hagur"
 }

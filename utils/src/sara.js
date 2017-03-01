@@ -1,6 +1,6 @@
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 var fs = require('fs')
-let templateDir = ['./text_strings/client', './text_strings/notifications', './text_strings/templates']
+let templateDir = ['./text_strings/client', './text_strings/server', './text_strings/templates']
 
 let RunSara = (filePath):* => {
   let getPath = (file) => `${filePath}/${file}`

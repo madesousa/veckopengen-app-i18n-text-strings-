@@ -1204,5 +1204,10 @@
   "transaction_reverted": "*** Google Translated ***Transaction Reconverti",
   "qr_code_hint_text_child_parent": "*** Google Translated ***Pour jumeler votre compte avec le compte d&#39;un parent: Demandez à vos parents de télécharger l&#39;application sur leur appareil. Votre parent puis appuyez sur la <b>connexion avec</b> les <b>membres de</b> la <b>famille</b> de se connecter et créer le compte.",
   "reciept_regret_transaction_title": "*** Google Translated ***Annuler transaction?",
-  "reciept_regret_transaction_desc": "*** Google Translated ***Voulez-vous annuler votre transaction en créant une opération similaire \"l'autre façon»?"
+  "reciept_regret_transaction_desc": "*** Google Translated ***Voulez-vous annuler votre transaction en créant une opération similaire \"l'autre façon»?",
+  "create_steps_tracking_header": "*** Google Translated ***Give les étapes",
+  "create_steps_tracking_desc": "*** Google Translated ***Choisissez le nombre d'étapes que vous pensez %1$d devrait faire",
+  "add_steps_trackingassignment_header_data": "*** Google Translated ***Étapes par semaine",
+  "add_steps_trackingassignment_header_reward": "*** Google Translated ***Récompenses lundi",
+  "add_steps_trackingassignment_data_info": "*** Google Translated ***Lire sur les prestations de santé"
 }

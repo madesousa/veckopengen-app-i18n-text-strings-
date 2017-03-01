@@ -1204,5 +1204,10 @@
   "transaction_reverted": "*** Google Translated ***Falt Transaksjons:",
   "qr_code_hint_text_child_parent": "*** Google Translated ***For å koble opp kontoen din med en forelder konto: Spør foreldrene dine om å laste ned appen på enhetene sine. dine foreldre og trykk deretter <b>kontakt med familiemedlemmer</b> til å koble til og opprette kontoen.",
   "reciept_regret_transaction_title": "*** Google Translated ***Angre transaksjon?",
-  "reciept_regret_transaction_desc": "*** Google Translated ***Ønsker du å avbryte transaksjonen ved å opprette en lignende transaksjon \"den andre veien\"?"
+  "reciept_regret_transaction_desc": "*** Google Translated ***Ønsker du å avbryte transaksjonen ved å opprette en lignende transaksjon \"den andre veien\"?",
+  "create_steps_tracking_header": "*** Google Translated ***Give ut trinnene",
+  "create_steps_tracking_desc": "*** Google Translated ***Velg mengden trinnene som du tror %1$d bør gjøre",
+  "add_steps_trackingassignment_header_data": "*** Google Translated ***Skritt per uke",
+  "add_steps_trackingassignment_header_reward": "*** Google Translated ***Belønninger på mandag",
+  "add_steps_trackingassignment_data_info": "*** Google Translated ***Les om helsefordeler"
 }
