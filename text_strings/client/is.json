@@ -1210,5 +1210,6 @@
   "add_steps_trackingassignment_header_data": "*** Google Translated ***Steps á viku",
   "add_steps_trackingassignment_header_reward": "*** Google Translated ***Verðlaun á mánudaginn",
   "add_steps_trackingassignment_data_info": "*** Google Translated ***Lesa um heilsa hagur",
-  "task_editor_created_at": "*** Google Translated ***búið %1$d"
+  "task_editor_created_at": "*** Google Translated ***búið %1$d",
+  "popover_button_notification_remind": "*** Google Translated ***minna"
 }
