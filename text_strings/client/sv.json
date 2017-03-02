@@ -1222,5 +1222,6 @@
   "add_steps_trackingassignment_header_reward": "*** Google Translated ***Belöningar på måndag",
   "add_steps_trackingassignment_data_info": "*** Google Translated ***Läs Om hälsofördelar",
   "task_editor_created_at": "Skapades för %1$d",
-  "popover_button_notification_remind": "Påminna"
+  "popover_button_notification_remind": "Påminna",
+  "task_history_hand_out_task": "Ge ut uppgift"
 }
