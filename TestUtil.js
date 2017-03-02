@@ -70,3 +70,16 @@ export let compareKeysWithinTextStrings = (firstLang: Object, secondLang: Object
     expect(errorMessage).toEqual(undefined)
   })
 }
+export let checkTemplateLenght = (langs: Object, langName: string = '') => {
+  var keys = Object.keys(langs)
+  var patternTemplates = 'template_title'
+  var errorMessages = []
+  keys.forEach(key => {
+    if (key.includes(patternTemplates) && !IgnoredTextStrings.includes(key)) {
+      if (langs[key].length > 15) {
+        errorMessages.push(`Lang: '${langName}', Key: '${key}' exeeds 15 characters '${langs[key].length}'`)
+      }
+    }
+  })
+  expect(errorMessages).toEqual([])
+}

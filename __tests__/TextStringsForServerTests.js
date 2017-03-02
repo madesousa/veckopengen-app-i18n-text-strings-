@@ -1,5 +1,5 @@
 import {languageCodes} from '../index'
-import {compareKeys, compareKeysWithinTextStrings} from '../TestUtil'
+import {compareKeys, compareKeysWithinTextStrings, checkTemplateLenght} from '../TestUtil'
 jest.disableAutomock()
 
 var textStringsTypes = ['server', 'templates']
@@ -18,6 +18,9 @@ textStringsTypes.forEach(textStringsType => {
       it('all textstrings should have a equivalent string in all other languages', () => {
         languageCodes.forEach(lang2 => compareKeys(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
         languageCodes.forEach(lang2 => compareKeysWithinTextStrings(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
+      })
+      it('all task templates should not exceed 15 chars', () => {
+        checkTemplateLenght(textStrings[textStringsType][lang], lang)
       })
     })
   })
