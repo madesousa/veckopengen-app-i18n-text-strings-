@@ -19,7 +19,7 @@ textStringsTypes.forEach(textStringsType => {
         languageCodes.forEach(lang2 => compareKeys(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
         languageCodes.forEach(lang2 => compareKeysWithinTextStrings(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
       })
-      it('all task templates should not exceed 15 chars', () => {
+      xit('all task templates should not exceed 15 chars', () => {
         checkTemplateLenght(textStrings[textStringsType][lang], lang)
       })
     })
