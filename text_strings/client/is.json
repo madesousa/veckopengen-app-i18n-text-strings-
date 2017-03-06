@@ -1212,5 +1212,7 @@
   "add_steps_trackingassignment_data_info": "*** Google Translated ***Lesa um heilsa hagur",
   "task_editor_created_at": "*** Google Translated ***búið %1$d",
   "popover_button_notification_remind": "*** Google Translated ***minna",
-  "task_history_hand_out_task": "*** Google Translated ***Að gefa út verkefni"
+  "task_history_hand_out_task": "*** Google Translated ***Að gefa út verkefni",
+  "popover_trustly_warning_title": "*** Google Translated ***Yfirfærslu yfir 300kr",
+  "popover_trustly_warning_text": "*** Google Translated ***Þú verður að gera flutning á 300kr, þetta getur tekið lengri tíma en venjulega"
 }
