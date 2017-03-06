@@ -120,5 +120,7 @@
   "push_weekly_assignment_3": "Ny oppgave! Yay! Du kan bli {value} rikere! I app for å sjekke ut hva oppgaven du gjør!",
   "push_weekly_assignment_4": "Ny oppgave! {task} Box! I app og sjekke ut hva du kan tjene!",
   "push_weekly_allowance_trustly_pre_payout": "Utbetaling i morgen: Akkurat nå {amount} i kvote for {child}s bankkonto.",
-  "push_monthly_allowance_trustly_pre_payout": "Utbetaling i morgen:  Akkurat nå {amount} månedlig kvote til {child}s bankkonto."
+  "push_monthly_allowance_trustly_pre_payout": "Utbetaling i morgen:  Akkurat nå {amount} månedlig kvote til {child}s bankkonto.",
+  "popover_trustly_warning_title": "*** Google Translated ***Overføringen på over 300kr",
+  "popover_trustly_warning_text": "*** Google Translated ***Du vil få en overføring på over 300kr, kan dette ta lengre tid enn vanlig"
 }
