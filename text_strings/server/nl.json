@@ -120,7 +120,5 @@
   "push_weekly_assignment_3": "Nieuwe taak! Yay! U kunt {value} rijker! In de app om te controleren wat taak die u aan het doen bent!",
   "push_weekly_assignment_4": "Nieuwe taak! {task} Box! In de app en bekijk wat je kunt verdienen!",
   "push_weekly_allowance_trustly_pre_payout": "Uitbetaling morgen: Op dit moment {amount} in de voorziening voor {child}'s bankrekening.",
-  "push_monthly_allowance_trustly_pre_payout": "Uitbetaling morgen: Op dit moment {amount} maandelijkse toelage om {child}'s bankrekening.",
-  "popover_trustly_warning_title": "*** Google Translated ***De overdracht van meer dan 300kr",
-  "popover_trustly_warning_text": "*** Google Translated ***U vindt er een overdracht van meer dan 300kr te maken, kan dit langer duren dan normaal"
+  "push_monthly_allowance_trustly_pre_payout": "Uitbetaling morgen: Op dit moment {amount} maandelijkse toelage om {child}'s bankrekening."
 }

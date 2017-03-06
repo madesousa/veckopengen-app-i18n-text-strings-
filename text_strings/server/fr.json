@@ -120,7 +120,5 @@
   "push_weekly_assignment_3": "Nouvelle tâche! Yay! Vous pouvez devenir {value} plus riche! Dans l'application pour vérifier ce que la tâche que vous faites!",
   "push_weekly_assignment_4": "Nouvelle tâche! {task} Box! Dans l'application et vérifier ce que vous pouvez gagner!",
   "push_weekly_allowance_trustly_pre_payout": "Payout demain: En ce moment {amount} de la provision pour {child}s 'compte bancaire.",
-  "push_monthly_allowance_trustly_pre_payout": "Payout demain: En ce moment {amount} allocation mensuelle de {child}s 'compte bancaire.",
-  "popover_trustly_warning_title": "*** Google Translated ***Le transfert de plus de 300kr",
-  "popover_trustly_warning_text": "*** Google Translated ***Vous allez faire un transfert de plus de 300kr, cela peut prendre plus de temps que d'habitude"
+  "push_monthly_allowance_trustly_pre_payout": "Payout demain: En ce moment {amount} allocation mensuelle de {child}s 'compte bancaire."
 }

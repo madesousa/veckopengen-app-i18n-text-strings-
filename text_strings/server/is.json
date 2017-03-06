@@ -120,7 +120,5 @@
   "push_weekly_assignment_3": "Nýtt Task! Yay! Þú getur orðið {value} ríkari! Í forritinu til að athuga hvað verkefni sem þú ert að gera!",
   "push_weekly_assignment_4": "Nýtt verkefni! {task} Box! Í forritinu og athuga hvað þú getur fengið!",
   "push_weekly_allowance_trustly_pre_payout": "Útborgun á morgun: Núna {amount} í vasapeninga fyrir {child}'s bankareikning.",
-  "push_monthly_allowance_trustly_pre_payout": "Útborgun á morgun: Núna {amount} mánaðarlega vasapeninga til {child}'s bankareikning.",
-  "popover_trustly_warning_title": "*** Google Translated ***Yfirfærslu yfir 300kr",
-  "popover_trustly_warning_text": "*** Google Translated ***Þú verður að gera flutning á 300kr, þetta getur tekið lengri tíma en venjulega"
+  "push_monthly_allowance_trustly_pre_payout": "Útborgun á morgun: Núna {amount} mánaðarlega vasapeninga til {child}'s bankareikning."
 }

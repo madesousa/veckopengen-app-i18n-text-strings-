@@ -120,7 +120,5 @@
   "push_weekly_assignment_3": "Ny Uppgift! Jippie! Du kan bli {value} rikare! In i appen för att kolla vilken uppgift du ska göra!",
   "push_weekly_assignment_4": "Ny uppgift! {task}! In i appen och kolla vad du kan tjäna!",
   "push_weekly_allowance_trustly_pre_payout": "Utbetalning imorgon: Just nu {amount} i veckopeng till {child}s bankkonto.",
-  "push_monthly_allowance_trustly_pre_payout": "Utbetalning imorgon: Just nu {amount} i månadspeng till {child}s bankkonto.",
-  "popover_trustly_warning_title": "Överföring på över 300kr",
-  "popover_trustly_warning_text": "Du kommer göra en överföring på över 300kr, detta kan ta längre tid än vanligt"
+  "push_monthly_allowance_trustly_pre_payout": "Utbetalning imorgon: Just nu {amount} i månadspeng till {child}s bankkonto."
 }

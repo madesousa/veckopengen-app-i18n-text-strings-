@@ -120,7 +120,5 @@
   "push_weekly_assignment_3": "New Task! Yay! You can become {value} richer! In the app to check out what task you're doing!",
   "push_weekly_assignment_4": "New task! {task} Box! In the app and check out what you can earn!",
   "push_weekly_allowance_trustly_pre_payout": "Payout tomorrow: Currently {amount} in weekly allowance to {child}s bank account.",
-  "push_monthly_allowance_trustly_pre_payout": "Payout tomorrow:  Currently {amount} in monthly allowance to {child}s bank account.",
-  "popover_trustly_warning_title": "*** Google Translated ***The transfer of over 300kr",
-  "popover_trustly_warning_text": "*** Google Translated ***You will make a transfer of over 300kr, this may take longer than usual"
+  "push_monthly_allowance_trustly_pre_payout": "Payout tomorrow:  Currently {amount} in monthly allowance to {child}s bank account."
 }
