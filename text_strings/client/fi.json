@@ -1214,5 +1214,10 @@
   "popover_button_notification_remind": "*** Google Translated ***muistuttaen",
   "task_history_hand_out_task": "*** Google Translated ***Antaa ulos tehtävän",
   "popover_trustly_warning_title": "*** Google Translated ***Siirto yli 300kr",
-  "popover_trustly_warning_text": "*** Google Translated ***Teet siirto yli 300kr, tämä voi kestää tavallista kauemmin"
+  "popover_trustly_warning_text": "*** Google Translated ***Teet siirto yli 300kr, tämä voi kestää tavallista kauemmin",
+  "child_tabbar_home": "*** Google Translated ***häntä",
+  "child_tabbar_transactions": "*** Google Translated ***Transactions",
+  "child_tabbar_tasks": "*** Google Translated ***johto",
+  "child_tabbar_goals": "*** Google Translated ***Sparmål",
+  "child_tabbar_settings": "*** Google Translated ***Asetukset"
 }

@@ -1225,5 +1225,10 @@
   "popover_button_notification_remind": "Påminna",
   "task_history_hand_out_task": "Ge ut uppgift",
   "popover_trustly_warning_title": "Överföring på över 300kr",
-  "popover_trustly_warning_text": "Du kommer göra en överföring på över 300kr, detta kan ta längre tid än vanligt"
+  "popover_trustly_warning_text": "Du kommer göra en överföring på över 300kr, detta kan ta längre tid än vanligt",
+  "child_tabbar_home": "Hem",
+  "child_tabbar_transactions": "Transaktioner",
+  "child_tabbar_tasks": "Uppgifter",
+  "child_tabbar_goals": "Sparmål",
+  "child_tabbar_settings": "Inställningar"
 }

@@ -1214,5 +1214,10 @@
   "popover_button_notification_remind": "*** Google Translated ***Remind",
   "task_history_hand_out_task": "*** Google Translated ***Giving out the task",
   "popover_trustly_warning_title": "*** Google Translated ***The transfer of over 300kr",
-  "popover_trustly_warning_text": "*** Google Translated ***You will make a transfer of over 300kr, this may take longer than usual"
+  "popover_trustly_warning_text": "*** Google Translated ***You will make a transfer of over 300kr, this may take longer than usual",
+  "child_tabbar_home": "*** Google Translated ***Him",
+  "child_tabbar_transactions": "*** Google Translated ***Transactions",
+  "child_tabbar_tasks": "*** Google Translated ***Tasks",
+  "child_tabbar_goals": "*** Google Translated ***Sparmål",
+  "child_tabbar_settings": "*** Google Translated ***Settings"
 }

@@ -1214,5 +1214,10 @@
   "popover_button_notification_remind": "*** Google Translated ***herinneren",
   "task_history_hand_out_task": "*** Google Translated ***Het geven van de taak",
   "popover_trustly_warning_title": "*** Google Translated ***De overdracht van meer dan 300kr",
-  "popover_trustly_warning_text": "*** Google Translated ***U vindt er een overdracht van meer dan 300kr te maken, kan dit langer duren dan normaal"
+  "popover_trustly_warning_text": "*** Google Translated ***U vindt er een overdracht van meer dan 300kr te maken, kan dit langer duren dan normaal",
+  "child_tabbar_home": "*** Google Translated ***Hem",
+  "child_tabbar_transactions": "*** Google Translated ***transacties",
+  "child_tabbar_tasks": "*** Google Translated ***beheer",
+  "child_tabbar_goals": "*** Google Translated ***Sparmål",
+  "child_tabbar_settings": "*** Google Translated ***instellingen"
 }

@@ -1214,5 +1214,10 @@
   "popover_button_notification_remind": "*** Google Translated ***minner",
   "task_history_hand_out_task": "*** Google Translated ***Å gi ut oppgaven",
   "popover_trustly_warning_title": "*** Google Translated ***Overføringen på over 300kr",
-  "popover_trustly_warning_text": "*** Google Translated ***Du vil få en overføring på over 300kr, kan dette ta lengre tid enn vanlig"
+  "popover_trustly_warning_text": "*** Google Translated ***Du vil få en overføring på over 300kr, kan dette ta lengre tid enn vanlig",
+  "child_tabbar_home": "*** Google Translated ***ham",
+  "child_tabbar_transactions": "*** Google Translated ***transaksjoner",
+  "child_tabbar_tasks": "*** Google Translated ***Ledelsen",
+  "child_tabbar_goals": "*** Google Translated ***Sparmål",
+  "child_tabbar_settings": "*** Google Translated ***innstillinger"
 }
