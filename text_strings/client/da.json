@@ -1214,10 +1214,10 @@
   "popover_button_notification_remind": "*** Google Translated ***minde",
   "task_history_hand_out_task": "*** Google Translated ***At give opgaven",
   "popover_trustly_warning_title": "*** Google Translated ***Overførslen af ​​mere end 300kr",
-  "popover_trustly_warning_text": "*** Google Translated ***Du vil foretage en overførsel på over 300kr, kan det tage længere tid end normalt",
-  "child_tabbar_home": "*** Google Translated ***ham",
-  "child_tabbar_transactions": "*** Google Translated ***Transaktioner",
-  "child_tabbar_tasks": "*** Google Translated ***Ledelse",
-  "child_tabbar_goals": "*** Google Translated ***Sparmål",
-  "child_tabbar_settings": "*** Google Translated ***Indstillinger"
+  "popover_trustly_warning_text": "Du skal foretage en overførsel på 300 kr.; det kan tage længere tid end normalt",
+  "child_tabbar_home": "Hjem",
+  "child_tabbar_transactions": "Transaktioner",
+  "child_tabbar_tasks": "Opgaver",
+  "child_tabbar_goals": "Sparemål",
+  "child_tabbar_settings": "Indstillinger",
 }
