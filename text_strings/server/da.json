@@ -51,7 +51,7 @@
   "push_trustly_over_limit": "Mislykket overførsel på {amount}.",
   "dashboard_goal_created": "Oprettede sparemål {goal.title}.",
   "dashboard_goal_completed": "Sparemål opnået {goal.title}.",
-  "dashboard_transfer_to_savings": "Opsparede {amount}.",
+  "dashboard_transfer_to_savings": "Opsparet {amount}.",
   "push_data_usage_assignment_created": "Du har fået en ny surfkontrol-opgave.",
   "push_goal_updated": "{goal.updated_by.name} har ændret sparemål {goal.title}.",
   "push_task_updated": "{user} har ændret opgaven {task}.",
