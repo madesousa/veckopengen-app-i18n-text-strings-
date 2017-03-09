@@ -1031,7 +1031,7 @@
   "add_id_number_child": "Type in %1$d Social Security",
   "standing_task_error": "Only one participant mentioned task",
   "no_history_headline": "%1$d have no history yet",
-  "no_history_desc": "All completed tasks goes here, so you can simply give them out again!",
+  "no_history_desc": "All completed tasks go here, so you can simply give them out again!",
   "add_new_task": "Add new task",
   "allowance_tommorrow_trustly_parent": "Transfers to %1$d bank account tomorrow",
   "allowance_tommorrow_trustly_child": "Transfers to you bank account tomorrow",
