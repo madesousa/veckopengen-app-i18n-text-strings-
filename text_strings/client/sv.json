@@ -1217,7 +1217,7 @@
   "reciept_regret_transaction_title": "Ångra transaktion?",
   "reciept_regret_transaction_desc": "Vill du ångra din transaktion genom att skapa en likadan transaktion ”åt andra hållet”?",
   "create_steps_tracking_header": "Give out the steps",
-  "create_steps_tracking_desc": "*** Google Translated ***Välj den mängd åtgärder som du tycker %1$d bör göra",
+  "create_steps_tracking_desc": "Choose the number of steps that you think %1$d you should do",
   "add_steps_trackingassignment_header_data": "Steps per week",
   "add_steps_trackingassignment_header_reward": "Rewards on Monday",
   "add_steps_trackingassignment_data_info": "Read about the advantages to your health",
