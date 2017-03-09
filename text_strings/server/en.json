@@ -59,7 +59,7 @@
   "push_weekly_allowance_transferred_parent": "{name}'s weekly allowance of {amount} has been auto saved!",
   "push_monthly_allowance_auto_transferred": "New month and {amount} of your last monthly allowance has been auto saved!",
   "push_monthly_allowance_transferred_parent": "{name}'s monthly allowance of {amount} has been auto saved!",
-  "push_account_select_failed": "Connection to bank account failed",
+  "push_account_select_failed": "Connection to the bank account failed",
   "push_data_tracking_assignment_failed_parent": "{assignment.child.name} did not complete the data usage task!",
   "push_data_tracking_assignment_failed_child": "You did not complete the data usage task!",
   "push_data_tracking_assignment_reminder": "One more day, track your surfing!",
