@@ -353,7 +353,7 @@
   "trustly_done_transactions": "COMPLETED",
   "trustly_overview_sort_all": "All",
   "trustly_overview_sort_bank": "Transfers",
-  "trustly_overview_sort_expenses": "Expences",
+  "trustly_overview_sort_expenses": "Expenses",
   "trustly_item_spec_bank_success_receipt_headline": "Receipt",
   "trustly_item_spec_bank_success_receipt_info": "The transfer was successful.",
   "trustly_item_spec_bank_success_receipt_from_account": "From account: %1$d",
