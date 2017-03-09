@@ -279,7 +279,7 @@
   "next_bonus": "Næste bonus er <b>%1$d.</b>",
   "n_days_to_bonus": "<b>%1$d dage</b> til opsparingsbonus",
   "bonus_today": "<b>Opsparingsbonus</b> lægges til i dag",
-  "popover_adult_slider_text1": "Så udregnes din opsparingsbonus",
+  "popover_adult_slider_text1": "Således udregnes din næste opsparingsbonus",
   "popover_child_slider_text1": "svarer til",
   "new_calculated_savings_popover_parent_slide1": "%1$d x %2$d% = %3$d",
   "new_calculated_savings_popover_child_slide1": "%1$d cheeseburgere",
