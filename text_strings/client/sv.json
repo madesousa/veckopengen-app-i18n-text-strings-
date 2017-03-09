@@ -1212,7 +1212,7 @@
   "allowance_recommended": "Rekommenderas",
   "parent_settings_surfguide": "Tips för bra surfbeteende",
   "child_settings_surfguide": "Surftips",
-  "transaction_reverted": "Transaction reverted",
+  "transaction_reverted": "Revert the transaction",
   "qr_code_hint_text_child_parent": "Så här kopplar du ihop ditt konto med en förälders konto:\n Be din förälder att ladda ner appen på sin enhet. Din förälder trycker sedan på <b>koppla ihop med familjemedlem</b> för att koppla ihop och skapa konto.",
   "reciept_regret_transaction_title": "Ångra transaktion?",
   "reciept_regret_transaction_desc": "Vill du ångra din transaktion genom att skapa en likadan transaktion ”åt andra hållet”?",
