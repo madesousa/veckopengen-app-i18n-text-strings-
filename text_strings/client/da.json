@@ -1200,7 +1200,7 @@
   "sign_in_as_child_popover_desc": "Du logges nu ind som dit barn %1$d. Du kan altid logge tilbage på din egen konto under barnets indstillinger.",
   "allowance_recommended": "Anbefales",
   "parent_settings_surfguide": "Tips til god opførsel, når du surfer på nettet",
-  "child_settings_surfguide": "Surftips",
+  "child_settings_surfguide": "Surftips ",
   "transaction_reverted": "Gendannet transaktion:",
   "qr_code_hint_text_child_parent": "Sådan her forbinder du din konto med en forælders konto: Bed dine forældre om at hente app&#39;en på deres enhed. Din forælder trykker derefter på <b>forbind til familiemedlem</b> for at forbinde og oprette kontoen.",
   "reciept_regret_transaction_title": "Fortryd transaktion?",
@@ -1216,8 +1216,8 @@
   "popover_trustly_warning_title": "Overførsel på over 300 kr.",
   "popover_trustly_warning_text": "Du skal foretage en overførsel på 300 kr.; det kan tage længere tid end normalt",
   "child_tabbar_home": "Hjem",
-  "child_tabbar_transactions": "Transaktioner",
+  "child_tabbar_transactions": "Transaktioner ",
   "child_tabbar_tasks": "Opgaver",
   "child_tabbar_goals": "Sparemål",
-  "child_tabbar_settings": "Indstillinger",
+  "child_tabbar_settings": "Indstillinger"
 }
