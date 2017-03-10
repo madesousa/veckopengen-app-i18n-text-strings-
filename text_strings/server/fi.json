@@ -65,7 +65,7 @@
   "push_data_tracking_assignment_reminder": "Yksi päivä jäljellä, tarkista nettisaldosi!",
   "dashboard_child_not_connected": "Älä unohda yhdistää",
   "dashboard_child_setup": "Ei ole valmiina vielä!",
-  "dashboard_enable_data_tracking": "Aloita Surf radalla!",
+  "dashboard_enable_data_tracking": "Aloita surffaaminen!",
   "dashboard_weekly_allowance_over_trustly_limit": "Veckopengen är över beloppsgränsen",
   "dashboard_monthly_allowance_over_trustly_limit": "Månadspengen är över beloppsgränsen",
   "dashboard_failed_trustly_transaction": "Tilisiirto epäonnistui",
