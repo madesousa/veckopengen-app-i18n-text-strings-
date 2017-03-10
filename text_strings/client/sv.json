@@ -1230,5 +1230,6 @@
   "child_tabbar_transactions": "Transaktioner",
   "child_tabbar_tasks": "Uppgifter",
   "child_tabbar_goals": "Sparmål",
-  "child_tabbar_settings": "Inställningar"
+  "child_tabbar_settings": "Inställningar",
+  "wishlist_wish_amount": "%1$d önskningar"
 }
