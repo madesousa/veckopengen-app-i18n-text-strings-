@@ -1,7 +1,5 @@
 {
   "push_child_transferred_to_savings": "{transaction.child.name} has saved {transaction.str_value}",
-  "push_update_recurring_new_task": "Check it out! You have got a new task!",
-  "push_update_recurring_new_tasks": "Hey! You have got new tasks!",
   "push_goal_created": "{goal.created_by.name} has created the savings goal {goal.title}.",
   "push_goal_completed_child": "You have reached your savings goal {goal.title}.",
   "push_goal_completed_parent": "{goal.child.name} has reached the savings goal {goal.title}.",
@@ -128,5 +126,10 @@
   "push_monthly_interest_added_1": "Congratulations! This month's savings bonus has been put into your piggy bank",
   "push_monthly_interest_added_2": "Congratulations! This month's savings bonus has been put into your piggy bank",
   "push_monthly_interest_added_3": "Congratulations! This month's savings bonus has been put into your piggy bank",
-  "push_monthly_interest_added_4": "Congratulations! This month's savings bonus has been put into your piggy bank"
+  "push_monthly_interest_added_4": "Congratulations! This month's savings bonus has been put into your piggy bank",
+  "push_new_weekly_tasks_0":"Take a look! You have new tasks!",
+  "push_new_weekly_tasks_1":"Check it out! You've got new tasks!",
+  "push_new_weekly_tasks_2":"Woah! Check out your new weekly tasks!",
+  "push_new_weekly_tasks_3":"Hey! You have new tasks!",
+  "push_new_weekly_tasks_4":"Hey! You have new tasks!"
 }

@@ -1,7 +1,5 @@
 {
   "push_child_transferred_to_savings": "{transaction.child.name} har sparat {transaction.str_value}",
-  "push_update_recurring_new_task": "Tjek det ud! Du har fået en ny opgave!",
-  "push_update_recurring_new_tasks": "Kig! Du har fået nye opgaver!",
   "push_goal_created": "{goal.created_by.name} har oprettet opsparingsmålet {goal.title}.",
   "push_goal_completed_child": "Du har opnået opsparingsmålet {goal.title}.",
   "push_goal_completed_parent": "{goal.child.name} har opnået opsparingsmålet {goal.title}.",
@@ -128,5 +126,10 @@
   "push_monthly_interest_added_1": "Tillykke! Månedens opsparingsbonus er lagt i sparegrisen",
   "push_monthly_interest_added_2": "Tillykke! Månedens opsparingsbonus er lagt i sparegrisen",
   "push_monthly_interest_added_3": "Tillykke! Månedens opsparingsbonus er lagt i sparegrisen",
-  "push_monthly_interest_added_4": "Tillykke! Månedens opsparingsbonus er lagt i sparegrisen"
+  "push_monthly_interest_added_4": "Tillykke! Månedens opsparingsbonus er lagt i sparegrisen",
+  "push_new_weekly_tasks_0":"Kig! Du har fået nye opgaver!",
+  "push_new_weekly_tasks_1":"Kig! Du har fået nye opgaver!",
+  "push_new_weekly_tasks_2":"Kig! Du har fået nye opgaver!",
+  "push_new_weekly_tasks_3":"Kig! Du har fået nye opgaver!",
+  "push_new_weekly_tasks_4":"Kig! Du har fået nye opgaver!"
 }

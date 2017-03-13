@@ -1,7 +1,5 @@
 {
   "push_child_transferred_to_savings": "{transaction.child.name} har spart {transaction.str_value}",
-  "push_update_recurring_new_task": "Sjekk ut! Du har fått en ny oppgave!",
-  "push_update_recurring_new_tasks": "Hohei! Du har fått nye oppgaver!",
   "push_goal_created": "{goal.created_by.name} har opprettet sparemålet {goal.title}.",
   "push_goal_completed_child": "Du har uppnåt sparmålet {goal.title}.",
   "push_goal_completed_parent": "{goal.child.name} har uppnåt sparmålet {goal.title}.",
@@ -128,5 +126,10 @@
   "push_monthly_interest_added_1": "Gratulerer! Månedens sparebonus har blitt lagt i sparegrisen",
   "push_monthly_interest_added_2": "Gratulerer! Månedens sparebonus har blitt lagt i sparegrisen",
   "push_monthly_interest_added_3": "Gratulerer! Månedens sparebonus har blitt lagt i sparegrisen",
-  "push_monthly_interest_added_4": "Gratulerer! Månedens sparebonus har blitt lagt i sparegrisen"
+  "push_monthly_interest_added_4": "Gratulerer! Månedens sparebonus har blitt lagt i sparegrisen",
+  "push_new_weekly_tasks_0":"Hohei! Du har fått nye oppgaver!",
+  "push_new_weekly_tasks_1":"Hohei! Du har fått nye oppgaver!",
+  "push_new_weekly_tasks_2":"Hohei! Du har fått nye oppgaver!",
+  "push_new_weekly_tasks_3":"Hohei! Du har fått nye oppgaver!",
+  "push_new_weekly_tasks_4":"Hohei! Du har fått nye oppgaver!"
 }

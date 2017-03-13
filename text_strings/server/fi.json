@@ -1,7 +1,5 @@
 {
   "push_child_transferred_to_savings": "{transaction.child.name} on säästänyt {transaction.str_value}",
-  "push_update_recurring_new_task": "Tule katsomaan! Olet saanut uuden tehtävän!",
-  "push_update_recurring_new_tasks": "Katso! Olet saanut uusia tehtäviä!",
   "push_goal_created": "{goal.created_by.name} on luonut säästötavoitteeen {goal.title}.",
   "push_goal_completed_child": "Olet saavuttanut säästötavoitteen {goal.title}.",
   "push_goal_completed_parent": "{goal.child.name} on saavuttanut säästötavoitteen {goal.title}.",
@@ -128,5 +126,10 @@
   "push_monthly_interest_added_1": "Onnea! Kuukauden säästöbonus on laitettu säästöpossuun",
   "push_monthly_interest_added_2": "Onnea! Kuukauden säästöbonus on laitettu säästöpossuun",
   "push_monthly_interest_added_3": "Onnea! Kuukauden säästöbonus on laitettu säästöpossuun",
-  "push_monthly_interest_added_4": "Onnea! Kuukauden säästöbonus on laitettu säästöpossuun"
+  "push_monthly_interest_added_4": "Onnea! Kuukauden säästöbonus on laitettu säästöpossuun",
+  "push_new_weekly_tasks_0":"Katso! Olet saanut uusia tehtäviä!",
+  "push_new_weekly_tasks_1":"Katso! Olet saanut uusia tehtäviä!",
+  "push_new_weekly_tasks_2":"Katso! Olet saanut uusia tehtäviä!",
+  "push_new_weekly_tasks_3":"Katso! Olet saanut uusia tehtäviä!",
+  "push_new_weekly_tasks_4":"Katso! Olet saanut uusia tehtäviä!"
 }
