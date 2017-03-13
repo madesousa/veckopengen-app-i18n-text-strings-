@@ -1220,5 +1220,9 @@
   "child_tabbar_tasks": "*** Google Translated ***beheer",
   "child_tabbar_goals": "*** Google Translated ***Sparmål",
   "child_tabbar_settings": "*** Google Translated ***instellingen",
-  "wishlist_wish_amount": "*** Google Translated ***%1$d verlangens"
+  "wishlist_wish_amount": "*** Google Translated ***%1$d verlangens",
+  "child_detail_report_title": "Sammanställningar",
+  "child_detail_button_transactions": "*** Google Translated ***%1$d %2$d transacties dit",
+  "the_week": "*** Google Translated ***week",
+  "the_month": "*** Google Translated ***maand"
 }

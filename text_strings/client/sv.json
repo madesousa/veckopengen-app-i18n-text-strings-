@@ -1231,5 +1231,9 @@
   "child_tabbar_tasks": "Uppgifter",
   "child_tabbar_goals": "Sparmål",
   "child_tabbar_settings": "Inställningar",
-  "wishlist_wish_amount": "%1$d önskningar"
+  "wishlist_wish_amount": "%1$d önskningar",
+  "child_detail_report_title": "Sammanställningar",
+  "child_detail_button_transactions": "%1$d transaktioner den här %2$d",
+  "the_week": "veckan",
+  "the_month": "månaden"
 }

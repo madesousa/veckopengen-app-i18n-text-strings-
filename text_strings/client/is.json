@@ -1220,5 +1220,9 @@
   "child_tabbar_tasks": "*** Google Translated ***Stjórn",
   "child_tabbar_goals": "*** Google Translated ***Sparmål",
   "child_tabbar_settings": "*** Google Translated ***Stillingar",
-  "wishlist_wish_amount": "*** Google Translated ***%1$d langanir"
+  "wishlist_wish_amount": "*** Google Translated ***%1$d langanir",
+  "child_detail_report_title": "Sammanställningar",
+  "child_detail_button_transactions": "*** Google Translated ***%1$d %2$d viðskipti þetta",
+  "the_week": "*** Google Translated ***viku",
+  "the_month": "*** Google Translated ***mánuði"
 }
