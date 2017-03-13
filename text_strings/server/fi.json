@@ -2,8 +2,6 @@
   "push_child_transferred_to_savings": "{transaction.child.name} on säästänyt {transaction.str_value}",
   "push_update_recurring_new_task": "Tule katsomaan! Olet saanut uuden tehtävän!",
   "push_update_recurring_new_tasks": "Katso! Olet saanut uusia tehtäviä!",
-  "push_weekly_interest_added": "Onnea! Viikon säästöbonus on laitettu säästöpossuun",
-  "push_monthly_interest_added": "Onnea! Kuukauden säästöbonus on laitettu säästöpossuun",
   "push_goal_created": "{goal.created_by.name} on luonut säästötavoitteeen {goal.title}.",
   "push_goal_completed_child": "Olet saavuttanut säästötavoitteen {goal.title}.",
   "push_goal_completed_parent": "{goal.child.name} on saavuttanut säästötavoitteen {goal.title}.",
@@ -120,5 +118,15 @@
   "push_weekly_assignment_3": "Uusi tehtävä! Jee! Voit tulla {value} rikkaampi! App tarkistaa, mitä tehtävää teet!",
   "push_weekly_assignment_4": "Uusi tehtävä! {task} Box! App ja katso, mitä voit ansaita!",
   "push_weekly_allowance_trustly_pre_payout": "Palautusprosentti huomenna:  Juuri nyt {amount} ja avustus {child} pankkitilille.",
-  "push_monthly_allowance_trustly_pre_payout": "Palautusprosentti huomenna: Juuri nyt {amount} kuukausittain perustuvaa lisää {child} pankkitilille."
+  "push_monthly_allowance_trustly_pre_payout": "Palautusprosentti huomenna: Juuri nyt {amount} kuukausittain perustuvaa lisää {child} pankkitilille.",
+  "push_weekly_interest_added_0": "Onnea! Viikon säästöbonus on laitettu säästöpossuun",
+  "push_weekly_interest_added_1": "Onnea! Viikon säästöbonus on laitettu säästöpossuun",
+  "push_weekly_interest_added_2": "Onnea! Viikon säästöbonus on laitettu säästöpossuun",
+  "push_weekly_interest_added_3": "Onnea! Viikon säästöbonus on laitettu säästöpossuun",
+  "push_weekly_interest_added_4": "Onnea! Viikon säästöbonus on laitettu säästöpossuun",
+  "push_monthly_interest_added_0": "Onnea! Kuukauden säästöbonus on laitettu säästöpossuun",
+  "push_monthly_interest_added_1": "Onnea! Kuukauden säästöbonus on laitettu säästöpossuun",
+  "push_monthly_interest_added_2": "Onnea! Kuukauden säästöbonus on laitettu säästöpossuun",
+  "push_monthly_interest_added_3": "Onnea! Kuukauden säästöbonus on laitettu säästöpossuun",
+  "push_monthly_interest_added_4": "Onnea! Kuukauden säästöbonus on laitettu säästöpossuun"
 }

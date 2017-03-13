@@ -2,8 +2,6 @@
   "push_child_transferred_to_savings": "{transaction.child.name} har sparat {transaction.str_value}",
   "push_update_recurring_new_task": "Spana in! Du har fått en ny uppgift!",
   "push_update_recurring_new_tasks": "Kolla! Du har fått nya uppgifter!",
-  "push_weekly_interest_added": "Grattis! Veckans sparbonus har lagts i spargrisen",
-  "push_monthly_interest_added": "Grattis! Månadens sparbonus har lagts i spargrisen",
   "push_goal_created": "{goal.created_by.name} har skapat sparmålet {goal.title}.",
   "push_goal_completed_child": "Du har uppnåt sparmålet {goal.title}.",
   "push_goal_completed_parent": "{goal.child.name} har uppnåt sparmålet {goal.title}.",
@@ -120,5 +118,15 @@
   "push_weekly_assignment_3": "Nouvelle tâche! Yay! Vous pouvez devenir {value} plus riche! Dans l'application pour vérifier ce que la tâche que vous faites!",
   "push_weekly_assignment_4": "Nouvelle tâche! {task} Box! Dans l'application et vérifier ce que vous pouvez gagner!",
   "push_weekly_allowance_trustly_pre_payout": "Payout demain: En ce moment {amount} de la provision pour {child}s 'compte bancaire.",
-  "push_monthly_allowance_trustly_pre_payout": "Payout demain: En ce moment {amount} allocation mensuelle de {child}s 'compte bancaire."
+  "push_monthly_allowance_trustly_pre_payout": "Payout demain: En ce moment {amount} allocation mensuelle de {child}s 'compte bancaire.",
+  "push_weekly_interest_added_0": "Grattis! Veckans sparbonus har lagts i spargrisen",
+  "push_weekly_interest_added_1": "Grattis! Veckans sparbonus har lagts i spargrisen",
+  "push_weekly_interest_added_2": "Grattis! Veckans sparbonus har lagts i spargrisen",
+  "push_weekly_interest_added_3": "Grattis! Veckans sparbonus har lagts i spargrisen",
+  "push_weekly_interest_added_4": "Grattis! Veckans sparbonus har lagts i spargrisen",
+  "push_monthly_interest_added_0": "Grattis! Månadens sparbonus har lagts i spargrisen",
+  "push_monthly_interest_added_1": "Grattis! Månadens sparbonus har lagts i spargrisen",
+  "push_monthly_interest_added_2": "Grattis! Månadens sparbonus har lagts i spargrisen",
+  "push_monthly_interest_added_3": "Grattis! Månadens sparbonus har lagts i spargrisen",
+  "push_monthly_interest_added_4": "Grattis! Månadens sparbonus har lagts i spargrisen"
 }
