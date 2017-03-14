@@ -319,6 +319,5 @@
   "push_monthly_trustly_payout_failed_parent",
   "push_weekly_trustly_payout_trustly_failed_child",
   "push_monthly_trustly_payout_trustly_failed_child",
-  "create_goal_small_text",
-  "child_detail_report_title"
+  "create_goal_small_text"
 ]
