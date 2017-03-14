@@ -1223,6 +1223,7 @@
   "add_steps_trackingassignment_data_info": "Läs om födelarna för din hälsa",
   "task_editor_created_at": "Skapades för %1$d",
   "popover_button_notification_remind": "Påminna",
+  "popover_button_notification_remind_description": "Påminna %1$d",
   "task_history_hand_out_task": "Ge ut uppgift",
   "popover_trustly_warning_title": "Överföring på över 300kr",
   "popover_trustly_warning_text": "Du kommer göra en överföring på över 300kr, detta kan ta längre tid än vanligt",

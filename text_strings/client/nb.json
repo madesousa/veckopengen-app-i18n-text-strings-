@@ -1212,6 +1212,7 @@
   "add_steps_trackingassignment_data_info": "Les om helsefordelene",
   "task_editor_created_at": "Oppretet for %1$d",
   "popover_button_notification_remind": "Påminnelse",
+  "popover_button_notification_remind_description": "*** Google Translated ***minne %1$d",
   "task_history_hand_out_task": "Oppgi data",
   "popover_trustly_warning_title": "Overføring på over 300ckr",
   "popover_trustly_warning_text": "Du kommer til å overføre over 300 kr, kan dette ta lengre tid enn vanlig",
