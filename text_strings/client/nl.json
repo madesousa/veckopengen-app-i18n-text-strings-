@@ -1231,5 +1231,6 @@
   "create_a_savings_goal": "*** Google Translated ***Maak een besparing doel!",
   "savings_goal_map_hint_parent": "*** Google Translated ***%1$d %2$d gered en heeft %3$d tot doel",
   "savings_goal_map_hint_child": "*** Google Translated ***Je hebt %2$d en %3$d opgeslagen in doel",
-  "savings_goal_completed_bouble": "*** Google Translated ***Het doel is bereikt!"
+  "savings_goal_completed_bouble": "*** Google Translated ***Het doel is bereikt!",
+  "hidden_trustly_withdrawal_button": "*** Google Translated ***intrekking trustly"
 }

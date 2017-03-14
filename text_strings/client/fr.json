@@ -1231,5 +1231,6 @@
   "create_a_savings_goal": "*** Google Translated ***Créer un objectif d'économies!",
   "savings_goal_map_hint_parent": "*** Google Translated ***%1$d %2$d sauvé et a %3$d au but",
   "savings_goal_map_hint_child": "*** Google Translated ***Vous avez sauvé %2$d et %3$d à l'objectif",
-  "savings_goal_completed_bouble": "*** Google Translated ***Le but est atteint!"
+  "savings_goal_completed_bouble": "*** Google Translated ***Le but est atteint!",
+  "hidden_trustly_withdrawal_button": "*** Google Translated ***Retrait trustly"
 }

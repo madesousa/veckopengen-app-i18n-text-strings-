@@ -1242,5 +1242,6 @@
   "create_a_savings_goal": "Skapa ett sparmål!",
   "savings_goal_map_hint_parent": "%1$d har sparat %2$d och har %3$d kvar till målet",
   "savings_goal_map_hint_child": "Du har sparat %2$d och har %3$d kvar till målet",
-  "savings_goal_completed_bouble": "Målet är uppnått!"
+  "savings_goal_completed_bouble": "Målet är uppnått!",
+  "hidden_trustly_withdrawal_button": "Trustly Utträde"
 }
