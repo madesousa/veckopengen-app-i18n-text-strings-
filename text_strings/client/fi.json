@@ -1215,7 +1215,6 @@
   "popover_notification_remind_description": "*** Google Translated ***muistuttaa %1$d",
   "task_history_hand_out_task": "Anna tehtävä",
   "popover_trustly_warning_title": "Yli 300 SEK siirto",
-  "popover_trustly_warning_text": "*Teet yli 300 SEK siirtoa, tämä voi kestää tavallista kauemmin",
   "child_tabbar_home": "Kotona",
   "child_tabbar_transactions": "Tapahtumat",
   "child_tabbar_tasks": "Tehtävät",
@@ -1232,5 +1231,6 @@
   "savings_goal_map_hint_parent": "*** Google Translated ***%1$d %2$d tallennetaan ja on %3$d tavoitteeseen",
   "savings_goal_map_hint_child": "*** Google Translated ***Olet tallentanut %2$d ja %3$d tavoitteeseen",
   "savings_goal_completed_bouble": "*** Google Translated ***Tavoitteena on saavutettu!",
-  "hidden_trustly_withdrawal_button": "*** Google Translated ***Nosto trustly"
+  "hidden_trustly_withdrawal_button": "*** Google Translated ***Nosto trustly",
+  "popover_trustly_warning_text": "*** Google Translated ***%1$d yli 300kr ja ryhtyy työpäivällä."
 }

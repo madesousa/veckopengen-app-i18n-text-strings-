@@ -1215,7 +1215,6 @@
   "popover_notification_remind_description": "*** Google Translated ***minde %1$d",
   "task_history_hand_out_task": "Uddele opgave",
   "popover_trustly_warning_title": "Overførsel på over 300 kr.",
-  "popover_trustly_warning_text": "Du skal foretage en overførsel på 300 kr.; det kan tage længere tid end normalt",
   "child_tabbar_home": "Hjem",
   "child_tabbar_transactions": "Transaktioner ",
   "child_tabbar_tasks": "Opgaver",
@@ -1232,5 +1231,6 @@
   "savings_goal_map_hint_parent": "*** Google Translated ***%1$d %2$d gemmes og har %3$d til mål",
   "savings_goal_map_hint_child": "*** Google Translated ***Du har gemt %2$d og %3$d til mål",
   "savings_goal_completed_bouble": "*** Google Translated ***Målet er nået!",
-  "hidden_trustly_withdrawal_button": "*** Google Translated ***Tilbagetrækning trustly"
+  "hidden_trustly_withdrawal_button": "*** Google Translated ***Tilbagetrækning trustly",
+  "popover_trustly_warning_text": "*** Google Translated ***%1$d overstige 300kr og vil tage en ekstra arbejdsdag."
 }

@@ -1215,7 +1215,6 @@
   "popover_notification_remind_description": "*** Google Translated ***remind %1$d",
   "task_history_hand_out_task": "Handing out the task",
   "popover_trustly_warning_title": "The transfer of over 300kr",
-  "popover_trustly_warning_text": "You will make a transfer of over 300kr, this may take longer than usual",
   "child_tabbar_home": "Him",
   "child_tabbar_transactions": "Transactions",
   "child_tabbar_tasks": "Tasks",
@@ -1232,5 +1231,6 @@
   "savings_goal_map_hint_parent": "*** Google Translated ***%1$d %2$d saved and has %3$d to goal",
   "savings_goal_map_hint_child": "*** Google Translated ***You have saved %2$d and %3$d to goal",
   "savings_goal_completed_bouble": "*** Google Translated ***The goal is achieved!",
-  "hidden_trustly_withdrawal_button": "*** Google Translated ***Withdrawal trustly"
+  "hidden_trustly_withdrawal_button": "*** Google Translated ***Withdrawal trustly",
+  "popover_trustly_warning_text": "*** Google Translated ***%1$d exceed 300kr and will take an additional business day."
 }

@@ -1215,7 +1215,6 @@
   "popover_notification_remind_description": "*** Google Translated ***herinneren %1$d",
   "task_history_hand_out_task": "*** Google Translated ***Het geven van de taak",
   "popover_trustly_warning_title": "*** Google Translated ***De overdracht van meer dan 300kr",
-  "popover_trustly_warning_text": "*** Google Translated ***U vindt er een overdracht van meer dan 300kr te maken, kan dit langer duren dan normaal",
   "child_tabbar_home": "*** Google Translated ***Hem",
   "child_tabbar_transactions": "*** Google Translated ***transacties",
   "child_tabbar_tasks": "*** Google Translated ***beheer",
@@ -1232,5 +1231,6 @@
   "savings_goal_map_hint_parent": "*** Google Translated ***%1$d %2$d gered en heeft %3$d tot doel",
   "savings_goal_map_hint_child": "*** Google Translated ***Je hebt %2$d en %3$d opgeslagen in doel",
   "savings_goal_completed_bouble": "*** Google Translated ***Het doel is bereikt!",
-  "hidden_trustly_withdrawal_button": "*** Google Translated ***intrekking trustly"
+  "hidden_trustly_withdrawal_button": "*** Google Translated ***intrekking trustly",
+  "popover_trustly_warning_text": "*** Google Translated ***%1$d overschrijden 300kr en zal een extra werkdag te nemen."
 }
