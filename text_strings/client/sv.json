@@ -1235,5 +1235,7 @@
   "child_detail_report_title": "Sammanställningar",
   "child_detail_button_transactions": "%1$d transaktioner den här %2$d",
   "the_week": "veckan",
-  "the_month": "månaden"
+  "the_month": "månaden",
+  "add_wish_flow_title": "Vad önskar du dig?",
+  "add_wish_flow_image": "Hur ser den ut?"
 }

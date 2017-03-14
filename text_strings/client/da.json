@@ -1224,5 +1224,7 @@
   "child_detail_report_title": "Sammanställningar",
   "child_detail_button_transactions": "*** Google Translated ***%1$d %2$d transaktioner dette",
   "the_week": "*** Google Translated ***uge",
-  "the_month": "*** Google Translated ***måned"
+  "the_month": "*** Google Translated ***måned",
+  "add_wish_flow_title": "*** Google Translated ***Hvad vil du?",
+  "add_wish_flow_image": "*** Google Translated ***Hvordan ser det ud?"
 }
