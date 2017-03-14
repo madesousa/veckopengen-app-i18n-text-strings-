@@ -1232,5 +1232,6 @@
   "savings_goal_map_hint_child": "*** Google Translated ***Je hebt %2$d en %3$d opgeslagen in doel",
   "savings_goal_completed_bouble": "*** Google Translated ***Het doel is bereikt!",
   "hidden_trustly_withdrawal_button": "*** Google Translated ***intrekking trustly",
-  "popover_trustly_warning_text": "*** Google Translated ***%1$d overschrijden 300kr en zal een extra werkdag te nemen."
+  "popover_trustly_warning_text": "*** Google Translated ***%1$d overschrijden 300kr en zal een extra werkdag te nemen.",
+  "wishlist_wish_amount_single": "*** Google Translated ***%1$d verlangens"
 }
