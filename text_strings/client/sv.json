@@ -1238,5 +1238,7 @@
   "the_month": "månaden",
   "add_wish_flow_title": "Vad önskar du dig?",
   "add_wish_flow_image": "Hur ser den ut?",
-  "create_a_savings_goal": "Skapa ett sparmål!"
+  "create_a_savings_goal": "Skapa ett sparmål!",
+  "savings_goal_map_hint_parent": "%1$d har sparat %2$d och har %3$d kvar till målet",
+  "savings_goal_map_hint_child": "Du har sparat %2$d och har %3$d kvar till målet"
 }

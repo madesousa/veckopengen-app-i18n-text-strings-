@@ -1227,5 +1227,7 @@
   "the_month": "*** Google Translated ***mánuði",
   "add_wish_flow_title": "*** Google Translated ***Hvað viltu?",
   "add_wish_flow_image": "*** Google Translated ***Hvernig virkar það líta?",
-  "create_a_savings_goal": "*** Google Translated ***Búa til sparnað miða!"
+  "create_a_savings_goal": "*** Google Translated ***Búa til sparnað miða!",
+  "savings_goal_map_hint_parent": "*** Google Translated ***%1$d %2$d vistuð og hefur %3$d að markmið",
+  "savings_goal_map_hint_child": "*** Google Translated ***Þú hefur vistað %2$d og %3$d að markmiði"
 }

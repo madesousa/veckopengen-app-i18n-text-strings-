@@ -1227,5 +1227,7 @@
   "the_month": "*** Google Translated ***maand",
   "add_wish_flow_title": "*** Google Translated ***Wat wil je?",
   "add_wish_flow_image": "*** Google Translated ***Hoe ziet het eruit?",
-  "create_a_savings_goal": "*** Google Translated ***Maak een besparing doel!"
+  "create_a_savings_goal": "*** Google Translated ***Maak een besparing doel!",
+  "savings_goal_map_hint_parent": "*** Google Translated ***%1$d %2$d gered en heeft %3$d tot doel",
+  "savings_goal_map_hint_child": "*** Google Translated ***Je hebt %2$d en %3$d opgeslagen in doel"
 }
