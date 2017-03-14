@@ -1201,7 +1201,7 @@
   "allowance_recommended": "Suosittelemme",
   "parent_settings_surfguide": "Vinkkejä onnistuneeseen surffailukäyttäytymiseen",
   "child_settings_surfguide": "Suosittelemme",
-  "transaction_reverted": "Peru tapahtuma:",
+  "transaction_reverted": "Peru tapahtuma: %1$d",
   "qr_code_hint_text_child_parent": "Näin kytket tilisi vanhempasi tiliin: Pyydä vanhempiasi latamaan sovellus laitteeseensa. Vanhempasi paina <b>yhteyden perheenjäsenten</b> yhdistää ja luoda tilin.",
   "reciept_regret_transaction_title": "Haluatko kumota tapahtuman?",
   "reciept_regret_transaction_desc": "Haluatko kumota tapahtuman luomalla samankaltaisen toisen tapahtuman \"toisinpäin\"?",

@@ -1201,7 +1201,7 @@
   "allowance_recommended": "*** Google Translated ***recommandé",
   "parent_settings_surfguide": "*** Google Translated ***Conseils pour un bon comportement de surf",
   "child_settings_surfguide": "*** Google Translated ***Recommande",
-  "transaction_reverted": "*** Google Translated ***Transaction Reconverti",
+  "transaction_reverted": "*** Google Translated ***Transaction Reconverti: %1$d",
   "qr_code_hint_text_child_parent": "*** Google Translated ***Pour jumeler votre compte avec le compte d&#39;un parent: Demandez à vos parents de télécharger l&#39;application sur leur appareil. Votre parent puis appuyez sur la <b>connexion avec</b> les <b>membres de</b> la <b>famille</b> de se connecter et créer le compte.",
   "reciept_regret_transaction_title": "*** Google Translated ***Annuler transaction?",
   "reciept_regret_transaction_desc": "*** Google Translated ***Voulez-vous annuler votre transaction en créant une opération similaire \"l'autre façon»?",

@@ -1201,7 +1201,7 @@
   "allowance_recommended": "Anbefales",
   "parent_settings_surfguide": "Tips til god opførsel, når du surfer på nettet",
   "child_settings_surfguide": "Surftips ",
-  "transaction_reverted": "Gendannet transaktion:",
+  "transaction_reverted": "Gendannet transaktion: %1$d",
   "qr_code_hint_text_child_parent": "Sådan her forbinder du din konto med en forælders konto: Bed dine forældre om at hente app&#39;en på deres enhed. Din forælder trykker derefter på <b>forbind til familiemedlem</b> for at forbinde og oprette kontoen.",
   "reciept_regret_transaction_title": "Fortryd transaktion?",
   "reciept_regret_transaction_desc": "Ønsker du at fortryde din transaktion ved at oprette en lignende transaktion \"den anden vej\"?",

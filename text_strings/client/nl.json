@@ -1201,7 +1201,7 @@
   "allowance_recommended": "*** Google Translated ***aanbevolen",
   "parent_settings_surfguide": "*** Google Translated ***Tips voor een goede surfgedrag",
   "child_settings_surfguide": "*** Google Translated ***beveelt",
-  "transaction_reverted": "*** Google Translated ***Bekeerd Transactie:",
+  "transaction_reverted": "*** Google Translated ***Bekeerd Transactie: %1$d",
   "qr_code_hint_text_child_parent": "*** Google Translated ***Te koppelen je account aan met het account van een van de ouders: Vraag je ouders om de app op hun apparaat te downloaden. Je ouders en druk op <b>contact met familieleden</b> om te verbinden en de rekening.",
   "reciept_regret_transaction_title": "*** Google Translated ***Ongedaan maken transactie?",
   "reciept_regret_transaction_desc": "*** Google Translated ***Wilt u uw transactie te annuleren door het creëren van een soortgelijke transactie \"de andere kant\"?",
