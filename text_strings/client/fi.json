@@ -1229,5 +1229,6 @@
   "add_wish_flow_image": "*** Google Translated ***Miten se näyttää?",
   "create_a_savings_goal": "*** Google Translated ***Luo säästötavoite!",
   "savings_goal_map_hint_parent": "*** Google Translated ***%1$d %2$d tallennetaan ja on %3$d tavoitteeseen",
-  "savings_goal_map_hint_child": "*** Google Translated ***Olet tallentanut %2$d ja %3$d tavoitteeseen"
+  "savings_goal_map_hint_child": "*** Google Translated ***Olet tallentanut %2$d ja %3$d tavoitteeseen",
+  "savings_goal_completed_bouble": "*** Google Translated ***Tavoitteena on saavutettu!"
 }
