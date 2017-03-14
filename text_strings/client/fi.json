@@ -1212,7 +1212,7 @@
   "add_steps_trackingassignment_data_info": "Lue tietoja hyödyistä terveydellesi",
   "task_editor_created_at": "Luotu %1$d",
   "popover_button_notification_remind": "Muistutus",
-  "popover_button_notification_remind_description": "*** Google Translated ***muistuttaa %1$d",
+  "popover_notification_remind_description": "*** Google Translated ***muistuttaa %1$d",
   "task_history_hand_out_task": "Anna tehtävä",
   "popover_trustly_warning_title": "Yli 300 SEK siirto",
   "popover_trustly_warning_text": "*Teet yli 300 SEK siirtoa, tämä voi kestää tavallista kauemmin",

@@ -1212,7 +1212,7 @@
   "add_steps_trackingassignment_data_info": "*** Google Translated ***Lire sur les prestations de santé",
   "task_editor_created_at": "*** Google Translated ***Créé %1$d",
   "popover_button_notification_remind": "*** Google Translated ***rappelant",
-  "popover_button_notification_remind_description": "*** Google Translated ***rappeler %1$d",
+  "popover_notification_remind_description": "*** Google Translated ***rappeler %1$d",
   "task_history_hand_out_task": "*** Google Translated ***Donner à la tâche",
   "popover_trustly_warning_title": "*** Google Translated ***Le transfert de plus de 300kr",
   "popover_trustly_warning_text": "*** Google Translated ***Vous allez faire un transfert de plus de 300kr, cela peut prendre plus de temps que d'habitude",

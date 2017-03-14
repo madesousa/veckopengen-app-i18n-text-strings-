@@ -1212,7 +1212,7 @@
   "add_steps_trackingassignment_data_info": "Read About health benefits",
   "task_editor_created_at": "Created %1$d",
   "popover_button_notification_remind": "Remind",
-  "popover_button_notification_remind_description": "*** Google Translated ***remind %1$d",
+  "popover_notification_remind_description": "*** Google Translated ***remind %1$d",
   "task_history_hand_out_task": "Handing out the task",
   "popover_trustly_warning_title": "The transfer of over 300kr",
   "popover_trustly_warning_text": "You will make a transfer of over 300kr, this may take longer than usual",

@@ -1212,7 +1212,7 @@
   "add_steps_trackingassignment_data_info": "Læs Om sundhedsfordele",
   "task_editor_created_at": "Oprettet for %1$d",
   "popover_button_notification_remind": "Minde om",
-  "popover_button_notification_remind_description": "*** Google Translated ***minde %1$d",
+  "popover_notification_remind_description": "*** Google Translated ***minde %1$d",
   "task_history_hand_out_task": "Uddele opgave",
   "popover_trustly_warning_title": "Overførsel på over 300 kr.",
   "popover_trustly_warning_text": "Du skal foretage en overførsel på 300 kr.; det kan tage længere tid end normalt",
