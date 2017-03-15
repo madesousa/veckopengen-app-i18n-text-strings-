@@ -1179,7 +1179,7 @@
   "slow_connection_warning_title": "Yhteys kestää tavallista kauemmin",
   "slow_connection_warning_desc": "Varmista, että olet hyvä yhteys Internetiin ja yritä uudelleen!",
   "popover_trustly_max_warning_title": "*** Google Translated ***Suurin raja %1$d",
-  "popover_trustly_max_warning_text": "*** Google Translated ***%1$d pitäisi nyt saada voitot yli %2$d %3$d. Ala alla 89.438.949.034.036 maksamisesta on tehtävä.",
+  "popover_trustly_max_warning_text": "*** Google Translated ***%1$d pitäisi nyt saada voitot yli %2$d %3$d. Ala alla %3$d maksamisesta on tehtävä.",
   "task_history_title": "edellinen data",
   "project_earth_area_warning": "Valitse alue!",
   "popover_rate_in_appstore_yes": "Hyväksyn",
