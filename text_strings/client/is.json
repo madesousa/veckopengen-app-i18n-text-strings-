@@ -1179,7 +1179,6 @@
   "slow_connection_warning_title": "Tengingin tekur lengri tíma en venjulega",
   "slow_connection_warning_desc": "Gakktu úr skugga um að þú hefur góðan tengingu við Internetið og reyndu aftur!",
   "popover_trustly_max_warning_title": "*** Google Translated ***Hámarkið %1$d",
-  "popover_trustly_max_warning_text": "*** Google Translated ***%1$d ætti nú að fá útborgun af yfir %2$d %3$d. Lower neðan %3$d fyrir greiðslu skal fara fram.",
   "task_history_title": "fyrri gögn",
   "project_earth_area_warning": "Velja svæði!",
   "popover_rate_in_appstore_yes": "Mér finnst það",
@@ -1233,5 +1232,7 @@
   "savings_goal_completed_bouble": "*** Google Translated ***Markmiðið er náð!",
   "hidden_trustly_withdrawal_button": "*** Google Translated ***Uppsögn leggðu inn Paysafecard",
   "popover_trustly_warning_text": "*** Google Translated ***%1$d %2$d yfir og mun taka virkan dag til viðbótar.",
-  "wishlist_wish_amount_single": "*** Google Translated ***%1$d langanir"
+  "popover_trustly_warning_text_obsolete": "*** Google Translated ***Þú verður að gera flutning á 300kr, þetta getur tekið lengri tíma en venjulega",
+  "wishlist_wish_amount_single": "*** Google Translated ***%1$d langanir",
+  "popover_trustly_max_warning_text": "*** Google Translated ***%1$d ætti nú að fá útborgun af vikulega / mánaðarlega vasapeninga yfir %2$d. Lower neðan %2$d fyrir greiðslu skal fara fram."
 }

@@ -1190,7 +1190,6 @@
   "slow_connection_warning_title": "Anslutningen tar längre tid än vanligt",
   "slow_connection_warning_desc": "Kontrollera att du har en bra uppkoppling till internet och försök igen!",
   "popover_trustly_max_warning_title": "Maxgräns %1$d",
-  "popover_trustly_max_warning_text": "%1$d ska just nu få en utbetalning av %2$d på över %3$d. Sänk till under %3$d för att utbetalningen ska genomföras.",
   "task_history_title": "Tidigare uppgifter",
   "project_earth_area_warning": "Välj ett område!",
   "popover_rate_in_appstore_yes": "Jag gillar den",
@@ -1244,5 +1243,7 @@
   "savings_goal_completed_bouble": "Målet är uppnått!",
   "hidden_trustly_withdrawal_button": "Trustly Utträde",
   "popover_trustly_warning_text": "%1$d överskrider %2$d och kommer därför ta en extra bankdag.",
-  "wishlist_wish_amount_single": "%1$d önskning"
+  "popover_trustly_warning_text_obsolete": "Du kommer göra en överföring på över 300kr, detta kan ta längre tid än vanligt",
+  "wishlist_wish_amount_single": "%1$d önskning",
+  "popover_trustly_max_warning_text": "%1$d ska just nu få en utbetalning av vecko/månadspengen på över %2$d. Sänk till under %2$d för att utbetalningen ska genomföras."
 }
