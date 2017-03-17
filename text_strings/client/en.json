@@ -1201,7 +1201,7 @@
   "parent_settings_surfguide": "Tips for good surfing behavior",
   "child_settings_surfguide": "Recommends",
   "transaction_reverted": "Reverted Transaction: %1$d",
-  "qr_code_hint_text_child_parent": "To pair up your account with a parent&#39;s account: Ask your parents to download the app on their device. Your parent then press <b>connect with family members</b> to connect and create the account.",
+  "qr_code_hint_text_child_parent": "To pair up your account with a parent's account: Ask your parents to download the app on their device. Your parent then press <b>connect with family members</b> to connect and create the account.",
   "reciept_regret_transaction_title": "Undo transaction?",
   "reciept_regret_transaction_desc": "Do you want to cancel your transaction by creating a similar transaction \"the other way\"?",
   "create_steps_tracking_header": "Give out the steps",
