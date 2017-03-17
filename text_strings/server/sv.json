@@ -28,7 +28,7 @@
   "push_trustly_weekly_allowance_parent_changed_2": "Från och med nu betalas {child}s veckopeng ut från {parent}s konto",
   "push_trustly_monthly_allowance_parent_changed_2": "Från och med nu betalas {child}s månadspeng ut från {parent}s konto",
   "push_trustly_weekly_allowance_parent_changed_child": "Från och med nu betalas din veckopeng ut till ditt bankkonto varje vecka!",
-  "push_trustly_monthly_allowance_parent_changed_child": "Från och med nu betalas din månadspeng ut till din bankkonto varje månad!",
+  "push_trustly_monthly_allowance_parent_changed_child": "Från och med nu betalas din månadspeng ut till ditt bankkonto varje månad!",
   "dashboard_interest_added": "Fick {transaction.str_value} i sparbonus",
   "dashboard_changed_to_weekly_allowance": "Har gått över till veckopeng.",
   "dashboard_changed_to_monthly_allowance": "Har gått över till månadspeng.",
