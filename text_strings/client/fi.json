@@ -1179,7 +1179,6 @@
   "slow_connection_warning_title": "Yhteys kestää tavallista kauemmin",
   "slow_connection_warning_desc": "Varmista, että olet hyvä yhteys Internetiin ja yritä uudelleen!",
   "popover_trustly_max_warning_title": "*** Google Translated ***Suurin raja %1$d",
-  "popover_trustly_max_warning_text": "*** Google Translated ***%1$d pitäisi nyt saada voitot yli %2$d %3$d. Ala alla %3$d maksamisesta on tehtävä.",
   "task_history_title": "edellinen data",
   "project_earth_area_warning": "Valitse alue!",
   "popover_rate_in_appstore_yes": "Hyväksyn",
@@ -1233,5 +1232,7 @@
   "savings_goal_completed_bouble": "*** Google Translated ***Tavoitteena on saavutettu!",
   "hidden_trustly_withdrawal_button": "*** Google Translated ***Nosto trustly",
   "popover_trustly_warning_text": "*** Google Translated ***%1$d %2$d yli ja ryhtyy työpäivällä.",
-  "wishlist_wish_amount_single": "*** Google Translated ***%1$d halut"
+  "popover_trustly_warning_text_obsolete": "*** Google Translated ***Teet siirto yli 300kr, tämä voi kestää tavallista kauemmin",
+  "wishlist_wish_amount_single": "*** Google Translated ***%1$d halut",
+  "popover_trustly_max_warning_text": "*** Google Translated ***%1$d pitäisi nyt saada voitot viikoittain / kuukausittain maksettavaa yli %2$d. Ala alla %2$d maksamisesta on tehtävä."
 }
