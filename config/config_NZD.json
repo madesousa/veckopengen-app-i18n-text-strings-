@@ -18,5 +18,6 @@
   "thousandsSeparator": ",",
   "decimalMark": ".",
   "minimumSavingsBonusAmount": 1,
-  "minimumTransactionAmount": 0.5
+  "minimumTransactionAmount": 0.5,
+  "maximumSavingsBonusAmount": 99999
 }
