@@ -26,7 +26,9 @@ let RunAnna = (filePath):* => {
     TextStrings = JSON.parse(TextStrings)
     var stringToTranslate = TextStrings[textId]
 
-    if (!stringToTranslate) { return Promise.reject(`Cant find textid: ${textId} in file: ${path}`) }
+    if (!stringToTranslate) {
+      return Promise.reject(new Error(`Cant find textid: ${textId} in file: ${path}`))
+    }
     var lang = file.replace('TextStrings_', '').replace('.json', '')
     if (lang === 'nb') {
       lang = 'no'
@@ -61,7 +63,7 @@ let RunAnna = (filePath):* => {
   if (textIdToTranslate) {
     Promise.all(fs.readdirSync(filePath).map((file) => translateTextStringForFile(file, textIdToTranslate)))
       .then(() => console.log('saved Successfully :)'))
-      .catch((err) => console.error(err))
+      .catch((err) => console.error(err.message))
   }
 }
 templateDir.forEach((filePath) => {
