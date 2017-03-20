@@ -26,7 +26,7 @@ let RunAnna = (filePath):* => {
     TextStrings = JSON.parse(TextStrings)
     var stringToTranslate = TextStrings[textId]
 
-    if (!stringToTranslate) { return Promise.reject(new Error(`Cant find textid: ${textId} in file: ${path}`)) }
+    if (!stringToTranslate) { return Promise.reject(`Cant find textid: ${textId} in file: ${path}`) }
     var lang = file.replace('TextStrings_', '').replace('.json', '')
     if (lang === 'nb') {
       lang = 'no'
