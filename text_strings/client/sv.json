@@ -1221,8 +1221,8 @@
   "add_steps_trackingassignment_header_reward": "Belöning på måndag",
   "add_steps_trackingassignment_data_info": "Läs om födelarna för din hälsa",
   "task_editor_created_at": "Skapades för %1$d",
-  "popover_button_notification_remind": "Påminna %1$d",
-  "popover_notification_remind_description": "%1$d har påmint dig om %2$d",
+  "popover_button_notification_remind": "Påminna",
+  "popover_notification_remind_description": "Påminna %1$d",
   "task_history_hand_out_task": "Ge ut uppgift",
   "popover_trustly_warning_title": "Överföring på över %1$d",
   "child_tabbar_home": "Hem",
@@ -1245,5 +1245,6 @@
   "popover_trustly_warning_text": "%1$d överskrider %2$d och kommer därför ta en extra bankdag.",
   "popover_trustly_warning_text_obsolete": "Du kommer göra en överföring på över 300kr, detta kan ta längre tid än vanligt",
   "wishlist_wish_amount_single": "%1$d önskning",
-  "popover_trustly_max_warning_text": "%1$d ska just nu få en utbetalning av vecko/månadspengen på över %2$d. Sänk till under %2$d för att utbetalningen ska genomföras."
+  "popover_trustly_max_warning_text": "%1$d ska just nu få en utbetalning av vecko/månadspengen på över %2$d. Sänk till under %2$d för att utbetalningen ska genomföras.",
+  "goal_map_left_to_save": "<b>%1$d</b> kvar att spara"
 }

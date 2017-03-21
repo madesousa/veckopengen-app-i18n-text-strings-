@@ -1234,5 +1234,6 @@
   "popover_trustly_warning_text": "*** Google Translated ***%1$d %2$d yfir og mun taka virkan dag til viðbótar.",
   "popover_trustly_warning_text_obsolete": "*** Google Translated ***Þú verður að gera flutning á 300kr, þetta getur tekið lengri tíma en venjulega",
   "wishlist_wish_amount_single": "*** Google Translated ***%1$d langanir",
-  "popover_trustly_max_warning_text": "*** Google Translated ***%1$d ætti nú að fá útborgun af vikulega / mánaðarlega vasapeninga yfir %2$d. Lower neðan %2$d fyrir greiðslu skal fara fram."
+  "popover_trustly_max_warning_text": "*** Google Translated ***%1$d ætti nú að fá útborgun af vikulega / mánaðarlega vasapeninga yfir %2$d. Lower neðan %2$d fyrir greiðslu skal fara fram.",
+  "goal_map_left_to_save": "*** Google Translated ***<b>%1$d</b> vinstri til að spara"
 }

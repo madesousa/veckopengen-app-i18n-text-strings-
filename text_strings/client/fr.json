@@ -1234,5 +1234,6 @@
   "popover_trustly_warning_text": "*** Google Translated ***%1$d %2$d dépassent et prendra un jour ouvrable supplémentaire.",
   "popover_trustly_warning_text_obsolete": "*** Google Translated ***Vous allez faire un transfert de plus de 300kr, cela peut prendre plus de temps que d'habitude",
   "wishlist_wish_amount_single": "*** Google Translated ***%1$d désirs",
-  "popover_trustly_max_warning_text": "*** Google Translated ***%1$d devrait maintenant recevoir un paiement de l'allocation hebdomadaire / mensuel de plus de %2$d. Basse-dessous %2$d pour le paiement doit être effectué."
+  "popover_trustly_max_warning_text": "*** Google Translated ***%1$d devrait maintenant recevoir un paiement de l'allocation hebdomadaire / mensuel de plus de %2$d. Basse-dessous %2$d pour le paiement doit être effectué.",
+  "goal_map_left_to_save": "*** Google Translated ***<b>%1$d</b> à sauver"
 }
