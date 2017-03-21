@@ -1235,5 +1235,7 @@
   "popover_trustly_warning_text_obsolete": "*** Google Translated ***You will make a transfer of over 300kr, this may take longer than usual",
   "wishlist_wish_amount_single": "*** Google Translated ***%1$d desires",
   "popover_trustly_max_warning_text": "*** Google Translated ***%1$d should now receive a payout of weekly / monthly allowance of over %2$d. Lower below %2$d for payment shall be carried out.",
-  "goal_map_left_to_save": "<b>%1$d</b> left to save"
+  "goal_map_left_to_save": "<b>%1$d</b> left to save",
+  "trustly_manual_withdrawal": "*** Google Translated ***Manual exit",
+  "transaction_reverted_view": "*** Google Translated ***transactions revers"
 }

@@ -1235,5 +1235,7 @@
   "popover_trustly_warning_text_obsolete": "*** Google Translated ***U vindt er een overdracht van meer dan 300kr te maken, kan dit langer duren dan normaal",
   "wishlist_wish_amount_single": "*** Google Translated ***%1$d verlangens",
   "popover_trustly_max_warning_text": "*** Google Translated ***%1$d moet nu krijgen een uitbetaling van wekelijkse / maandelijkse toelage van meer dan %2$d. Lower hieronder %2$d voor de betaling zal worden uitgevoerd.",
-  "goal_map_left_to_save": "*** Google Translated ***<b>%1$d</b> links op te slaan"
+  "goal_map_left_to_save": "*** Google Translated ***<b>%1$d</b> links op te slaan",
+  "trustly_manual_withdrawal": "*** Google Translated ***Manual exit",
+  "transaction_reverted_view": "*** Google Translated ***transacties revers"
 }

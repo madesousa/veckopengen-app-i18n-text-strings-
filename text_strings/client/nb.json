@@ -1235,5 +1235,7 @@
   "popover_trustly_warning_text_obsolete": "*** Google Translated ***Du vil få en overføring på over 300kr, kan dette ta lengre tid enn vanlig",
   "wishlist_wish_amount_single": "*** Google Translated ***%1$d begjær",
   "popover_trustly_max_warning_text": "*** Google Translated ***%1$d skal nå motta en utbetaling på ukentlig / månedlig kvote på over %2$d. Nedre under %2$d for betaling skal utføres.",
-  "goal_map_left_to_save": "*** Google Translated ***<b>%1$d</b> venstre for å spare"
+  "goal_map_left_to_save": "*** Google Translated ***<b>%1$d</b> venstre for å spare",
+  "trustly_manual_withdrawal": "*** Google Translated ***manuell exit",
+  "transaction_reverted_view": "*** Google Translated ***transaksjoner revers"
 }
