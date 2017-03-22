@@ -1237,5 +1237,17 @@
   "popover_trustly_max_warning_text": "*** Google Translated ***%1$d moet nu krijgen een uitbetaling van wekelijkse / maandelijkse toelage van meer dan %2$d. Lower hieronder %2$d voor de betaling zal worden uitgevoerd.",
   "goal_map_left_to_save": "*** Google Translated ***<b>%1$d</b> links op te slaan",
   "trustly_manual_withdrawal": "*** Google Translated ***Manual exit",
-  "transaction_reverted_view": "*** Google Translated ***transacties revers"
+  "transaction_reverted_view": "*** Google Translated ***transacties revers",
+  "goal_map_underground_since_start": "*** Google Translated ***Dagen sinds de start",
+  "goal_map_underground_days_left": "*** Google Translated ***dagen over",
+  "goal_map_underground_percentage_stats_above": "*** Google Translated ***dan gepland",
+  "goal_map_underground_percentage_stats_under": "*** Google Translated ***onder plannen",
+  "goal_map_underground_milestone": "*** Google Translated ***mijlpalen",
+  "goal_map_underground_milestone_to_next": "*** Google Translated ***Zij naar de volgende",
+  "goal_map_underground_milestone_reached": "*** Google Translated ***verwezenlijkingen",
+  "goal_map_underground_milestone_reached_amount": "*** Google Translated ***%1$d %2$d van",
+  "goal_map_underground_milestone_bonus": "*** Google Translated ***bij mijlpaal",
+  "goal_map_underground_graph": "*** Google Translated ***besparingen Indicator",
+  "goal_map_underground_forecast": "*** Google Translated ***voorspelling",
+  "goal_map_underground_opverview": "*** Google Translated ***Overzicht"
 }

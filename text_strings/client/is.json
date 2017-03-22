@@ -1235,9 +1235,19 @@
   "popover_trustly_warning_text_obsolete": "*** Google Translated ***Þú verður að gera flutning á 300kr, þetta getur tekið lengri tíma en venjulega",
   "wishlist_wish_amount_single": "*** Google Translated ***%1$d langanir",
   "popover_trustly_max_warning_text": "*** Google Translated ***%1$d ætti nú að fá útborgun af vikulega / mánaðarlega vasapeninga yfir %2$d. Lower neðan %2$d fyrir greiðslu skal fara fram.",
-
   "goal_map_left_to_save": "*** Google Translated ***<b>%1$d</b> vinstri til að spara",
-
   "trustly_manual_withdrawal": "*** Google Translated ***handbók hætta",
-  "transaction_reverted_view": "*** Google Translated ***reiðufé revers"
+  "transaction_reverted_view": "*** Google Translated ***reiðufé revers",
+  "goal_map_underground_since_start": "*** Google Translated ***Dagar síðan byrjun",
+  "goal_map_underground_days_left": "*** Google Translated ***dagar eftir",
+  "goal_map_underground_percentage_stats_above": "*** Google Translated ***yfir áætlun",
+  "goal_map_underground_percentage_stats_under": "*** Google Translated ***undir áætlun",
+  "goal_map_underground_milestone": "*** Google Translated ***áfangar",
+  "goal_map_underground_milestone_to_next": "*** Google Translated ***Að halda áfram að næsta",
+  "goal_map_underground_milestone_reached": "*** Google Translated ***Afrek",
+  "goal_map_underground_milestone_reached_amount": "*** Google Translated ***%1$d %2$d af",
+  "goal_map_underground_milestone_bonus": "*** Google Translated ***á Milestone",
+  "goal_map_underground_graph": "*** Google Translated ***Sparnaður Vísir",
+  "goal_map_underground_forecast": "*** Google Translated ***spá",
+  "goal_map_underground_opverview": "*** Google Translated ***Yfirlit"
 }

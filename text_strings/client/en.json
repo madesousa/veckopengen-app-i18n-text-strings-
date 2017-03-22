@@ -1237,5 +1237,17 @@
   "popover_trustly_max_warning_text": "*** Google Translated ***%1$d should now receive a payout of weekly / monthly allowance of over %2$d. Lower below %2$d for payment shall be carried out.",
   "goal_map_left_to_save": "<b>%1$d</b> left to save",
   "trustly_manual_withdrawal": "*** Google Translated ***Manual exit",
-  "transaction_reverted_view": "*** Google Translated ***transactions revers"
+  "transaction_reverted_view": "*** Google Translated ***transactions revers",
+  "goal_map_underground_since_start": "*** Google Translated ***Days since start",
+  "goal_map_underground_days_left": "*** Google Translated ***Days left",
+  "goal_map_underground_percentage_stats_above": "*** Google Translated ***over plan",
+  "goal_map_underground_percentage_stats_under": "*** Google Translated ***Under plan",
+  "goal_map_underground_milestone": "*** Google Translated ***milestones",
+  "goal_map_underground_milestone_to_next": "*** Google Translated ***Continuing to the next",
+  "goal_map_underground_milestone_reached": "*** Google Translated ***achievements",
+  "goal_map_underground_milestone_reached_amount": "*** Google Translated ***%1$d %2$d of",
+  "goal_map_underground_milestone_bonus": "*** Google Translated ***At milestone",
+  "goal_map_underground_graph": "*** Google Translated ***Savings Indicator",
+  "goal_map_underground_forecast": "*** Google Translated ***Forecast",
+  "goal_map_underground_opverview": "*** Google Translated ***Overview"
 }

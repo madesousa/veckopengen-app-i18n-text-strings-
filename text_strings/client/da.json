@@ -1237,5 +1237,17 @@
   "popover_trustly_max_warning_text": "*** Google Translated ***%1$d bør nu modtage en udbetaling på ugentlig / månedlig godtgørelse på over %2$d. Lavere under %2$d til betaling skal foretages.",
   "goal_map_left_to_save": "*** Google Translated ***<b>%1$d</b> tilbage gemme",
   "trustly_manual_withdrawal": "*** Google Translated ***Manuel exit",
-  "transaction_reverted_view": "*** Google Translated ***transaktioner revers"
+  "transaction_reverted_view": "*** Google Translated ***transaktioner revers",
+  "goal_map_underground_since_start": "*** Google Translated ***Dage siden starten",
+  "goal_map_underground_days_left": "*** Google Translated ***dage tilbage",
+  "goal_map_underground_percentage_stats_above": "*** Google Translated ***løbet plan",
+  "goal_map_underground_percentage_stats_under": "*** Google Translated ***Under planen",
+  "goal_map_underground_milestone": "*** Google Translated ***milepæle",
+  "goal_map_underground_milestone_to_next": "*** Google Translated ***Fortsat til den næste",
+  "goal_map_underground_milestone_reached": "*** Google Translated ***resultater",
+  "goal_map_underground_milestone_reached_amount": "*** Google Translated ***%1$d %2$d af",
+  "goal_map_underground_milestone_bonus": "*** Google Translated ***Ved milepæl",
+  "goal_map_underground_graph": "*** Google Translated ***Besparelser Indikator",
+  "goal_map_underground_forecast": "*** Google Translated ***Forudsigelse",
+  "goal_map_underground_opverview": "*** Google Translated ***oversigt"
 }

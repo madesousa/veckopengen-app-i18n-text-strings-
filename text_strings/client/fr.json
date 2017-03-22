@@ -1237,5 +1237,17 @@
   "popover_trustly_max_warning_text": "*** Google Translated ***%1$d devrait maintenant recevoir un paiement de l'allocation hebdomadaire / mensuel de plus de %2$d. Basse-dessous %2$d pour le paiement doit être effectué.",
   "goal_map_left_to_save": "*** Google Translated ***<b>%1$d</b> à sauver",
   "trustly_manual_withdrawal": "*** Google Translated ***Manuel sortie",
-  "transaction_reverted_view": "*** Google Translated ***opérations revers"
+  "transaction_reverted_view": "*** Google Translated ***opérations revers",
+  "goal_map_underground_since_start": "*** Google Translated ***Jours depuis le début",
+  "goal_map_underground_days_left": "*** Google Translated ***jours à gauche",
+  "goal_map_underground_percentage_stats_above": "*** Google Translated ***sur le plan",
+  "goal_map_underground_percentage_stats_under": "*** Google Translated ***Selon le plan",
+  "goal_map_underground_milestone": "*** Google Translated ***jalons",
+  "goal_map_underground_milestone_to_next": "*** Google Translated ***Continuer à la prochaine",
+  "goal_map_underground_milestone_reached": "*** Google Translated ***réalisations",
+  "goal_map_underground_milestone_reached_amount": "*** Google Translated ***%1$d %2$d de",
+  "goal_map_underground_milestone_bonus": "*** Google Translated ***À étape",
+  "goal_map_underground_graph": "*** Google Translated ***Indicateur d'épargne",
+  "goal_map_underground_forecast": "*** Google Translated ***prédiction",
+  "goal_map_underground_opverview": "*** Google Translated ***vue d'ensemble"
 }
