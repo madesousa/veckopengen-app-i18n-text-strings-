@@ -1253,5 +1253,6 @@
   "goal_graph_label": "*** Google Translated ***%1$d %2$d",
   "goal_map_graph_saved": "*** Google Translated ***Continuer à enregistrer %1$d",
   "goal_map_graph_left_to_save": "*** Google Translated ***Continuer à enregistrer %1$d",
-  "goal_map_graph_parent_help": "*** Google Translated ***Parents Aide %1$d"
+  "goal_map_graph_parent_help": "*** Google Translated ***Parents Aide %1$d",
+  "assignment_created": "*** Google Translated ***tâche créée"
 }
