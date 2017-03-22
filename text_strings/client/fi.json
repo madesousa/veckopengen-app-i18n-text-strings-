@@ -1251,7 +1251,7 @@
   "goal_map_underground_forecast": "*** Google Translated ***ennustus",
   "goal_map_underground_overview": "*** Google Translated ***yleiskatsaus",
   "goal_graph_label": "*** Google Translated ***%1$d %2$d",
-  "goal_map_graph_parent_help": "*** Google Translated ***vanhemmat Ohje",
   "goal_map_graph_saved": "*** Google Translated ***Jatkuvat säästää %1$d",
-  "goal_map_graph_left_to_save": "*** Google Translated ***Jatkuvat säästää %1$d"
+  "goal_map_graph_left_to_save": "*** Google Translated ***Jatkuvat säästää %1$d",
+  "goal_map_graph_parent_help": "*** Google Translated ***Vanhemmat Auttaa %1$d"
 }

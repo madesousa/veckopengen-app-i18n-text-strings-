@@ -1251,7 +1251,7 @@
   "goal_map_underground_forecast": "*** Google Translated ***prédiction",
   "goal_map_underground_overview": "*** Google Translated ***vue d'ensemble",
   "goal_graph_label": "*** Google Translated ***%1$d %2$d",
-  "goal_map_graph_parent_help": "*** Google Translated ***parents Aide",
   "goal_map_graph_saved": "*** Google Translated ***Continuer à enregistrer %1$d",
-  "goal_map_graph_left_to_save": "*** Google Translated ***Continuer à enregistrer %1$d"
+  "goal_map_graph_left_to_save": "*** Google Translated ***Continuer à enregistrer %1$d",
+  "goal_map_graph_parent_help": "*** Google Translated ***Parents Aide %1$d"
 }
