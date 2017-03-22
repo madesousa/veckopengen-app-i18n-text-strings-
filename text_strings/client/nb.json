@@ -1250,5 +1250,8 @@
   "goal_map_underground_graph": "*** Google Translated ***besparelser Indicator",
   "goal_map_underground_forecast": "*** Google Translated ***Tippe",
   "goal_map_underground_overview": "*** Google Translated ***oversikt",
-  "goal_graph_label": "*** Google Translated ***%1$d %2$d"
+  "goal_graph_label": "*** Google Translated ***%1$d %2$d",
+  "goal_map_graph_parent_help": "*** Google Translated ***foreldre Hjelp",
+  "goal_map_graph_saved": "*** Google Translated ***Fortsetter å spare %1$d",
+  "goal_map_graph_left_to_save": "*** Google Translated ***Fortsetter å spare %1$d"
 }
