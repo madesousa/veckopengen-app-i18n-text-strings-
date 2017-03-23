@@ -47,7 +47,7 @@
   "push_trustly_over_limit": "Misslyckade överföring på {amount}",
   "dashboard_goal_created": "Skapade sparmålet {goal.title}",
   "dashboard_goal_completed": "Uppnådde sparmålet {goal.title}",
-  "dashboard_transfer_to_savings": "Sparade {amount}",
+  "dashboard_transfer_to_savings": "Sparade {transaction.str_value}",
   "push_data_usage_assignment_created": "Du har fått en ny surfkolls uppgift",
   "push_goal_updated": "{goal.updated_by.name} har ändrat sparmål {goal.title}",
   "push_task_updated": "{user} har ändrat uppgiften {task}",

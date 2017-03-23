@@ -47,7 +47,7 @@
   "push_trustly_over_limit": "Epäonnistunut siirto {amount}.",
   "dashboard_goal_created": "Luotu säästötavoite {goal.title}.",
   "dashboard_goal_completed": "Saavutettu säästötavoite {goal.title}.",
-  "dashboard_transfer_to_savings": "Säästetty summa {amount}.",
+  "dashboard_transfer_to_savings": "Säästetty summa {transaction.str_value}.",
   "push_data_usage_assignment_created": "Sinulla on uusi nettivalvontatehtävä.",
   "push_goal_updated": "{goal.updated_by.name} on muuttanut säästötavoitetta {goal.title}.",
   "push_task_updated": "{user} on muuttanut tehtävää {task}.",

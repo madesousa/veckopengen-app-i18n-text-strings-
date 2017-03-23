@@ -47,7 +47,7 @@
   "push_trustly_over_limit": "A transfer of {amount} failed.",
   "dashboard_goal_created": "Savings goal {goal.title} set.",
   "dashboard_goal_completed": "Completed {goal.title}.",
-  "dashboard_transfer_to_savings": "Saved {amount}.",
+  "dashboard_transfer_to_savings": "Saved {transaction.str_value}.",
   "push_data_usage_assignment_created": "You have received a new surf check task.",
   "push_goal_updated": "{goal.updated_by.name} has an updated {goal.title}.",
   "push_task_updated": "{user} has an updated {task}.",
