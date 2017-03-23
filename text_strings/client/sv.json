@@ -1265,5 +1265,8 @@
   "goal_map_graph_saved": "Sparat %1$d",
   "goal_map_graph_left_to_save": "Kvar att spara %1$d",
   "goal_map_graph_parent_help": "Föräldrarhjälp %1$d",
-  "assignment_created": "Uppgift skapad"
+  "assignment_created": "Uppgift skapad",
+  "goal_editor_parent_title": "Hjälp till",
+  "goal_editor_parent_help": "Sponsrad summa",
+  "goal_editor_parent_boost": "Boost per milstolpe"
 }

@@ -1254,5 +1254,8 @@
   "goal_map_graph_saved": "PLZ_TRANSLATEVoortzetting op te slaan %1$d",
   "goal_map_graph_left_to_save": "PLZ_TRANSLATEVoortzetting op te slaan %1$d",
   "goal_map_graph_parent_help": "PLZ_TRANSLATEOuders helpen %1$d",
-  "assignment_created": "PLZ_TRANSLATEtaak gemaakt"
+  "assignment_created": "PLZ_TRANSLATEtaak gemaakt",
+  "goal_editor_parent_title": "PLZ_TRANSLATEhelpen",
+  "goal_editor_parent_help": "PLZ_TRANSLATEGesponsorde sum",
+  "goal_editor_parent_boost": "PLZ_TRANSLATEBoost per mijlpaal"
 }

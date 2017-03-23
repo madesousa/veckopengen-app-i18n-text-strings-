@@ -1254,5 +1254,8 @@
   "goal_map_graph_saved": "PLZ_TRANSLATEJatkuvat säästää %1$d",
   "goal_map_graph_left_to_save": "PLZ_TRANSLATEJatkuvat säästää %1$d",
   "goal_map_graph_parent_help": "PLZ_TRANSLATEVanhemmat Auttaa %1$d",
-  "assignment_created": "PLZ_TRANSLATEtehtävä luotiin"
+  "assignment_created": "PLZ_TRANSLATEtehtävä luotiin",
+  "goal_editor_parent_title": "PLZ_TRANSLATEapua",
+  "goal_editor_parent_help": "PLZ_TRANSLATESponsoroidut summa",
+  "goal_editor_parent_boost": "PLZ_TRANSLATEBoost kohti virstanpylväs"
 }

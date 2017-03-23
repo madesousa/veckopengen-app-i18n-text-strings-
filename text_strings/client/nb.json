@@ -1254,5 +1254,8 @@
   "goal_map_graph_saved": "PLZ_TRANSLATEFortsetter å spare %1$d",
   "goal_map_graph_left_to_save": "PLZ_TRANSLATEFortsetter å spare %1$d",
   "goal_map_graph_parent_help": "PLZ_TRANSLATEForeldre Hjelp %1$d",
-  "assignment_created": "PLZ_TRANSLATEoppgave opprettet"
+  "assignment_created": "PLZ_TRANSLATEoppgave opprettet",
+  "goal_editor_parent_title": "PLZ_TRANSLATEHjelp",
+  "goal_editor_parent_help": "PLZ_TRANSLATEsponset sum",
+  "goal_editor_parent_boost": "PLZ_TRANSLATEBoost per milepæl"
 }
