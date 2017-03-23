@@ -43,7 +43,7 @@ let RunAnna = (filePath):* => {
       }
       var translatedText = fromHash(translation)
       console.log(`Translated text: '${stringToTranslate}' to: '${translatedText}' in ${filePath}/${file}`)
-      var re = /\*\*\*(.*?)\*\*\*/g
+      var re = /PLZ_TRANSLATE/g
       if (re.test(translatedText)) {
         TextStrings[textId] = translatedText
       } else {
