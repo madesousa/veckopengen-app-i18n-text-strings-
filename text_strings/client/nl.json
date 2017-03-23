@@ -1250,7 +1250,7 @@
   "goal_map_underground_graph": "PLZ_TRANSLATEbesparingen Indicator",
   "goal_map_underground_forecast": "PLZ_TRANSLATEvoorspelling",
   "goal_map_underground_overview": "PLZ_TRANSLATEOverzicht",
-  "goal_graph_label": "PLZ_TRANSLATE%1$d %2$d",
+  "goal_graph_label": "PLZ_TRANSLATEPLZ_TRANSLATE%1$d %2$d",
   "goal_map_graph_saved": "PLZ_TRANSLATEVoortzetting op te slaan %1$d",
   "goal_map_graph_left_to_save": "PLZ_TRANSLATEVoortzetting op te slaan %1$d",
   "goal_map_graph_parent_help": "PLZ_TRANSLATEOuders helpen %1$d",

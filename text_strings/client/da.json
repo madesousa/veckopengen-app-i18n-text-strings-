@@ -1250,7 +1250,7 @@
   "goal_map_underground_graph": "PLZ_TRANSLATEBesparelser Indikator",
   "goal_map_underground_forecast": "PLZ_TRANSLATEForudsigelse",
   "goal_map_underground_overview": "PLZ_TRANSLATEoversigt",
-  "goal_graph_label": "PLZ_TRANSLATE%1$d %2$d",
+  "goal_graph_label": "PLZ_TRANSLATEPLZ_TRANSLATE%1$d %2$d",
   "goal_map_graph_saved": "PLZ_TRANSLATEFortsat at spare %1$d",
   "goal_map_graph_left_to_save": "PLZ_TRANSLATEFortsat at spare %1$d",
   "goal_map_graph_parent_help": "PLZ_TRANSLATEForældre Hjælp %1$d",
