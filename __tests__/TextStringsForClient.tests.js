@@ -1,5 +1,5 @@
 import {getTextStrings, languageCodes} from '../index'
-import {compareKeys, compareDollarSigns} from '../TestUtil'
+import {compareKeys, compareDollarSigns, checkBirgittaInconsistencies} from '../TestUtil'
 jest.disableAutomock()
 
 describe('TextStrings', () => {
@@ -14,11 +14,14 @@ describe('TextStrings', () => {
   it('all textstrings should have right amount of $d and $c and $s signs signs', () => {
     languageCodes.forEach(lang1 => languageCodes.forEach(lang2 => compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$')))
     languageCodes.forEach(lang1 => languageCodes.forEach(lang2 => compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$d')))
-    languageCodes.forEach(lang1 => languageCodes.forEach(lang2 => compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$c')))
     languageCodes.forEach(lang1 => languageCodes.forEach(lang2 => compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$s')))
   })
 
   it('all languages should have english as default', () => {
     expect(getTextStrings('en')).toEqual(getTextStrings('default'))
+  })
+
+  it('should not have any birgitta inconsistencies', () => {
+    languageCodes.forEach(lang1 => languageCodes.forEach(lang2 => checkBirgittaInconsistencies(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)))
   })
 })

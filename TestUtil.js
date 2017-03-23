@@ -3,6 +3,7 @@ import IgnoredTextStrings from './IgnoredTextStrings.json'
 import {supportedLanguageCodes} from './index.js'
 import defaultTextStrings from './text_strings/client/default.json'
 
+export let birgittaTemplate = 'PLZ_CHECK'
 var ignoredKeys = ['currency', 'currencyMinus', 'currencyPlus', 'aint_no_money_desc', 'no_money_pig_parent_text']
 
 export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
@@ -17,12 +18,7 @@ export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: 
       errorMessages.push(`Lang: '${firstLangName}', Key: '${key}' has a $ and whitespace, do you mean $s, $d or $c ?`)
     }
 
-    if (secondLang[key] === firstLang[key] &&
-      firstLangName !== 'sv' &&
-      secondLangName === 'sv' &&
-      !IgnoredTextStrings.includes(key) &&
-      !defaultTextStrings[key] &&
-      supportedLanguageCodes.includes(firstLangName)) {
+    if (secondLang[key] === firstLang[key] && firstLangName !== 'sv' && secondLangName === 'sv' && !IgnoredTextStrings.includes(key) && !defaultTextStrings[key] && supportedLanguageCodes.includes(firstLangName)) {
       errorMessages.push(`Lang: '${firstLangName}', Key: '${key}' is equal to: '${secondLangName}'`)
     }
   })
@@ -57,7 +53,7 @@ let testCompareKeysWithinTextString = (textString1: string, textString2: string,
     return undefined
   })
 
-  var errorMessage = errorMessages.find((errorMessage) => errorMessage !== undefined)
+  var errorMessage = errorMessages.find(errorMessage => errorMessage !== undefined)
 
   return errorMessage
 }
@@ -70,6 +66,7 @@ export let compareKeysWithinTextStrings = (firstLang: Object, secondLang: Object
     expect(errorMessage).toEqual(undefined)
   })
 }
+
 export let checkTemplateLenght = (langs: Object, langName: string = '') => {
   var keys = Object.keys(langs)
   var patternTemplates = 'template_title'
@@ -81,5 +78,22 @@ export let checkTemplateLenght = (langs: Object, langName: string = '') => {
       }
     }
   })
+  expect(errorMessages).toEqual([])
+}
+
+export let checkBirgittaInconsistencies = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
+  var keys = Object.keys(firstLang)
+  var errorMessages = []
+
+  keys.forEach(key => {
+    if (firstLangName === 'en' || secondLangName === 'en') {
+      if (firstLang[key].includes(birgittaTemplate)) errorMessages.push(`${birgittaTemplate} in text_id:${key} in en.json`)
+      return
+    }
+    if (firstLang[key].includes(birgittaTemplate) && !secondLang[key].includes(birgittaTemplate)) {
+      errorMessages.push(`Birgitta Inconsistency, to invalidate ${key}: Plz run: npm run birgitta -- --text_id=${key} --source_lang=en`)
+    }
+  })
+
   expect(errorMessages).toEqual([])
 }
