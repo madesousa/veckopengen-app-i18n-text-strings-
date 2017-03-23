@@ -65,7 +65,7 @@
   "dashboard_weekly_allowance_over_trustly_limit": "Veckopengen är över beloppsgränsen",
   "dashboard_monthly_allowance_over_trustly_limit": "Månadspengen är över beloppsgränsen",
   "dashboard_failed_trustly_transaction": "Tilisiirto epäonnistui",
-  "dashboard_completed_trustly_transaction": "{amount} överfördes till bankkonto",
+  "dashboard_completed_trustly_transaction": "{transaction.str_value} överfördes till bankkonto",
   "dashboard_assignment_completed": "Valmiina {assignment.task.title}",
   "dashboard_child_trustly_account_ongoing": "Liitetään pankkitiliä",
   "dashboard_goal_archived": "Arkiverade sparmålet {goal.title}",

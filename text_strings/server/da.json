@@ -65,7 +65,7 @@
   "dashboard_weekly_allowance_over_trustly_limit": "Ugepengene er over beløbsgrænsen",
   "dashboard_monthly_allowance_over_trustly_limit": "Månedspengene er over beløbsgrænsen",
   "dashboard_failed_trustly_transaction": "Mislykket overførsel",
-  "dashboard_completed_trustly_transaction": "{amount} overførtes til bankkonto",
+  "dashboard_completed_trustly_transaction": "{transaction.str_value} overførtes til bankkonto",
   "dashboard_assignment_completed": "Klar med {assignment.task.title}",
   "dashboard_child_trustly_account_ongoing": "Afventer tilslutning til bankkontoen",
   "dashboard_goal_archived": "Arkiverede sparemålet {goal.title}",

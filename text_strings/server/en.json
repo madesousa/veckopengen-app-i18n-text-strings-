@@ -65,7 +65,7 @@
   "dashboard_weekly_allowance_over_trustly_limit": "The allowance is over the transfer limit",
   "dashboard_monthly_allowance_over_trustly_limit": "The allowance is over the transfer limit",
   "dashboard_failed_trustly_transaction": "The transaction failed",
-  "dashboard_completed_trustly_transaction": "{amount} was transferred to the bank account",
+  "dashboard_completed_trustly_transaction": "{transaction.str_value} was transferred to bank account",
   "dashboard_assignment_completed": "Done with {assignment.task.title}",
   "dashboard_child_trustly_account_ongoing": "The connection of the bank accounts is ongoing",
   "dashboard_goal_archived": "Archived savings goal {goal.title}",
