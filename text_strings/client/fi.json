@@ -1232,7 +1232,7 @@
   "savings_goal_completed_bouble": "*** Google Translated ***Tavoitteena on saavutettu!",
   "hidden_trustly_withdrawal_button": "*** Google Translated ***Nosto trustly",
   "popover_trustly_warning_text": "*** Google Translated ***%1$d %2$d yli ja ryhtyy työpäivällä.",
-  "popover_trustly_warning_text_obsolete": "*** Google Translated ***Teet siirto yli 300kr, tämä voi kestää tavallista kauemmin",
+  "popover_trustly_warning_text_obsolete": "*** Google Translated ***Teet siirto yli 150kr, tämä voi kestää tavallista kauemmin",
   "wishlist_wish_amount_single": "*** Google Translated ***%1$d halut",
   "popover_trustly_max_warning_text": "*** Google Translated ***%1$d pitäisi nyt saada voitot viikoittain / kuukausittain maksettavaa yli %2$d. Ala alla %2$d maksamisesta on tehtävä.",
   "goal_map_left_to_save": "*** Google Translated ***<b>%1$d</b> vasemmalle säästää",
