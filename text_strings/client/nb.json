@@ -1219,7 +1219,6 @@
   "child_tabbar_tasks": "Data",
   "child_tabbar_goals": "Sparemål",
   "child_tabbar_settings": "Innstillinger",
-
   "wishlist_wish_amount": "PLZ_TRANSLATE %1$d begjær",
   "child_detail_report_title": "PLZ_TRANSLATE Samlinger",
   "child_detail_button_transactions": "PLZ_TRANSLATE %1$d %2$d transaksjoner dette",
@@ -1237,7 +1236,7 @@
   "wishlist_wish_amount_single": "PLZ_TRANSLATE %1$d begjær",
   "popover_trustly_max_warning_text": "PLZ_TRANSLATE %1$d skal nå motta en utbetaling på ukentlig / månedlig kvote på over %2$d. Nedre under %2$d for betaling skal utføres.",
   "goal_map_left_to_save": "PLZ_TRANSLATE <b>%1$d</b> venstre for å spare",
-  "trustly_manual_withdrawal": "PLZ_TRANSLATE manuell exit",
+  "trustly_manual_withdrawal": "PLZ_TRANSLATE manuelt exit",
   "transaction_reverted_view": "PLZ_TRANSLATE transaksjoner revers",
   "goal_map_underground_since_start": "PLZ_TRANSLATE Dager siden start",
   "goal_map_underground_days_left": "PLZ_TRANSLATE dager igjen",

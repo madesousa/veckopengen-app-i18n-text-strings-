@@ -1236,7 +1236,7 @@
   "wishlist_wish_amount_single": "%1$d wish",
   "popover_trustly_max_warning_text": "%1$d will be receiving their weekly/monthly allowance of over %2$d. Lower this amount to below %2$d for the transfer to be made.",
   "goal_map_left_to_save": "<b>%1$d</b> left to save",
-  "trustly_manual_withdrawal": "Manual withdrawal",
+  "trustly_manual_withdrawal": "PLZ_TRANSLATE Manual Bank Withdrawal",
   "transaction_reverted_view": "Transaction reverted",
   "goal_map_underground_since_start": "Days since start",
   "goal_map_underground_days_left": "Days left",
@@ -1261,5 +1261,4 @@
   "goal_map_graph_left_to_save_text": "Left to save",
   "goal_map_graph_saved_text": "saved",
   "goal_editor_active_label": "Active"
-
 }
