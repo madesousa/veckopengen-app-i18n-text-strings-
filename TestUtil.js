@@ -86,13 +86,14 @@ export let checkBirgittaInconsistencies = (firstLang: Object, secondLang: Object
   var errorMessages = []
 
   keys.forEach(key => {
-    if (firstLangName === 'en' || secondLangName === 'en') {
-      if (firstLang[key].includes(birgittaTemplate)) errorMessages.push(`${birgittaTemplate} in text_id:${key} in en.json`)
-      return
-    }
+    if (firstLang[key].includes(birgittaTemplate)) errorMessages.push(`${birgittaTemplate} in text_id:${key} in lang: ${firstLangName}`)
+    if (firstLang[key].startsWith(' ')) errorMessages.push(`text_id:${key} in lang: ${firstLangName} starts with a space`)
+    
+    /*
     if (firstLang[key].includes(birgittaTemplate) && !secondLang[key].includes(birgittaTemplate)) {
       errorMessages.push(`Birgitta Inconsistency, to invalidate ${key}: Plz run: npm run birgitta -- --text_id=${key} --source_lang=en`)
     }
+    */
   })
 
   expect(errorMessages).toEqual([])

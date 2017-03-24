@@ -47,7 +47,7 @@ let RunAnna = (filePath):* => {
       if (re.test(translatedText)) {
         TextStrings[textId] = translatedText
       } else {
-        TextStrings[textId] = translationHelpTemplate + translatedText
+        TextStrings[textId] = `${translationHelpTemplate} ${translatedText}`
       }
 
       TextStrings = JSON.stringify(TextStrings, undefined, 2)
