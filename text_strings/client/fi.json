@@ -1260,5 +1260,7 @@
   "goal_map_graph_parent_help_text": "PLZ_TRANSLATE vanhemmat Ohje",
   "goal_map_graph_left_to_save_text": "PLZ_TRANSLATE Jatkuvat säästää",
   "goal_map_graph_saved_text": "PLZ_TRANSLATE tallennettu",
-  "goal_editor_active_label": "PLZ_TRANSLATE aktiivinen"
+  "goal_editor_active_label": "PLZ_TRANSLATE aktiivinen",
+  "a_transaction": "PLZ_TRANSLATE kauppa",
+  "multiple_transactions": "PLZ_TRANSLATE liiketoimet"
 }

@@ -1260,5 +1260,7 @@
   "goal_map_graph_parent_help_text": "PLZ_TRANSLATE ouders Help",
   "goal_map_graph_left_to_save_text": "PLZ_TRANSLATE Blijven redden",
   "goal_map_graph_saved_text": "PLZ_TRANSLATE gered",
-  "goal_editor_active_label": "PLZ_TRANSLATE actief"
+  "goal_editor_active_label": "PLZ_TRANSLATE actief",
+  "a_transaction": "PLZ_TRANSLATE transactie",
+  "multiple_transactions": "PLZ_TRANSLATE transacties"
 }

@@ -1232,7 +1232,7 @@
   "child_tabbar_settings": "Inställningar",
   "wishlist_wish_amount": "%1$d önskningar",
   "child_detail_report_title": "Sammanställningar",
-  "child_detail_button_transactions": "%1$d transaktioner den här %2$d",
+  "child_detail_button_transactions": "%1$d %2$d den här %3$d",
   "the_week": "veckan",
   "the_month": "månaden",
   "add_wish_flow_title": "Vad önskar du dig?",
@@ -1271,5 +1271,7 @@
   "goal_map_graph_parent_help_text": "Föräldrarhjälp",
   "goal_map_graph_left_to_save_text": "Kvar att spara",
   "goal_map_graph_saved_text": "Sparat",
-  "goal_editor_active_label": "Aktivt"
+  "goal_editor_active_label": "Aktivt",
+  "a_transaction": "transaktion",
+  "multiple_transactions": "transaktioner"
 }

@@ -1260,5 +1260,7 @@
   "goal_map_graph_parent_help_text": "PLZ_TRANSLATE foreldre Hjelp",
   "goal_map_graph_left_to_save_text": "PLZ_TRANSLATE Fortsetter å spare",
   "goal_map_graph_saved_text": "PLZ_TRANSLATE lagret",
-  "goal_editor_active_label": "PLZ_TRANSLATE aktiv"
+  "goal_editor_active_label": "PLZ_TRANSLATE aktiv",
+  "a_transaction": "PLZ_TRANSLATE transaksjon",
+  "multiple_transactions": "PLZ_TRANSLATE transaksjoner"
 }

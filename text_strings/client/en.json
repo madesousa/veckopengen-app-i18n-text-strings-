@@ -1260,5 +1260,7 @@
   "goal_map_graph_parent_help_text": "Parent help",
   "goal_map_graph_left_to_save_text": "Left to save",
   "goal_map_graph_saved_text": "saved",
-  "goal_editor_active_label": "Active"
+  "goal_editor_active_label": "Active",
+  "a_transaction": "transaction",
+  "multiple_transactions": "transactions"
 }

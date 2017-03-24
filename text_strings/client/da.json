@@ -1260,5 +1260,7 @@
   "goal_map_graph_parent_help_text": "PLZ_TRANSLATE Forældre Hjælp",
   "goal_map_graph_left_to_save_text": "PLZ_TRANSLATE Fortsat at redde",
   "goal_map_graph_saved_text": "PLZ_TRANSLATE gemt",
-  "goal_editor_active_label": "PLZ_TRANSLATE Aktiv"
+  "goal_editor_active_label": "PLZ_TRANSLATE Aktiv",
+  "a_transaction": "PLZ_TRANSLATE transaktion",
+  "multiple_transactions": "PLZ_TRANSLATE transaktioner"
 }
