@@ -74,7 +74,7 @@
   "push_first_wish_created": "{child} gecreëerd verlanglijstje en heeft een {wish} gevraagd!",
   "push_wish_created": "{child} har lagt till {wish} på önskelistan",
   "push_wish_deleted": "{child} har tagit bort {wish} från önskelistan",
-  "push_child_logged_in": "{child} har loggats in!",
+  "push_child_logged_in": "{child.name} har loggats in!",
   "sms_app_download": "Välkommen till Veckopengen!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{goal.updated_by.name} arkiverade sparmålet {goal.title}",
   "push_timed_assignment_created": "Gluren in, je hebt een getimede taak gekregen!",
