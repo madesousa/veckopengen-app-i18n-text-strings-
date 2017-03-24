@@ -1200,7 +1200,7 @@
   "allowance_recommended": "Anbefales",
   "parent_settings_surfguide": "Tips for god surfeoppførsel",
   "child_settings_surfguide": "Surfetips",
-  "transaction_reverted": " Reverser transaksjonen: %1$d",
+  "transaction_reverted": "Reverser transaksjonen: %1$d",
   "qr_code_hint_text_child_parent": "Slik knytter du konto din til foreldrenes kontoer: Be foreldrene dine om å laste ned appen på enhetene sine. Dine foreldre trykker deretter <b>knytte sammen med familiemedlem</b> for å knytte sammen og opprette kontoen.",
   "reciept_regret_transaction_title": "Angre transaksjon?",
   "reciept_regret_transaction_desc": "Ønsker du å avbryte transaksjonen ved å opprette en lignende transaksjon \"den andre veien\"?",
