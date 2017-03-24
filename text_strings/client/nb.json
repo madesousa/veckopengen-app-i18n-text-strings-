@@ -1250,12 +1250,14 @@
   "goal_map_underground_graph": "PLZ_TRANSLATEbesparelser Indicator",
   "goal_map_underground_forecast": "PLZ_TRANSLATETippe",
   "goal_map_underground_overview": "PLZ_TRANSLATEoversikt",
-  "goal_graph_label": "PLZ_TRANSLATEPLZ_TRANSLATE%1$d %2$d",
   "goal_map_graph_saved": "PLZ_TRANSLATEFortsetter å spare %1$d",
   "goal_map_graph_left_to_save": "PLZ_TRANSLATEFortsetter å spare %1$d",
   "goal_map_graph_parent_help": "PLZ_TRANSLATEForeldre Hjelp %1$d",
   "assignment_created": "PLZ_TRANSLATEoppgave opprettet",
   "goal_editor_parent_title": "PLZ_TRANSLATEHjelp",
   "goal_editor_parent_help": "PLZ_TRANSLATEsponset sum",
-  "goal_editor_parent_boost": "PLZ_TRANSLATEBoost per milepæl"
+  "goal_editor_parent_boost": "PLZ_TRANSLATEBoost per milepæl",
+  "goal_map_graph_parent_help_text": "PLZ_TRANSLATEforeldre Hjelp",
+  "goal_map_graph_left_to_save_text": "PLZ_TRANSLATEFortsetter å spare",
+  "goal_map_graph_saved_text": "PLZ_TRANSLATElagret"
 }

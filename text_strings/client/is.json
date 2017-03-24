@@ -1250,12 +1250,14 @@
   "goal_map_underground_graph": "PLZ_TRANSLATESparnaður Vísir",
   "goal_map_underground_forecast": "PLZ_TRANSLATEspá",
   "goal_map_underground_overview": "PLZ_TRANSLATEYfirlit",
-  "goal_graph_label": "PLZ_TRANSLATEPLZ_TRANSLATE%1$d %2$d",
   "goal_map_graph_saved": "PLZ_TRANSLATEÁframhaldandi að spara %1$d",
   "goal_map_graph_left_to_save": "PLZ_TRANSLATEÁframhaldandi að spara %1$d",
   "goal_map_graph_parent_help": "PLZ_TRANSLATEForeldrar Hjálp %1$d",
   "assignment_created": "PLZ_TRANSLATEverkefni búið",
   "goal_editor_parent_title": "PLZ_TRANSLATEHjálp",
   "goal_editor_parent_help": "PLZ_TRANSLATESponsored summan",
-  "goal_editor_parent_boost": "PLZ_TRANSLATEBoost fyrir Milestone"
+  "goal_editor_parent_boost": "PLZ_TRANSLATEBoost fyrir Milestone",
+  "goal_map_graph_parent_help_text": "PLZ_TRANSLATEforeldrar Hjálp",
+  "goal_map_graph_left_to_save_text": "PLZ_TRANSLATEÁframhaldandi að spara",
+  "goal_map_graph_saved_text": "PLZ_TRANSLATEvistuð"
 }

@@ -1250,12 +1250,14 @@
   "goal_map_underground_graph": "PLZ_TRANSLATEIndicateur d'épargne",
   "goal_map_underground_forecast": "PLZ_TRANSLATEprédiction",
   "goal_map_underground_overview": "PLZ_TRANSLATEvue d'ensemble",
-  "goal_graph_label": "PLZ_TRANSLATEPLZ_TRANSLATE%1$d %2$d",
   "goal_map_graph_saved": "PLZ_TRANSLATEContinuer à enregistrer %1$d",
   "goal_map_graph_left_to_save": "PLZ_TRANSLATEContinuer à enregistrer %1$d",
   "goal_map_graph_parent_help": "PLZ_TRANSLATEParents Aide %1$d",
   "assignment_created": "PLZ_TRANSLATEtâche créée",
   "goal_editor_parent_title": "PLZ_TRANSLATEaider",
   "goal_editor_parent_help": "PLZ_TRANSLATEParrainé somme",
-  "goal_editor_parent_boost": "PLZ_TRANSLATEBoost par étape"
+  "goal_editor_parent_boost": "PLZ_TRANSLATEBoost par étape",
+  "goal_map_graph_parent_help_text": "PLZ_TRANSLATEparents Aide",
+  "goal_map_graph_left_to_save_text": "PLZ_TRANSLATEContinuer à enregistrer",
+  "goal_map_graph_saved_text": "PLZ_TRANSLATEsauvé"
 }

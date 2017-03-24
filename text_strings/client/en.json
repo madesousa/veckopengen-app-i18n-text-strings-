@@ -1250,12 +1250,14 @@
   "goal_map_underground_graph": "Savings graph",
   "goal_map_underground_forecast": "Forecast",
   "goal_map_underground_overview": "Overview",
-  "goal_graph_label": "PLZ_TRANSLATEGoal %1$d %2$d",
   "goal_map_graph_saved": "Saved %1$d",
   "goal_map_graph_left_to_save": "Left to save %1$d",
-  "goal_map_graph_parent_help": "Parent help %1$d",
+  "goal_map_graph_parent_help": "Parents help %1$d",
   "assignment_created": "Task created",
   "goal_editor_parent_title": "Help",
   "goal_editor_parent_help": "Sponsored sum",
-  "goal_editor_parent_boost": "Boost per milestone"
+  "goal_editor_parent_boost": "Boost per milestone",
+  "goal_map_graph_parent_help_text": "PLZ_TRANSLATEParents help",
+  "goal_map_graph_left_to_save_text": "PLZ_TRANSLATELeft to save",
+  "goal_map_graph_saved_text": "PLZ_TRANSLATEsaved"
 }

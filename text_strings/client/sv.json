@@ -1261,12 +1261,14 @@
   "goal_map_underground_graph": "Spargraf",
   "goal_map_underground_forecast": "Prognos",
   "goal_map_underground_overview": "Översikt",
-  "goal_graph_label": "Mål %1$d %2$d",
   "goal_map_graph_saved": "Sparat %1$d",
   "goal_map_graph_left_to_save": "Kvar att spara %1$d",
   "goal_map_graph_parent_help": "Föräldrarhjälp %1$d",
   "assignment_created": "Uppgift skapad",
   "goal_editor_parent_title": "Hjälp till",
   "goal_editor_parent_help": "Sponsrad summa",
-  "goal_editor_parent_boost": "Boost per milstolpe"
+  "goal_editor_parent_boost": "Boost per milstolpe",
+  "goal_map_graph_parent_help_text": "Föräldrarhjälp",
+  "goal_map_graph_left_to_save_text": "Kvar att spara",
+  "goal_map_graph_saved_text": "Sparat"
 }
