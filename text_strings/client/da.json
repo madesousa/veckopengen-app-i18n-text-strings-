@@ -1221,7 +1221,6 @@
   "child_tabbar_settings": "Indstillinger",
   "wishlist_wish_amount": "PLZ_TRANSLATE %1$d begær",
   "child_detail_report_title": "PLZ_TRANSLATE Kompilationer",
-  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d %2$d transaktioner dette",
   "the_week": "PLZ_TRANSLATE uge",
   "the_month": "PLZ_TRANSLATE måned",
   "add_wish_flow_title": "PLZ_TRANSLATE Hvad vil du?",
@@ -1262,5 +1261,6 @@
   "goal_map_graph_saved_text": "PLZ_TRANSLATE gemt",
   "goal_editor_active_label": "PLZ_TRANSLATE Aktiv",
   "a_transaction": "PLZ_TRANSLATE transaktion",
-  "multiple_transactions": "PLZ_TRANSLATE transaktioner"
+  "multiple_transactions": "PLZ_TRANSLATE transaktioner",
+  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d %2$d %3$d dette"
 }

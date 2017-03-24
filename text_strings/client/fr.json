@@ -1221,7 +1221,6 @@
   "child_tabbar_settings": "PLZ_TRANSLATE Réglages",
   "wishlist_wish_amount": "PLZ_TRANSLATE %1$d désirs",
   "child_detail_report_title": "PLZ_TRANSLATE compilations",
-  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d %2$d transactions cette",
   "the_week": "PLZ_TRANSLATE semaine",
   "the_month": "PLZ_TRANSLATE mois",
   "add_wish_flow_title": "PLZ_TRANSLATE Que voulez-vous?",
@@ -1262,5 +1261,6 @@
   "goal_map_graph_saved_text": "PLZ_TRANSLATE sauvé",
   "goal_editor_active_label": "PLZ_TRANSLATE actif",
   "a_transaction": "PLZ_TRANSLATE transaction",
-  "multiple_transactions": "PLZ_TRANSLATE transactions"
+  "multiple_transactions": "PLZ_TRANSLATE transactions",
+  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d %2$d %3$d cette"
 }

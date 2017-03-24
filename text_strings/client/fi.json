@@ -1221,7 +1221,6 @@
   "child_tabbar_settings": "Asetukset",
   "wishlist_wish_amount": "PLZ_TRANSLATE %1$d halut",
   "child_detail_report_title": "PLZ_TRANSLATE Kokoomateoksen osa",
-  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d %2$d liiketoimet tämän",
   "the_week": "PLZ_TRANSLATE viikko",
   "the_month": "PLZ_TRANSLATE kuukausi",
   "add_wish_flow_title": "PLZ_TRANSLATE Mitä haluat?",
@@ -1262,5 +1261,6 @@
   "goal_map_graph_saved_text": "PLZ_TRANSLATE tallennettu",
   "goal_editor_active_label": "PLZ_TRANSLATE aktiivinen",
   "a_transaction": "PLZ_TRANSLATE kauppa",
-  "multiple_transactions": "PLZ_TRANSLATE liiketoimet"
+  "multiple_transactions": "PLZ_TRANSLATE liiketoimet",
+  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d %2$d %3$d tämän"
 }

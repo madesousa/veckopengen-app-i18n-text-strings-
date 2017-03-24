@@ -1221,7 +1221,6 @@
   "child_tabbar_settings": "Settings",
   "wishlist_wish_amount": "%1$d wishes",
   "child_detail_report_title": "Summary",
-  "child_detail_button_transactions": "%1$d transactions this %2$d",
   "the_week": "week",
   "the_month": "month",
   "add_wish_flow_title": "What do you want?",
@@ -1262,5 +1261,6 @@
   "goal_map_graph_saved_text": "saved",
   "goal_editor_active_label": "Active",
   "a_transaction": "transaction",
-  "multiple_transactions": "transactions"
+  "multiple_transactions": "transactions",
+  "child_detail_button_transactions": "%1$d %2$d this %3$d"
 }

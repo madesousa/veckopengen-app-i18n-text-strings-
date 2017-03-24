@@ -1221,7 +1221,6 @@
   "child_tabbar_settings": "PLZ_TRANSLATE Stillingar",
   "wishlist_wish_amount": "PLZ_TRANSLATE %1$d langanir",
   "child_detail_report_title": "PLZ_TRANSLATE Safnplötur",
-  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d %2$d viðskipti þetta",
   "the_week": "PLZ_TRANSLATE viku",
   "the_month": "PLZ_TRANSLATE mánuði",
   "add_wish_flow_title": "PLZ_TRANSLATE Hvað viltu?",
@@ -1262,5 +1261,6 @@
   "goal_map_graph_saved_text": "PLZ_TRANSLATE vistuð",
   "goal_editor_active_label": "PLZ_TRANSLATE virk",
   "a_transaction": "PLZ_TRANSLATE viðskiptin",
-  "multiple_transactions": "PLZ_TRANSLATE viðskipti"
+  "multiple_transactions": "PLZ_TRANSLATE viðskipti",
+  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d %2$d %3$d þetta"
 }
