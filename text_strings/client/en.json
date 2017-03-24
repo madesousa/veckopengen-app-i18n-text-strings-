@@ -1257,7 +1257,8 @@
   "goal_editor_parent_title": "Help",
   "goal_editor_parent_help": "Sponsored sum",
   "goal_editor_parent_boost": "Boost per milestone",
-  "goal_map_graph_parent_help_text": "PLZ_TRANSLATEParents help",
-  "goal_map_graph_left_to_save_text": "PLZ_TRANSLATELeft to save",
-  "goal_map_graph_saved_text": "PLZ_TRANSLATEsaved"
+  "goal_map_graph_parent_help_text": "Parent help",
+  "goal_map_graph_left_to_save_text": "Left to save",
+  "goal_map_graph_saved_text": "saved",
+  "goal_editor_active_label": "Active"
 }

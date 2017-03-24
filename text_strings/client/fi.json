@@ -1259,5 +1259,6 @@
   "goal_editor_parent_boost": "PLZ_TRANSLATEBoost kohti virstanpylväs",
   "goal_map_graph_parent_help_text": "PLZ_TRANSLATEvanhemmat Ohje",
   "goal_map_graph_left_to_save_text": "PLZ_TRANSLATEJatkuvat säästää",
-  "goal_map_graph_saved_text": "PLZ_TRANSLATEtallennettu"
+  "goal_map_graph_saved_text": "PLZ_TRANSLATEtallennettu",
+  "goal_editor_active_label": "PLZ_TRANSLATEaktiivinen"
 }

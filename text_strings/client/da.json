@@ -1259,5 +1259,6 @@
   "goal_editor_parent_boost": "PLZ_TRANSLATEBoost pr milepæl",
   "goal_map_graph_parent_help_text": "PLZ_TRANSLATEForældre Hjælp",
   "goal_map_graph_left_to_save_text": "PLZ_TRANSLATEFortsat at redde",
-  "goal_map_graph_saved_text": "PLZ_TRANSLATEgemt"
+  "goal_map_graph_saved_text": "PLZ_TRANSLATEgemt",
+  "goal_editor_active_label": "PLZ_TRANSLATEAktiv"
 }

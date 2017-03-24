@@ -1259,5 +1259,6 @@
   "goal_editor_parent_boost": "PLZ_TRANSLATEBoost per mijlpaal",
   "goal_map_graph_parent_help_text": "PLZ_TRANSLATEouders Help",
   "goal_map_graph_left_to_save_text": "PLZ_TRANSLATEBlijven redden",
-  "goal_map_graph_saved_text": "PLZ_TRANSLATEgered"
+  "goal_map_graph_saved_text": "PLZ_TRANSLATEgered",
+  "goal_editor_active_label": "PLZ_TRANSLATEactief"
 }

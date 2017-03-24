@@ -1259,5 +1259,6 @@
   "goal_editor_parent_boost": "PLZ_TRANSLATEBoost per milepæl",
   "goal_map_graph_parent_help_text": "PLZ_TRANSLATEforeldre Hjelp",
   "goal_map_graph_left_to_save_text": "PLZ_TRANSLATEFortsetter å spare",
-  "goal_map_graph_saved_text": "PLZ_TRANSLATElagret"
+  "goal_map_graph_saved_text": "PLZ_TRANSLATElagret",
+  "goal_editor_active_label": "PLZ_TRANSLATEaktiv"
 }

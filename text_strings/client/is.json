@@ -1259,5 +1259,6 @@
   "goal_editor_parent_boost": "PLZ_TRANSLATEBoost fyrir Milestone",
   "goal_map_graph_parent_help_text": "PLZ_TRANSLATEforeldrar Hjálp",
   "goal_map_graph_left_to_save_text": "PLZ_TRANSLATEÁframhaldandi að spara",
-  "goal_map_graph_saved_text": "PLZ_TRANSLATEvistuð"
+  "goal_map_graph_saved_text": "PLZ_TRANSLATEvistuð",
+  "goal_editor_active_label": "PLZ_TRANSLATEvirk"
 }

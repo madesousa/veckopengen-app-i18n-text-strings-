@@ -1270,5 +1270,6 @@
   "goal_editor_parent_boost": "Boost per milstolpe",
   "goal_map_graph_parent_help_text": "Föräldrarhjälp",
   "goal_map_graph_left_to_save_text": "Kvar att spara",
-  "goal_map_graph_saved_text": "Sparat"
+  "goal_map_graph_saved_text": "Sparat",
+  "goal_editor_active_label": "Aktivt"
 }
