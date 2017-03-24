@@ -1247,7 +1247,7 @@
   "wishlist_wish_amount_single": "%1$d önskning",
   "popover_trustly_max_warning_text": "%1$d ska just nu få en utbetalning av vecko/månadspengen på över %2$d. Sänk till under %2$d för att utbetalningen ska genomföras.",
   "goal_map_left_to_save": "<b>%1$d</b> kvar att spara",
-  "trustly_manual_withdrawal": "Manuell Utträde",
+  "trustly_manual_withdrawal": "PLZ_TRANSLATE Manual Bank Uttag",
   "transaction_reverted_view": "transaktionen revers",
   "goal_map_underground_since_start": "Dagar sedan start",
   "goal_map_underground_days_left": "Dagar kvar",
