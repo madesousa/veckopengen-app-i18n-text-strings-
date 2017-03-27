@@ -9,7 +9,8 @@
     "lint": "eslint . --ignore-pattern=/utils/dest/",
     "sara": "npm run babelize && node ./utils/dest/sara.js",
     "anna": "npm run babelize && node ./utils/dest/anna.js",
-    "jenny": "npm run babelize && node ./utils/dest/jenny.js"
+    "jenny": "npm run babelize && node ./utils/dest/jenny.js",
+    "poli": "npm run babelize && node ./utils/dest/poli.js"
   },
   "repository": {
     "type": "git",

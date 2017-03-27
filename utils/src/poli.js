@@ -1,6 +1,5 @@
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 
-// @martin, alright, i would first do this as a seperate project called anna becuase we dont want to screw up sara and this might not work
 var fs = require('fs')
 var translate = require('@google-cloud/translate')({
   projectId: 'gimi-969a7',
@@ -10,11 +9,8 @@ var translate = require('@google-cloud/translate')({
 var AnnaHelper = require('./AnnaHelper')
 let templateDir = ['./text_strings/client', './text_strings/server', './text_strings/templates']
 
-let RunAnna = (filePath):* => {
-  var hasPLZTranslate = false
+let RunPoli = (filePath):* => {
   let getPath = (file) => `${filePath}/${file}`
-  let getTranslateFromPath = `${filePath}/en.json`
-
   var {toHash, fromHash, translationHelpTemplate} = AnnaHelper
   let translateTextStringForFile = (file, textId) => {
     if (file === 'default.json') { return Promise.resolve() }
@@ -23,40 +19,19 @@ let RunAnna = (filePath):* => {
     if (file === 'sv.json') {
       return Promise.resolve()
     }
-    /* Translate from given string
-        var path = getPath(file)
-        var TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
-        TextStrings = JSON.parse(TextStrings)
-        var stringToTranslate = TextStrings[textId]
-    */
+    if (file !== 'en.json') {
+      return Promise.resolve()
+    }
 
-    // Translate To
     var path = getPath(file)
     var TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
     TextStrings = JSON.parse(TextStrings)
-
-    // Translate From
-    var TranslationString = fs.readFileSync(getTranslateFromPath, {encoding: 'utf8'})
-    TranslationString = JSON.parse(TranslationString)
-
-    var stringToTranslate = TranslationString[textId]
-    console.log(stringToTranslate)
-    if (file === 'en.json' && stringToTranslate) {
-      if (stringToTranslate.includes('PLZ_TRANSLATE')) {
-        hasPLZTranslate = true
-      }
-    }
-    if (file === 'en.json') {
-      return Promise.resolve()
-    }
+    var stringToTranslate = TextStrings[textId]
 
     if (!stringToTranslate) {
       return Promise.reject(new Error(`Cant find textid: ${textId} in file: ${path}`))
     }
     var lang = file.replace('TextStrings_', '').replace('.json', '')
-    if (lang === 'nb') {
-      lang = 'no'
-    }
 
     // hash %1$d to num evals to work with google translate
     stringToTranslate = toHash(stringToTranslate)
@@ -64,9 +39,6 @@ let RunAnna = (filePath):* => {
     return translate.translate(stringToTranslate, lang, (err, translation) => {
       if (err) {
         return console.log(`Error on textId ${textId}. message: ${err}. file: ${file}`)
-      }
-      if (hasPLZTranslate) {
-        return console.warn(`Should not have PLZ_TRANSLATE in textid: ${textId} in file: ${getTranslateFromPath}`)
       }
       var translatedText = fromHash(translation)
       console.log(`Translated text: '${stringToTranslate}' to: '${translatedText}' in ${filePath}/${file}`)
@@ -85,7 +57,7 @@ let RunAnna = (filePath):* => {
 
   let textIdToTranslate = process.argv[2]
 
-  if (!textIdToTranslate) { console.log('use: npm run anna -- <text_id>') }
+  if (!textIdToTranslate) { console.log('use: npm run polina -- <text_id>') }
 
   if (textIdToTranslate) {
     Promise.all(fs.readdirSync(filePath).map((file) => translateTextStringForFile(file, textIdToTranslate)))
@@ -94,5 +66,5 @@ let RunAnna = (filePath):* => {
   }
 }
 templateDir.forEach((filePath) => {
-  RunAnna(filePath)
+  RunPoli(filePath)
 })
