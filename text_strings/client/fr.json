@@ -67,7 +67,7 @@
   "connection_error_text": "Du behöver en anslutning för att Veckopengen ska fungera tillförlitligt. Se till att du är uppkopplad mot Internet och försök sedan igen.",
   "connection_error_retry": "Försök ansluta igen",
   "start_slide_1_title": "Dags att prata pengar!",
-  "start_sign_in": "Jag har redan ett konto! ",
+  "start_sign_in": "Jag har redan ett konto!",
   "start_invite_greeting_title": "Välkommen till Veckopengen!",
   "start_invite_greeting_text": "För att acceptera din inbjudan behöver du logga in eller skapa ett konto genom att trycka på <b>Koppla ihop med familjemedlem</b>.",
   "signin_instructions": "Ange ditt mobilnummer",
