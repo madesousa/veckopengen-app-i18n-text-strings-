@@ -19,5 +19,6 @@
   "decimalMark": ".",
   "minimumSavingsBonusAmount": 1,
   "minimumTransactionAmount": 1,
-  "maximumSavingsBonusAmount": 10000
+  "maximumSavingsBonusAmount": 10000,
+  "minimumGoalAmount": 1
 }
