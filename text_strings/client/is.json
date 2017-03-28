@@ -1262,5 +1262,8 @@
   "goal_editor_active_label": "PLZ_TRANSLATE virk",
   "a_transaction": "PLZ_TRANSLATE viðskiptin",
   "multiple_transactions": "PLZ_TRANSLATE viðskipti",
-  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d %2$d %3$d þetta"
+  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d %2$d %3$d þetta",
+  "start_screen_slide_1_header_text": "PLZ_TRANSLATE Við skulum tala peninga",
+  "start_screen_slide_2_header_text": "PLZ_TRANSLATE Poket peningar þægilegur",
+  "start_screen_slide_3_header_text": "PLZ_TRANSLATE Þetta er fjölskyldufyrirtæki"
 }

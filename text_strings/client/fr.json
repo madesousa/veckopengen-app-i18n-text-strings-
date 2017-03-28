@@ -1262,5 +1262,8 @@
   "goal_editor_active_label": "Actif(s)",
   "a_transaction": "transaction",
   "multiple_transactions": "transactions",
-  "child_detail_button_transactions": "%1$d %2$d ce/cette %3$d "
+  "child_detail_button_transactions": "%1$d %2$d ce/cette %3$d ",
+  "start_screen_slide_1_header_text": "PLZ_TRANSLATE Parlons argent",
+  "start_screen_slide_2_header_text": "PLZ_TRANSLATE Poket argent facile",
+  "start_screen_slide_3_header_text": "PLZ_TRANSLATE C'est une affaire de famille"
 }
