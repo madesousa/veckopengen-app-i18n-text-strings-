@@ -40,7 +40,7 @@ let RunAnna = (filePath):* => {
     TranslationString = JSON.parse(TranslationString)
 
     var stringToTranslate = TranslationString[textId]
-    console.log(stringToTranslate)
+
     if (file === 'en.json' && stringToTranslate) {
       if (stringToTranslate.includes('PLZ_TRANSLATE')) {
         hasPLZTranslate = true

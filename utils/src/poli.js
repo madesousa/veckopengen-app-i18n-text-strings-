@@ -13,15 +13,7 @@ let RunPoli = (filePath):* => {
   let getPath = (file) => `${filePath}/${file}`
   var {toHash, fromHash, translationHelpTemplate} = AnnaHelper
   let translateTextStringForFile = (file, textId) => {
-    if (file === 'default.json') { return Promise.resolve() }
-    if (file.indexOf('.json') === -1) { return Promise.resolve() }
-
-    if (file === 'sv.json') {
-      return Promise.resolve()
-    }
-    if (file !== 'en.json') {
-      return Promise.resolve()
-    }
+    if (file.indexOf('.json') === -1) { return void 0 }
 
     var path = getPath(file)
     var TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
@@ -29,7 +21,8 @@ let RunPoli = (filePath):* => {
     var stringToTranslate = TextStrings[textId]
 
     if (!stringToTranslate) {
-      return Promise.reject(new Error(`Cant find textid: ${textId} in file: ${path}`))
+      console.warn(`Cant find textid: ${textId} in file: ${path}`)
+      return void 0
     }
     var lang = file.replace('TextStrings_', '').replace('.json', '')
 
@@ -60,9 +53,7 @@ let RunPoli = (filePath):* => {
   if (!textIdToTranslate) { console.log('use: npm run polina -- <text_id>') }
 
   if (textIdToTranslate) {
-    Promise.all(fs.readdirSync(filePath).map((file) => translateTextStringForFile(file, textIdToTranslate)))
-      .then(() => console.log('saved Successfully :)'))
-      .catch((err) => console.error(err.message))
+    translateTextStringForFile('en.json', textIdToTranslate)
   }
 }
 templateDir.forEach((filePath) => {
