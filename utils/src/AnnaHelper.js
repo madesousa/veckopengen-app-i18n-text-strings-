@@ -20,4 +20,6 @@ let fromHash = (text: string) => {
 }
 
 let translationHelpTemplate = 'PLZ_TRANSLATE'
-module.exports = {toHash, fromHash, translationHelpTemplate}
+
+let translateFrom = 'en.json'
+module.exports = {toHash, fromHash, translationHelpTemplate, translateFrom}

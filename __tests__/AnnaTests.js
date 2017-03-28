@@ -1,4 +1,4 @@
-import {toHash, fromHash, translationHelpTemplate} from '../utils/src/AnnaHelper'
+import {toHash, fromHash, translationHelpTemplate, translateFrom} from '../utils/src/AnnaHelper'
 
 jest.unmock('../utils/src/AnnaHelper')
 
@@ -11,9 +11,11 @@ describe('AnnaHelper', () => {
     expect(fromHash('89438949034034 har utnyttjas 89438949034035 och har <boldGreen>89438949034032</boldGreen> kvar för att få belöningen på 89438949034033.')).toMatchSnapshot()
   })
 
-  xit('it should not have changed translation helper template ', () => {
-    expect(translationHelpTemplate).toEqual('*** PLZ_TRANSLATE from en.json ***')
+  it('it should not have changed translation helper template ', () => {
+    expect(translationHelpTemplate).toEqual('PLZ_TRANSLATE')
   })
 
-  xit('it should translate from en instead of sv', () => {})
+  it('it should translate from en instead of sv', () => {
+    expect(translateFrom).toEqual('en.json')
+  })
 })

@@ -13,9 +13,9 @@ let templateDir = ['./text_strings/client', './text_strings/server', './text_str
 let RunAnna = (filePath):* => {
   var hasPLZTranslate = false
   let getPath = (file) => `${filePath}/${file}`
-  let getTranslateFromPath = `${filePath}/en.json`
+  var {toHash, fromHash, translationHelpTemplate, translateFrom} = AnnaHelper
+  let getTranslateFromPath = `${filePath}/` + translateFrom
 
-  var {toHash, fromHash, translationHelpTemplate} = AnnaHelper
   let translateTextStringForFile = (file, textId) => {
     if (file === 'default.json') { return Promise.resolve() }
     if (file.indexOf('.json') === -1) { return Promise.resolve() }
@@ -41,12 +41,14 @@ let RunAnna = (filePath):* => {
 
     var stringToTranslate = TranslationString[textId]
 
-    if (file === 'en.json' && stringToTranslate) {
+    // Translation source should not have 'PLZ_TRANSLATE'
+    if (file === translateFrom && stringToTranslate) {
       if (stringToTranslate.includes('PLZ_TRANSLATE')) {
         hasPLZTranslate = true
       }
     }
-    if (file === 'en.json') {
+    // Should ignore translation file
+    if (file === translateFrom) {
       return Promise.resolve()
     }
 
