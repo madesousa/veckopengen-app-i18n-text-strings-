@@ -9,7 +9,7 @@ var translate = require('@google-cloud/translate')({
 var AnnaHelper = require('./AnnaHelper')
 let templateDir = ['./text_strings/client', './text_strings/server', './text_strings/templates']
 
-let RunPoli = (filePath):* => {
+let RunPolina = (filePath):* => {
   let getPath = (file) => `${filePath}/${file}`
   var {toHash, fromHash, translationHelpTemplate} = AnnaHelper
   let translateTextStringForFile = (file, textId) => {
@@ -50,12 +50,12 @@ let RunPoli = (filePath):* => {
 
   let textIdToTranslate = process.argv[2]
 
-  if (!textIdToTranslate) { console.log('use: npm run polina -- <text_id>') }
+  if (!textIdToTranslate) { console.log('use: npm run poli -- <text_id>') }
 
   if (textIdToTranslate) {
     translateTextStringForFile('en.json', textIdToTranslate)
   }
 }
 templateDir.forEach((filePath) => {
-  RunPoli(filePath)
+  RunPolina(filePath)
 })
