@@ -1277,5 +1277,6 @@
   "start_screen_slide_1_header_text": "Låt oss prata pengar",
   "start_screen_slide_2_header_text": "Fickpengar på ett enkelt sätt",
   "start_screen_slide_3_header_text": "Detta är för familjen",
-  "notifications_count": "%1$d notiser"
+  "notifications_count": "%1$d notiser",
+  "notifications_count_one": "%1$d notis"
 }

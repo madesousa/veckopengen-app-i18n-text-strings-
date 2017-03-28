@@ -1266,5 +1266,6 @@
   "start_screen_slide_1_header_text": "PLZ_TRANSLATE Lad os tale penge",
   "start_screen_slide_2_header_text": "PLZ_TRANSLATE Poket penge nemt",
   "start_screen_slide_3_header_text": "PLZ_TRANSLATE Dette er familievirksomhed",
-  "notifications_count": "PLZ_TRANSLATE %1$d underretninger"
+  "notifications_count": "PLZ_TRANSLATE %1$d underretninger",
+  "notifications_count_one": "PLZ_TRANSLATE %1$d meddelelse"
 }

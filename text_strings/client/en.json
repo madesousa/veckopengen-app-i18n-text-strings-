@@ -1266,5 +1266,6 @@
   "start_screen_slide_1_header_text": "Let's talk money",
   "start_screen_slide_2_header_text": "Poket money made easy",
   "start_screen_slide_3_header_text": "This is family business",
-  "notifications_count": "%1$d notifications"
+  "notifications_count": "%1$d notifications",
+  "notifications_count_one": "%1$d notification"
 }
