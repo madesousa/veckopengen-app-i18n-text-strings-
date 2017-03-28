@@ -1265,5 +1265,6 @@
   "child_detail_button_transactions": "%1$d %2$d this %3$d",
   "start_screen_slide_1_header_text": "Let's talk money",
   "start_screen_slide_2_header_text": "Poket money made easy",
-  "start_screen_slide_3_header_text": "This is family business"
+  "start_screen_slide_3_header_text": "This is family business",
+  "notifications_count": "%1$d notifications"
 }

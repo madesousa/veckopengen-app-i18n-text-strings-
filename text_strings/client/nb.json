@@ -1265,5 +1265,6 @@
   "child_detail_button_transactions": "PLZ_TRANSLATE %1$d %2$d %3$d dette",
   "start_screen_slide_1_header_text": "PLZ_TRANSLATE La oss snakke penger",
   "start_screen_slide_2_header_text": "PLZ_TRANSLATE Poket penger gjort enkelt",
-  "start_screen_slide_3_header_text": "PLZ_TRANSLATE Dette er familiebedrift"
+  "start_screen_slide_3_header_text": "PLZ_TRANSLATE Dette er familiebedrift",
+  "notifications_count": "PLZ_TRANSLATE %1$d varslinger"
 }

@@ -1265,5 +1265,6 @@
   "child_detail_button_transactions": "PLZ_TRANSLATE %1$d %2$d %3$d deze",
   "start_screen_slide_1_header_text": "PLZ_TRANSLATE Laten we praten geld",
   "start_screen_slide_2_header_text": "PLZ_TRANSLATE Poket geld gemakkelijk gemaakt",
-  "start_screen_slide_3_header_text": "PLZ_TRANSLATE Dit is familiebedrijf"
+  "start_screen_slide_3_header_text": "PLZ_TRANSLATE Dit is familiebedrijf",
+  "notifications_count": "PLZ_TRANSLATE %1$d meldingen"
 }
