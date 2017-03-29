@@ -34,7 +34,7 @@
   "allowance_recurring_2_caps": "Månedlig ydelse",
   "allowance_recurring_1_definite": "Den ugentlige ydelse",
   "allowance_recurring_2_definite": "Den månedlig ydelse",
-  "allowance_recurring_1_plural": "ugentlig ydelse" ,
+  "allowance_recurring_1_plural": "ugentlig ydelse",
   "allowance_recurring_2_plural": "Månedlig ydelse",
   "wizard_next_step": "Næste",
   "wizard_skip_step": "Spring over",
@@ -1267,5 +1267,6 @@
   "start_screen_slide_2_header_text": "PLZ_TRANSLATE Poket penge nemt",
   "start_screen_slide_3_header_text": "PLZ_TRANSLATE Dette er familievirksomhed",
   "notifications_count": "PLZ_TRANSLATE %1$d underretninger",
-  "notifications_count_one": "PLZ_TRANSLATE %1$d meddelelse"
+  "notifications_count_one": "PLZ_TRANSLATE %1$d meddelelse",
+  "health_tracker_title": "PLZ_TRANSLATE Sundhed Tracking"
 }

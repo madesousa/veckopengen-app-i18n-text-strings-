@@ -1267,5 +1267,6 @@
   "start_screen_slide_2_header_text": "PLZ_TRANSLATE Poket penger gjort enkelt",
   "start_screen_slide_3_header_text": "PLZ_TRANSLATE Dette er familiebedrift",
   "notifications_count": "PLZ_TRANSLATE %1$d varslinger",
-  "notifications_count_one": "PLZ_TRANSLATE %1$d varsling"
+  "notifications_count_one": "PLZ_TRANSLATE %1$d varsling",
+  "health_tracker_title": "PLZ_TRANSLATE Helse Tracking"
 }

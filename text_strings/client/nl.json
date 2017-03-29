@@ -1267,5 +1267,6 @@
   "start_screen_slide_2_header_text": "Zakgeld gemakkelijk gemaakt",
   "start_screen_slide_3_header_text": "Dit is familiebedrijf",
   "notifications_count": " %1$d meldingen",
-  "notifications_count_one": "%1$d kennisgeving"
+  "notifications_count_one": "%1$d kennisgeving",
+  "health_tracker_title": "PLZ_TRANSLATE Health Tracking"
 }

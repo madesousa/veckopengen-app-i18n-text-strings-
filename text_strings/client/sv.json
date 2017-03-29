@@ -1278,5 +1278,6 @@
   "start_screen_slide_2_header_text": "Pengar som barn kan förstå",
   "start_screen_slide_3_header_text": "Familjen kommer först",
   "notifications_count": "%1$d notiser",
-  "notifications_count_one": "%1$d notis"
+  "notifications_count_one": "%1$d notis",
+  "health_tracker_title": "Hälsa Spårning"
 }
