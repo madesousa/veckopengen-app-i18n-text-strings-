@@ -22,6 +22,7 @@ export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: 
     if (secondLang[key] === firstLang[key] && firstLangName !== 'sv' && secondLangName === 'sv' && !IgnoredTextStrings.includes(key) && !defaultTextStrings[key] && supportedLanguageCodes.includes(firstLangName)) {
       errorMessages.push(`Lang: '${firstLangName}', Key: '${key}' is equal to: '${secondLangName}'`)
     }
+    return true
   })
 
   expect(errorMessages).toEqual([])
@@ -31,11 +32,12 @@ export let compareDollarSigns = (firstLang: Object, secondLang: Object, firstLan
   var keys = Object.keys(firstLang)
   var errorMessages = []
   keys.some(key => {
-    if(firstLang[key] === undefined) return true
-    if(secondLang[key] === undefined) return true
+    if (firstLang[key] === undefined) return true
+    if (secondLang[key] === undefined) return true
     if (!ignoredKeys.includes(key) && firstLang[key].split(template).length !== secondLang[key].split(template).length) {
       errorMessages.push(`Lang: '${secondLangName}', Key: '${key}' has not the same amount of ${template} signs as text string in ${firstLangName} lang, plz check`)
     }
+    return true
   })
 
   expect(errorMessages).toEqual([])
