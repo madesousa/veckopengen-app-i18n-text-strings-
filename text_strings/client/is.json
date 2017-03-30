@@ -1268,5 +1268,5 @@
   "notifications_count_one": "PLZ_TRANSLATE %1$d tilkynning",
   "health_tracker_title": "PLZ_TRANSLATE Heilsa mælingar",
   "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d vistuð %2$d og hafa %3$d vinstri til að ná því markmiði. Þú styður við %4$d",
-  "savings_goal_map_hint_child": "PLZ_TRANSLATE Þú hefur vistað %2$d og hafa %3$d vinstri til að fara. foreldri bakhjarl þinn með %4$d"
+  "savings_goal_map_hint_child": "PLZ_TRANSLATE Þú hefur vistað %1$d og hafa %2$d vinstri til að ná því markmiði. foreldri bakhjarl þinn með %3$d"
 }

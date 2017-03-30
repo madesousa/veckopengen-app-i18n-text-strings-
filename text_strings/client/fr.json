@@ -1268,5 +1268,5 @@
   "notifications_count_one": "%1$d notification",
   "health_tracker_title": "Hälsa Spårning",
   "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d %2$d sauvé et ont %3$d gauche pour atteindre l'objectif. Vous parrainez avec %4$d",
-  "savings_goal_map_hint_child": "PLZ_TRANSLATE Vous avez enregistré %2$d %3$d et ont laissé aller. Votre parrain parent avec %4$d"
+  "savings_goal_map_hint_child": "PLZ_TRANSLATE Vous avez enregistré %1$d et ont %2$d gauche pour atteindre l'objectif. Votre parrain parent avec %3$d"
 }
