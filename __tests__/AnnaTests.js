@@ -1,7 +1,5 @@
 import {toHash, fromHash, translationHelpTemplate, translateFrom} from '../utils/src/AnnaHelper'
 
-jest.unmock('../utils/src/AnnaHelper')
-
 describe('AnnaHelper', () => {
   it('it should be able to hash string', () => {
     expect(toHash('%1$d har utnyttjas %2$d och har <boldGreen>%3$s</boldGreen> kvar för att få belöningen på %4$s.')).toMatchSnapshot()
