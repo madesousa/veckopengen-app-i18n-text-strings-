@@ -9,9 +9,10 @@ var ignoredKeys = ['currency', 'currencyMinus', 'currencyPlus', 'aint_no_money_d
 export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
   var keys = Object.keys(firstLang)
   var errorMessages = []
-  keys.forEach(key => {
+  keys.some(key => {
     if (secondLang[key] === undefined || secondLang[key] === '') {
       errorMessages.push(`Lang: '${secondLangName}', Missing key: '${key}'`)
+      return true
     }
 
     if (secondLang[key].indexOf('$ ') !== -1) {
@@ -29,7 +30,9 @@ export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: 
 export let compareDollarSigns = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '', template: string = '$') => {
   var keys = Object.keys(firstLang)
   var errorMessages = []
-  keys.forEach(key => {
+  keys.some(key => {
+    if(firstLang[key] === undefined) return true
+    if(secondLang[key] === undefined) return true
     if (!ignoredKeys.includes(key) && firstLang[key].split(template).length !== secondLang[key].split(template).length) {
       errorMessages.push(`Lang: '${secondLangName}', Key: '${key}' has not the same amount of ${template} signs as text string in ${firstLangName} lang, plz check`)
     }
