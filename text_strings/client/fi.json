@@ -1226,8 +1226,6 @@
   "add_wish_flow_title": "PLZ_TRANSLATE Mitä haluat?",
   "add_wish_flow_image": "PLZ_TRANSLATE Miten se näyttää?",
   "create_a_savings_goal": "PLZ_TRANSLATE Luo säästötavoite!",
-  "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d %2$d tallennetaan ja on %3$d tavoitteeseen",
-  "savings_goal_map_hint_child": "PLZ_TRANSLATE Olet tallentanut %2$d ja %3$d tavoitteeseen",
   "savings_goal_completed_bouble": "PLZ_TRANSLATE Tavoitteena on saavutettu!",
   "hidden_trustly_withdrawal_button": "PLZ_TRANSLATE Nosto trustly",
   "popover_trustly_warning_text": "PLZ_TRANSLATE %1$d %2$d yli ja ryhtyy työpäivällä.",
@@ -1268,5 +1266,7 @@
   "start_screen_slide_3_header_text": "PLZ_TRANSLATE Tämä on perheyritys",
   "notifications_count": "PLZ_TRANSLATE %1$d ilmoitukset",
   "notifications_count_one": "PLZ_TRANSLATE %1$d ilmoitus",
-  "health_tracker_title": "PLZ_TRANSLATE terveys seuranta"
+  "health_tracker_title": "PLZ_TRANSLATE terveys seuranta",
+  "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d tallennettu %2$d ja on %3$d lähti päästä tavoitteeseen. Sponsori kanssa %4$d",
+  "savings_goal_map_hint_child": "PLZ_TRANSLATE Olet tallentanut %2$d ja on %3$d minne mennä. Vanhempasi sponsori kanssa %4$d"
 }

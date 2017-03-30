@@ -1226,8 +1226,6 @@
   "add_wish_flow_title": "What do you want?",
   "add_wish_flow_image": "How does it look?",
   "create_a_savings_goal": "Create a savings goal!",
-  "savings_goal_map_hint_parent": "%1$d saved up %2$d and has %3$d left to reach this goal",
-  "savings_goal_map_hint_child": "You saved up %2$d and has %3$d left to reach this goal",
   "savings_goal_completed_bouble": "The goal has been reached!",
   "hidden_trustly_withdrawal_button": "Trustly withdrawal",
   "popover_trustly_warning_text": "%1$d exceeds the %2$d limit and will take an additional business day.",
@@ -1268,5 +1266,7 @@
   "start_screen_slide_3_header_text": "This is family business",
   "notifications_count": "%1$d notifications",
   "notifications_count_one": "%1$d notification",
-  "health_tracker_title": "Health Tracking"
+  "health_tracker_title": "Health Tracking",
+  "savings_goal_map_hint_parent": "%1$d saved %2$d and have %3$d left to reach the goal. You sponsor with %4$d",
+  "savings_goal_map_hint_child": "You have saved %2$d and have %3$d left to go. Your parent sponsor with %4$d"
 }

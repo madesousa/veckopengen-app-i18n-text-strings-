@@ -1226,8 +1226,6 @@
   "add_wish_flow_title": "Wat wil je?",
   "add_wish_flow_image": "Hoe ziet het eruit?",
   "create_a_savings_goal": "Maak een besparingsdoel!",
-  "savings_goal_map_hint_parent": " %1$d heeft %2$d gespaard en heeft %3$d tot doel",
-  "savings_goal_map_hint_child": "Je hebt %2$d en %3$d opgeslagen in doel",
   "savings_goal_completed_bouble": "Het doel is bereikt!",
   "hidden_trustly_withdrawal_button": "Gebruikskost trustly",
   "popover_trustly_warning_text": "%1$d overschrijdt de %2$d limiet en zal een extra werkdag in beslag nemen.",
@@ -1268,5 +1266,7 @@
   "start_screen_slide_3_header_text": "Dit is familiebedrijf",
   "notifications_count": " %1$d meldingen",
   "notifications_count_one": "%1$d kennisgeving",
-  "health_tracker_title": "PLZ_TRANSLATE Health Tracking"
+  "health_tracker_title": "PLZ_TRANSLATE Health Tracking",
+  "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d opgeslagen %2$d en hebben %3$d links om het doel te bereiken. Je sponsoren met %4$d",
+  "savings_goal_map_hint_child": "PLZ_TRANSLATE Je hebt %2$d gered en hebben %3$d links te gaan. Uw ouder sponsor met %4$d"
 }

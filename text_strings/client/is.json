@@ -1226,8 +1226,6 @@
   "add_wish_flow_title": "PLZ_TRANSLATE Hvað viltu?",
   "add_wish_flow_image": "PLZ_TRANSLATE Hvernig virkar það líta?",
   "create_a_savings_goal": "PLZ_TRANSLATE Búa til sparnað miða!",
-  "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d %2$d vistuð og hefur %3$d að markmið",
-  "savings_goal_map_hint_child": "PLZ_TRANSLATE Þú hefur vistað %2$d og %3$d að markmiði",
   "savings_goal_completed_bouble": "PLZ_TRANSLATE Markmiðið er náð!",
   "hidden_trustly_withdrawal_button": "PLZ_TRANSLATE Uppsögn leggðu inn Paysafecard",
   "popover_trustly_warning_text": "PLZ_TRANSLATE %1$d %2$d yfir og mun taka virkan dag til viðbótar.",
@@ -1268,5 +1266,7 @@
   "start_screen_slide_3_header_text": "PLZ_TRANSLATE Þetta er fjölskyldufyrirtæki",
   "notifications_count": "PLZ_TRANSLATE %1$d tilkynningar",
   "notifications_count_one": "PLZ_TRANSLATE %1$d tilkynning",
-  "health_tracker_title": "PLZ_TRANSLATE Heilsa mælingar"
+  "health_tracker_title": "PLZ_TRANSLATE Heilsa mælingar",
+  "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d vistuð %2$d og hafa %3$d vinstri til að ná því markmiði. Þú styður við %4$d",
+  "savings_goal_map_hint_child": "PLZ_TRANSLATE Þú hefur vistað %2$d og hafa %3$d vinstri til að fara. foreldri bakhjarl þinn með %4$d"
 }

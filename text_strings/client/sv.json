@@ -1237,8 +1237,6 @@
   "add_wish_flow_title": "Vad önskar du dig?",
   "add_wish_flow_image": "Hur ser den ut?",
   "create_a_savings_goal": "Skapa ett sparmål!",
-  "savings_goal_map_hint_parent": "%1$d har sparat %2$d och har %3$d kvar till målet",
-  "savings_goal_map_hint_child": "Du har sparat %2$d och har %3$d kvar till målet",
   "savings_goal_completed_bouble": "Målet är uppnått!",
   "hidden_trustly_withdrawal_button": "Trustly Utträde",
   "popover_trustly_warning_text": "%1$d överskrider %2$d och kommer därför ta en extra bankdag.",
@@ -1279,5 +1277,7 @@
   "start_screen_slide_3_header_text": "Familjen kommer först",
   "notifications_count": "%1$d notiser",
   "notifications_count_one": "%1$d notis",
-  "health_tracker_title": "Hälsa Spårning"
+  "health_tracker_title": "Hälsa Spårning",
+  "savings_goal_map_hint_parent": "%1$d har sparat %2$d och har %3$d kvar till målet. Du sponsrar med %4$d",
+  "savings_goal_map_hint_child": "Du har sparat %2$d och har %3$d kvar till målet. Din förälder sponsrar med %4$d"
 }
