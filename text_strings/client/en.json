@@ -1267,7 +1267,9 @@
   "notifications_count": "%1$d notifications",
   "notifications_count_one": "%1$d notification",
   "health_tracker_title": "Health Tracking",
-  "savings_goal_map_hint_parent": "%1$d saved %2$d and have %3$d left to reach the goal. You sponsor with %4$d",
-  "savings_goal_map_hint_child": "You have saved %1$d and have %2$d left to reach the goal. Your parent sponsor with %3$d",
-  "change_pig_setting": "Change pig"
+  "change_pig_setting": "Change pig",
+  "savings_goal_map_hint_parent": "%1$d has saved %2$d and have %3$d left to reach the goal.",
+  "savings_goal_map_hint_child": "You have saved %1$d and have %2$d left to reach the goal.",
+  "savings_goal_map_hint_parent_sponsor": "%1$d has saved %2$d and have %3$d left to reach the goal. You sponsor with %4$d",
+  "savings_goal_map_hint_child_sponsor": "You have saved %1$d and have %2$d left to reach your goal. Your parent sponsor with %3$d"
 }

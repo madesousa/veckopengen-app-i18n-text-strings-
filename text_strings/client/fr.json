@@ -1267,7 +1267,9 @@
   "notifications_count": "%1$d notifications ",
   "notifications_count_one": "%1$d notification",
   "health_tracker_title": "Hälsa Spårning",
-  "savings_goal_map_hint_parent": "%1$d a sauvé %2$d et possède %3$d restants pour atteindre cet objectif",
-  "savings_goal_map_hint_child": "Vous avez sauvé %2$d et %3$d restants pour atteindre cet objectif",
-  "change_pig_setting": "PLZ_TRANSLATE changement de porc"
+  "change_pig_setting": "PLZ_TRANSLATE changement de porc",
+  "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d %2$d a sauvé et ont %3$d gauche pour atteindre l'objectif.",
+  "savings_goal_map_hint_child": "PLZ_TRANSLATE Vous avez enregistré %1$d et ont %2$d gauche pour atteindre l'objectif.",
+  "savings_goal_map_hint_parent_sponsor": "PLZ_TRANSLATE %1$d %2$d a sauvé et ont %3$d gauche pour atteindre l'objectif. Vous parrainez avec %4$d",
+  "savings_goal_map_hint_child_sponsor": "PLZ_TRANSLATE Vous avez enregistré %1$d et %2$d avez gauche pour atteindre votre objectif. Votre parrain parent avec %3$d"
 }

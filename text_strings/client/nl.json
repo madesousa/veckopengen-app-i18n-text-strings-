@@ -1267,7 +1267,9 @@
   "notifications_count": " %1$d meldingen",
   "notifications_count_one": "%1$d kennisgeving",
   "health_tracker_title": "PLZ_TRANSLATE Health Tracking",
-  "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d opgeslagen %2$d en hebben %3$d links om het doel te bereiken. Je sponsoren met %4$d",
-  "savings_goal_map_hint_child": "PLZ_TRANSLATE Je hebt %1$d opgeslagen en hebben %2$d links om het doel te bereiken. Uw ouder sponsor met %3$d",
-  "change_pig_setting": "PLZ_TRANSLATE varken Change"
+  "change_pig_setting": "PLZ_TRANSLATE varken Change",
+  "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d heeft gered %2$d en hebben %3$d links om het doel te bereiken.",
+  "savings_goal_map_hint_child": "PLZ_TRANSLATE Je hebt %1$d opgeslagen en hebben %2$d links om het doel te bereiken.",
+  "savings_goal_map_hint_parent_sponsor": "PLZ_TRANSLATE %1$d heeft gered %2$d en hebben %3$d links om het doel te bereiken. Je sponsoren met %4$d",
+  "savings_goal_map_hint_child_sponsor": "PLZ_TRANSLATE Je hebt %1$d opgeslagen en hebben %2$d over om uw doel te bereiken. Uw ouder sponsor met %3$d"
 }

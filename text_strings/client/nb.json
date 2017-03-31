@@ -1267,7 +1267,9 @@
   "notifications_count": "PLZ_TRANSLATE %1$d varslinger",
   "notifications_count_one": "PLZ_TRANSLATE %1$d varsling",
   "health_tracker_title": "PLZ_TRANSLATE Helse Tracking",
-  "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d reddet %2$d og har %3$d igjen for å nå målet. Du sponser med %4$d",
-  "savings_goal_map_hint_child": "PLZ_TRANSLATE Du har lagret %1$d og har %2$d igjen for å nå målet. Dine foreldre sponsor med %3$d",
-  "change_pig_setting": "PLZ_TRANSLATE Endre gris"
+  "change_pig_setting": "PLZ_TRANSLATE Endre gris",
+  "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d har reddet %2$d og har %3$d igjen for å nå målet.",
+  "savings_goal_map_hint_child": "PLZ_TRANSLATE Du har lagret %1$d og har %2$d igjen for å nå målet.",
+  "savings_goal_map_hint_parent_sponsor": "PLZ_TRANSLATE %1$d har reddet %2$d og har %3$d igjen for å nå målet. Du sponser med %4$d",
+  "savings_goal_map_hint_child_sponsor": "PLZ_TRANSLATE Du har lagret %1$d og har %2$d igjen for å nå målet ditt. Dine foreldre sponsor med %3$d"
 }
