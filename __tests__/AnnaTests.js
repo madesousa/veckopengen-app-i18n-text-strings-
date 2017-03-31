@@ -1,6 +1,6 @@
 import {toHash, fromHash, translationHelpTemplate, translateFrom} from '../utils/src/AnnaHelper'
 
-jest.unmock('../utils/src/AnnaHelper') //we need thos in order to run "jest" from gimi project
+jest.unmock('../utils/src/AnnaHelper') // we need thos in order to run "jest" from gimi project
 
 describe('AnnaHelper', () => {
   it('it should be able to hash string', () => {
