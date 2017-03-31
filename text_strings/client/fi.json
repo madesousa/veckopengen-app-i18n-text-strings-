@@ -1268,5 +1268,6 @@
   "notifications_count_one": "PLZ_TRANSLATE %1$d ilmoitus",
   "health_tracker_title": "PLZ_TRANSLATE terveys seuranta",
   "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d tallennettu %2$d ja on %3$d lähti päästä tavoitteeseen. Sponsori kanssa %4$d",
-  "savings_goal_map_hint_child": "PLZ_TRANSLATE Olet tallentanut %1$d ja on %2$d lähti päästä tavoitteeseen. Vanhempasi sponsori kanssa %3$d"
+  "savings_goal_map_hint_child": "PLZ_TRANSLATE Olet tallentanut %1$d ja on %2$d lähti päästä tavoitteeseen. Vanhempasi sponsori kanssa %3$d",
+  "change_pig_setting": "PLZ_TRANSLATE muutos sika"
 }

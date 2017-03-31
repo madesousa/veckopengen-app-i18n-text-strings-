@@ -1279,5 +1279,6 @@
   "notifications_count_one": "%1$d notis",
   "health_tracker_title": "Hälsa Spårning",
   "savings_goal_map_hint_parent": "%1$d har sparat %2$d och har %3$d kvar till målet. Du sponsrar med %4$d",
-  "savings_goal_map_hint_child": "Du har sparat %1$d och har %2$d kvar till målet. Din förälder sponsrar med %3$d"
+  "savings_goal_map_hint_child": "Du har sparat %1$d och har %2$d kvar till målet. Din förälder sponsrar med %3$d",
+  "change_pig_setting": "Ändra grisen"
 }

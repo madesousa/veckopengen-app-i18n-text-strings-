@@ -34,7 +34,7 @@
   "allowance_recurring_2_caps": "Månedlig ydelse",
   "allowance_recurring_1_definite": "Den ugentlige ydelse",
   "allowance_recurring_2_definite": "Den månedlig ydelse",
-  "allowance_recurring_1_plural": "ugentlig ydelse" ,
+  "allowance_recurring_1_plural": "ugentlig ydelse",
   "allowance_recurring_2_plural": "Månedlig ydelse",
   "wizard_next_step": "Næste",
   "wizard_skip_step": "Spring over",
@@ -63,7 +63,7 @@
   "photoinput_source_title": "Tilføj billed fra...",
   "photoinput_source_camera": "Kamera",
   "photoinput_source_gallery": "Galleri",
-  "connection_error_title": "Kan ikke oprette forbindelse til Gimitheapp.com", 
+  "connection_error_title": "Kan ikke oprette forbindelse til Gimitheapp.com",
   "connection_error_text": "Du skal oprette forbindelse til Gimi for at denne kan fungere optimalt.Sørg for at du er tilsluttet internettet og prøv igen. ",
   "connection_error_retry": "Prøv at oprette forbindelsen igen ",
   "start_slide_1_title": "Lad os snakke om penge",
@@ -1226,8 +1226,6 @@
   "add_wish_flow_title": "Hvad vil du?",
   "add_wish_flow_image": "Hvordan ser det ud?",
   "create_a_savings_goal": "Opret et opsparingsmål!",
-  "savings_goal_map_hint_parent": "%1$d opsparet %2$d og har %3$d tilbage for at kunne fuldføre dette mål",
-  "savings_goal_map_hint_child": "Du har opsparet %2$d og har %3$d tilbage for at kunne fuldføre dette mål",
   "savings_goal_completed_bouble": "Målet er nået!",
   "hidden_trustly_withdrawal_button": "Trustly overførelse",
   "popover_trustly_warning_text": "%1$d overskrider de %2$d grænse og vil kræve en ekstra arbejdsdag.",
@@ -1268,5 +1266,8 @@
   "start_screen_slide_3_header_text": "Dette er et familieforetagende",
   "notifications_count": "%1$d Underretninger",
   "notifications_count_one": "%1$d Underretning",
-  "health_tracker_title": "Sundheds Sporing"
+  "health_tracker_title": "Sundheds Sporing",
+  "savings_goal_map_hint_parent": "%1$d opsparet %2$d og har %3$d tilbage for at kunne fuldføre dette mål",
+  "savings_goal_map_hint_child": "Du har opsparet %2$d og har %3$d tilbage for at kunne fuldføre dette mål",
+  "change_pig_setting": "PLZ_TRANSLATE Skift gris"
 }
