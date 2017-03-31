@@ -1242,8 +1242,7 @@
   "goal_map_underground_milestone": "Milestones",
   "goal_map_underground_milestone_to_next": "Left until the next milestone",
   "goal_map_underground_milestone_reached": "Reached",
-  "
-": "%1$d out of %2$d",
+  "goal_map_underground_milestone_reached_amount": "%1$d out of %2$d",
   "goal_map_underground_milestone_bonus": "At milestone",
   "goal_map_underground_graph": "Savings graph",
   "goal_map_underground_forecast": "Forecast",
