@@ -1,3 +1,5 @@
-exports[`AnnaHelper it should be able to call fromHash 1`] = `"%1$d har utnyttjas %2$d och har <boldGreen>%3$s</boldGreen> kvar för att få belöningen på %4$s."`;
+// Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`AnnaHelper it should be able to hash string 1`] = `"89438949034034 har utnyttjas 89438949034035 och har <boldGreen>89438949034032</boldGreen> kvar för att få belöningen på 89438949034033."`;
+exports[`AnnaHelper it should be able to call fromHash 1`] = `undefined`;
+
+exports[`AnnaHelper it should be able to hash string 1`] = `undefined`;
