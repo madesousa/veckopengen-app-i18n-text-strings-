@@ -38,8 +38,10 @@ export let getTextStrings = (lang: string) => {
     case 'da' : return {..._default, ...da}
     case 'fi' : return {..._default, ...fi}
     case 'is' : return {..._default, ...is}
-    case 'nb' : return {..._default, ...no}
+    case 'nb' :
     case 'nn' : return {..._default, ...no}
+    case 'fr' : return {..._default, ...fr}
+    case 'nl' : return {..._default, ...nl}
     case 'sv' : return {..._default, ...sv}
     default : return {..._default, ...en}
   }
