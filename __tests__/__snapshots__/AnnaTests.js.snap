@@ -1,5 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`AnnaHelper it should be able to call fromHash 1`] = `undefined`;
-
-exports[`AnnaHelper it should be able to hash string 1`] = `undefined`;
