@@ -1273,5 +1273,5 @@
   "savings_goal_map_hint_parent_sponsor": "%1$d a épargné %2$d et il lui manquent encore %3$d pour atteindre l'objectif. Vous parrainez avec %4$d",
   "savings_goal_map_hint_child_sponsor": "Vous avez épargné %1$d et il vous manquent encore %2$d pour atteindre votre objectif. Votre parent parraine avec %3$d",
   "savings_goal_edit_parent_help_title": "PLZ_CHECK Modifier le montant de l'aide pour %1$d",
-  "savings_goal_edit_parent_boost_title": "Modifier le montant de hausse pour %1$d",
+  "savings_goal_edit_parent_boost_title": "Modifier le montant de hausse pour %1$d"
 }

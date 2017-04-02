@@ -687,12 +687,12 @@
   "knowledge_child_item_content_0": "Het verplaatsen van foto's gebruikt veel data. Wees voorzichtig en kijk niet teveel videos, of upload niet er niet teveel in verschillende apps, om zo je mobiele data wat te sparen.",
   "knowledge_child_item_content_1": "Streaming sites zoals netflix geven je altijd de beste kwaliteit, of je nu op je gsm kijkt of op een TV scherm.Vaak is de laagste kwaliteit meestal goed genoeg om op je gsm te kijken, dus verander deze tijdig en spring zuiniger om met je date.",
   "knowledge_child_item_content_2": "Veel Apps gebruiken mobiele data zonder dat je er van weet. Ga dus naar de instellingen van je telefoon. Voor android toggle je de tab 'restrict background data' aan. On iPhone, selecteer je ”Mobiele Data” en kies dan de opties bij ”Use mobile data for”.",
-  "Knowledge_child_item_content_3": ". Als u off vernieuwen op de achtergrond draaien, een app maakt alleen gebruik van mobiele data als u het gebruikt, die ook verhoogt uw levensduur van de batterij Ga in je telefoon‘Settings’. Op Android kan u nu‘het gebruik van gegevens’. iPhone, selecteer “Algemeen” en toen “Achtergrond app vernieuwen”. ",
-  "Knowledge_child_item_content_4": "Als u wilt opslaan op uw mobiele data als je luistert naar Spotify, kunt u‘Download’voor de nummers en afspeellijsten die u vaak beluistert, doe dit als je WiFi Gedownloade muziek maakt geen gebruik van. mobiele data, en u kunt hetzelfde doen met veel video's en clips. "
-  "Knowledge_child_item_content_5": ". Video chats zoals Skype verbruiken veel gegevens Vergeet Skype en maak geregeld telefoontjes in plaats daarvan, of gebruik maken van Skype als je verbonden bent met WiFi Dit bespaart u een hoop gegevens!",
-  "Knowledge_child_item_content_6": "‘’. Instagram kunnen opeten heel veel data, dat is iets wat je misschien niet denken aan onder‘Instellingen’en vervolgens‘Mobiele data gebruik’in de app kunt u" Gebruik minder data,
-  "Knowledge_child_item_content_7": ". Video's op Facebook die automatisch worden afgespeeld in je nieuwsfeed verbruiken meer gegevens dan je zou denken Onder instellingen in de Facebook-app kun je ervoor kiezen om alleen video's automatisch worden afgespeeld bij het surfen met WiFi",
-  "Knowledge_child_item_content_8": "In de instellingen van uw telefoon kunt u meestal kiezen voor een alternatief dat alleen maakt de telefoon te downloaden automatische updates voor uw apps als je verbonden bent met WiFi elke download is misschien niet zo groot, maar als je apps vaak worden bijgewerkt, het. kan eten een heleboel van uw gegevens!",
+  "knowledge_child_item_content_3": "Als u off vernieuwen op de achtergrond draaien, een app maakt alleen gebruik van mobiele data als u het gebruikt, die ook verhoogt uw levensduur van de batterij Ga in je telefoon‘Settings’. Op Android kan u nu‘het gebruik van gegevens’. iPhone, selecteer “Algemeen” en toen “Achtergrond app vernieuwen”. ",
+  "knowledge_child_item_content_4": "Als u wilt opslaan op uw mobiele data als je luistert naar Spotify, kunt u‘Download’voor de nummers en afspeellijsten die u vaak beluistert, doe dit als je WiFi Gedownloade muziek maakt geen gebruik van. mobiele data, en u kunt hetzelfde doen met veel video's en clips. ",
+  "knowledge_child_item_content_5": "Video chats zoals Skype verbruiken veel gegevens Vergeet Skype en maak geregeld telefoontjes in plaats daarvan, of gebruik maken van Skype als je verbonden bent met WiFi Dit bespaart u een hoop gegevens!",
+  "knowledge_child_item_content_6": "Instagram kunnen opeten heel veel data, dat is iets wat je misschien niet denken aan onder‘Instellingen’en vervolgens‘Mobiele data gebruik’in de app kunt u Gebruik minder data",
+  "knowledge_child_item_content_7": "Video's op Facebook die automatisch worden afgespeeld in je nieuwsfeed verbruiken meer gegevens dan je zou denken Onder instellingen in de Facebook-app kun je ervoor kiezen om alleen video's automatisch worden afgespeeld bij het surfen met WiFi",
+  "knowledge_child_item_content_8": "In de instellingen van uw telefoon kunt u meestal kiezen voor een alternatief dat alleen maakt de telefoon te downloaden automatische updates voor uw apps als je verbonden bent met WiFi elke download is misschien niet zo groot, maar als je apps vaak worden bijgewerkt, het. kan eten een heleboel van uw gegevens!",
   "knowledge_child_item_content_9": "knowledge_child_item_content_10",
   "popover_data_usage_news_collaboration": "In samenwerking met",
   "payout_initiated": "Betaling bezig",
@@ -760,71 +760,71 @@
   "trustly_popover_for_parent_transaction_month": "%1$s zal automatisch <b>uitbetaald worden op de %2$d%3$d</b> van elke maand. Het geld word van je account gehaald een paar dagen voor de betaling en word dan overgeschreven naar het profiel van je kind.",
   "trustly_popover_for_parent_transaction_week": "%1$s zal automatisch <b>uitbetaald worden op de %2$d.</b> Het geld word van je account gehaald een paar dagen voor de betaling en word dan overgeschreven naar het profiel van je kind.",
   "parent_settings_advice": "Tips & Advies",
- "Parent_advice_title_1": "Hoe leer ik mijn kinderen over het belang van het geld?",
-  "Parent_advice_content_1": "Geef je kinderen de vrijheid om te beslissen over hun eigen financien. Wanneer u Gimi gebruikt, kunnen de kinderen bijhouden hoeveel geld ze hebben om iets te kopen, of te kunnen sparen! Willen ze iets waarvoor het geld in de spaarpot niet genoeg is, nou ja, laat uw kind te sparen om het te kopen. Op deze manier leert uw kind dat hun aankoopbeslissingen, besparingen en taken een impact hebben op wat ze krijgen in het eind! Als u meer wilt weten, kunt u meer goede tips op onze website te lezen. "
+  "parent_advice_title_1": "Hoe leer ik mijn kinderen over het belang van het geld?",
+  "parent_advice_content_1": "Geef je kinderen de vrijheid om te beslissen over hun eigen financien. Wanneer u Gimi gebruikt, kunnen de kinderen bijhouden hoeveel geld ze hebben om iets te kopen, of te kunnen sparen! Willen ze iets waarvoor het geld in de spaarpot niet genoeg is, nou ja, laat uw kind te sparen om het te kopen. Op deze manier leert uw kind dat hun aankoopbeslissingen, besparingen en taken een impact hebben op wat ze krijgen in het eind! Als u meer wilt weten, kunt u meer goede tips op onze website te lezen. ",
   "Parent_advice_title_2": "Wanneer moet ik beginnen met het uitdelen van een wekelijkse of maandelijkse zakgeld",
   "Parent_advice_content_2": "Het is gebruikelijk voor kinderen om te wekelijkse toelage te beginnen krijgen als ze 6-7 jaar oud en de meeste gaan over op een maandelijkse uitkering als ze ongeveer 11 jaar oud zijn. Maar je kunt aanvoelen wat het beste is voor u en uw kind! Toch is het goed om vroeg te beginnen en met verschillende soorten beloning, zelfs voordat u begint met het geven van een wekelijkse toelage. Zo kunt u uw kind bijvoorbeeld met snoep op zaterdag te belonen als ze hun tanden regelmatig te poetsen." ,
   "Parent_advice_title_3": "Waarom is het goed om een rente in de spaarpot hebben?",
-  "Parent_advice_content_3": "Het geven van kinderen een rente is een manier om te leren hoe geld te besparen werkt in het volwassen leven. Hoe meer geld ze besparen hoe hoger de uitkering van hun interestvoet.. dit spaar gedrag op jonge leeftijd is goed en is een les dat uw kinderen mee zullen nemen in het volwassen leven. "
+  "Parent_advice_content_3": "Het geven van kinderen een rente is een manier om te leren hoe geld te besparen werkt in het volwassen leven. Hoe meer geld ze besparen hoe hoger de uitkering van hun interestvoet.. dit spaar gedrag op jonge leeftijd is goed en is een les dat uw kinderen mee zullen nemen in het volwassen leven. ",
   "Parent_advice_title_4": "Wanneer moet mijn kinderen hun eerste bankkaart krijgen",
-  "Parent_advice_content_4": "Het geven van een bankkaart om uw kind kan worden gezien als een grote stap, omdat ineens uw kind geld kan uitgeven zonder interactie van de ouders. Maar door hen te voorzien van een kaart, zullen uw kinderen ook in staat om hun eigen aankoop beslissingen te nemen en worden meer verantwoordelijk voor hun geld te dragen. Alleen jij als ouder kan bepalen wanneer dit passend is, maar veel kinderen tegenwoordig krijgen hun bankkaart ongeveer 10 jaar oud. "
+  "Parent_advice_content_4": "Het geven van een bankkaart om uw kind kan worden gezien als een grote stap, omdat ineens uw kind geld kan uitgeven zonder interactie van de ouders. Maar door hen te voorzien van een kaart, zullen uw kinderen ook in staat om hun eigen aankoop beslissingen te nemen en worden meer verantwoordelijk voor hun geld te dragen. Alleen jij als ouder kan bepalen wanneer dit passend is, maar veel kinderen tegenwoordig krijgen hun bankkaart ongeveer 10 jaar oud. ",
   "Parent_advice_title_5": "Hoeveel moet mijn kind krijgen als een wekelijkse of maandelijkse zakgeld?",
-  "Parent_advice_content_5": "Het hangt af van waarmee u akkoord bent gegaan waarvoor het kind het geld moet gebruiken. Zorg ervoor dat het genoeg is voor hen om te kunnen kopen wat je hebt afgesproken hebt en een beetje meer voor het sparen. Dus een goede basis. En vergeet niet, het belangrijkste is niet het bedrag dat ze krijgen, maar hoe het geld wordt besteed en hoe het kind leert omgaan met geld. Om deze reden is het goed om te praten over de verschillende aankopen, wie wat betaalt en dat je als ouders ervoor zorgen dat de kinderen hun geld krijgen, zodat ze hun eigen aankoopbeslissingen kunnen maken. "
+  "Parent_advice_content_5": "Het hangt af van waarmee u akkoord bent gegaan waarvoor het kind het geld moet gebruiken. Zorg ervoor dat het genoeg is voor hen om te kunnen kopen wat je hebt afgesproken hebt en een beetje meer voor het sparen. Dus een goede basis. En vergeet niet, het belangrijkste is niet het bedrag dat ze krijgen, maar hoe het geld wordt besteed en hoe het kind leert omgaan met geld. Om deze reden is het goed om te praten over de verschillende aankopen, wie wat betaalt en dat je als ouders ervoor zorgen dat de kinderen hun geld krijgen, zodat ze hun eigen aankoopbeslissingen kunnen maken. ",
   "Parent_advice_title_6": "Hoe kunnen we gebruik maken van de app als we gescheiden zijn als ouders?",
   "Parent_advice_content_6": "Gimi functies aan het ontwikkelen, zodat gescheiden ouders in staat zijn om geld van het kind samen te beheren. Maar voor nu is het gemakkelijkste om te doen het opzetten van een rekening voor het kind en het eens zijn over het geven van een wekelijkse toelage. Elke week. Het alternatief is dat het kind heeft een account bij elke ouder. Maar we begrijpen dat dit niet perfect is, dus we maken er werk van!",
-  "Parent_advice_title_7": "Wat moet ik doen als het kind voldoet aan een besparing doel?"
-  "Parent_advice_content_7": "Het is belangrijk dat u het geld geeft voor de besparingen doel of dat je, samen met je kind het ding dat het kind voor aan het sparen was koopt. Op deze manier worden de spaardoelen van het kind werkelijkheid en het kind leert dat het loont om te sparen voor iets dat ze echt willen hebben!"
+  "Parent_advice_title_7": "Wat moet ik doen als het kind voldoet aan een besparing doel?",
+  "Parent_advice_content_7": "Het is belangrijk dat u het geld geeft voor de besparingen doel of dat je, samen met je kind het ding dat het kind voor aan het sparen was koopt. Op deze manier worden de spaardoelen van het kind werkelijkheid en het kind leert dat het loont om te sparen voor iets dat ze echt willen hebben!",
   "Parent_advice_title_8": "Moet ik beslissen wat de kinderen in staat zijn om te kopen met hun geld?",
-  "Parent_advice_content_8": "Het is goed om te praten over wat het wekelijkse of maandelijkse zakgeld zo betrekking te hebben met je kinderen en weten wat ze moeten betalen voor zichzelf, maar het is belangrijk dat je kinderen kunnen beslissen wat ze zullen kopen met hun eigen geld dus.. ze kunnen leren om verkeerde aankopen te doen en te leren van hun fouten, dat is een goede les voor het leven!"
+  "Parent_advice_content_8": "Het is goed om te praten over wat het wekelijkse of maandelijkse zakgeld zo betrekking te hebben met je kinderen en weten wat ze moeten betalen voor zichzelf, maar het is belangrijk dat je kinderen kunnen beslissen wat ze zullen kopen met hun eigen geld dus.. ze kunnen leren om verkeerde aankopen te doen en te leren van hun fouten, dat is een goede les voor het leven!",
   "Parent_advice_title_9": "Wat moeten mijn kinderen krijgen van rente?",
-  "Parent_advice_content_9": "Het hangt af van hoe je als ouder wil hen motiveren om te sparen. En als het kind het echt moeilijk heeft om zijn doel te behalen moet je een hogere rentevoet geven, terwijl anderen een lagere zou kunnen hebben indien ze te goed zijn. Maar dit is een goede les om het gespaarde geld te laten groeien, dit is hoe het werkt als je groot bent. wie spaart, heeft!"
+  "Parent_advice_content_9": "Het hangt af van hoe je als ouder wil hen motiveren om te sparen. En als het kind het echt moeilijk heeft om zijn doel te behalen moet je een hogere rentevoet geven, terwijl anderen een lagere zou kunnen hebben indien ze te goed zijn. Maar dit is een goede les om het gespaarde geld te laten groeien, dit is hoe het werkt als je groot bent. wie spaart, heeft!",
   "Parent_advice_title_10": "Hoeveel moet ik mijn kinderen belonen als ze hun klusjes voltooien",
-  "Parent_advice_content_10": "Je moet proberen om het bedrag dat u ervoor kiezen om te geven als een beloning voor hoeveel geld je kind, aan te passen hoe moeilijk het karwei is en hoe belangrijk de voltooiing ervan is aan u, maar in gedachten te houden dat dit gaat over. lessen en dat uw kind moet worden gemotiveerd om hun eigen geld te verdienen en te helpen om het huis. en vergeet niet, een knuffel of een bedankje vaak meer dan een beloning in geld betekenen!"
+  "Parent_advice_content_10": "Je moet proberen om het bedrag dat u ervoor kiezen om te geven als een beloning voor hoeveel geld je kind, aan te passen hoe moeilijk het karwei is en hoe belangrijk de voltooiing ervan is aan u, maar in gedachten te houden dat dit gaat over. lessen en dat uw kind moet worden gemotiveerd om hun eigen geld te verdienen en te helpen om het huis. en vergeet niet, een knuffel of een bedankje vaak meer dan een beloning in geld betekenen!",
   "Parent_advice_title_11": "Wat betekent het dat “niet-betaalde vergoeding wordt automatisch opgeslagen?",
   "Parent_advice_content_11": "Het is moeilijk om een wekelijkse of maandelijkse uitkering op tijd te geven en we hebben niet altijd geld bij ons zodat de kinderen toch hun geld kunnen krijgen Als u dat.‘Onbetaalde uitkering’ wordt automatisch opgeslagen in het kader van de instellingen , dan is het bedrag dat niet tijdig werd betaald automatisch in de spaarpot en krijgen de kinderen hun wekelijkse of maandelijkse toelage in de spaarpot en u, in plaats daarvan, kan het geld uit te geven als ze iets moeten kopen. Dan moet je kiest gewoon terug te trekken uit de spaarpot!",
   "Child_advice_title_1": "Hoe kan ik een hogere wekelijkse of maandelijkse toelage geven?",
   "Child_advice_content_1": "Om  een hogere wekelijkse of maandelijkse vergoeding te geven, hebben we een aantal slimme tips hier 1. Als ze een hogere uitkering te zillen krijgen, moeten ze uitleggen waarom wat ze zouden doen met het geld. Het is niet zo slim om een vergoeding te vragen om meer snoep te kopen, in plaats daarvan denken over wat goede dingen die je geld nodig voor bijvoorbeeld uw buskaart. 2. Onderhandel over op een goed moment. doe het niet als je iets wilt kopen , maar als je thuis aan de eettafel. het is extra goed als je onderhandelen als je een verjaardag. want als je ouder wordt kunt u vragen om meer geld, omdat je meer verantwoordelijk kan zijn. 3. de beste manier om een ​​raise te krijgen is om je ouders te vragen wat je kan helpen met of wat u kunt doen om wat extra geld te verdienen. Vraag je ouders om deze te plaatsen als een karwei in de app, zodat je echt het geld krijgen wanneer het karwei voltooid . ",
   "Child_advice_title_2": "Wat is een rente?",
-  "Child_advice_content_2": "Uw rente die wordt gegeven in een bepaald percententage. Het werkt zo dat wanneer je geld te bespaart je als bonus ontvangt enkel omdat je je geld hebt gespaard hebt. Hoe meer je hebt gespaard, hoe meer je krijgt als een bonus. Dus hoe hoger het gespaarde bedrag, hoe hoger de rente. Dus als je een rente van je ouders hebt gekregen door geld te besparen, zal uw gespaarde geld groeien!"
+  "Child_advice_content_2": "Uw rente die wordt gegeven in een bepaald percententage. Het werkt zo dat wanneer je geld te bespaart je als bonus ontvangt enkel omdat je je geld hebt gespaard hebt. Hoe meer je hebt gespaard, hoe meer je krijgt als een bonus. Dus hoe hoger het gespaarde bedrag, hoe hoger de rente. Dus als je een rente van je ouders hebt gekregen door geld te besparen, zal uw gespaarde geld groeien!",
   "Child_advice_title_3": "Hoe werkt mijn spaarpot?",
-  "Child_advice_content_3": "In uw spaarpot kunt u uw geld sparen. U kunt bijvoorbeeld uw wekelijkse uitkering sparen , wanneer u een beloning voor een volbrachte taak krijgt. Wanneer je iets hebt gekocht dat je ouders hebben betaald, kunt u nemen het geld uit de spaarpot en zo terugbetalen. "
+  "Child_advice_content_3": "In uw spaarpot kunt u uw geld sparen. U kunt bijvoorbeeld uw wekelijkse uitkering sparen , wanneer u een beloning voor een volbrachte taak krijgt. Wanneer je iets hebt gekocht dat je ouders hebben betaald, kunt u nemen het geld uit de spaarpot en zo terugbetalen. ",
   "Child_advice_title_4": "Hoe werkt de wekelijkse of maandelijkse toelage die ik zal krijgen",
-  "Child_advice_content_4": "Uw wekelijkse of maandelijkse vergoeding wordt bepaald door je ouders en je zal het 1 keer ontvangen per week of per maand. U kunt ervoor kiezen om uw uitkering te sparen in de spaarpot, maar u kunt ook je ouders vragen om het uit te betalen. in contanten de dag dat je hebt afgesproken. Houd er rekening mee dat u geen besparingen bonus voor het geld in uw uitkering krijgt, dus soms kan het slim zijn om het op te slaan in de spaarpot zelfs voordat u het ontvangt. "
+  "Child_advice_content_4": "Uw wekelijkse of maandelijkse vergoeding wordt bepaald door je ouders en je zal het 1 keer ontvangen per week of per maand. U kunt ervoor kiezen om uw uitkering te sparen in de spaarpot, maar u kunt ook je ouders vragen om het uit te betalen. in contanten de dag dat je hebt afgesproken. Houd er rekening mee dat u geen besparingen bonus voor het geld in uw uitkering krijgt, dus soms kan het slim zijn om het op te slaan in de spaarpot zelfs voordat u het ontvangt. ",
   "Child_advice_title_5": "Hoe krijg ik mijn geld uit de app",
-  "Child_advice_content_5": "Je kunt je ouders vragen om u uw wekelijkse of maandelijkse uitkering in cash te geven. Maar u kunt ook uw spaarpot laten werken als uw portemonnee, dus als jij en je ouders winkelen kunt u het geld uit de spaarpot gebruiken bij de bank door het hebben van je ouders betalen voor je. Dus dan kunnen ze nemen het geld van uw spaarvarken door het maken van een terug te trekken in de app. "
-  "Child_advice_title_6": "Met wie kan ik verbinden?"
-  "Child_advice_content_6":. "Je kunt gewoon verbinden met je ouders. Dit is zo dat niemand anders kan weten hoeveel geld je hebt. U kunt verbinding maken met meer dan één ouder. Ga naar uw instellingen en ervoor kiezen om nog een ouder uit te nodigen.. . ",
+  "Child_advice_content_5": "Je kunt je ouders vragen om u uw wekelijkse of maandelijkse uitkering in cash te geven. Maar u kunt ook uw spaarpot laten werken als uw portemonnee, dus als jij en je ouders winkelen kunt u het geld uit de spaarpot gebruiken bij de bank door het hebben van je ouders betalen voor je. Dus dan kunnen ze nemen het geld van uw spaarvarken door het maken van een terug te trekken in de app. ",
+  "Child_advice_title_6": "Met wie kan ik verbinden?",
+  "Child_advice_content_6": "Je kunt gewoon verbinden met je ouders. Dit is zo dat niemand anders kan weten hoeveel geld je hebt. U kunt verbinding maken met meer dan één ouder. Ga naar uw instellingen en ervoor kiezen om nog een ouder uit te nodigen.. . ",
   "Child_advice_title_7": "Hoe kan ik een karwei voltooien?",
   "Child_advice_content_7": "Je ouders wijzen klusjes toe voor u. Als je die niet hebt, kunt u vragen om klusjes, en bespreek wat je moet doen om de taken te voltooien. Wanneer u een karwei  toegewezen krijgt, kunt u klikken op het karwei om het te voltooien. Houd er rekening mee dat sommige klusjes u de foto's moet gebruiken om te getuigen, en wat klusjes op een “wie het eerst komt, het eerst maalt”, zodat u sneller dan een van uw broers en zussen bij het invullen van het moet zijn. ",
   "Child_advice_title_8": "Waarom zou ik een spaardoel opzetten ",
   "Child_advice_content_8": "Het is altijd goed om het een doel op te zetten voor wat je wilt sparen. U kunt altijd uw spaardoel te veranderen onderweg, maar als je een besparing doel hebt is het makkelijker voor u om te zien hoe je geld groeit en hoe dichter je bij het bedrag komt waarvoor u spaart. Wanneer u voldoet aan de besparingen doel moet je je ouders vragen om u uw geld te geven, zodat je kunt kopen wat je hebt gespaard voor!",
   "Child_advice_title_9": "Hoe word ik lid van Gimi's raad van kinderen?",
-  "Child_advice_content_9":. "Gimi's Raad bestaat uit kinderen die willen helpen het beter te maken van de app. We meeten een keer per maand en plezier te hebben vergaderingen over de app en hoe we video's kunnen maken en ga zo maar door. U kunt zich aanmelden door een e-mail te sturen naar philip@veckopengen.se! Schrijf uw leeftijd, uw naam op en waarom je dat zou willen mee doen aan de kinderraad! We hopen van u te horen!",
+  "Child_advice_content_9": "Gimi's Raad bestaat uit kinderen die willen helpen het beter te maken van de app. We meeten een keer per maand en plezier te hebben vergaderingen over de app en hoe we video's kunnen maken en ga zo maar door. U kunt zich aanmelden door een e-mail te sturen naar philip@veckopengen.se! Schrijf uw leeftijd, uw naam op en waarom je dat zou willen mee doen aan de kinderraad! We hopen van u te horen!",
   "About_data_tracking": "Over Surf controle",
   "Parent_about_data_tracking_title_1": "Waarom zie ik geen data op de meter?",
   "Parent_about_data_tracking_content_1": "Als u merkt dat het surfen van uw kind niet wordt gemeten, kunt u een van de volgende zaken te controleren: 1) Controleer of uw kind niet is uitgeschakeld in de achtergrond app refresh in de instellingen voor onze app, want dan kan het surfen kan niet worden gemeten. 2) Controleer of uw kind is niet alleen surft op WiFi. 3) Als uw kind een oude telefoon heeft, wordt het misschien nog niet ondersteund door onze service dus helaas zal de meting niet voor u werken . ",
   "Parent_about_data_tracking_title_2": "Waarom verander de hoeveelheid data van het kind plotseling",
-  "Parent_about_data_tracking_content_2": "Als je kind zich aanmeldt met een andere telefoon of lang niet in de app is geweest, dan zal het plotseling veranderen."
-  "Parent_about_data_tracking_title_3": "Is iets anders dan de hoeveelheid gegevens die gemeten worden?"
-  "Parent_about_data_tracking_content_3": "Nee, we volgen alleen de hoeveelheid gegevens en juist individuele gegevens binnen de familie, wat betekent dat degenen die in de app zijn aangesloten tonen. Het is heel belangrijk voor ons om uw gegevens veilig te houden en dat je als een gezin. voel me comfortabel met onze functies. U kunt altijd meer lezen in onze gebruiksvoorwaarden waarin we uitleggen hoe we omgaan met gegevens. "
+  "Parent_about_data_tracking_content_2": "Als je kind zich aanmeldt met een andere telefoon of lang niet in de app is geweest, dan zal het plotseling veranderen.",
+  "Parent_about_data_tracking_title_3": "Is iets anders dan de hoeveelheid gegevens die gemeten worden?",
+  "Parent_about_data_tracking_content_3": "Nee, we volgen alleen de hoeveelheid gegevens en juist individuele gegevens binnen de familie, wat betekent dat degenen die in de app zijn aangesloten tonen. Het is heel belangrijk voor ons om uw gegevens veilig te houden en dat je als een gezin. voel me comfortabel met onze functies. U kunt altijd meer lezen in onze gebruiksvoorwaarden waarin we uitleggen hoe we omgaan met gegevens. ",
   "Parent_about_data_tracking_title_4": "Telt de data als mijn kind op WiFi zit?",
-  "Parent_about_data_tracking_content_4": "Nee, aangezien de kosten voor WiFi surfen niet zijn verbonden met hoeveel iemand surft met hun mobiele plan hebben ze besloten dat dit niet zal meetellen."
+  "Parent_about_data_tracking_content_4": "Nee, aangezien de kosten voor WiFi surfen niet zijn verbonden met hoeveel iemand surft met hun mobiele plan hebben ze besloten dat dit niet zal meetellen.",
   "Parent_about_data_tracking_title_5": "Wat heeft Telenor te maken met Gimi?",
   "Parent_about_data_tracking_content_5": "Telenor is een expert in de manier waarop mensen surfen op hun telefoon en ze hebben goede tips die u kunt vinden in de app. Wij en Telenor willen gewoon helpen o  kinderen slim om te leren surfen en te bezuinigen hun mobiel surfen gegevens..",
   "Parent_about_data_tracking_title_6": "Waarom kan ik geen surf pot instellen?",
-  "Parent_about_data_tracking_content_6":. "Als je niet verbonden bent met je kind kun je geen surf pot geven. Als we niet kunnen zien dat uw kind voorzien is van een mobiele data, kun je dat ook niet, maar probeer het opnieuw na een tijdje, want het kan enige tijd duren voordat we de gegevens kunnen zien over het surfen van uw kind. Als uw kind een oude telefoon, misschien wordt niet ondersteund door onze service dus helaas de meting zal niet voor je werken. ",
+  "Parent_about_data_tracking_content_6":"Als je niet verbonden bent met je kind kun je geen surf pot geven. Als we niet kunnen zien dat uw kind voorzien is van een mobiele data, kun je dat ook niet, maar probeer het opnieuw na een tijdje, want het kan enige tijd duren voordat we de gegevens kunnen zien over het surfen van uw kind. Als uw kind een oude telefoon, misschien wordt niet ondersteund door onze service dus helaas de meting zal niet voor je werken. ",
   "Parent_about_data_tracking_title_7": "Hoe goed is de hoeveelheid data gemeten?",
   "Parent_about_data_tracking_content_7": "We proberen de gegevens zo goed mogelijk te meten, maar voor Android-telefoons kunnen we geen gegevens verkrijgen, tenzij het kind logs laat meten in de app. Dus voor degenen die Android hebben, worden de gegevens soms niet bijgewerkt..." ,
   "Parent_about_data_tracking_title_8": "Hoeveel surfing is normaal / goed voor mijn kinderen?",
-  "Parent_about_data_tracking_content_8": "We hebben bij Gimi geen evaluatie met betrekking tot de hoeveelheid gegevens die uw kinderen gebruiken, maar we denken dat het belangrijk is, binnen het gezin, overeenstemming te bereiken over een redelijk bedrag en om de kinderen leren om te bezuinigen.". ,
+  "Parent_about_data_tracking_content_8": "We hebben bij Gimi geen evaluatie met betrekking tot de hoeveelheid gegevens die uw kinderen gebruiken, maar we denken dat het belangrijk is, binnen het gezin, overeenstemming te bereiken over een redelijk bedrag en om de kinderen leren om te bezuinigen.",
   "Child_about_data_tracking_title_1": "Waarom zie ik geen data de meter?",
   "Child_about_data_tracking_content_1": "Als u merkt dat uw surfen niet wordt gemeten, kunt u controleren een van de volgende gevallen: 1) Controleer of u niet hebt uitgeschakeld de achtergrond app refresh in de instellingen voor onze app, omdat dan de surfen kan niet worden gemeten. 2) Controleer of u bent niet alleen surfen op WiFi. 3) het kan ook zijn dat je oude telefoon die niet wordt ondersteund door onze service dus helaas de meting zal niet voor je werken. ",
   "Child_about_data_tracking_title_2": "Waarom veranderd mijn data hoeveelheid ineens?",
-  "Child_about_data_tracking_content_2": "Als u zich aanmeldt met een andere telefoon of de app al een lange tijd niet hebt gebruikt, dan zal het plotseling veranderen."
+  "Child_about_data_tracking_content_2": "Als u zich aanmeldt met een andere telefoon of de app al een lange tijd niet hebt gebruikt, dan zal het plotseling veranderen.",
   "Child_about_data_tracking_title_3": "Word er iets anders dan mijn hoeveelheid data gemeten?",
-  "Child_about_data_tracking_content_3": "Nee, we volgen alleen de hoeveelheid gegevens en wij juist individuele gegevens binnen de familie, wat betekent dat degenen die in de app zijn aangesloten tonen Het is heel belangrijk voor ons om uw gegevens veilig te houden en dat je als een gezin. voel me comfortabel met onze functies. U kunt altijd meer lezen in onze gebruiksvoorwaarden waarin we uitleggen hoe we omgaan met gegevens. "
+  "Child_about_data_tracking_content_3": "Nee, we volgen alleen de hoeveelheid gegevens en wij juist individuele gegevens binnen de familie, wat betekent dat degenen die in de app zijn aangesloten tonen Het is heel belangrijk voor ons om uw gegevens veilig te houden en dat je als een gezin. voel me comfortabel met onze functies. U kunt altijd meer lezen in onze gebruiksvoorwaarden waarin we uitleggen hoe we omgaan met gegevens. ",
   "Child_about_data_tracking_title_4": "Is het tellen, zelfs wanneer ik surfen op WiFi",
-  "Child_about_data_tracking_content_4": "Nee, aangezien de kosten voor WiFi surfen niet zijn aangesloten op hoeveel u surft met je mobiele telefoon plan hebben we besloten dat niet te tellen."
+  "Child_about_data_tracking_content_4": "Nee, aangezien de kosten voor WiFi surfen niet zijn aangesloten op hoeveel u surft met je mobiele telefoon plan hebben we besloten dat niet te tellen.",
   "Child_about_data_tracking_title_5": "Wat heeft Telenor te maken met Gimi?",
   "Child_about_data_tracking_content_5": "Telenor is een expert in de manier waarop mensen surfen op hun telefoon en ze hebben goede tips die u kunt vinden in de app. Wij en Telenor willen gewoon om u te helpen leren om te surfen slim en bezuinigen uw mobiel surfen gegeven..",
   "Child_about_data_tracking_title_6": "Hoe goed is de hoeveelheid data gemeten?",
@@ -833,7 +833,7 @@
   "Account_found_title": "Wilt u inloggen?",
   "Account_found_description": "Het lijkt erop dat u bent ingelogd op dit apparaat voor, wenst u als iemand anders in te loggen nu?",
   "Activate_premium_title": "Probeer Premium!",
-  "Activate_premium_desc": "Bank transacties zijn opgenomen in de Premium-versie die nog niet is vrijgegeven. Daarom is gratis voor alle gebruikers op dit moment. Wij beloven om u tijdig te laten weten voordat Premium begint om geld te kosten."
+  "Activate_premium_desc": "Bank transacties zijn opgenomen in de Premium-versie die nog niet is vrijgegeven. Daarom is gratis voor alle gebruikers op dit moment. Wij beloven om u tijdig te laten weten voordat Premium begint om geld te kosten.",
   "Trustly_exceeded_amount_title": "Maximum limiet",
   "Trustly_exceeded_amount_desc": "U heeft de limiet op overschreden <b>% 1 $ d </ b> voor de wekelijkse of maandelijkse toelage. Verminder de hoeveelheid door te sparen voor een overdracht uit te voeren..",
   "Trustly_account_settings_from": "Registreer een andere rekening voor de ouders",
@@ -858,14 +858,14 @@
   "Add_wish_modal_info": "Info",
   "Add_wish_modal_store": "Winkel",
   "Add_wish_modal_link": "Link",
-  "Add_wish_modal_parent_help": "Als je de wens markeert als gekocht zal het alleen verschijnen voor u en niet voor je kind."
+  "Add_wish_modal_parent_help": "Als je de wens markeert als gekocht zal het alleen verschijnen voor u en niet voor je kind.",
   "Add_wish_modal_field_title": "Titel",
   "Add_wish_modal_field_desc": "Beschrijving",
   "Add_wish_modal_field_store": "Winkel",
   "Add_wish_modal_field_link": "Link",
   "Add_wish_modal_field_order": "Rank",
   "Add_wish_modal_field_placeholder_title": "Wat is de naam van het product?",
-  "Add_wish_modal_field_placeholder_desc": "Wat is het?"
+  "Add_wish_modal_field_placeholder_desc": "Wat is het?",
   "Add_wish_modal_field_placeholder_store": "Waar kan het worden gekocht?",
   "Add_wish_modal_field_placeholder_link": "Een link naar een website",
   "Add_wish_modal_field_placeholder_order": "Rank in de wenslijst",
@@ -882,7 +882,7 @@
   "Toplist_christmas_general1": "Computer",
   "Toplist_christmas_general2": "Airboard",
   "Toplist_christmas_general3": "Smartphone",
-  "Toplist_christmas_general4": "Lego"
+  "Toplist_christmas_general4": "Lego",
   "Toplist_christmas_general5": "Playstation",
   "Toplist_christmas_general6": "Step",
   "Toplist_christmas_general7": "The Sims 4",
@@ -890,7 +890,7 @@
   "Toplist_christmas_general9": "Xbox",
   "Toplist_christmas_general10": "Geld",
   "Toplist_christmas_hot_now_headline": "Opkomende cadeaus",
-  "Toplist_christmas_hot_now_desc": "Wat is het coolste ding om te hebben op dit moment? Hier heeft u de lijst van de heetste gadgets bij kinderen voor het moment. Het percentage toont hoeveel de producten zijn gegroeid tijdens 2016."
+  "Toplist_christmas_hot_now_desc": "Wat is het coolste ding om te hebben op dit moment? Hier heeft u de lijst van de heetste gadgets bij kinderen voor het moment. Het percentage toont hoeveel de producten zijn gegroeid tijdens 2016.",
   "Toplist_christmas_hot_now1": "Airboard",
   "Toplist_christmas_hot_now2": "Pokémon",
   "toplist_christmas_hot_now3": "Drone",
@@ -992,11 +992,11 @@
   "Add_task_desc_headline": "Kun je het karwei beschrijven?",
   "Add_task_desc": "Beschrijving",
   "Parent_settings_trustly_parent_has_account": "Uw bankrekening is aangesloten. Voeg nog een bankrekening voor een kind om te activeren..",
-  "Parent_settings_trustly_parent_and_child_has_account": "U en uw kind zijn aangesloten voor automatische overschrijvingen."
+  "Parent_settings_trustly_parent_and_child_has_account": "U en uw kind zijn aangesloten voor automatische overschrijvingen.",
   "Parent_settings_trustly_parent_has_account_pending_direct_debit_mandate": "Uw bankrekening wordt verbonden met onze app. U kunt één van uw kinderen toe te voegen terwijl u wacht..",
-  "Parent_settings_trustly_pending_direct_debit_mandate": "Je hebt geregistreerd uw en de bankrekening van uw kind worden nu gekoppeld."
-  "Parent_settings_trustly_rainy_case": "Uw bankrekening kan niet worden aangesloten op onze app."
-  "Days_left_to_christmas": "% 1 $ d dagen tot kerstavond"
+  "Parent_settings_trustly_pending_direct_debit_mandate": "Je hebt geregistreerd uw en de bankrekening van uw kind worden nu gekoppeld.",
+  "Parent_settings_trustly_rainy_case": "Uw bankrekening kan niet worden aangesloten op onze app.",
+  "Days_left_to_christmas": "% 1 $ d dagen tot kerstavond",
   "Christmas_today": "🎅 Vandaag is het kerstavond 🎅",
   "Not_given_out_yet": "Nog niet gepubliceerd",
   "Share": "Deel",
@@ -1043,11 +1043,11 @@
   "Project_earth_allowance_text": "Deze cijfers zijn een gemiddelde van de lokale wekelijkse toelage, wat resulteert dat de cijfers hoog in een gebied met weinig gebruikers kunnen zijn",
   "Play_basketball_game": "Spelen: Gooi Geld",
   "Project_earth_invite_number": "Nodig 3 vrienden uit",
-  "Default_category": "Geen categorie"
+  "Default_category": "Geen categorie",
   "Trustly_flow_step_1_headline": "Registreer een bankrekening",
-  "Project_earth_nav_text": "🌍 wekelijks zakgeld in uw buurt?"
+  "Project_earth_nav_text": "🌍 wekelijks zakgeld in uw buurt?",
   "Task_history_header": "Selecteer klusjes",
-  "Shared_assignment_text_parent": "% 1 $ d broers en zussen concurreren tegen% 2 $ d in het eerst maalt."
+  "Shared_assignment_text_parent": "% 1 $ d broers en zussen concurreren tegen% 2 $ d in het eerst maalt.",
   "Task_expired_headline": "Het karwei werd niet goedgekeurd",
   "Task_expired_desc": "Het geven van de hele klus om het% 1 $ d nog een kans geven",
   "Periodic_task_error": "Selecteer ten minste 1 dag",
@@ -1055,13 +1055,13 @@
   "Me": "Ik",
   "Add_account_child_sign_me": "% 1 $ d de bankrekening is in mijn naam en ik hebben de bevoegdheid om te ondertekenen",
   "Add_account_child_sign_child": "% 1 $ d is met mij en borden met bank kaartlezer of mobilt bank-ID",
-  "Trustly_info_list_1_parent": "Automatische uitbetalingen op de dag voor \ n wekelijks of maandelijks zakgeld",
+  "Trustly_info_list_1_parent": "Automatische uitbetalingen op de dag voor \n wekelijks of maandelijks zakgeld",
   "Trustly_info_list_2_parent": "Recht naar de bankrekening van je kinderen",
   "Trustly_info_list_3_parent": "Eenvoudig en klare meldingen",
   "Trustly_info_list_4_parent": "Werkt met alle banken",
   "Trustly_info_list_5_parent": "Verificatie met Mobilt Bank ID",
   "Trustly_info_list_6_parent": "Veilig en betrouwbaar trustly",
-  "Trustly_info_list_1_child": "Automatische uitbetalingen op de dag voor \ n de wekelijkse of maandelijkse uitkering",
+  "Trustly_info_list_1_child": "Automatische uitbetalingen op de dag voor \n de wekelijkse of maandelijkse uitkering",
   "Trustly_info_list_2_child": "Direct naar uw bankrekening",
   "Trustly_info_list_3_child": "Eenvoudig en helder meldingen",
   "Trustly_info_list_4_child": "Werkt met alle banken",
@@ -1078,18 +1078,18 @@
   "Task_group_cleaning": "In orde",
   "Task_group_popular": "Top lijst",
   "Task_group_strict": "Hard klusjes",
-  "Task_stats_pig_text_1_parent": "Nog steeds geen enkele klusjes deze week. Cheer !!."
-  "Task_stats_pig_text_2_parent": "Awesome% 1 $ d zit in de lift!"
-  "Task_stats_pig_text_3_parent": "Wow% 1 $ d zijn echt goedbezig  deze week!"
-  "Task_stats_pig_text_4_parent": "Kijk naar die nummers. U bent een geweldige inspiratie voor uw kind!"
-  "Task_stats_pig_text_5_parent": "100% uitgevoerd deze week. Top ouders!"
-  "Task_stats_pig_text_1_child": "Geen informatie over gemaakt. Go Go.!"
+  "Task_stats_pig_text_1_parent": "Nog steeds geen enkele klusjes deze week. Cheer !!.",
+  "Task_stats_pig_text_2_parent": "Awesome% 1 $ d zit in de lift!",
+  "Task_stats_pig_text_3_parent": "Wow% 1 $ d zijn echt goedbezig  deze week!",
+  "Task_stats_pig_text_4_parent": "Kijk naar die nummers. U bent een geweldige inspiratie voor uw kind!",
+  "Task_stats_pig_text_5_parent": "100% uitgevoerd deze week. Top ouders!",
+  "Task_stats_pig_text_1_child": "Geen informatie over gemaakt. Go Go.!",
   "Task_stats_pig_text_2_child": "Top. Uw nummers gaan in de goede richting!",
-  "Task_stats_pig_text_3_child": "Wow. Je bent in de lift!"
+  "Task_stats_pig_text_3_child": "Wow. Je bent in de lift!",
   "Task_stats_pig_text_4_child": "Mooi gedaan. Uw statistieken zijn geweldig",
-  "Task_stats_pig_text_5_child": "100% voltooid deze week. U bent een ster!"
+  "Task_stats_pig_text_5_child": "100% voltooid deze week. U bent een ster!",
   "Timer_task_assignment_expired": "Niet uitgevoerd op tijd",
-  "Invite_with_camera_recommended": "Aanbevolen"
+  "Invite_with_camera_recommended": "Aanbevolen",
   "Sibling_faster_failed_child": "Een andere broer of zus waren sneller. Volgende keer beter.",
   "Sibling_faster_failed_parent": "Een andere broer of zus waren sneller. Volgende keer beter.",
   "wishlist_created_by": "Gemaakt in het wekelijks zakgeld 🎉",
