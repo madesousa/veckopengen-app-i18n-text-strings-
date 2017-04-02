@@ -12,4 +12,4 @@ script:
   - npm test
 
 notifications:
-  slack: veckopengen:uRAtf0cYPUxlDqTDPBzSEa8R
+  slack: veckopengen:uRAtf0cYPUxlDqTDPBzSEa8R#travis-non-tech
