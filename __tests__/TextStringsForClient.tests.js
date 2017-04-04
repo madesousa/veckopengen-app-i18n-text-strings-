@@ -22,6 +22,14 @@ describe('TextStrings', () => {
   })
 
   it('should not have any birgitta inconsistencies', () => {
-    languageCodes.forEach(lang1 => languageCodes.forEach(lang2 => checkBirgittaInconsistencies(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)))
+    var errorMessages = {}
+    languageCodes.forEach((lang1, i) =>
+      languageCodes.forEach((lang2, j) => {
+        var errorArray = checkBirgittaInconsistencies(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)
+        errorArray.forEach(key => {
+          errorMessages[key] = ''
+        })
+      }))
+    console.warn(JSON.stringify(errorMessages, undefined, 2))
   })
 })
