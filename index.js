@@ -48,7 +48,7 @@ export let getTextStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
     case 'da' : return {..._default, ...da} // danish
     case 'sv' : return {..._default, ...sv} // sweden
-    case 'nb' : return {..._default, ...no} // norway
+    case 'nb' :
     case 'nn' : return {..._default, ...no} // norway
     case 'fr' : return {..._default, ...fr} // france
     case 'nl' : return {..._default, ...nl} // Netherlands
