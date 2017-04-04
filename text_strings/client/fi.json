@@ -1271,5 +1271,7 @@
   "savings_goal_map_hint_parent": "%1$d on säästänyt %2$d ja hänellä on %3$d jäljellä tavoitteesta.",
   "savings_goal_map_hint_child": "Olet säästänyt %1$d ja sinulla on %2$d jäljellä tavoitteestasi.",
   "savings_goal_map_hint_parent_sponsor": "%1$d on säästänyt %2$d ja hänellä on %3$d jäljellä tavoitteesta. Olet sponsoroinut häntä %4$d",
-  "savings_goal_map_hint_child_sponsor": "Olet säästänyt %1$d ja sinulla on %2$d jäljellä tavoitteestasi. Vanhempasi on sponsoroinut sinua %3$d"
+  "savings_goal_map_hint_child_sponsor": "Olet säästänyt %1$d ja sinulla on %2$d jäljellä tavoitteestasi. Vanhempasi on sponsoroinut sinua %3$d",
+  "savings_goal_edit_parent_help_title": "Sätt sponsrad summa för %1$d",
+  "savings_goal_edit_parent_boost_title": "Sätt boost summa för %1$d"
 }

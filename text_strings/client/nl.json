@@ -236,7 +236,8 @@
   "account_remove_confirm_text": "Als je doorgaat met je profiel zal alle geassocieerde data verwijderd worden. <b>Deze actie kan niet ongedaan gemaakt worden!</b>",
   "account_remove_confirm_remove": "Verwijder account",
   "account_remove_confirm_cancel": "Annuleer",
-  "choose": "Kies foto",
+  "Choose": "Använd bild",
+  "Cancel": "Abvryt",
   "child_yearly_report_reward_header": "Beloningen",
   "child_yearly_report_saved_header": "Gespaard",
   "child_yearly_report_saved_interest_header": "Spaarbonus",
@@ -439,7 +440,7 @@
   "create_account": "Creer account",
   "signup_connect_family_member": "Verbind met familie",
   "terms_conditions": "Om door te gaan, accepteer Gimi's \n <b>voorwaarden en overeenkomsten</b>",
-  "transaction_from_transactionalaccount_to_savingsaccount": "Automatische overschrijving van %1$d naar de spaarpot",
+  "transaction_from_transactionalAccount_to_savingsAccount": "Automatisk överföring av %1$d till spargrisen",
   "one_day_to_bonus": "Een spaarbonus zal morgen worden toegevoegd",
   "dashboard_child_welcome": "Je bent geregistreerd!",
   "dashboard_child_welcome_desc": "Om toegang te krijgen tot Gimi moet je een ouder koppelen",
@@ -1270,5 +1271,7 @@
   "savings_goal_map_hint_parent": "PLZ_TRANSLATE %1$d heeft gered %2$d en hebben %3$d links om het doel te bereiken.",
   "savings_goal_map_hint_child": "PLZ_TRANSLATE Je hebt %1$d opgeslagen en hebben %2$d links om het doel te bereiken.",
   "savings_goal_map_hint_parent_sponsor": "PLZ_TRANSLATE %1$d heeft gered %2$d en hebben %3$d links om het doel te bereiken. Je sponsoren met %4$d",
-  "savings_goal_map_hint_child_sponsor": "PLZ_TRANSLATE Je hebt %1$d opgeslagen en hebben %2$d over om uw doel te bereiken. Uw ouder sponsor met %3$d"
+  "savings_goal_map_hint_child_sponsor": "PLZ_TRANSLATE Je hebt %1$d opgeslagen en hebben %2$d over om uw doel te bereiken. Uw ouder sponsor met %3$d",
+  "savings_goal_edit_parent_help_title": "Sätt sponsrad summa för %1$d",
+  "savings_goal_edit_parent_boost_title": "Sätt boost summa för %1$d"
 }
