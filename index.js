@@ -50,16 +50,13 @@ export let getTextStrings = (lang: string) => {
     case 'sv' : return {..._default, ...sv} // sweden
     case 'nb' :
     case 'nn' : return {..._default, ...no} // norway
-
     case 'fr' : return {..._default, ...fr} // france
     case 'nl' : return {..._default, ...nl} // Netherlands
     case 'be' : return {..._default, ...be} // belgian
     case 'fi' : return {..._default, ...fi} // finish
-
     case 'it' : return {..._default, ...it} // italian
     case 'es' : return {..._default, ...es} // spanish
     case 'de' : return {..._default, ...de} // german
-
     case 'is' : return {..._default, ...is} // island
     case 'ee' : return {..._default, ...ee} // Estonia
     default : return {..._default, ...en}

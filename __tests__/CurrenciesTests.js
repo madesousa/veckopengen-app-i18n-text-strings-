@@ -7,7 +7,7 @@ jest.disableAutomock()
 describe('Currencies', () => {
   it('it should return supported supportedCurrencyCodes', () => {
     expect(getSupportedCurrencyInfos()).not.toEqual(undefined)
-    expect(getSupportedCurrencyInfos().length).toEqual(11)
+    expect(getSupportedCurrencyInfos().length).toEqual(12)
     expect(getSupportedCurrencyInfos()).toMatchSnapshot()
   })
 

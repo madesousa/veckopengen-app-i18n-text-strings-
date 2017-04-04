@@ -41,5 +41,6 @@ export default {
   'AED': 0.43,
   'HKD': 0.91,
   'SGD': 0.16,
-  'CHF': 0.12
+  'CHF': 0.12,
+  'ISK': 12.68
 }
