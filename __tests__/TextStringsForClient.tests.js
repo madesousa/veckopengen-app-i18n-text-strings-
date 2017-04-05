@@ -18,8 +18,8 @@ describe('TextStrings', () => {
     languageCodes.forEach(lang1 => languageCodes.forEach(lang2 => compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$s')))
   })
 
-  it('all languages should have english as default', () => {
-    expect(getTextStrings('en')).toEqual(getTextStrings('default'))
+  fit('all languages should have english as default', () => {
+    expect(getTextStrings('en')).toEqual(getTextStrings(''))
   })
 
   it('should not have any birgitta inconsistencies', () => {
