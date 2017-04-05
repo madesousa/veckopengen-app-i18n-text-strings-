@@ -1273,5 +1273,6 @@
   "savings_goal_map_hint_parent_sponsor": "PLZ_TRANSLATE %1$d hefur vistað %2$d og hafa %3$d vinstri til að ná því markmiði. Þú styður við %4$d",
   "savings_goal_map_hint_child_sponsor": "PLZ_TRANSLATE Þú hefur vistað %1$d og hafa %2$d vinstri til að ná markmiði þínu. foreldri bakhjarl þinn með %3$d",
   "savings_goal_edit_parent_help_title": "PLZ_TRANSLATE Edit hjálp upphæð fyrir %1$d",
-  "savings_goal_edit_parent_boost_title": "PLZ_TRANSLATE Edit uppörvun upphæð fyrir %1$d"
+  "savings_goal_edit_parent_boost_title": "PLZ_TRANSLATE Edit uppörvun upphæð fyrir %1$d",
+  "approve_task_with_video": "PLZ_TRANSLATE Taka upp myndskeið 🎥"
 }

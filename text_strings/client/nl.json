@@ -1273,5 +1273,6 @@
   "savings_goal_map_hint_parent_sponsor": "PLZ_TRANSLATE %1$d heeft gered %2$d en hebben %3$d links om het doel te bereiken. Je sponsoren met %4$d",
   "savings_goal_map_hint_child_sponsor": "PLZ_TRANSLATE Je hebt %1$d opgeslagen en hebben %2$d over om uw doel te bereiken. Uw ouder sponsor met %3$d",
   "savings_goal_edit_parent_help_title": "Sätt sponsrad summa för %1$d",
-  "savings_goal_edit_parent_boost_title": "Sätt boost summa för %1$d"
+  "savings_goal_edit_parent_boost_title": "Sätt boost summa för %1$d",
+  "approve_task_with_video": "PLZ_TRANSLATE Video opnemen 🎥"
 }

@@ -1273,5 +1273,6 @@
   "savings_goal_map_hint_parent_sponsor": "PLZ_TRANSLATE %1$d har reddet %2$d og har %3$d venstre for at nå målet. Du sponsor med %4$d",
   "savings_goal_map_hint_child_sponsor": "PLZ_TRANSLATE Du har gemt %1$d og har %2$d venstre for at nå dit mål. Din forælder sponsor med %3$d",
   "savings_goal_edit_parent_help_title": "PLZ_TRANSLATE Rediger hjælp beløb for %1$d",
-  "savings_goal_edit_parent_boost_title": "PLZ_TRANSLATE Rediger boost beløb for %1$d"
+  "savings_goal_edit_parent_boost_title": "PLZ_TRANSLATE Rediger boost beløb for %1$d",
+  "approve_task_with_video": "PLZ_TRANSLATE Optag video 🎥"
 }
