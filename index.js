@@ -11,7 +11,7 @@ import be from './text_strings/client/be.json'
 import it from './text_strings/client/it.json'
 import es from './text_strings/client/es.json'
 import de from './text_strings/client/de.json'
-import ee from './text_strings/client/ee.json'
+import et from './text_strings/client/et.json'
 
 import _default from './text_strings/client/default.json'
 import CountryCodes from './CountryCodes.json'
@@ -21,12 +21,12 @@ import Timezones from './TimeZones.json'
 import LanguageCodes from './LanguageCodes.json'
 import countryCodes2PhoneNumberPrefixes from './countryCodes2PhoneNumberPrefixes.json'
 import DefaultCurrencies from './DefaultCurrencies'
-export var supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'nl', 'fr', 'be', 'it', 'es', 'de', 'ee', 'is']
+export var supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'nl', 'fr', 'be', 'it', 'es', 'de', 'et', 'is']
 export var supportedTimeZonesAndroid =
   ['Europe/Stockholm', 'Europe/Oslo', 'Europe/Helsinki', 'Europe/Copenhagen', 'Europe/Prague', 'Europe/London', 'America/New_York', 'America/Los_Angeles',
     'America/Vancouver', 'America/Panama', 'Pacific/Guam', 'Pacific/Palau', 'America/Puerto_Rico', 'Africa/Windhoek', 'Australia/Sydney', 'America/Toronto',
     'Pacific/Auckland', 'Asia/Calcutta', 'Africa/Cairo']
-export var languageCodes = ['da', 'fi', 'is', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'ee', 'is']
+export var languageCodes = ['da', 'fi', 'is', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et', 'is']
 
 export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> => [
   {code: 'SEK', name: 'Swedish Krona'},
@@ -58,7 +58,7 @@ export let getTextStrings = (lang: string) => {
     case 'es' : return {..._default, ...es} // spanish
     case 'de' : return {..._default, ...de} // german
     case 'is' : return {..._default, ...is} // island
-    case 'ee' : return {..._default, ...ee} // Estonia
+    case 'et' : return {..._default, ...et} // Estonia
     default : return {..._default, ...en}
   }
 }
