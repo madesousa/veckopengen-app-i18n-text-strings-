@@ -1014,7 +1014,7 @@
   "task_percentage_done": "Performance Grade",
   "tasks_done_one": "%1$d completed chore",
   "tasks_done_multi": "%1$d completed chores",
-  "task_header": "%1$d has %2$d %3$d and can earn %4$d",
+  "task_header": "%1$d have %2$d %3$d and can earn %4$d",
   "task_list_history": "History",
   "add_task_recurring_standing": "May be repeated once approved",
   "is_task_approved_child": "Are you finished with the chore?",
