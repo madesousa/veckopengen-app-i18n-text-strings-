@@ -1285,5 +1285,6 @@
   "savings_goal_map_hint_child_sponsor": "Du har sparat %1$d och har %2$d kvar till målet. Din förälder sponsrar med %3$d",
   "savings_goal_edit_parent_help_title": "Sätt sponsrad summa för %1$d",
   "savings_goal_edit_parent_boost_title": "Sätt boost summa för %1$d",
-  "approve_task_with_video": "Filma 🎥"
+  "approve_task_with_video": "Filma 🎥",
+  "child_settings_steps_tracking_test": "Försök att hålla koll"
 }

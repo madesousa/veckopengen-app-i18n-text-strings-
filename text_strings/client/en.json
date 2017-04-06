@@ -1204,7 +1204,7 @@
   "qr_code_hint_text_child_parent": "To pair up your account with a parent's account: Ask your parents to download the app on their device. Your parent then press <b>connect with family members</b> to connect and create the account.",
   "reciept_regret_transaction_title": "Undo transaction?",
   "reciept_regret_transaction_desc": "Do you want to cancel your transaction by creating a similar transaction \"the other way\"?",
-  "create_steps_tracking_header": "Give out the steps",
+  "create_steps_tracking_header": "Give out a steps goal task",
   "create_steps_tracking_desc": "Choose the amount of steps that you think %1$d should do",
   "add_steps_trackingassignment_header_data": "Steps per week",
   "add_steps_trackingassignment_header_reward": "Rewards on Monday",
@@ -1274,5 +1274,6 @@
   "savings_goal_map_hint_child_sponsor": "You have saved %1$d and have %2$d left to reach your goal. Your parent sponsor with %3$d",
   "savings_goal_edit_parent_help_title": "Edit help amount for %1$d",
   "savings_goal_edit_parent_boost_title": "Edit boost amount for %1$d",
-  "approve_task_with_video": "Record video 🎥"
+  "approve_task_with_video": "Record video 🎥",
+  "child_settings_steps_tracking_test": "Try to keep track"
 }

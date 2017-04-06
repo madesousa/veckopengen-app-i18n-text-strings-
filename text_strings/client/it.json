@@ -1274,5 +1274,6 @@
   "savings_goal_map_hint_child_sponsor": "PLZ_TRANSLATE You have saved %1$d and have %2$d left to reach your goal. Your parent sponsor with %3$d",
   "savings_goal_edit_parent_help_title": "PLZ_TRANSLATE Edit help amount for %1$d",
   "savings_goal_edit_parent_boost_title": "PLZ_TRANSLATE Edit boost amount for %1$d",
-  "approve_task_with_video": "PLZ_TRANSLATE Registra video 🎥"
+  "approve_task_with_video": "PLZ_TRANSLATE Registra video 🎥",
+  "child_settings_steps_tracking_test": "PLZ_TRANSLATE Cercate di tenere traccia"
 }

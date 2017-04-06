@@ -1274,5 +1274,6 @@
   "savings_goal_map_hint_child_sponsor": "Olet säästänyt %1$d ja sinulla on %2$d jäljellä tavoitteestasi. Vanhempasi on sponsoroinut sinua %3$d",
   "savings_goal_edit_parent_help_title": "Sätt sponsrad summa för %1$d",
   "savings_goal_edit_parent_boost_title": "Sätt boost summa för %1$d",
-  "approve_task_with_video": "PLZ_TRANSLATE Kuvaa video 🎥"
+  "approve_task_with_video": "PLZ_TRANSLATE Kuvaa video 🎥",
+  "child_settings_steps_tracking_test": "PLZ_TRANSLATE Yritä seurata"
 }
