@@ -1201,5 +1201,6 @@
   "savings_goal_edit_parent_boost_title": "Modifier le montant de hausse pour %1$d",
   "approve_task_with_video": "PLZ_TRANSLATE Enregistrer une vidéo 🎥",
   "child_settings_steps_tracking_test": "PLZ_TRANSLATE Essayez de garder une trace",
-  "parent_settings_allowance_near": "PLZ_TRANSLATE Indemnité près de vous"
+  "parent_settings_allowance_near": "PLZ_TRANSLATE Indemnité près de vous",
+  "child_name_placeholder": "PLZ_TRANSLATE Little Nutella"
 }

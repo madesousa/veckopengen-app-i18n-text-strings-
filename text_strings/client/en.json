@@ -1201,5 +1201,6 @@
   "savings_goal_edit_parent_boost_title": "Edit boost amount for %1$d",
   "approve_task_with_video": "Record video 🎥",
   "child_settings_steps_tracking_test": "Try to keep track",
-  "parent_settings_allowance_near": "Allowance Near You"
+  "parent_settings_allowance_near": "Allowance Near You",
+  "child_name_placeholder": "Little Nutella"
 }

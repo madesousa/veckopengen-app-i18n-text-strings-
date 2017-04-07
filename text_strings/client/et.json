@@ -1201,5 +1201,6 @@
   "savings_goal_edit_parent_boost_title": "PLZ_TRANSLATE Edit boost amount for %1$d",
   "approve_task_with_video": "Filma 🎥",
   "child_settings_steps_tracking_test": "PLZ_TRANSLATE Püüa jälgida",
-  "parent_settings_allowance_near": "PLZ_TRANSLATE Saastekvootide teie lähedal"
+  "parent_settings_allowance_near": "PLZ_TRANSLATE Saastekvootide teie lähedal",
+  "child_name_placeholder": "PLZ_TRANSLATE Little Nutella"
 }
