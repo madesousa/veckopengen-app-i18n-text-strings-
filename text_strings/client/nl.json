@@ -1042,7 +1042,7 @@
   "timer_task_assignment_expired": "Niet uitgevoerd op tijd",
   "invite_with_camera_recommended": "Aanbevolen",
   "sibling_faster_failed_child": "Een andere broer of zus waren sneller. Volgende keer beter.",
-  "sibling_faster_failed_parent": "Een andere broer of zus waren sneller. Volgende keer beter.",
+  "sibling_faster_failed_parent": "PLZ_TRANSLATE Een andere broer of zus was sneller dan %1$d met het uitvoeren van %2$d",
   "wishlist_created_by": "Gemaakt in het wekelijks zakgeld 🎉",
   "birthday_today": "🎉 verjaardag vandaag! 🎉",
   "days_left_to_birthday": "🎉%1$d dagen tot verjaardag 🎉",

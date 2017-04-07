@@ -1042,7 +1042,7 @@
   "timer_task_assignment_expired": "PLZ_TRANSLATE Not done in time",
   "invite_with_camera_recommended": "PLZ_TRANSLATE Recommended",
   "sibling_faster_failed_child": "PLZ_TRANSLATE Another sibling were faster. Better luck next time!",
-  "sibling_faster_failed_parent": "PLZ_TRANSLATE Another sibling were faster. Better luck next time!",
+  "sibling_faster_failed_parent": "PLZ_TRANSLATE Іншы брат быў хутчэй, чым %1$d з выкананнем %2$d",
   "wishlist_created_by": "PLZ_TRANSLATE Created in Gimi 🎉",
   "birthday_today": "PLZ_TRANSLATE 🎉 Birthday today! 🎉",
   "days_left_to_birthday": "PLZ_TRANSLATE 🎉%1$d days to birthday 🎉",

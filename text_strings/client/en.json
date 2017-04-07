@@ -1042,7 +1042,7 @@
   "timer_task_assignment_expired": "Not done in time",
   "invite_with_camera_recommended": "Recommended",
   "sibling_faster_failed_child": "Another sibling were faster. Better luck next time!",
-  "sibling_faster_failed_parent": "Another sibling were faster. Better luck next time!",
+  "sibling_faster_failed_parent": "Another sibling was faster than %1$d with performing %2$d",
   "wishlist_created_by": "Created in Gimi 🎉",
   "birthday_today": "🎉 Birthday today! 🎉",
   "days_left_to_birthday": "🎉%1$d days to birthday 🎉",

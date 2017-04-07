@@ -1042,7 +1042,7 @@
   "timer_task_assignment_expired": "Ikke udført i tide",
   "invite_with_camera_recommended": "Anbefalet",
   "sibling_faster_failed_child": "En af dine søskende var hurtigere end dig. Bedre held næste gang",
-  "sibling_faster_failed_parent": "En af dine søskende var hurtigere end dig. Bedre held næste gang",
+  "sibling_faster_failed_parent": "PLZ_TRANSLATE En anden søskende var hurtigere end %1$d med at udføre %2$d",
   "wishlist_created_by": "Oprettet i Gimi 🎉",
   "birthday_today": "🎉 fødselsdag i dag! 🎉",
   "days_left_to_birthday": "🎉 %1$d dage til fødselsdag 🎉",
