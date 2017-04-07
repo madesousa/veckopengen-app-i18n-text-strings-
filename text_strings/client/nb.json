@@ -1200,5 +1200,6 @@
   "savings_goal_edit_parent_help_title": "Rediger hjelpebeløp for %1$d",
   "savings_goal_edit_parent_boost_title": "Rediger boost-beløp for %1$d",
   "approve_task_with_video": "PLZ_TRANSLATE Ta opp video 🎥",
-  "child_settings_steps_tracking_test": "PLZ_TRANSLATE Prøv å holde styr"
+  "child_settings_steps_tracking_test": "PLZ_TRANSLATE Prøv å holde styr",
+  "parent_settings_allowance_near": "PLZ_TRANSLATE Fradrag i nærheten av deg"
 }

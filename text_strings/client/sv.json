@@ -1211,5 +1211,6 @@
   "savings_goal_edit_parent_help_title": "Sätt sponsrad summa för %1$d",
   "savings_goal_edit_parent_boost_title": "Sätt boost summa för %1$d",
   "approve_task_with_video": "Filma 🎥",
-  "child_settings_steps_tracking_test": "Försök att hålla koll"
+  "child_settings_steps_tracking_test": "Försök att hålla koll",
+  "parent_settings_allowance_near": "Veckopeng nära dig"
 }

@@ -1200,5 +1200,6 @@
   "savings_goal_edit_parent_help_title": "PLZ_TRANSLATE Edit hjálp upphæð fyrir %1$d",
   "savings_goal_edit_parent_boost_title": "PLZ_TRANSLATE Edit uppörvun upphæð fyrir %1$d",
   "approve_task_with_video": "PLZ_TRANSLATE Taka upp myndskeið 🎥",
-  "child_settings_steps_tracking_test": "PLZ_TRANSLATE Reyndu að halda utan"
+  "child_settings_steps_tracking_test": "PLZ_TRANSLATE Reyndu að halda utan",
+  "parent_settings_allowance_near": "PLZ_TRANSLATE Vasapeningar Near You"
 }

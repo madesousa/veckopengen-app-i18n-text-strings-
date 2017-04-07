@@ -1200,5 +1200,6 @@
   "savings_goal_edit_parent_help_title": "PLZ_TRANSLATE Rediger hjælp beløb for %1$d",
   "savings_goal_edit_parent_boost_title": "PLZ_TRANSLATE Rediger boost beløb for %1$d",
   "approve_task_with_video": "PLZ_TRANSLATE Optag video 🎥",
-  "child_settings_steps_tracking_test": "PLZ_TRANSLATE Prøv at holde styr"
+  "child_settings_steps_tracking_test": "PLZ_TRANSLATE Prøv at holde styr",
+  "parent_settings_allowance_near": "PLZ_TRANSLATE Godtgørelse i nærheden af ​​dig"
 }
