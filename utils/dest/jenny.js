@@ -24,7 +24,7 @@ var keysToIgnore=[
 var keysToDelete=[];
 var fs=require('fs');
 var rootDir='..';
-var dirsToCheck=['components','lib','hocs','i18n','config','reducers'];
+var dirsToCheck=['components','libs','hocs','i18n','config','reducers'];
 var textStringsSvFilePath='./text_strings/client/sv.json';
 var TextStrings=fs.readFileSync(textStringsSvFilePath,{encoding:'utf8'});
 TextStrings=JSON.parse(TextStrings);
@@ -86,8 +86,7 @@ console.log('\n  Ignored text_strings: '+
 
 ignoredKeys+'\n  Found text_strings to delete: '+
 foundKeys);
-
-if(process.argv.some(function(x){return x==='-f';})){
+if(process.argv.some(function(x){return x==='f';})){
 
 console.log('\n      Removing '+
 foundKeys+' text_strings from '+textStringsSvFilePath+' ..\n      ');
@@ -104,7 +103,7 @@ console.log('\n      Done\n      ');
 
 
 }else{
-console.log('\n  run with -f to remove '+
+console.log('\n  run with f to remove '+
 foundKeys+' text_strings from '+textStringsSvFilePath+'\n  ');
 
 }

@@ -24,7 +24,7 @@ var keysToIgnore = [
 var keysToDelete = []
 var fs = require('fs')
 var rootDir = '..'
-var dirsToCheck = ['components', 'lib', 'hocs', 'i18n', 'config', 'reducers']
+var dirsToCheck = ['components', 'libs', 'hocs', 'i18n', 'config', 'reducers']
 let textStringsSvFilePath = './text_strings/client/sv.json'
 var TextStrings = fs.readFileSync(textStringsSvFilePath, {encoding: 'utf8'})
 TextStrings = JSON.parse(TextStrings)
@@ -86,8 +86,7 @@ console.log(
   `
   Ignored text_strings: ${ignoredKeys}
   Found text_strings to delete: ${foundKeys}`)
-
-if (process.argv.some(x => x === '-f')) {
+if (process.argv.some(x => x === 'f')) {
   /** ****** Deleting TextStrings *******/
   console.log(`
       Removing ${foundKeys} text_strings from ${textStringsSvFilePath} ..
@@ -105,6 +104,6 @@ if (process.argv.some(x => x === '-f')) {
       `)
 } else {
   console.log(`
-  run with -f to remove ${foundKeys} text_strings from ${textStringsSvFilePath}
+  run with f to remove ${foundKeys} text_strings from ${textStringsSvFilePath}
   `)
 }
