@@ -4,6 +4,7 @@ import {supportedLanguageCodes} from './index.js'
 import defaultTextStrings from './text_strings/client/default.json'
 
 export let birgittaTemplate = 'PLZ_CHECK'
+export let plzTranslateTemplate = 'PLZ_TRANSLATE'
 var ignoredKeys = ['currency', 'currencyMinus', 'currencyPlus', 'aint_no_money_desc', 'no_money_pig_parent_text']
 
 export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
@@ -93,6 +94,7 @@ export let checkBirgittaInconsistencies = (firstLang: Object, secondLang: Object
   keys.forEach(key => {
     if (firstLang[key].includes(birgittaTemplate)) errorMessages.push(`${birgittaTemplate} in text_id:${key} in lang: ${firstLangName}`)
     if (firstLang[key].startsWith(' ')) errorMessages.push(`text_id:${key} in lang: ${firstLangName} starts with a space`)
+    if (firstLangName === 'en' && firstLang[key].includes(plzTranslateTemplate)) errorMessages.push(`text_id:${key} in lang: ${firstLangName} contains ${plzTranslateTemplate}`)
   })
 
   return errorMessages
