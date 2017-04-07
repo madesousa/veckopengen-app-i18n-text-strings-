@@ -21,7 +21,7 @@ import Timezones from './TimeZones.json'
 import LanguageCodes from './LanguageCodes.json'
 import countryCodes2PhoneNumberPrefixes from './countryCodes2PhoneNumberPrefixes.json'
 import DefaultCurrencies from './DefaultCurrencies'
-export var supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'nl', 'fr'] // , 'be', 'it', 'es', 'de', 'et', 'is'
+export var supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'nl', 'fr', 'be', 'it', 'es', 'de', 'et', 'is']
 export var supportedTimeZonesAndroid =
   ['Europe/Stockholm', 'Europe/Oslo', 'Europe/Helsinki', 'Europe/Copenhagen', 'Europe/Prague', 'Europe/London', 'America/New_York', 'America/Los_Angeles',
     'America/Vancouver', 'America/Panama', 'Pacific/Guam', 'Pacific/Palau', 'America/Puerto_Rico', 'Africa/Windhoek', 'Australia/Sydney', 'America/Toronto',
