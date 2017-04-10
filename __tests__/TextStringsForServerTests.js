@@ -1,6 +1,6 @@
 /* eslint no-console:0 */
 import {compareKeys, compareKeysWithinTextStrings, checkTemplateLenght, checkBirgittaInconsistencies} from '../TestUtil'
-import { getTextStrings, languageCodes } from '..'
+import { languageCodes } from '..'
 
 jest.disableAutomock()
 
