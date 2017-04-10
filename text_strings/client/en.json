@@ -1203,5 +1203,7 @@
   "child_settings_steps_tracking_test": "Try to keep track",
   "parent_settings_allowance_near": "Allowance Near You",
   "not_set": "Not set",
-  "child_name_placeholder": "Your child"
+  "child_name_placeholder": "Your child",
+  "trustly_overview_sort_done": "Gjort",
+  "trustly_overview_sort_upoming": "Kommande"
 }

@@ -1203,5 +1203,8 @@
   "child_settings_steps_tracking_test": "PLZ_TRANSLATE Püüa jälgida",
   "parent_settings_allowance_near": "PLZ_TRANSLATE Saastekvootide teie lähedal",
   "not_set": "PLZ_TRANSLATE ei ole määratud",
-  "child_name_placeholder": "PLZ_TRANSLATE Sinu laps"
+  "child_name_placeholder": "PLZ_TRANSLATE Sinu laps",
+  "trustly_overview_sort_done": "PLZ_TRANSLATE tehtud",
+  "trustly_overview_sort_upoming": "PLZ_TRANSLATE tulemas"
+
 }

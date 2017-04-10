@@ -1203,5 +1203,8 @@
   "child_settings_steps_tracking_test": "PLZ_TRANSLATE Reyndu að halda utan",
   "parent_settings_allowance_near": "PLZ_TRANSLATE Vasapeningar Near You",
   "not_set": "PLZ_TRANSLATE ekki setja",
-  "child_name_placeholder": "PLZ_TRANSLATE barnið þitt"
+  "child_name_placeholder": "PLZ_TRANSLATE barnið þitt",
+  "trustly_overview_sort_done": "PLZ_TRANSLATE gert",
+  "trustly_overview_sort_upoming": "PLZ_TRANSLATE komandi"
+
 }

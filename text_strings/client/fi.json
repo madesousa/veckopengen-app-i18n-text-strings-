@@ -1203,5 +1203,8 @@
   "child_settings_steps_tracking_test": "PLZ_TRANSLATE Yritä seurata",
   "parent_settings_allowance_near": "PLZ_TRANSLATE Päästöoikeuden läheltäsi",
   "not_set": "PLZ_TRANSLATE Ei valittu",
-  "child_name_placeholder": "PLZ_TRANSLATE Sinun lapsesi"
+  "child_name_placeholder": "PLZ_TRANSLATE Sinun lapsesi",
+  "trustly_overview_sort_done": "PLZ_TRANSLATE valmis",
+  "trustly_overview_sort_upoming": "PLZ_TRANSLATE tuleva"
+
 }

@@ -1203,5 +1203,7 @@
   "child_settings_steps_tracking_test": "PLZ_TRANSLATE Prøv at holde styr",
   "parent_settings_allowance_near": "PLZ_TRANSLATE Godtgørelse i nærheden af ​​dig",
   "not_set": "PLZ_TRANSLATE Ikke indstillet",
-  "child_name_placeholder": "PLZ_TRANSLATE Dit barn"
+  "child_name_placeholder": "PLZ_TRANSLATE Dit barn",
+  "trustly_overview_sort_done": "PLZ_TRANSLATE færdig",
+  "trustly_overview_sort_upoming": "PLZ_TRANSLATE kommende"
 }
