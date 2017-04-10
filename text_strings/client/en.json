@@ -1202,5 +1202,6 @@
   "approve_task_with_video": "Record video 🎥",
   "child_settings_steps_tracking_test": "Try to keep track",
   "parent_settings_allowance_near": "Allowance Near You",
-  "child_name_placeholder": "Little Nutella"
+  "child_name_placeholder": "Little Nutella",
+  "not_set": "Not set"
 }

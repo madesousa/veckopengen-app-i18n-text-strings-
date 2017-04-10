@@ -1202,5 +1202,6 @@
   "approve_task_with_video": "PLZ_TRANSLATE Taka upp myndskeið 🎥",
   "child_settings_steps_tracking_test": "PLZ_TRANSLATE Reyndu að halda utan",
   "parent_settings_allowance_near": "PLZ_TRANSLATE Vasapeningar Near You",
-  "child_name_placeholder": "PLZ_TRANSLATE Little Nutella"
+  "child_name_placeholder": "PLZ_TRANSLATE Little Nutella",
+  "not_set": "PLZ_TRANSLATE ekki setja"
 }

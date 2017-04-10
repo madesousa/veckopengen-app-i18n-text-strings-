@@ -1202,5 +1202,6 @@
   "approve_task_with_video": "PLZ_TRANSLATE Ta opp video 🎥",
   "child_settings_steps_tracking_test": "PLZ_TRANSLATE Prøv å holde styr",
   "parent_settings_allowance_near": "PLZ_TRANSLATE Fradrag i nærheten av deg",
-  "child_name_placeholder": "PLZ_TRANSLATE litt Nutella"
+  "child_name_placeholder": "PLZ_TRANSLATE litt Nutella",
+  "not_set": "PLZ_TRANSLATE Ikke satt"
 }

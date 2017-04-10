@@ -1202,5 +1202,6 @@
   "approve_task_with_video": "PLZ_TRANSLATE Grabar vídeo 🎥",
   "child_settings_steps_tracking_test": "PLZ_TRANSLATE Trate de mantener un registro",
   "parent_settings_allowance_near": "PLZ_TRANSLATE Permiso cerca de usted",
-  "child_name_placeholder": "PLZ_TRANSLATE Pequeña Nutella"
+  "child_name_placeholder": "PLZ_TRANSLATE Pequeña Nutella",
+  "not_set": "PLZ_TRANSLATE No establecido"
 }

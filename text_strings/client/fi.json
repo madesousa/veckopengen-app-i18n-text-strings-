@@ -1202,5 +1202,6 @@
   "approve_task_with_video": "PLZ_TRANSLATE Kuvaa video 🎥",
   "child_settings_steps_tracking_test": "PLZ_TRANSLATE Yritä seurata",
   "parent_settings_allowance_near": "PLZ_TRANSLATE Päästöoikeuden läheltäsi",
-  "child_name_placeholder": "PLZ_TRANSLATE pikku Nutella"
+  "child_name_placeholder": "PLZ_TRANSLATE pikku Nutella",
+  "not_set": "PLZ_TRANSLATE Ei valittu"
 }
