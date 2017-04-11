@@ -1210,5 +1210,17 @@
   "connection_handler_connecting": "Ansluter",
   "connection_handler_connected": "Ansluten",
   "savings_goal_nothing_saved_child": "PLZ_TRANSLATE Te pole salvestanud midagi",
-  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d pole salvestanud midagi"
+  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d pole salvestanud midagi",
+  "savings_goal_info_text_overview_parent_help_child": "PLZ_TRANSLATE Sul on nüüd jõudnud %1$d oma säästud eesmärke. Teil on %2$d oma notsu panga ja %3$d lahkus salvestada. Vanem abi on aktiveeritud ja sa toetatud %4$d oma säästud eesmärke. Oled jõudnud% 5 $ d säästmise eesmärke kokku",
+  "savings_goal_info_text_overview_child": "PLZ_TRANSLATE Sul on nüüd jõudnud %1$d oma säästud eesmärk. Olete %2$d oma notsu panga ja %3$d lahkus salvestada. Oled jõudnud %4$d kokkuhoid eesmärk kokku",
+  "savings_goal_info_text_overview_parent_help_parent": "PLZ_TRANSLATE %1$d on jõudnud %2$d kokkuhoid eesmärk. %3$d on notsu panga ja %4$d on veel salvestatud. Vanemlik abi on lubatud ja teil sponsor koos% 5 $ d. %1$d jõudnud% 6 $ d kokkuhoid eesmärgid kokku",
+  "savings_goal_info_text_overview_parent": "PLZ_TRANSLATE 1 $ d on jõudnud %2$d kokkuhoid eesmärk. %3$d on notsu panga ja %4$d on veel salvestatud. %1$d jõudnud% 5 $ d kokkuhoid eesmärgid kokku",
+  "savings_goal_info_text_milestone_boost_child": "PLZ_TRANSLATE Oled jõudnud %1$d verstapostid ja on %2$d verstapostid vasakule, kuni jõuate oma säästud eesmärk. Iga verstapost saad %3$d nagu tõuke oma notsu panka.",
+  "savings_goal_info_text_milestone_child": "PLZ_TRANSLATE Oled jõudnud %1$d verstapostid ja on %2$d verstapostid vasakule, kuni jõuate oma säästud eesmärk.",
+  "savings_goal_info_text_milestone_boost_parent": "PLZ_TRANSLATE %1$d jõudnud %2$d verstapostid ja on %3$d verstapostid vasakule, et jõuda kokkuhoid eesmärk. Iga verstapost annad %4$d kui tõuke notsu panka.",
+  "savings_goal_info_text_milestone_parent": "PLZ_TRANSLATE %1$d jõudnud %2$d verstapostid ja on %3$d verstapostid vasakule, et jõuda kokkuhoid eesmärk.",
+  "savings_goal_info_text_graph_child": "PLZ_TRANSLATE Sa algas %1$d ja %2$d päeva olete õnnestunud kasvab oma notsu panka %3$d",
+  "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d algas %2$d ning on sisse %3$d päeva õnnestunud kasvab notsu panka %4$d",
+  "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Olete salvestanud jaoks %1$d päeva. Kui salvestate %2$d iga nädal teil on oodata %3$d päeva kuni teil saavutada oma säästud eesmärk. Praegu olete salvestanud %4$d rohkem / vähem kui oodatud",
+  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d on salvestatud %2$d päeva. Kui %3$d salvestatakse iga nädal, siis on oodata, et võtta %4$d päeva kuni kokkuhoid eesmärk on saavutatud. Praegu see on salvestatud% 5 $ d rohkem / vähem kui oodatud"
 }

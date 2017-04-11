@@ -1210,5 +1210,17 @@
   "connection_handler_connecting": "Ansluter",
   "connection_handler_connected": "Ansluten",
   "savings_goal_nothing_saved_child": "PLZ_TRANSLATE Du hast nichts gespeichert",
-  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d hab nichts gespeichert"
+  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d hab nichts gespeichert",
+  "savings_goal_info_text_overview_parent_help_child": "PLZ_TRANSLATE Sie haben jetzt %1$d Ihrer Sparziele erreicht. Sie haben die %2$d in Ihrem Sparschwein und %3$d links zu speichern. Die Elternhilfe ist aktiviert und Sie werden mit %4$d zu Ihren Sparzielen unterstützt. Sie haben% 5 $ d erreicht",
+  "savings_goal_info_text_overview_child": "PLZ_TRANSLATE Sie haben jetzt %1$d von Ihrem Sparziel erreicht. Sie haben %2$d in Ihrem Sparschwein und %3$d links zu speichern. Sie haben insgesamt %4$d Einsparungsziel erreicht",
+  "savings_goal_info_text_overview_parent_help_parent": "PLZ_TRANSLATE %1$d hat jetzt %2$d das Sparziel erreicht. %3$d ist in der Sparschwein und %4$d ist noch zu retten. Die elterliche Hilfe ist aktiviert und Sie sponsern mit% 5 $ d. %1$d hat insgesamt 6 $ d Sparziele erreicht",
+  "savings_goal_info_text_overview_parent": "PLZ_TRANSLATE 1 $ d hat jetzt %2$d das Sparziel erreicht. %3$d ist in der Sparschwein und %4$d ist noch zu retten. %1$d hat insgesamt 5 $ d Einsparungsziele erreicht",
+  "savings_goal_info_text_milestone_boost_child": "PLZ_TRANSLATE Sie haben %1$d Meilensteine ​​erreicht und haben %2$d Meilensteine ​​verlassen, bis Sie Ihr Sparziel erreichen. An jedem Meilenstein bekommst du %3$d als Schub für dein Sparschwein.",
+  "savings_goal_info_text_milestone_child": "PLZ_TRANSLATE Sie haben %1$d Meilensteine ​​erreicht und haben %2$d Meilensteine ​​verlassen, bis Sie Ihr Sparziel erreichen.",
+  "savings_goal_info_text_milestone_boost_parent": "PLZ_TRANSLATE %1$d hat %2$d Meilensteine ​​erreicht und hat %3$d Meilensteine ​​verlassen, um das Sparziel zu erreichen. An jedem Meilenstein geben Sie %4$d als Schub für das Sparschwein.",
+  "savings_goal_info_text_milestone_parent": "PLZ_TRANSLATE %1$d hat %2$d Meilensteine ​​erreicht und hat %3$d Meilensteine ​​verlassen, um das Sparziel zu erreichen.",
+  "savings_goal_info_text_graph_child": "PLZ_TRANSLATE Sie begannen bei %1$d und in %2$d Tage ist es Ihnen gelungen, Ihr Sparschwein zu %3$d zu wachsen",
+  "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d begann bei %2$d und hat in %3$d Tage gelungen, das Sparschwein zu %4$d wachsen",
+  "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Sie haben für %1$d Tage gespeichert. Wenn Sie Ihre %2$d jede Woche speichern, werden Sie voraussichtlich %3$d Tage haben, bis Sie Ihr Sparziel erreichen. Im Moment hast du %4$d mehr / weniger als erwartet gespeichert",
+  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d hat für %2$d Tage gespeichert. Wenn die %3$d jede Woche gespeichert wird, wird voraussichtlich %4$d Tage dauern, bis das Sparziel erreicht ist. Im Moment wurde es gespeichert% 5 $ d mehr / weniger als erwartet"
 }

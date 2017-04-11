@@ -1210,5 +1210,17 @@
   "connection_handler_connecting": "Ansluter",
   "connection_handler_connected": "Ansluten",
   "savings_goal_nothing_saved_child": "PLZ_TRANSLATE Þú hefur ekki vistað neitt",
-  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d hefur ekki vistað neitt"
+  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d hefur ekki vistað neitt",
+  "savings_goal_info_text_overview_parent_help_child": "PLZ_TRANSLATE Þú hefur nú náð %1$d sparnaðarleiðir markmiðum þínum. Þú hefur %2$d í Grís bankann þinn og %3$d vinstri til að spara. Foreldri hjálp er virkur og þú ert studd %4$d til sparnaðar markmiðum þínum. Þú hefur náð% 5 $ d orkusparnaðareiginleika mörk í alls",
+  "savings_goal_info_text_overview_child": "PLZ_TRANSLATE Þú hefur nú náð %1$d sparifjár markmiði þínu. Þú hefur %2$d í Grís bankann þinn og %3$d vinstri til að spara. Þú hefur náð %4$d sparnaði mark í alls",
+  "savings_goal_info_text_overview_parent_help_parent": "PLZ_TRANSLATE %1$d hefur nú náð %2$d sparnað markmiði. %3$d er í Grís banka og %4$d er enn að vera vistað. Foreldra hjálp er virkt og þú styður við% 5 $ d. %1$d hefur náð% 6 $ d sparnaði mörk í alls",
+  "savings_goal_info_text_overview_parent": "PLZ_TRANSLATE 1 $ d hefur nú náð %2$d sparnað markmiði. %3$d er í Grís banka og %4$d er enn að vera vistað. %1$d hefur náð% 5 $ d sparnaði mörk í alls",
+  "savings_goal_info_text_milestone_boost_child": "PLZ_TRANSLATE Þú hefur náð %1$d áfangar og hafa %2$d áfangar vinstri þar til þú nærð sparnaðar markmiði þínu. Á hverjum áfanga sem þú færð %3$d sem uppörvun til Grís bankann þinn.",
+  "savings_goal_info_text_milestone_child": "PLZ_TRANSLATE Þú hefur náð %1$d áfangar og hafa %2$d áfangar vinstri þar til þú nærð sparnaðar markmiði þínu.",
+  "savings_goal_info_text_milestone_boost_parent": "PLZ_TRANSLATE %1$d hefur náð %2$d áfanga og hefur %3$d áfangar vinstri til að ná sparnaði markmiði. Á hverjum áfanga sem þú gefur %4$d sem uppörvun til Grís bankann.",
+  "savings_goal_info_text_milestone_parent": "PLZ_TRANSLATE %1$d hefur náð %2$d áfanga og hefur %3$d áfangar vinstri til að ná sparnaði markmiði.",
+  "savings_goal_info_text_graph_child": "PLZ_TRANSLATE Þú byrjaðir á %1$d og í %2$d daga sem þú hefur tekist að vaxa Grís bankann þinn til %3$d",
+  "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d byrjaði á %2$d og hefur í %3$d dögum tekist vaxandi Grís banka til %4$d",
+  "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Þú hefur vistað í %1$d daga. Ef þú vistar %2$d þína í hverri viku sem þú ert gert ráð fyrir að hafa %3$d dagar þangað til þú ná sparnaði markmiðum þínum. Núna þú hefur vistað %4$d meira / minna en búist",
+  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d hefur vistað fyrir %2$d daga. Ef %3$d er vistað í hverri viku, er gert ráð fyrir að taka %4$d daga þar til sparnaðar markmiðið er náð. Núna hefur það verið vistað% 5 $ s meira / minna en búist"
 }

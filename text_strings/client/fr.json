@@ -1210,5 +1210,17 @@
   "connection_handler_connecting": "Ansluter",
   "connection_handler_connected": "Ansluten",
   "savings_goal_nothing_saved_child": "PLZ_TRANSLATE Vous n'avez rien enregistré",
-  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d n'ont rien enregistré"
+  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d n'ont rien enregistré",
+  "savings_goal_info_text_overview_parent_help_child": "PLZ_TRANSLATE Vous avez maintenant atteint %1$d de vos objectifs d'épargne. Vous avez le %2$d dans votre tirelire et %3$d à gauche pour économiser. L'aide parent est activée et vous êtes pris en charge avec %4$d à vos objectifs d'économies. Vous avez atteint les objectifs d'économies de% 5 $ d au total",
+  "savings_goal_info_text_overview_child": "PLZ_TRANSLATE Vous avez maintenant atteint %1$d de votre objectif d'économie. Vous avez %2$d dans votre tirelire et %3$d à gauche pour économiser. Vous avez atteint le but de l'épargne %4$d",
+  "savings_goal_info_text_overview_parent_help_parent": "PLZ_TRANSLATE %1$d a atteint %2$d l'objectif d'économies. %3$d est dans la tirelire et %4$d n'est pas encore enregistré. L'aide parentale est activée et vous parrainez avec% 5 $ d. %1$d a atteint des buts d'épargne de% 6 $ d au total",
+  "savings_goal_info_text_overview_parent": "PLZ_TRANSLATE 1 $ d a atteint %2$d l'objectif d'économies. %3$d est dans la tirelire et %4$d n'est pas encore enregistré. %1$d a atteint des buts d'économies de% 5 $ d au total",
+  "savings_goal_info_text_milestone_boost_child": "PLZ_TRANSLATE Vous avez atteint %1$d jalons et ont %2$d étapes importantes jusqu'à ce que vous atteigniez votre objectif d'épargne. À chaque étape, vous obtenez %3$d comme une impulsion à votre tirelire.",
+  "savings_goal_info_text_milestone_child": "PLZ_TRANSLATE Vous avez atteint %1$d jalons et ont %2$d étapes importantes jusqu'à ce que vous atteigniez votre objectif d'épargne.",
+  "savings_goal_info_text_milestone_boost_parent": "PLZ_TRANSLATE %1$d a atteint %2$d jalons et a %3$d des jalons laissés pour atteindre l'objectif d'économies. À chaque étape, vous donnez au %4$d un coup de pouce à la tirelire.",
+  "savings_goal_info_text_milestone_parent": "PLZ_TRANSLATE %1$d a atteint %2$d jalons et a %3$d des jalons laissés pour atteindre l'objectif d'économies.",
+  "savings_goal_info_text_graph_child": "PLZ_TRANSLATE Vous avez commencé à %1$d et en %2$d jours, vous avez réussi à cultiver votre tirelire à %3$d",
+  "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d a commencé à %2$d et a réussi à croquer la tirelire en %3$d jours en %4$d",
+  "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Vous avez enregistré %1$d jours. Si vous enregistrez votre %2$d chaque semaine, vous devrez avoir %3$d jours jusqu'à ce que vous atteigniez votre objectif d'économie. En ce moment, vous avez enregistré %4$d plus / moins que prévu",
+  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d a économisé pour %2$d jours. Si le %3$d est enregistré chaque semaine, il est prévu de prendre %4$d jours jusqu'à ce que l'objectif d'économie soit atteint. À l'heure actuelle, il a été enregistré% 5 $ d plus / moins que prévu"
 }

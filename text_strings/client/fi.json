@@ -1210,5 +1210,17 @@
   "connection_handler_connecting": "Ansluter",
   "connection_handler_connected": "Ansluten",
   "savings_goal_nothing_saved_child": "PLZ_TRANSLATE Et ole tallentanut mitään",
-  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d ole tallentanut mitään"
+  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d ole tallentanut mitään",
+  "savings_goal_info_text_overview_parent_help_child": "PLZ_TRANSLATE Olet nyt saavuttanut %1$d oman säästöjä tavoitteita. Sinulla on %2$d oman säästöpossu ja %3$d lähti pelastamaan. Vanhemman apua aktivoituu ja olet tuettu %4$d omaan säästöjä tavoitteita. Olet saavuttanut% 5 $ d giansäästötavoitteet yhteensä",
+  "savings_goal_info_text_overview_child": "PLZ_TRANSLATE Olet nyt saavuttanut %1$d oman säästöjä tavoite. Olette %2$d omassa säästöpossu ja %3$d lähti pelastamaan. Olet saavuttanut %4$d säästöjä tavoite yhteensä",
+  "savings_goal_info_text_overview_parent_help_parent": "PLZ_TRANSLATE %1$d on nyt saavuttanut %2$d säästöjä tavoite. %3$d on säästöpossu ja %4$d on vielä tallennettu. Parental apu on käytössä ja sponsori kanssa% 5 $ d. %1$d on saavuttanut% 6 $ d säästöjä tavoitteet yhteensä",
+  "savings_goal_info_text_overview_parent": "PLZ_TRANSLATE 1 $ d on nyt saavuttanut %2$d säästöjä tavoite. %3$d on säästöpossu ja %4$d on vielä tallennettu. %1$d on saavuttanut% 5 $ d säästöjä tavoitteet yhteensä",
+  "savings_goal_info_text_milestone_boost_child": "PLZ_TRANSLATE Olet saavuttanut %1$d virstanpylväitä ja on %2$d välitavoitteet jäljellä siihen, että saavutat säästöjä tavoite. Jokaisessa virstanpylväs saat %3$d niin potkua säästöpossu.",
+  "savings_goal_info_text_milestone_child": "PLZ_TRANSLATE Olet saavuttanut %1$d virstanpylväitä ja on %2$d välitavoitteet jäljellä siihen, että saavutat säästöjä tavoite.",
+  "savings_goal_info_text_milestone_boost_parent": "PLZ_TRANSLATE %1$d on saavuttanut %2$d virstanpylväitä ja on %3$d virstanpylväitä vasemmalle saavuttaa säästöjä tavoite. Jokaisessa virstanpylväs annat %4$d niin vauhtia säästöpossu.",
+  "savings_goal_info_text_milestone_parent": "PLZ_TRANSLATE %1$d on saavuttanut %2$d virstanpylväitä ja on %3$d virstanpylväitä vasemmalle saavuttaa säästöjä tavoite.",
+  "savings_goal_info_text_graph_child": "PLZ_TRANSLATE Te alkoi %1$d ja %2$d päivä olet onnistunut kasvattamaan oman säästöpossu %3$d",
+  "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d alkoi %2$d ja on itse %3$d päivä näet onnistuivat kasvattamaan säästöpossu %4$d",
+  "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Kanssa on tallennettu %1$d päivää. Jos tallennat %2$d viikoittain sinun odotetaan olevan %3$d päivää, kunnes sinua saavuttamaan säästöjä tavoite. Juuri nyt olet tallentanut %4$d enemmän / vähemmän kuin odotettiin",
+  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d on tallennettu %2$d päivää. Jos %3$d tallennetaan joka viikko, se odotetaan kestävän %4$d päivää, kunnes säästöt tavoite on saavutettu. Juuri nyt se on tallennettu% 5 $ d enemmän / vähemmän kuin odotettiin"
 }

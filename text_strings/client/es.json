@@ -1210,5 +1210,17 @@
   "connection_handler_connecting": "Ansluter",
   "connection_handler_connected": "Ansluten",
   "savings_goal_nothing_saved_child": "PLZ_TRANSLATE No has guardado nada",
-  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d no han guardado nada"
+  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d no han guardado nada",
+  "savings_goal_info_text_overview_parent_help_child": "PLZ_TRANSLATE Ahora ha llegado a %1$d de sus objetivos de ahorro. Tienes el %2$d en tu alcancía y %3$d para ahorrar. La ayuda de los padres está activada y estás apoyado con %4$d con tus objetivos de ahorro. Has alcanzado los objetivos de ahorro de% 5 $ d en total",
+  "savings_goal_info_text_overview_child": "PLZ_TRANSLATE Ahora ha llegado a %1$d de su objetivo de ahorro. Tienes %2$d en tu alcancía y %3$d para guardar. Ha alcanzado el objetivo de ahorro %4$d en total",
+  "savings_goal_info_text_overview_parent_help_parent": "PLZ_TRANSLATE %1$d ha llegado a %2$d el objetivo de ahorro. %3$d está en la alcancía y %4$d aún no se ha salvado. La ayuda de los padres está habilitada y patrocinas con% 5 $ d. %1$d ha alcanzado% 6 $ d objetivos de ahorro en total",
+  "savings_goal_info_text_overview_parent": "PLZ_TRANSLATE 1 $ d ahora ha llegado a %2$d el objetivo de ahorro. %3$d está en la alcancía y %4$d aún no se ha salvado. %1$d ha alcanzado% 5 $ d objetivos de ahorro en total",
+  "savings_goal_info_text_milestone_boost_child": "PLZ_TRANSLATE Ha llegado a %1$d hitos y tiene %2$d jalones restantes hasta que alcance su objetivo de ahorro. En cada hito obtendrá %3$d como un impulso a su alcancía.",
+  "savings_goal_info_text_milestone_child": "PLZ_TRANSLATE Ha llegado a %1$d hitos y tiene %2$d jalones restantes hasta que alcance su objetivo de ahorro.",
+  "savings_goal_info_text_milestone_boost_parent": "PLZ_TRANSLATE %1$d ha alcanzado %2$d jalones y tiene %3$d hitos dejados para alcanzar la meta de ahorro. En cada hito dale %4$d como un impulso a la alcancía.",
+  "savings_goal_info_text_milestone_parent": "PLZ_TRANSLATE %1$d ha alcanzado %2$d jalones y tiene %3$d hitos dejados para alcanzar la meta de ahorro.",
+  "savings_goal_info_text_graph_child": "PLZ_TRANSLATE Empezó en %1$d y en %2$d días que ha tenido éxito en el crecimiento de su alcancía a %3$d",
+  "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d comenzó en %2$d y ha en %3$d días logró crecer la alcancía a %4$d",
+  "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Se ha guardado durante %1$d días. Si guarda su %2$d cada semana se espera que tenga %3$d días hasta que alcance su objetivo de ahorro. Ahora mismo ha guardado %4$d más / menos de lo esperado",
+  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d ha guardado por %2$d días. Si el %3$d se guarda cada semana, se espera que tome %4$d días hasta que se alcance el objetivo de ahorro. En este momento se ha guardado% 5 $ d más / menos de lo esperado"
 }

@@ -1210,5 +1210,17 @@
   "connection_handler_connecting": "Ansluter",
   "connection_handler_connected": "Ansluten",
   "savings_goal_nothing_saved_child": "PLZ_TRANSLATE Du har ikke gemt noget",
-  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d har ikke gemt noget"
+  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d har ikke gemt noget",
+  "savings_goal_info_text_overview_parent_help_child": "PLZ_TRANSLATE Du har nu nået %1$d af dine besparelser mål. Du har %2$d i din sparegris og %3$d venstre for at redde. Forældre hjælp er aktiveret, og du er støttet med %4$d til dine besparelser mål. Du har nået% 5 $ d besparelse mål i alt",
+  "savings_goal_info_text_overview_child": "PLZ_TRANSLATE Du har nu nået %1$d af din opsparing mål. Du har %2$d i din sparegris og %3$d venstre for at redde. Du har nået %4$d besparelsesmål i alt",
+  "savings_goal_info_text_overview_parent_help_parent": "PLZ_TRANSLATE %1$d har nu nået %2$d den besparelsesmål. %3$d er i sparegris og %4$d er endnu ikke gemmes. Parental hjælp er aktiveret, og du sponsor med% 5 $ d. %1$d har nået% 6 $ d besparelser mål i alt",
+  "savings_goal_info_text_overview_parent": "PLZ_TRANSLATE 1 $ d er nu nået %2$d den besparelsesmål. %3$d er i sparegris og %4$d er endnu ikke gemmes. %1$d har nået% 5 $ d besparelser mål i alt",
+  "savings_goal_info_text_milestone_boost_child": "PLZ_TRANSLATE Du har nået %1$d milepæle og har %2$d milepæle tilbage, indtil du når din opsparing mål. Ved hver milepæl får du %3$d som et boost til din sparegris.",
+  "savings_goal_info_text_milestone_child": "PLZ_TRANSLATE Du har nået %1$d milepæle og har %2$d milepæle tilbage, indtil du når din opsparing mål.",
+  "savings_goal_info_text_milestone_boost_parent": "PLZ_TRANSLATE %1$d har nået %2$d milepæle og har %3$d milepæle tilbage for at nå besparelser mål. Ved hver milepæl, du giver %4$d som et løft til den sparegris.",
+  "savings_goal_info_text_milestone_parent": "PLZ_TRANSLATE %1$d har nået %2$d milepæle og har %3$d milepæle tilbage for at nå besparelser mål.",
+  "savings_goal_info_text_graph_child": "PLZ_TRANSLATE Du startede på %1$d og i %2$d dage du har formået at vokse din sparegris til %3$d",
+  "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d startede på %2$d og har i %3$d dage lykkedes voksende sparegris til %4$d",
+  "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Du har gemt for %1$d dage. Hvis du gemmer %2$d hver uge du forventes at have %3$d dage, indtil du opnår din opsparing mål. Lige nu har du sparet %4$d mere / mindre end forventet",
+  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d har sparet for %2$d dage. Hvis %3$d gemmes hver uge, men det forventes at tage %4$d dage indtil besparelser målet er nået. Lige nu er det blevet sparet% 5 $ d mere / mindre end forventet"
 }

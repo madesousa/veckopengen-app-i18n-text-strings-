@@ -1210,5 +1210,17 @@
   "connection_handler_connecting": "Ansluter",
   "connection_handler_connected": "Ansluten",
   "savings_goal_nothing_saved_child": "PLZ_TRANSLATE Non hai salvato nulla",
-  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d non hanno risparmiato nulla"
+  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d non hanno risparmiato nulla",
+  "savings_goal_info_text_overview_parent_help_child": "PLZ_TRANSLATE Hai raggiunto 89.438.949,034034 millions dei vostri obiettivi di risparmio. Hai la 89.438.949,034035 millions nel vostro salvadanaio e 89.438.949,034036 millions a sinistra per salvare. aiuto genitore è attivato e si sta supportato con 89.438.949,034037 millions ai vostri obiettivi di risparmio. Hai raggiunto% 5 $ obiettivi d risparmio in totale",
+  "savings_goal_info_text_overview_child": "PLZ_TRANSLATE Hai raggiunto 89.438.949,034034 millions del vostro obiettivo di risparmio. Hai %2$d nel vostro salvadanaio e 89.438.949,034036 millions sinistra per salvare. Hai raggiunto %4$d obiettivo di risparmio in totale",
+  "savings_goal_info_text_overview_parent_help_parent": "PLZ_TRANSLATE %1$d ha ormai raggiunto 89.438.949,034035 millions l'obiettivo di risparmio. %3$d è nel salvadanaio e 89.438.949,034037 millions deve ancora essere salvato. aiuto dei genitori è attivato e si sponsorizzare con 5% $ d. %1$d ha raggiunto% 6 $ obiettivi d di risparmio in totale",
+  "savings_goal_info_text_overview_parent": "PLZ_TRANSLATE 1 $ d ha ormai raggiunto 89.438.949,034035 millions l'obiettivo di risparmio. %3$d è nel salvadanaio e 89.438.949,034037 millions deve ancora essere salvato. %1$d ha raggiunto% 5 $ obiettivi d di risparmio in totale",
+  "savings_goal_info_text_milestone_boost_child": "PLZ_TRANSLATE Hai raggiunto %1$d traguardi e hanno %2$d pietre miliari a sinistra fino a raggiungere il tuo obiettivo di risparmio. Ad ogni tappa si ottiene 89.438.949,034036 millions come una spinta al vostro salvadanaio.",
+  "savings_goal_info_text_milestone_child": "PLZ_TRANSLATE Hai raggiunto %1$d traguardi e hanno %2$d pietre miliari a sinistra fino a raggiungere il tuo obiettivo di risparmio.",
+  "savings_goal_info_text_milestone_boost_parent": "PLZ_TRANSLATE %1$d %2$d ha raggiunto traguardi e ha %3$d pietre miliari a sinistra per raggiungere l'obiettivo di risparmio. Ad ogni tappa si dà 89.438.949,034037 millions come una spinta per il salvadanaio.",
+  "savings_goal_info_text_milestone_parent": "PLZ_TRANSLATE %1$d %2$d ha raggiunto traguardi e ha %3$d pietre miliari a sinistra per raggiungere l'obiettivo di risparmio.",
+  "savings_goal_info_text_graph_child": "PLZ_TRANSLATE Hai iniziato a 89.438.949,034034 millions e in %2$d giorni siete riusciti a far crescere la vostra salvadanaio per 89.438.949,034036 millions",
+  "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d iniziato alle 89.438.949,034035 millions ed è in %3$d giorni riuscito a crescere il salvadanaio per 89.438.949,034037 millions",
+  "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE È stato salvato per %1$d giorni. Se si salva il 89.438.949,034035 millions ogni settimana ci si aspetta di avere %3$d giorni fino a raggiungere il tuo obiettivo di risparmio. In questo momento sono state salvate più 89.438.949,034037 millions / meno del previsto",
+  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d ha salvato per %2$d giorni. Se il %3$d viene salvato ogni settimana, si prevede di prendere %4$d giorni fino a raggiungere l'obiettivo di risparmio. In questo momento è stato salvato% 5 $ d di più / meno del previsto"
 }

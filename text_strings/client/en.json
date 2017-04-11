@@ -1210,5 +1210,17 @@
   "connection_handler_connecting": "Connecting",
   "connection_handler_connected": "Connected",
   "savings_goal_nothing_saved_child": "You have not saved anything",
-  "savings_goal_nothing_saved_parent": "%1$d have not saved anything"
+  "savings_goal_nothing_saved_parent": "%1$d have not saved anything",
+  "savings_goal_info_text_overview_parent_help_child": "You have now reached %1$d of your savings goals. You have the %2$d in your piggy bank and %3$d left to save. Parent help is activated and you're supported with %4$d to your savings goals. You have reached %5$d saving goals in total",
+  "savings_goal_info_text_overview_child": "You have now reached %1$d of your savings goal. You have %2$d in your piggy bank and %3$d left to save.  You have reached %4$d savings goal in total",
+  "savings_goal_info_text_overview_parent_help_parent": "%1$d has now reached %2$d the savings goal. %3$d is in the piggy bank and %4$d is yet to be saved. Parental help is enabled and you sponsor with %5$d. %1$d has reached %6$d savings goals in total",
+  "savings_goal_info_text_overview_parent": "1$d has now reached %2$d the savings goal. %3$d is in the piggy bank and %4$d is yet to be saved. %1$d has reached %5$d savings goals in total",
+  "savings_goal_info_text_milestone_boost_child": "You have reached %1$d milestones and have %2$d milestones left until you reach your savings goal. At each milestone you get %3$d as a boost to your piggy bank.",
+  "savings_goal_info_text_milestone_child": "You have reached %1$d milestones and have %2$d milestones left until you reach your savings goal.",
+  "savings_goal_info_text_milestone_boost_parent": "%1$d has reached %2$d milestones and has %3$d milestones left to reach the savings goal. At each milestone you give %4$d as a boost to the piggy bank.",
+  "savings_goal_info_text_milestone_parent": "%1$d has reached %2$d milestones and has %3$d milestones left to reach the savings goal.",
+  "savings_goal_info_text_graph_child": "You started at %1$d and in %2$d days you have succeeded in growing your piggy bank to %3$d",
+  "savings_goal_info_text_graph_parent": "%1$d started at %2$d and has in %3$d days succeeded in growing the piggy bank to %4$d",
+  "savings_goal_info_text_forecast_child": "You have saved for %1$d days. If you save your %2$d every week you are expected to have %3$d days until you achieve your savings goal. Right now you have saved %4$d more/less than expected",
+  "savings_goal_info_text_forecast_parent": "%1$d has saved for %2$d days. If the %3$d is saved every week, it is expected to take %4$d days until the savings goal is reached. Right now it has been saved %5$d more/less than expected"
 }

@@ -1210,5 +1210,17 @@
   "connection_handler_connecting": "Ansluter",
   "connection_handler_connected": "Ansluten",
   "savings_goal_nothing_saved_child": "PLZ_TRANSLATE Je hebt niets gered",
-  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d heb niets gered"
+  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d heb niets gered",
+  "savings_goal_info_text_overview_parent_help_child": "PLZ_TRANSLATE U bent nu %1$d van uw spaargeld doelen. Je hebt de %2$d in uw spaarvarken en %3$d links op te slaan. Parent hulp wordt geactiveerd en je ondersteund door %4$d om uw spaargeld doelen. Je hebt% 5 $ d besparing doelpunten in totaal bereikte",
+  "savings_goal_info_text_overview_child": "PLZ_TRANSLATE U bent nu %1$d van uw spaargeld doel. Je hebt %2$d in uw spaarvarken en %3$d links op te slaan. Je hebt %4$d besparingen doel bereikt in totaal",
+  "savings_goal_info_text_overview_parent_help_parent": "PLZ_TRANSLATE %1$d is nu op %2$d de besparingen doel. %3$d is in de spaarpot en %4$d moet nog worden opgeslagen. Ouderlijk hulp is ingeschakeld en je sponsoren door% 5 $ d. %1$d heeft bereikt% 6 $ d besparingen doelen in totaal",
+  "savings_goal_info_text_overview_parent": "PLZ_TRANSLATE 1 $ d is nu op %2$d de besparingen doel. %3$d is in de spaarpot en %4$d moet nog worden opgeslagen. %1$d heeft bereikt% 5 $ d besparingen doelen in totaal",
+  "savings_goal_info_text_milestone_boost_child": "PLZ_TRANSLATE Je hebt %1$d mijlpalen bereikt en hebben %2$d mijlpalen resteert voor u uw spaargeld doel te bereiken. Bij elke mijlpaal krijg je %3$d als een boost aan je spaarpot.",
+  "savings_goal_info_text_milestone_child": "PLZ_TRANSLATE Je hebt %1$d mijlpalen bereikt en hebben %2$d mijlpalen resteert voor u uw spaargeld doel te bereiken.",
+  "savings_goal_info_text_milestone_boost_parent": "PLZ_TRANSLATE %1$d heeft %2$d mijlpalen bereikt en heeft %3$d mijlpalen overgelaten aan de besparingen doel te bereiken. Bij elke mijlpaal %4$d geven u als een impuls aan de spaarpot.",
+  "savings_goal_info_text_milestone_parent": "PLZ_TRANSLATE %1$d heeft %2$d mijlpalen bereikt en heeft %3$d mijlpalen overgelaten aan de besparingen doel te bereiken.",
+  "savings_goal_info_text_graph_child": "PLZ_TRANSLATE Je begon op %1$d en in %2$d dagen je geslaagd in het kweken van uw spaarpot om %3$d",
+  "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d begon bij %2$d en is in %3$d dagen geslaagd in het kweken van de spaarpot om %4$d",
+  "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE U heeft opgeslagen voor %1$d dagen. Als je elke week bespaar je %2$d je verwacht dat je %3$d dagen totdat u uw spaargeld doel te bereiken. Op dit moment heb je %4$d meer gered / minder dan verwacht",
+  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d heeft opgeslagen voor %2$d dagen. Als de %3$d elke week wordt opgeslagen, wordt verwacht om %4$d dagen duren voordat de besparingen doel bereikt is. Op dit ogenblik is opgeslagen% 5 $ d meer / minder dan verwacht"
 }
