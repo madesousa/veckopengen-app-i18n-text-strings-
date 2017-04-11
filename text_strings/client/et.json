@@ -1207,5 +1207,8 @@
   "trustly_overview_sort_done": "PLZ_TRANSLATE tehtud",
   "trustly_overview_sort_upoming": "PLZ_TRANSLATE tulemas",
   "category": "Kategori",
-  "add_note": "Lägg till anteckning"
+  "add_note": "Lägg till anteckning",
+  "connection_handler_no_connection": "Ansluten",
+  "connection_handler_connecting": "Ansluter",
+  "connection_handler_connected": "Ansluten"
 }

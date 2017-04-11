@@ -1207,5 +1207,8 @@
   "trustly_overview_sort_done": "Gjort",
   "trustly_overview_sort_upoming": "Kommande",
   "category": "PLZ_TRANSLATE Category",
-  "add_note": "PLZ_TRANSLATE add note"
+  "add_note": "PLZ_TRANSLATE add note",
+  "connection_handler_no_connection": "PLZ_TRANSLATE No Connection",
+  "connection_handler_connecting": "PLZ_TRANSLATE Connecting",
+  "connection_handler_connected": "PLZ_TRANSLATE Connected"
 }
