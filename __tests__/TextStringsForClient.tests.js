@@ -33,4 +33,20 @@ describe('TextStrings', () => {
       }))
     console.warn(JSON.stringify(errorMessages, undefined, 2))
   })
+  it('should not have unclosed brackers', () => {
+    var leftSide = 0
+    var rightSide = 0
+    var error = []
+    languageCodes.forEach(languageCode => {
+      var textString = JSON.stringify(getTextStrings(languageCode))
+
+      leftSide = textString.split('[').length - 1
+      rightSide = textString.split(']').length - 1
+      if (leftSide !== rightSide) {
+        error.push(languageCode)
+      }
+    })
+    if (error.lenght > 0) console.warn(error)
+    expect(error).toEqual([])
+  })
 })
