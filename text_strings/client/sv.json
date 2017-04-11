@@ -1216,6 +1216,6 @@
   "not_set": "Ej satt",
   "child_name_placeholder": "Ditt barn",
   "trustly_overview_sort_done": "Gjort",
-  "trustly_overview_sort_upoming": "Kommande"
-
+  "trustly_overview_sort_upoming": "Kommande",
+  "category": "Kategori"
 }

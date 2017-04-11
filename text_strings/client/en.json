@@ -1205,5 +1205,6 @@
   "not_set": "Not set",
   "child_name_placeholder": "Your child",
   "trustly_overview_sort_done": "Gjort",
-  "trustly_overview_sort_upoming": "Kommande"
+  "trustly_overview_sort_upoming": "Kommande",
+  "category": "PLZ_TRANSLATE Category"
 }
