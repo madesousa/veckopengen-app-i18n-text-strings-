@@ -1206,5 +1206,6 @@
   "child_name_placeholder": "PLZ_TRANSLATE Sinun lapsesi",
   "trustly_overview_sort_done": "PLZ_TRANSLATE valmis",
   "trustly_overview_sort_upoming": "PLZ_TRANSLATE tuleva",
-  "category": "Kategori"
+  "category": "Kategori",
+  "add_note": "Lägg till anteckning"
 }

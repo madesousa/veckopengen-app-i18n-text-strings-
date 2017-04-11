@@ -1206,5 +1206,6 @@
   "child_name_placeholder": "PLZ_TRANSLATE Dit barn",
   "trustly_overview_sort_done": "PLZ_TRANSLATE færdig",
   "trustly_overview_sort_upoming": "PLZ_TRANSLATE kommende",
-  "category": "Kategori"
+  "category": "Kategori",
+  "add_note": "Lägg till anteckning"
 }
