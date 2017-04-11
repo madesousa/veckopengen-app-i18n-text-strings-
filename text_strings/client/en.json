@@ -1204,9 +1204,11 @@
   "child_name_placeholder": "Your child",
   "trustly_overview_sort_done": "Completed",
   "trustly_overview_sort_upoming": "Upcoming",
-  "category": "PLZ_TRANSLATE Category",
-  "add_note": "PLZ_TRANSLATE add note",
-  "connection_handler_no_connection": "PLZ_TRANSLATE No Connection",
-  "connection_handler_connecting": "PLZ_TRANSLATE Connecting",
-  "connection_handler_connected": "PLZ_TRANSLATE Connected"
+  "category": "Category",
+  "add_note": "add note",
+  "connection_handler_no_connection": "No Connection",
+  "connection_handler_connecting": "Connecting",
+  "connection_handler_connected": "Connected",
+  "savings_goal_nothing_saved_child": "You have not saved anything",
+  "savings_goal_nothing_saved_parent": "%1$d have not saved anything"
 }

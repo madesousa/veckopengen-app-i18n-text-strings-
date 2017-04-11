@@ -1208,5 +1208,7 @@
   "add_note": "Lägg till anteckning",
   "connection_handler_no_connection": "Ansluten",
   "connection_handler_connecting": "Ansluter",
-  "connection_handler_connected": "Ansluten"
+  "connection_handler_connected": "Ansluten",
+  "savings_goal_nothing_saved_child": "PLZ_TRANSLATE Du hast nichts gespeichert",
+  "savings_goal_nothing_saved_parent": "PLZ_TRANSLATE %1$d hab nichts gespeichert"
 }
