@@ -1222,5 +1222,6 @@
   "savings_goal_info_text_graph_child": "PLZ_TRANSLATE Te alkoi %1$d ja %2$d päivä olet onnistunut kasvattamaan oman säästöpossu %3$d",
   "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d alkoi %2$d ja on itse %3$d päivä näet onnistuivat kasvattamaan säästöpossu %4$d",
   "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Kanssa on tallennettu %1$d päivää. Jos tallennat %2$d viikoittain sinun odotetaan olevan %3$d päivää, kunnes sinua saavuttamaan säästöjä tavoite. Juuri nyt olet tallentanut %4$d enemmän / vähemmän kuin odotettiin",
-  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d on tallennettu %2$d päivää. Jos %3$d tallennetaan joka viikko, se odotetaan kestävän %4$d päivää, kunnes säästöt tavoite on saavutettu. Juuri nyt se on tallennettu% 5 $ d enemmän / vähemmän kuin odotettiin"
+  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d on tallennettu %2$d päivää. Jos %3$d tallennetaan joka viikko, se odotetaan kestävän %4$d päivää, kunnes säästöt tavoite on saavutettu. Juuri nyt se on tallennettu% 5 $ d enemmän / vähemmän kuin odotettiin",
+  "android_datepicker_info_text": "PLZ_TRANSLATE Klikkaa asettaa päivämäärä"
 }

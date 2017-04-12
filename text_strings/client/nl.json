@@ -1222,5 +1222,6 @@
   "savings_goal_info_text_graph_child": "PLZ_TRANSLATE Je begon op %1$d en in %2$d dagen je geslaagd in het kweken van uw spaarpot om %3$d",
   "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d begon bij %2$d en is in %3$d dagen geslaagd in het kweken van de spaarpot om %4$d",
   "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE U heeft opgeslagen voor %1$d dagen. Als je elke week bespaar je %2$d je verwacht dat je %3$d dagen totdat u uw spaargeld doel te bereiken. Op dit moment heb je %4$d meer gered / minder dan verwacht",
-  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d heeft opgeslagen voor %2$d dagen. Als de %3$d elke week wordt opgeslagen, wordt verwacht om %4$d dagen duren voordat de besparingen doel bereikt is. Op dit ogenblik is opgeslagen% 5 $ d meer / minder dan verwacht"
+  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d heeft opgeslagen voor %2$d dagen. Als de %3$d elke week wordt opgeslagen, wordt verwacht om %4$d dagen duren voordat de besparingen doel bereikt is. Op dit ogenblik is opgeslagen% 5 $ d meer / minder dan verwacht",
+  "android_datepicker_info_text": "PLZ_TRANSLATE Klik hier om de datum in te stellen"
 }

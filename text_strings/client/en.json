@@ -1222,5 +1222,6 @@
   "savings_goal_info_text_graph_child": "You started at %1$d and in %2$d days you have succeeded in growing your piggy bank to %3$d",
   "savings_goal_info_text_graph_parent": "%1$d started at %2$d and has in %3$d days succeeded in growing the piggy bank to %4$d",
   "savings_goal_info_text_forecast_child": "You have saved for %1$d days. If you save your %2$d every week you are expected to have %3$d days until you achieve your savings goal. Right now you have saved %4$d more/less than expected",
-  "savings_goal_info_text_forecast_parent": "%1$d has saved for %2$d days. If the %3$d is saved every week, it is expected to take %4$d days until the savings goal is reached. Right now it has been saved %5$d more/less than expected"
+  "savings_goal_info_text_forecast_parent": "%1$d has saved for %2$d days. If the %3$d is saved every week, it is expected to take %4$d days until the savings goal is reached. Right now it has been saved %5$d more/less than expected",
+  "android_datepicker_info_text": "Click to set the date"
 }

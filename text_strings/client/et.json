@@ -1222,5 +1222,6 @@
   "savings_goal_info_text_graph_child": "PLZ_TRANSLATE Sa algas %1$d ja %2$d päeva olete õnnestunud kasvab oma notsu panka %3$d",
   "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d algas %2$d ning on sisse %3$d päeva õnnestunud kasvab notsu panka %4$d",
   "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Olete salvestanud jaoks %1$d päeva. Kui salvestate %2$d iga nädal teil on oodata %3$d päeva kuni teil saavutada oma säästud eesmärk. Praegu olete salvestanud %4$d rohkem / vähem kui oodatud",
-  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d on salvestatud %2$d päeva. Kui %3$d salvestatakse iga nädal, siis on oodata, et võtta %4$d päeva kuni kokkuhoid eesmärk on saavutatud. Praegu see on salvestatud% 5 $ d rohkem / vähem kui oodatud"
+  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d on salvestatud %2$d päeva. Kui %3$d salvestatakse iga nädal, siis on oodata, et võtta %4$d päeva kuni kokkuhoid eesmärk on saavutatud. Praegu see on salvestatud% 5 $ d rohkem / vähem kui oodatud",
+  "android_datepicker_info_text": "PLZ_TRANSLATE Vajuta, et seada kuupäeva"
 }

@@ -1222,5 +1222,6 @@
   "savings_goal_info_text_graph_child": "PLZ_TRANSLATE Empezó en %1$d y en %2$d días que ha tenido éxito en el crecimiento de su alcancía a %3$d",
   "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d comenzó en %2$d y ha en %3$d días logró crecer la alcancía a %4$d",
   "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Se ha guardado durante %1$d días. Si guarda su %2$d cada semana se espera que tenga %3$d días hasta que alcance su objetivo de ahorro. Ahora mismo ha guardado %4$d más / menos de lo esperado",
-  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d ha guardado por %2$d días. Si el %3$d se guarda cada semana, se espera que tome %4$d días hasta que se alcance el objetivo de ahorro. En este momento se ha guardado% 5 $ d más / menos de lo esperado"
+  "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d ha guardado por %2$d días. Si el %3$d se guarda cada semana, se espera que tome %4$d días hasta que se alcance el objetivo de ahorro. En este momento se ha guardado% 5 $ d más / menos de lo esperado",
+  "android_datepicker_info_text": "PLZ_TRANSLATE Haga clic para establecer la fecha"
 }
