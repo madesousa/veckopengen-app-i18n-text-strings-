@@ -1254,5 +1254,7 @@
   "activate": "Aktivera",
   "parent_help": "Föräldrahjälpen",
   "parent_help_label": "Föräldrahjälp",
-  "savings_goal_edit_no_sponsor_description": "Du väljer att inte hjälpa ditt barn med det här sparmålet."
+  "savings_goal_edit_no_sponsor_description": "Du väljer att inte hjälpa ditt barn med det här sparmålet.",
+  "savings_goal_item_sponsored_parent": "Du hjälper till med %1$d%",
+  "savings_goal_item_sponsored_child": "Föräldrahjälpen är aktiverad. Du stödjs med %1$d"
 }

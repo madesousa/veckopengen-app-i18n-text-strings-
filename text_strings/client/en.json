@@ -1243,5 +1243,7 @@
   "activate": "Activate",
   "parent_help": "Parent help",
   "parent_help_label": "Parent help",
-  "savings_goal_edit_no_sponsor_description": "You choose not to help your child with this savings goal."
+  "savings_goal_edit_no_sponsor_description": "You choose not to help your child with this savings goal.",
+  "savings_goal_item_sponsored_parent": "You're helping out with %1$d%",
+  "savings_goal_item_sponsored_child": "Parent help is activated. You're supported with %1$d"
 }
