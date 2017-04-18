@@ -1240,5 +1240,6 @@
   "savings_goal_edit_sponsor_subtitle": "Help %1$d to save to the savings goal %2$d",
   "savings_goal_edit_sponsor_description": "%1$d is automatically transfered to the piggy bank when it's %2$d% left to reach the goal.",
   "savings_goal_edit_sponsor_input_title": "Your part",
-  "activate": "Activate"
+  "activate": "Activate",
+  "parent_help": "Parent help"
 }
