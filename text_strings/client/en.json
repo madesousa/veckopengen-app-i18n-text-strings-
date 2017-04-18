@@ -1241,5 +1241,6 @@
   "savings_goal_edit_sponsor_description": "<b>%1$d</b> is automatically added to the piggy bank when it's %2$d% left until the savings goal is reached.",
   "savings_goal_edit_sponsor_input_title": "Your part",
   "activate": "Activate",
-  "parent_help": "Parent help"
+  "parent_help": "Parent help",
+  "parent_help_label": "Parent help"
 }
