@@ -1238,7 +1238,7 @@
   "savings_goal_lost_of_sponsor_button_delete": "Delete anyways",
   "savings_goal_edit_sponsor_title": "You want a piece of the action?",
   "savings_goal_edit_sponsor_subtitle": "Help %1$d to save to the savings goal %2$d",
-  "savings_goal_edit_sponsor_description": "%1$d is automatically transfered to the piggy bank when it's %2$d% left to reach the goal.",
+  "savings_goal_edit_sponsor_description": "<b>%1$d</b> is automatically added to the piggy bank when it's %2$d% left until the savings goal is reached.",
   "savings_goal_edit_sponsor_input_title": "Your part",
   "activate": "Activate",
   "parent_help": "Parent help"
