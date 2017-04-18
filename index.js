@@ -72,6 +72,7 @@ export let getPhoneNumberPrefix = (countryCode: string) => parseInt(countryCodes
 export let getCountryCodeFromLocale = (locale: string) => locale.slice(-2)
 export let getTimezones = () => Timezones
 export let getLangugageCodes = () => LanguageCodes.filter(languageCode => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
+export let getLangugageCodesFromConfig = (visibleLanguageCodes: Array<string>) => LanguageCodes.filter(languageCode => visibleLanguageCodes.indexOf(languageCode.code) !== -1)
 export let getDefaultCurrencyCode = (userCountryCode: string): string => DefaultCurrencies[userCountryCode] || 'EUR'
 
 export let getSupportedTimeZones = () => {
