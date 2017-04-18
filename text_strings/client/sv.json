@@ -1250,5 +1250,6 @@
   "savings_goal_edit_sponsor_title": "Vill  du ta del av kakan?",
   "savings_goal_edit_sponsor_subtitle": "Hjälp %1$d att spara ihop till sparmålet %2$d",
   "savings_goal_edit_sponsor_description": "%1$d sätts automatiskt in i spargrisen när det är %2$d% kvar till att sparmålet uppnås.",
-  "savings_goal_edit_sponsor_input_title": "Din andel"
+  "savings_goal_edit_sponsor_input_title": "Din andel",
+  "activate": "Aktivera"
 }
