@@ -1246,5 +1246,9 @@
   "savings_goal_create_new_with_active": "Hur vill du gå vidare?",
   "savings_goal_create_new_with_active_desc": "För att påbörja ett nytt sparmål behöver detta stängas ned",
   "savings_goal_create_new_with_active_button_not_buy": "Kommer inte köpas",
-  "savings_goal_lost_of_sponsor_button_delete": "Radera ändå"
+  "savings_goal_lost_of_sponsor_button_delete": "Radera ändå",
+  "savings_goal_edit_sponsor_title": "Vill  du ta del av kakan?",
+  "savings_goal_edit_sponsor_subtitle": "Hjälp %1$d att spara ihop till sparmålet %2$d",
+  "savings_goal_edit_sponsor_description": "%1$d sätts automatiskt in i spargrisen när det är %2$d% kvar till att sparmålet uppnås.",
+  "savings_goal_edit_sponsor_input_title": "Din andel"
 }

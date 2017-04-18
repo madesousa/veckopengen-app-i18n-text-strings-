@@ -1235,5 +1235,9 @@
   "savings_goal_create_new_with_active": "How do you proceed?",
   "savings_goal_create_new_with_active_desc": "To start a new savings goal, you need to shut this down",
   "savings_goal_create_new_with_active_button_not_buy": "Will not be bought",
-  "savings_goal_lost_of_sponsor_button_delete": "Radera ändå"
+  "savings_goal_lost_of_sponsor_button_delete": "Delete anyways",
+  "savings_goal_edit_sponsor_title": "You want a piece of the action?",
+  "savings_goal_edit_sponsor_subtitle": "Help %1$d to save to the savings goal %2$d",
+  "savings_goal_edit_sponsor_description": "%1$d is automatically transfered to the piggy bank when it's %2$d% left to reach the goal.",
+  "savings_goal_edit_sponsor_input_title": "Your part"
 }
