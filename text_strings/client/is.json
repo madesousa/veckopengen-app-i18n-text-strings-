@@ -1223,5 +1223,6 @@
   "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d byrjaði á %2$d og hefur í %3$d dögum tekist vaxandi Grís banka til %4$d",
   "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Þú hefur vistað í %1$d daga. Ef þú vistar %2$d þína í hverri viku sem þú ert gert ráð fyrir að hafa %3$d dagar þangað til þú ná sparnaði markmiðum þínum. Núna þú hefur vistað %4$d meira / minna en búist",
   "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d hefur vistað fyrir %2$d daga. Ef %3$d er vistað í hverri viku, er gert ráð fyrir að taka %4$d daga þar til sparnaðar markmiðið er náð. Núna hefur það verið vistað% 5 $ s meira / minna en búist",
-  "android_datepicker_info_text": "PLZ_TRANSLATE Smelltu til að stilla dagsetningu"
+  "android_datepicker_info_text": "PLZ_TRANSLATE Smelltu til að stilla dagsetningu",
+  "goal_map_details": "Detaljer"
 }

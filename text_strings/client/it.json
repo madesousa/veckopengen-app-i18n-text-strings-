@@ -1223,5 +1223,6 @@
   "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d iniziato alle 89.438.949,034035 millions ed è in %3$d giorni riuscito a crescere il salvadanaio per 89.438.949,034037 millions",
   "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE È stato salvato per %1$d giorni. Se si salva il 89.438.949,034035 millions ogni settimana ci si aspetta di avere %3$d giorni fino a raggiungere il tuo obiettivo di risparmio. In questo momento sono state salvate più 89.438.949,034037 millions / meno del previsto",
   "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d ha salvato per %2$d giorni. Se il %3$d viene salvato ogni settimana, si prevede di prendere %4$d giorni fino a raggiungere l'obiettivo di risparmio. In questo momento è stato salvato% 5 $ d di più / meno del previsto",
-  "android_datepicker_info_text": "PLZ_TRANSLATE Fare clic per impostare la data"
+  "android_datepicker_info_text": "PLZ_TRANSLATE Fare clic per impostare la data",
+  "goal_map_details": "Detaljer"
 }

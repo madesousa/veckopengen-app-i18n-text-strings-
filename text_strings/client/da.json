@@ -1223,5 +1223,6 @@
   "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d startede på %2$d og har i %3$d dage lykkedes voksende sparegris til %4$d",
   "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Du har gemt for %1$d dage. Hvis du gemmer %2$d hver uge du forventes at have %3$d dage, indtil du opnår din opsparing mål. Lige nu har du sparet %4$d mere / mindre end forventet",
   "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d har sparet for %2$d dage. Hvis %3$d gemmes hver uge, men det forventes at tage %4$d dage indtil besparelser målet er nået. Lige nu er det blevet sparet% 5 $ d mere / mindre end forventet",
-  "android_datepicker_info_text": "PLZ_TRANSLATE Klik for at indstille dato"
+  "android_datepicker_info_text": "PLZ_TRANSLATE Klik for at indstille dato",
+  "goal_map_details": "PLZ_TRANSLATE Detaljer"
 }

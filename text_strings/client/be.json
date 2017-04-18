@@ -1223,5 +1223,6 @@
   "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d пачалася ў %2$d і ў %3$d дзён удалося вырасціць скарбонку на %4$d",
   "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Вы захавалі для %1$d дзён. Калі вы захаваеце %2$d кожны тыдзень вы павінны мець %3$d дзён, пакуль вы не атрымаеце свае зберажэнні мэты. Прама зараз вы захавалі больш %4$d / менш, чым чакалася",
   "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d выратаваў для %2$d дзён. Калі %3$d захоўваецца кожны тыдзень, як чакаецца, зойме %4$d дзён, пакуль эканомія мэта не будзе дасягнутая. Цяпер гэта было захавана% 5 $ d больш / менш, чым чакалася",
-  "android_datepicker_info_text": "PLZ_TRANSLATE Націсніце, каб усталяваць дату"
+  "android_datepicker_info_text": "PLZ_TRANSLATE Націсніце, каб усталяваць дату",
+  "goal_map_details": "Detaljer"
 }

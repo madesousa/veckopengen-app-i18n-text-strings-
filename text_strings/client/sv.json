@@ -1234,5 +1234,6 @@
   "savings_goal_info_text_graph_parent": "%1$d startade på %2$d och har under %3$d dagar lyckats växa sin spargris till %4$d",
   "savings_goal_info_text_forecast_child": "Du har sparat i %1$d dagar. Om du sparar din %2$d varje vecka förväntas du ha %3$d dagar kvar till du uppnår ditt sparmål. Just nu har du sparat %4$d mer/mindre än förväntat",
   "savings_goal_info_text_forecast_parent": "%1$d har sparat i %2$d dagar. Om %3$d sparas varje vecka förväntas det ta %4$d dagar tills sparmålet är upnått. Just nu har det sparats %5$d mer/mindre än förväntat",
-  "android_datepicker_info_text": "Klicka för att ställa in datum"
+  "android_datepicker_info_text": "Klicka för att ställa in datum",
+  "goal_map_details": "Detaljer"
 }

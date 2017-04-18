@@ -1223,5 +1223,6 @@
   "savings_goal_info_text_graph_parent": "PLZ_TRANSLATE %1$d a commencé à %2$d et a réussi à croquer la tirelire en %3$d jours en %4$d",
   "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Vous avez enregistré %1$d jours. Si vous enregistrez votre %2$d chaque semaine, vous devrez avoir %3$d jours jusqu'à ce que vous atteigniez votre objectif d'économie. En ce moment, vous avez enregistré %4$d plus / moins que prévu",
   "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d a économisé pour %2$d jours. Si le %3$d est enregistré chaque semaine, il est prévu de prendre %4$d jours jusqu'à ce que l'objectif d'économie soit atteint. À l'heure actuelle, il a été enregistré% 5 $ d plus / moins que prévu",
-  "android_datepicker_info_text": "PLZ_TRANSLATE Cliquez pour définir la date"
+  "android_datepicker_info_text": "PLZ_TRANSLATE Cliquez pour définir la date",
+  "goal_map_details": "Detaljer"
 }
