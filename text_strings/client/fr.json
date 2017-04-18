@@ -1224,5 +1224,16 @@
   "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Vous avez enregistré %1$d jours. Si vous enregistrez votre %2$d chaque semaine, vous devrez avoir %3$d jours jusqu'à ce que vous atteigniez votre objectif d'économie. En ce moment, vous avez enregistré %4$d plus / moins que prévu",
   "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d a économisé pour %2$d jours. Si le %3$d est enregistré chaque semaine, il est prévu de prendre %4$d jours jusqu'à ce que l'objectif d'économie soit atteint. À l'heure actuelle, il a été enregistré% 5 $ d plus / moins que prévu",
   "android_datepicker_info_text": "PLZ_TRANSLATE Cliquez pour définir la date",
-  "goal_map_details": "Detaljer"
+  "goal_map_details": "Detaljer",
+  "savings_goal_payout_header": "Betala ut sparmål",
+  "savings_goal_payout_desc": "Har du köpt sparmålet eller kommer det köpas inom en snar framtid?",
+  "savings_goal_payout_button_is_purchased": "Har köpts",
+  "savings_goal_payout_button_not_purchased": "Köps senare",
+  "savings_goal_lost_of_sponsor": "Andel kommer förloras",
+  "savings_goal_lost_of_sponsor_desc": "Du har fått %1$d i stöd för att uppnå det här sparmålet. Det kommer gå förlorat om du väljer att sparmålet inte ska köpas.",
+  "savings_goal_lost_of_sponsor_button_regret": "Ångra",
+  "savings_goal_lost_of_sponsor_button_delete": "Randera ändå",
+  "savings_goal_create_new_with_active": "Hur vill du gå vidare?",
+  "savings_goal_create_new_with_active_desc": "För att påbörja ett nytt sparmål behöver detta stängas ned",
+  "savings_goal_create_new_with_active_button_not_buy": "Kommer inte köpas"
 }

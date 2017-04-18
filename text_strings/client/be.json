@@ -1224,5 +1224,16 @@
   "savings_goal_info_text_forecast_child": "PLZ_TRANSLATE Вы захавалі для %1$d дзён. Калі вы захаваеце %2$d кожны тыдзень вы павінны мець %3$d дзён, пакуль вы не атрымаеце свае зберажэнні мэты. Прама зараз вы захавалі больш %4$d / менш, чым чакалася",
   "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d выратаваў для %2$d дзён. Калі %3$d захоўваецца кожны тыдзень, як чакаецца, зойме %4$d дзён, пакуль эканомія мэта не будзе дасягнутая. Цяпер гэта было захавана% 5 $ d больш / менш, чым чакалася",
   "android_datepicker_info_text": "PLZ_TRANSLATE Націсніце, каб усталяваць дату",
-  "goal_map_details": "Detaljer"
+  "goal_map_details": "Detaljer",
+  "savings_goal_payout_header": "Betala ut sparmål",
+  "savings_goal_payout_desc": "Har du köpt sparmålet eller kommer det köpas inom en snar framtid?",
+  "savings_goal_payout_button_is_purchased": "Har köpts",
+  "savings_goal_payout_button_not_purchased": "Köps senare",
+  "savings_goal_lost_of_sponsor": "Andel kommer förloras",
+  "savings_goal_lost_of_sponsor_desc": "Du har fått %1$d i stöd för att uppnå det här sparmålet. Det kommer gå förlorat om du väljer att sparmålet inte ska köpas.",
+  "savings_goal_lost_of_sponsor_button_regret": "Ångra",
+  "savings_goal_lost_of_sponsor_button_delete": "Randera ändå",
+  "savings_goal_create_new_with_active": "Hur vill du gå vidare?",
+  "savings_goal_create_new_with_active_desc": "För att påbörja ett nytt sparmål behöver detta stängas ned",
+  "savings_goal_create_new_with_active_button_not_buy": "Kommer inte köpas"
 }
