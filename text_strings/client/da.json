@@ -1232,8 +1232,8 @@
   "savings_goal_lost_of_sponsor": "Andel kommer förloras",
   "savings_goal_lost_of_sponsor_desc": "Du har fått %1$d i stöd för att uppnå det här sparmålet. Det kommer gå förlorat om du väljer att sparmålet inte ska köpas.",
   "savings_goal_lost_of_sponsor_button_regret": "Ångra",
-  "savings_goal_lost_of_sponsor_button_delete": "Randera ändå",
   "savings_goal_create_new_with_active": "Hur vill du gå vidare?",
   "savings_goal_create_new_with_active_desc": "För att påbörja ett nytt sparmål behöver detta stängas ned",
-  "savings_goal_create_new_with_active_button_not_buy": "Kommer inte köpas"
+  "savings_goal_create_new_with_active_button_not_buy": "Kommer inte köpas",
+  "savings_goal_lost_of_sponsor_button_delete": "Radera ändå"
 }
