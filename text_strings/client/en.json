@@ -1242,5 +1242,6 @@
   "savings_goal_edit_sponsor_input_title": "Your part",
   "activate": "Activate",
   "parent_help": "Parent help",
-  "parent_help_label": "Parent help"
+  "parent_help_label": "Parent help",
+  "savings_goal_edit_no_sponsor_description": "You choose not to help your child with this savings goal."
 }

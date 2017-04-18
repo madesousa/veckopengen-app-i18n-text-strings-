@@ -1253,5 +1253,6 @@
   "savings_goal_edit_sponsor_input_title": "Din andel",
   "activate": "Aktivera",
   "parent_help": "Föräldrahjälpen",
-  "parent_help_label": "Föräldrahjälp"
+  "parent_help_label": "Föräldrahjälp",
+  "savings_goal_edit_no_sponsor_description": "Du väljer att inte hjälpa ditt barn med det här sparmålet."
 }
