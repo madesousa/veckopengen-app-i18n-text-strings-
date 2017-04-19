@@ -1246,5 +1246,6 @@
   "savings_goal_edit_no_sponsor_description": "You choose not to help your child with this savings goal.",
   "savings_goal_item_sponsored_parent": "You're helping out with %1$d%",
   "savings_goal_item_sponsored_child": "Parent help is activated. You're supported with %1$d",
-  "savings_goal_item_finished": "Congratulations! Finish to start a new savings goal."
+  "savings_goal_item_finished": "Congratulations! Finish to start a new savings goal.",
+  "savings_goal_item_not_sponsored_parent": "Take part of the savings goal"
 }
