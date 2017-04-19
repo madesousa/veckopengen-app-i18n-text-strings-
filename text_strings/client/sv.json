@@ -1144,7 +1144,7 @@
   "reciept_regret_transaction_title": "Ångra transaktion?",
   "reciept_regret_transaction_desc": "Vill du ångra din transaktion genom att skapa en likadan transaktion ”åt andra hållet”?",
   "create_steps_tracking_header": "Ge ut Steg",
-  "task_editor_created_at": "Skapades för %1$d",
+  "task_editor_created_at": "Skapades %1$d",
   "popover_button_notification_remind": "Påminn %1$d",
   "popover_notification_remind_description": "%1$d har påminnt dig om %2$d",
   "task_history_hand_out_task": "Ge ut uppgift",
