@@ -1247,5 +1247,6 @@
   "savings_goal_item_sponsored_parent": "Du hjälper till med %1$d%",
   "savings_goal_item_sponsored_child": "Föräldrahjälpen är aktiverad. Du stödjs med %1$d",
   "savings_goal_item_finished": "Grattis! Avsluta för att påbörja ett nytt sparmål.",
-  "savings_goal_item_not_sponsored_parent": "PLZ_TRANSLATE Вазьміце частка мэты эканоміі"
+  "savings_goal_item_not_sponsored_parent": "PLZ_TRANSLATE Вазьміце частка мэты эканоміі",
+  "savings_goal_editor_edit_sponsor": "PLZ_TRANSLATE доля абнаўлення"
 }
