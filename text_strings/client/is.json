@@ -1092,7 +1092,7 @@
   "not_authenticated_error_message": "Ouuups, varst þú ekki innskráður. Villu skýrsla hefur verið send og við erum að vinna að lausn á vandanum.\n\n Reyndu að skrá þig aftur!",
   "trustly_child_connected_account_info_weekly": "Nú greiða vasapeninga á reikninginn þinn sjálfkrafa í hvert %1$d. Nú geta því að flytja peninga frá Grís bankann þinn til að vikulega barnabætur og setja gáfum þínum beint inn í vikulega vasapeninga.",
   "trustly_child_connected_account_info_monthly": "Nú mánaðarlega vasapeninga er greidd inn á reikninginn þinn sjálfkrafa í hverjum mánuði %1$d. Nú geta því að flytja peninga frá Grís bankann þinn fyrir mánaðarlega vasapeninga og setja gáfum þínum rétt í mánaðarlega vasapeninga.",
-  "about_trustly_1": "<B> leggðu inn Paysafecard Group AB </ b> (org.nr 556754-8655) er sænskur heimild greiðslustofnanir undir eftirliti Fjármálaeftirlitsins. Félagið stundar greiðsluþjónustu aðgerðum í samræmi við ákvæði laga (2010: 751) um greiðsluþjónustu og með tilkynningu til Fjármálaeftirlitsins til að veita greiðsluþjónustu innan ESB / EES.",
+  "about_trustly_1": "<b>leggðu inn Paysafecard Group AB</b> (org.nr 556754-8655) er sænskur heimild greiðslustofnanir undir eftirliti Fjármálaeftirlitsins. Félagið stundar greiðsluþjónustu aðgerðum í samræmi við ákvæði laga (2010: 751) um greiðsluþjónustu og með tilkynningu til Fjármálaeftirlitsins til að veita greiðsluþjónustu innan ESB / EES.",
   "about_trustly_2": "Leggðu inn Paysafecard þróa þjónustu fyrir flutning á milli bankareikninga og nú hefur nokkrum stórum viðskiptavini, Avanza og Paypal, sem eru nú í 28 löndum í Evrópu.",
   "general_and": "og",
   "suggested_task_message": "Gögn Publishers send til %1$d",

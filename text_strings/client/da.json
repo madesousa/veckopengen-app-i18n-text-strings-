@@ -1092,7 +1092,7 @@
   "not_authenticated_error_message": "Ouuups, du var logget ud. En fejlrapport er blevet sendt, og vi arbejder på en løsning.\n\n Prøv at logge på igen!",
   "trustly_child_connected_account_info_weekly": "Nu overøres lommepengene automatisk til din konto hver %1$d. Du kan nu derfor overføre penge fra din sparegris til din ugentlige lommepenge ydelse og placere dine belønninger direkte i den ugentlig ydelse.",
   "trustly_child_connected_account_info_monthly": "Nu overføres de månedlige lommepenge automatisk til din konto hvert måned %1$d. Du kan nu derfor overføre penge fra din sparegris for din månedlige lommepenge ydelser og placere dine belønninger direkte i den månedlige ydelse.",
-  "about_trustly_1": "<B> trustly Group AB </ b> (org.nr 556.754-8655) er et autoriserede Svensk betalingsinstitut underlagt Finanstilsynets overvågning. Selskabet driver betalingstransaktioner i overensstemmelse med lov (2010: 751) om betalingstjenester og ved underretninger til Finanstilsynet om udbydelser af betalingstjenester inden for EU / EØS.",
+  "about_trustly_1": "<b>Trustly Group AB</b> (org.nr 556.754-8655) er et autoriserede Svensk betalingsinstitut underlagt Finanstilsynets overvågning. Selskabet driver betalingstransaktioner i overensstemmelse med lov (2010: 751) om betalingstjenester og ved underretninger til Finanstilsynet om udbydelser af betalingstjenester inden for EU / EØS.",
   "about_trustly_2": "Trustly udvikler tjenester til overførsler mellem bankkonti og nu har flere vigtige kunder, Avanza og Paypal, som på nuværende tidspunkt er repræsenteret 28 lande i Europa.",
   "general_and": "og",
   "suggested_task_message": "Data Publishers sendt til %1$d",

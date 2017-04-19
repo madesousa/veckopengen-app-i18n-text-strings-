@@ -1092,7 +1092,7 @@
   "not_authenticated_error_message": "Ouuups, olit kirjautunut ulos. Virheraportti on lähetetty ja olemme kehittämässä ratkaisua.\n\n Yritä kirjautua uudelleen!",
   "trustly_child_connected_account_info_weekly": "Nyt maksetaan taskurahaa tilillesi automaattisesti jokaisen %1$d. Nyt voit siis siirtää rahaa säästöpossu omaan viikkoraha ja aseta palkintoja suoraan viikkoraha.",
   "trustly_child_connected_account_info_monthly": "Nyt kuukausittain maksetaan tilillesi automaattisesti joka kuukausi %1$d. Nyt voit siis siirtää rahaa säästöpossu oman kuukausittain maksettavaa ja aseta palkintoja aivan kuukausittaista korvausta.",
-  "about_trustly_1": "<B> trustly Group AB </ b> (org.nr 556754-8655) on ruotsalainen saaneille maksulaitoksille valvonnassa FSA. Yhtiö tekee maksamisen mukaisesti lain (2010: 751) maksupalveluista ja ilmoittamalla Finanssivalvonnan tarjota maksupalveluja EU / ETA.",
+  "about_trustly_1": "<b>Trustly Group AB</b> (org.nr 556754-8655) on ruotsalainen saaneille maksulaitoksille valvonnassa FSA. Yhtiö tekee maksamisen mukaisesti lain (2010: 751) maksupalveluista ja ilmoittamalla Finanssivalvonnan tarjota maksupalveluja EU / ETA.",
   "about_trustly_2": "Trustly kehittää palveluja väliset siirrot pankkitilien ja nyt on useita suuria asiakkaita, Avanza ja Paypal, jotka ovat tällä hetkellä 28 maassa Euroopassa.",
   "general_and": "ja",
   "suggested_task_message": "Data Publishers lähetettiin %1$d",
