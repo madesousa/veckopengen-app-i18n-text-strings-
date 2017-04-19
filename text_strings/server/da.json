@@ -128,5 +128,6 @@
   "push_new_weekly_tasks_1": "Kig! Du har fået nye opgaver!",
   "push_new_weekly_tasks_2": "Kig! Du har fået nye opgaver!",
   "push_new_weekly_tasks_3": "Kig! Du har fået nye opgaver!",
-  "push_new_weekly_tasks_4": "Kig! Du har fået nye opgaver!"
+  "push_new_weekly_tasks_4": "Kig! Du har fået nye opgaver!",
+  "push_goal_activated": "PLZ_TRANSLATE {goal.updated_by.name} er aktiveret besparelsesmål {goal.title}."
 }

@@ -128,5 +128,6 @@
   "push_new_weekly_tasks_1": "PLZ_TRANSLATE Kolla! Du har fått nya uppgifter!",
   "push_new_weekly_tasks_2": "PLZ_TRANSLATE Kolla! Du har fått nya uppgifter!",
   "push_new_weekly_tasks_3": "PLZ_TRANSLATE Kolla! Du har fått nya uppgifter!",
-  "push_new_weekly_tasks_4": "PLZ_TRANSLATE Kolla! Du har fått nya uppgifter!"
+  "push_new_weekly_tasks_4": "PLZ_TRANSLATE Kolla! Du har fått nya uppgifter!",
+  "push_goal_activated": "PLZ_TRANSLATE {goal.updated_by.name} hefur virkjað savings mark {goal.title}."
 }
