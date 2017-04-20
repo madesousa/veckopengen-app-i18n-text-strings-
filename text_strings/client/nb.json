@@ -1249,5 +1249,6 @@
   "savings_goal_item_finished": "Gratulerer! Avslutt for å starte med et nytt sparmål.",
   "savings_goal_item_not_sponsored_parent": "Ta del i sparemålet",
   "savings_goal_editor_edit_sponsor": "Oppdater aksje",
-  "goals_will_be_purchased": "Ska köpas"
+  "goals_will_be_purchased": "PLZ_TRANSLATE Vil bli kjøpt",
+  "wishlist": "PLZ_TRANSLATE ønskeliste"
 }

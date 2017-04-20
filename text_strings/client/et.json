@@ -1249,5 +1249,6 @@
   "savings_goal_item_finished": "Grattis! Avsluta för att påbörja ett nytt sparmål.",
   "savings_goal_item_not_sponsored_parent": "PLZ_TRANSLATE Võtke osa säästukalkulaator",
   "savings_goal_editor_edit_sponsor": "PLZ_TRANSLATE Uuenda osakaal",
-  "goals_will_be_purchased": "Ska köpas"
+  "goals_will_be_purchased": "PLZ_TRANSLATE Ostetakse",
+  "wishlist": "PLZ_TRANSLATE soovinimekirja"
 }
