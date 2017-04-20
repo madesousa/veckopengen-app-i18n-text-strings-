@@ -1250,5 +1250,9 @@
   "savings_goal_item_not_sponsored_parent": "PLZ_TRANSLATE Nehmen Sie Teil des Sparziels",
   "savings_goal_editor_edit_sponsor": "PLZ_TRANSLATE Aktie aktualisieren",
   "goals_will_be_purchased": "PLZ_TRANSLATE Wird gekauft",
-  "wishlist": "PLZ_TRANSLATE Wunschliste"
+  "wishlist": "PLZ_TRANSLATE Wunschliste",
+  "connect_popover_title": "PLZ_TRANSLATE Verbinden",
+  "connect_popover_desc": "PLZ_TRANSLATE Unsere Studien finden, dass Ihr Kind ein besseres Verständnis von Geld bekommt, wenn Sie verbunden sind. Bist du sicher, dass du dich nicht paaren willst? Sie können sich immer später in den Einstellungen des Kindes verbinden.",
+  "connect_popover_button_now": "PLZ_TRANSLATE Verbinde jetzt",
+  "connect_popover_button_later": "PLZ_TRANSLATE Verbinden Sie später"
 }

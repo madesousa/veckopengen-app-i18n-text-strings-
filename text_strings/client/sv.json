@@ -1261,5 +1261,9 @@
   "savings_goal_item_not_sponsored_parent": "Ta andel av sparmål",
   "savings_goal_editor_edit_sponsor": "Ändra andel",
   "goals_will_be_purchased": "Ska köpas",
-  "wishlist": "Önskelista"
+  "wishlist": "Önskelista",
+  "connect_popover_title": "Koppla ihop",
+  "connect_popover_desc": "Våra studier säger att ert barn får en större förståelse för pengar om ni är ihopkopplade. Är du säker på att du inte vill koppla ihop? Du kan alltid koppla ihop senare under barnets inställningar.",
+  "connect_popover_button_now": "Koppla ihop nu",
+  "connect_popover_button_later": "Koppla ihop senare"
 }

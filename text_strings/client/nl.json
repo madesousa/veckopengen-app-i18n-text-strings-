@@ -1250,5 +1250,9 @@
   "savings_goal_item_not_sponsored_parent": " Neem een deel van het doel besparingen",
   "savings_goal_editor_edit_sponsor": " aandeel bijwerken",
   "goals_will_be_purchased": "PLZ_TRANSLATE Zal worden gekocht",
-  "wishlist": "PLZ_TRANSLATE verlanglijst"
+  "wishlist": "PLZ_TRANSLATE verlanglijst",
+  "connect_popover_title": "PLZ_TRANSLATE Aansluiten",
+  "connect_popover_desc": "PLZ_TRANSLATE Onze studies vinden dat uw kind krijgt een beter begrip van geld als je verbonden bent. Bent u zeker dat u niet wilt koppelen? U kunt altijd later aansluiten in de instellingen van het kind.",
+  "connect_popover_button_now": "PLZ_TRANSLATE Sluit nu",
+  "connect_popover_button_later": "PLZ_TRANSLATE Sluit later"
 }

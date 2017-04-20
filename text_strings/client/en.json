@@ -1250,5 +1250,9 @@
   "savings_goal_item_not_sponsored_parent": "Take part of the savings goal",
   "savings_goal_editor_edit_sponsor": "Update share",
   "goals_will_be_purchased": "Will be purchased",
-  "wishlist": "Wishlist"
+  "wishlist": "Wishlist",
+  "connect_popover_title": "Connect",
+  "connect_popover_desc": "Our studies find that your child gets a better understanding of money if you are connected. Are you sure you do not want to pair up? You can always connect later in the child's settings.",
+  "connect_popover_button_now": "Connect now",
+  "connect_popover_button_later": "Connect later"
 }

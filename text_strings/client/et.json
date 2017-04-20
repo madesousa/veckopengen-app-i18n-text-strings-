@@ -1250,5 +1250,9 @@
   "savings_goal_item_not_sponsored_parent": "PLZ_TRANSLATE Võtke osa säästukalkulaator",
   "savings_goal_editor_edit_sponsor": "PLZ_TRANSLATE Uuenda osakaal",
   "goals_will_be_purchased": "PLZ_TRANSLATE Ostetakse",
-  "wishlist": "PLZ_TRANSLATE soovinimekirja"
+  "wishlist": "PLZ_TRANSLATE soovinimekirja",
+  "connect_popover_title": "PLZ_TRANSLATE ühendama",
+  "connect_popover_desc": "PLZ_TRANSLATE Meie uuringud leiavad, et teie laps saab paremini mõista raha, kui olete ühendatud. Kas olete kindel, et ei taha siduda kuni? Teil on alati võimalik ühendada hiljem lapse seadeid.",
+  "connect_popover_button_now": "PLZ_TRANSLATE Ühendage nüüd",
+  "connect_popover_button_later": "PLZ_TRANSLATE Ühendage hiljem"
 }

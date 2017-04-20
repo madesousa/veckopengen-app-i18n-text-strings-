@@ -1250,5 +1250,9 @@
   "savings_goal_item_not_sponsored_parent": "PLZ_TRANSLATE Prendere parte del obiettivo di risparmio",
   "savings_goal_editor_edit_sponsor": "PLZ_TRANSLATE Aggiornamento Condividi",
   "goals_will_be_purchased": "PLZ_TRANSLATE Saranno acquistati",
-  "wishlist": "PLZ_TRANSLATE Lista dei desideri"
+  "wishlist": "PLZ_TRANSLATE Lista dei desideri",
+  "connect_popover_title": "PLZ_TRANSLATE Collegare",
+  "connect_popover_desc": "PLZ_TRANSLATE I nostri studi trovano che il bambino ottiene una migliore comprensione di denaro se si è connessi. Sei sicuro che non vuoi fare coppia? È sempre possibile collegare in seguito nelle impostazioni del bambino.",
+  "connect_popover_button_now": "PLZ_TRANSLATE Collegare ora",
+  "connect_popover_button_later": "PLZ_TRANSLATE Collegare tardi"
 }

@@ -1250,5 +1250,9 @@
   "savings_goal_item_not_sponsored_parent": "PLZ_TRANSLATE Osallistu säästöistä tavoite",
   "savings_goal_editor_edit_sponsor": "PLZ_TRANSLATE päivitys osake",
   "goals_will_be_purchased": "PLZ_TRANSLATE Hankitaan",
-  "wishlist": "PLZ_TRANSLATE toivelista"
+  "wishlist": "PLZ_TRANSLATE toivelista",
+  "connect_popover_title": "PLZ_TRANSLATE Kytkeä",
+  "connect_popover_desc": "PLZ_TRANSLATE Tutkimuksemme huomaamaan, että lapsi saa paremman käsityksen rahaa, jos olet yhteydessä. Oletko varma, että et halua pareiksi? Voit aina kytkeä myöhemmin lapsen asetuksia.",
+  "connect_popover_button_now": "PLZ_TRANSLATE Yhdistä nyt",
+  "connect_popover_button_later": "PLZ_TRANSLATE Yhdistä myöhemmin"
 }

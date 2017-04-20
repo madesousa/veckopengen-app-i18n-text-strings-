@@ -1250,5 +1250,9 @@
   "savings_goal_item_not_sponsored_parent": "PLZ_TRANSLATE Takið hluta af sparnaði mark",
   "savings_goal_editor_edit_sponsor": "PLZ_TRANSLATE Uppfæra hlut",
   "goals_will_be_purchased": "PLZ_TRANSLATE Verður keypt",
-  "wishlist": "PLZ_TRANSLATE óskalisti"
+  "wishlist": "PLZ_TRANSLATE óskalisti",
+  "connect_popover_title": "PLZ_TRANSLATE Tengjast",
+  "connect_popover_desc": "PLZ_TRANSLATE Rannsóknir okkar finna að barnið fær betri skilning á peningum ef þú ert tengdur. Ertu viss um að þú viljir ekki að para saman? Þú getur alltaf tengt seinna í stillingum barnsins.",
+  "connect_popover_button_now": "PLZ_TRANSLATE Tengjast nú",
+  "connect_popover_button_later": "PLZ_TRANSLATE Tengjast síðar"
 }
