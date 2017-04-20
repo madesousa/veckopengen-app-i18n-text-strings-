@@ -1248,5 +1248,6 @@
   "savings_goal_item_sponsored_child": "Ouder is geactiveerd. Je bent geholpen met %1$d",
   "savings_goal_item_finished": "Proficiat! Eindig om een nieuw spaardoel te starten.",
   "savings_goal_item_not_sponsored_parent": " Neem een deel van het doel besparingen",
-  "savings_goal_editor_edit_sponsor": " aandeel bijwerken"
+  "savings_goal_editor_edit_sponsor": " aandeel bijwerken",
+  "goals_will_be_purchased": "Ska köpas"
 }

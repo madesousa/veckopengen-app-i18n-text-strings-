@@ -1248,5 +1248,6 @@
   "savings_goal_item_sponsored_child": "Föräldrahjälpen är aktiverad. Du stödjs med %1$d",
   "savings_goal_item_finished": "Grattis! Avsluta för att påbörja ett nytt sparmål.",
   "savings_goal_item_not_sponsored_parent": "PLZ_TRANSLATE Tomar parte de la meta de ahorro",
-  "savings_goal_editor_edit_sponsor": "PLZ_TRANSLATE Actualizar cuota"
+  "savings_goal_editor_edit_sponsor": "PLZ_TRANSLATE Actualizar cuota",
+  "goals_will_be_purchased": "Ska köpas"
 }
