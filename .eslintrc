@@ -19,5 +19,9 @@
 
   "globals": {
     "ErrorUtils" : false
-  }
+  },
+    "rules": {
+      "import/first":0,
+      "import/no-webpack-loader-syntax":0
+    },
 }
