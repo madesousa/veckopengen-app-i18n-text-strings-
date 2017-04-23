@@ -1129,7 +1129,7 @@
   "allowance_recommended": "Anbefalet",
   "child_settings_surfguide": "Anbefales ",
   "transaction_reverted": "Tilbageført transaktion : %1$d",
-  "qr_code_hint_text_child_parent": "At tilslutte din konto med en forælders konto.Bed dine forældre om at dowloade appen på deres enhed.Dine forældre skal derefter taste <b>tilslut med familiemedlemmer</b>for at tilsluttes og oprette kontoen.",
+  "qr_code_hint_text_child_parent": "Tilslut din konto med en forælders konto.Bed din forælder om at dowloade appen på deres enhed.Dine forældre skal derefter taste <b>tilslut med familiemedlem</b>for at tilsluttes og oprette kontoen.",
   "reciept_regret_transaction_title": "Fortryd transaktion?",
   "reciept_regret_transaction_desc": "Ønsker du at fortryde din transaktion ved at oprette en lignende transaktion \"den anden vej\"?",
   "create_steps_tracking_header": "Anvend trinene",
