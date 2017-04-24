@@ -1249,10 +1249,10 @@
   "connect_popover_desc": " Vores undersøgelser viser, at dit barn får en bedre forståelse af penge, hvis du er tilsluttet. Er du sikker på, du ikke ønsker at sparre op? Du kan altid tilslutte jer senere i barnets indstillinger.",
   "connect_popover_button_now": " Tilslut nu",
   "connect_popover_button_later": " Tilslut senere",
-  "reciept_reward_text": "PLZ_TRANSLATE Belønning",
-  "deposit_to_pig": "PLZ_TRANSLATE Depositum",
-  "transaction_to_pig": "Sparande",
-  "trustly_type_text": "PLZ_TRANSLATE Til bankkonto",
-  "withdrawl_from_pig": "PLZ_TRANSLATE Udlæg",
-  "failed_transaction": "PLZ_TRANSLATE Mislykket betaling"
+  "reciept_reward_text": " Belønning",
+  "deposit_to_pig": " Depositum",
+  "transaction_to_pig": "Opsparet",
+  "trustly_type_text": " Til bankkonto",
+  "withdrawl_from_pig": " Udlæg",
+  "failed_transaction": " Mislykket betaling"
 }
