@@ -1251,6 +1251,6 @@
   "trustly_type_text": " Til bankkonto",
   "withdrawl_from_pig": " Udlæg",
   "failed_transaction": " Mislykket betaling",
-  "report_allowance_transfered_in": "PLZ_TRANSLATE Fra sparegris",
-  "qr_code_hint_text": "PLZ_TRANSLATE Når koden scannes, er du tilsluttet. Den, du vil parre med, når scanneren ved at klikke på knappen \"Connect with Family Member\" på startskærmen."
+  "report_allowance_transfered_in": " Fra sparegris",
+  "qr_code_hint_text": " Når koden er scannet bliver du tilsluttet. scanneren findes ved at du klikker på knappen \"Tilsut familiemedlem\" på startskærmen."
 }
