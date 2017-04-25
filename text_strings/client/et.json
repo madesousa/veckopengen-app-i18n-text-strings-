@@ -495,7 +495,6 @@
   "add_child_allowance_amount_headline": "PLZ_TRANSLATE How much should %1$d get?",
   "overview_create_child": "PLZ_TRANSLATE Create your first child",
   "overview_connect_family": "PLZ_TRANSLATE Connect with a family member",
-  "qr_code_hint_text": "PLZ_TRANSLATE When this code is scanned by your child you will be connected! Just ask your child to connect with family members when downloaded the app",
   "add_child_autosave_save": "PLZ_TRANSLATE Autosave",
   "add_child_autosave_next": "PLZ_TRANSLATE Next week",
   "help": "PLZ_TRANSLATE help",
@@ -1254,5 +1253,6 @@
   "trustly_type_text": "PLZ_TRANSLATE Pangakontole",
   "withdrawl_from_pig": "PLZ_TRANSLATE kulu",
   "failed_transaction": "PLZ_TRANSLATE ebaõnnestunud makse",
-  "report_allowance_transfered_in": "PLZ_TRANSLATE Alates notsu panga"
+  "report_allowance_transfered_in": "PLZ_TRANSLATE Alates notsu panga",
+  "qr_code_hint_text": "PLZ_TRANSLATE Kui kood on skaneeritud, olete ühendatud. Mida soovite siduda jõuab skanner klõpsates \"Ühenda pereliige\" nuppu avakuva."
 }

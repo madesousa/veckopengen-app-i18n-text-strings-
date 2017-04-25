@@ -495,7 +495,6 @@
   "add_child_allowance_amount_headline": "Kuinka paljon %1$d saa?",
   "overview_create_child": "Luo ensimmäinen lapsesi",
   "overview_connect_family": "Yhdistä perheenjäseneen",
-  "qr_code_hint_text": "Kun lapsesi skannaa koodin, teidät yhdistetään! Lapsi voi luoda yhteyden perheenjäseneen suoraan aloitussivulta",
   "add_child_autosave_save": "Autom. tallennus",
   "add_child_autosave_next": "Ensi viikko",
   "help": "Ohje",
@@ -1254,5 +1253,6 @@
   "trustly_type_text": "PLZ_TRANSLATE Pankkitilille",
   "withdrawl_from_pig": "PLZ_TRANSLATE kulut",
   "failed_transaction": "PLZ_TRANSLATE maksu epäonnistui",
-  "report_allowance_transfered_in": "PLZ_TRANSLATE Vuodesta säästöpossu"
+  "report_allowance_transfered_in": "PLZ_TRANSLATE Vuodesta säästöpossu",
+  "qr_code_hint_text": "PLZ_TRANSLATE Kun koodi on skannattu, olet yhteydessä. Yksi haluat pariutumaan saavuttaa skannerin klikkaamalla \"Connect with perheenjäsen\" -painiketta aloitusnäytössä."
 }

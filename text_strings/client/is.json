@@ -495,7 +495,6 @@
   "add_child_allowance_amount_headline": "Hur mycket ska %1$d få?",
   "overview_create_child": "Skapa ditt första barn",
   "overview_connect_family": "Koppla ihop med familjemedlem",
-  "qr_code_hint_text": "Skanna den här koden från ditt barns konto så kopplas ni automatiskt ihop!",
   "add_child_autosave_save": "Autospara",
   "add_child_autosave_next": "Nästa vecka",
   "help": "hjälp",
@@ -1254,5 +1253,6 @@
   "trustly_type_text": "PLZ_TRANSLATE Á bankareikning",
   "withdrawl_from_pig": "PLZ_TRANSLATE tilkostnaður",
   "failed_transaction": "PLZ_TRANSLATE mistókst greiðslu",
-  "report_allowance_transfered_in": "PLZ_TRANSLATE Frá grís banka"
+  "report_allowance_transfered_in": "PLZ_TRANSLATE Frá grís banka",
+  "qr_code_hint_text": "PLZ_TRANSLATE Þegar kóðinn er skönnuð ertu tengdur. Sá sem þú vilt para við nær skannanum með því að smella á \"Connect with Family Member\" hnappinn á heimaskjánum."
 }

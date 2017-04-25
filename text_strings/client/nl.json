@@ -495,7 +495,6 @@
   "add_child_allowance_amount_headline": "Hoeveel moet %1$d krijgen?",
   "overview_create_child": "Maak je eerste kind aan",
   "overview_connect_family": "Connecteer met een familielid",
-  "qr_code_hint_text": "Wanneer deze code is gescand door een van u kinderen zijn jullie geconecteerd! Vraag aan je kind om te connecteren met familieleden wanneer ze de app downloaden ",
   "add_child_autosave_save": "Automatisch opslaan",
   "add_child_autosave_next": "Volgende week",
   "help": "help",
@@ -1254,5 +1253,6 @@
   "trustly_type_text": "PLZ_TRANSLATE Bankrekening",
   "withdrawl_from_pig": "PLZ_TRANSLATE onkosten",
   "failed_transaction": "PLZ_TRANSLATE mislukte betaling",
-  "report_allowance_transfered_in": "PLZ_TRANSLATE Van spaarpot"
+  "report_allowance_transfered_in": "PLZ_TRANSLATE Van spaarpot",
+  "qr_code_hint_text": "PLZ_TRANSLATE Als de code is gescand, bent u verbonden. Met wie je wilt koppelen, komt de scanner aan door op de knop 'Verbinden met familielid' op het startscherm te klikken."
 }

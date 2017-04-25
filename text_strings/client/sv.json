@@ -506,7 +506,6 @@
   "add_child_allowance_amount_headline": "Hur mycket ska %1$d få?",
   "overview_create_child": "Skapa ditt första barn",
   "overview_connect_family": "Koppla ihop med familjemedlem",
-  "qr_code_hint_text": "När koden scannas av ditt barn kopplas ni ihop! Barnet når Koppla ihop med familjemedlem direkt från startsidan",
   "add_child_autosave_save": "Autospara",
   "add_child_autosave_next": "Nästa vecka",
   "help": "hjälp",
@@ -1265,5 +1264,6 @@
   "trustly_type_text": "Till bankkonto",
   "withdrawl_from_pig": "Utlägg",
   "failed_transaction": "Misslyckad utbetalning",
-  "report_allowance_transfered_in": "Från spargrisen"
+  "report_allowance_transfered_in": "Från spargrisen",
+  "qr_code_hint_text": "När koden scannas kopplas ni ihop. Den du ska koppla ihop med når scannern genom att klicka sig vidare på knappen \"Koppla ihop med familjemedlem\" från startsidan."
 }

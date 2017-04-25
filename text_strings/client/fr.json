@@ -495,7 +495,6 @@
   "add_child_allowance_amount_headline": "Combien %1$d devrait avoir?",
   "overview_create_child": "Créez votre premier enfant",
   "overview_connect_family": "Se connecter avec un membre de la famille",
-  "qr_code_hint_text": "Après que votre enfant aura scanné le code, vous serez connecté! Il suffit de demander à votre enfant de se connecter avec les membres de la famille une fois l'application téléchargée ",
   "add_child_autosave_save": "PLZ_CHECK Epargne automatique",
   "add_child_autosave_next": "La semaine prochaine",
   "help": "aide",
@@ -1254,5 +1253,6 @@
   "trustly_type_text": "PLZ_TRANSLATE Au compte bancaire",
   "withdrawl_from_pig": "PLZ_TRANSLATE Dépenses",
   "failed_transaction": "PLZ_TRANSLATE Paiement échoué",
-  "report_allowance_transfered_in": "PLZ_TRANSLATE De la tirelire"
+  "report_allowance_transfered_in": "PLZ_TRANSLATE De la tirelire",
+  "qr_code_hint_text": "PLZ_TRANSLATE Lorsque le code est scanné, vous êtes connecté. Celui que vous souhaitez coupler atteint le scanner en cliquant sur le bouton \"Se connecter avec le membre de la famille\" sur l'écran d'accueil."
 }

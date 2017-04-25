@@ -495,7 +495,6 @@
   "add_child_allowance_amount_headline": "Hvor mye skal %1$d få?",
   "overview_create_child": "Skap ditt første barn",
   "overview_connect_family": "Koble sammen med familiemedlem",
-  "qr_code_hint_text": "Skanne den her koden fra ditt barns konto så blir dere automatisk koblet sammen!",
   "add_child_autosave_save": "Autolagre",
   "add_child_autosave_next": "Neste uke",
   "help": "hjelp",
@@ -1254,5 +1253,6 @@
   "trustly_type_text": "PLZ_TRANSLATE Til bankkonto",
   "withdrawl_from_pig": "PLZ_TRANSLATE utlegget",
   "failed_transaction": "PLZ_TRANSLATE mislyktes betaling",
-  "report_allowance_transfered_in": "PLZ_TRANSLATE Fra spargris"
+  "report_allowance_transfered_in": "PLZ_TRANSLATE Fra spargris",
+  "qr_code_hint_text": "PLZ_TRANSLATE Når koden er skannet, er du tilkoblet. Den du vil parre med, når skanneren, klikker du på \"Koble med familiemedlem\" -knappen på startskjermen."
 }
