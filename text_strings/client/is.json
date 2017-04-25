@@ -137,7 +137,6 @@
   "profile_goals_empty": "Kominn tími til að spara fyrir einhverju?",
   "report_allowance": "%1$sen",
   "report_allowance_assignments": "verkefni",
-  "report_allowance_transfered_in": "Millifært frá sparigrísnum",
   "report_allowance_transfered_out": "Sparað",
   "report_allowance_withdrawals": "borgað út",
   "report_allowance_next": "%1$s núna",
@@ -1254,5 +1253,6 @@
   "transaction_to_pig": "Sparande",
   "trustly_type_text": "PLZ_TRANSLATE Á bankareikning",
   "withdrawl_from_pig": "PLZ_TRANSLATE tilkostnaður",
-  "failed_transaction": "PLZ_TRANSLATE mistókst greiðslu"
+  "failed_transaction": "PLZ_TRANSLATE mistókst greiðslu",
+  "report_allowance_transfered_in": "PLZ_TRANSLATE Frá grís banka"
 }

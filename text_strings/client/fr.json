@@ -137,7 +137,6 @@
   "profile_goals_empty": "Il est temps de commencer à économiser pour quelque chose?",
   "report_allowance": "PLZ_CHECK %1$s",
   "report_allowance_assignments": "Récompense",
-  "report_allowance_transfered_in": "Transféré de la tirelire",
   "report_allowance_transfered_out": "Transféré à la tirelire",
   "report_allowance_withdrawals": "Versé",
   "report_allowance_next": "Actuellement %1$s",
@@ -1254,5 +1253,6 @@
   "transaction_to_pig": "Sparande",
   "trustly_type_text": "PLZ_TRANSLATE Au compte bancaire",
   "withdrawl_from_pig": "PLZ_TRANSLATE Dépenses",
-  "failed_transaction": "PLZ_TRANSLATE Paiement échoué"
+  "failed_transaction": "PLZ_TRANSLATE Paiement échoué",
+  "report_allowance_transfered_in": "PLZ_TRANSLATE De la tirelire"
 }

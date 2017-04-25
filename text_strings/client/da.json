@@ -137,7 +137,6 @@
   "profile_goals_empty": "Er det tid til at spare op til noget?",
   "report_allowance": "%1$sen",
   "report_allowance_assignments": "Belønning",
-  "report_allowance_transfered_in": "Overført fra sparegrisen",
   "report_allowance_transfered_out": "Overført til sparegrisen",
   "report_allowance_withdrawals": "Udbetalt",
   "report_allowance_next": "Nuværende %1$s",
@@ -1254,5 +1253,6 @@
   "transaction_to_pig": "Opsparet",
   "trustly_type_text": " Til bankkonto",
   "withdrawl_from_pig": " Udlæg",
-  "failed_transaction": " Mislykket betaling"
+  "failed_transaction": " Mislykket betaling",
+  "report_allowance_transfered_in": "PLZ_TRANSLATE Fra sparegris"
 }

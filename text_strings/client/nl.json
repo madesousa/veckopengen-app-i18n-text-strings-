@@ -137,7 +137,6 @@
   "profile_goals_empty": "Tijd om voor iets te beginnen sparen?",
   "report_allowance": "%1$sen",
   "report_allowance_assignments": "Beloning",
-  "report_allowance_transfered_in": "Overgeschreven van spaarpot",
   "report_allowance_transfered_out": "Overgeschreven naar spaarpot",
   "report_allowance_withdrawals": "Uitbetaald",
   "report_allowance_next": "Huidig %1$s",
@@ -1254,5 +1253,6 @@
   "transaction_to_pig": "Sparande",
   "trustly_type_text": "PLZ_TRANSLATE Bankrekening",
   "withdrawl_from_pig": "PLZ_TRANSLATE onkosten",
-  "failed_transaction": "PLZ_TRANSLATE mislukte betaling"
+  "failed_transaction": "PLZ_TRANSLATE mislukte betaling",
+  "report_allowance_transfered_in": "PLZ_TRANSLATE Van spaarpot"
 }

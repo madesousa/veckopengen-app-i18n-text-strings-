@@ -137,7 +137,6 @@
   "profile_goals_empty": "Time to start saving for something?",
   "report_allowance": "%1$s",
   "report_allowance_assignments": "Reward",
-  "report_allowance_transfered_in": "Transferred from the piggy bank",
   "report_allowance_transfered_out": "Transferred to the piggy bank",
   "report_allowance_withdrawals": "Paid out",
   "report_allowance_next": "Currently %1$s",
@@ -1254,5 +1253,6 @@
   "transaction_to_pig": "Saved",
   "trustly_type_text": "To bank account",
   "withdrawl_from_pig": "Outlay",
-  "failed_transaction": "Failed payment"
+  "failed_transaction": "Failed payment",
+  "report_allowance_transfered_in": "From piggy bank"
 }

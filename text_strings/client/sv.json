@@ -137,7 +137,6 @@
   "profile_goals_empty": "Dags att börja spara till någonting?",
   "report_allowance": "%1$sen",
   "report_allowance_assignments": "Uppgifter",
-  "report_allowance_transfered_in": "Överfört från spargrisen",
   "report_allowance_transfered_out": "Sparat",
   "report_allowance_withdrawals": "Utbetalat",
   "report_allowance_next": "%1$s just nu",
@@ -1265,5 +1264,6 @@
   "transaction_to_pig": "Sparande",
   "trustly_type_text": "Till bankkonto",
   "withdrawl_from_pig": "Utlägg",
-  "failed_transaction": "Misslyckad utbetalning"
+  "failed_transaction": "Misslyckad utbetalning",
+  "report_allowance_transfered_in": "Från spargrisen"
 }

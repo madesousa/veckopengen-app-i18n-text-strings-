@@ -137,7 +137,6 @@
   "profile_goals_empty": "Haluatko alkaa säästää jotakin tavoitetta varten?",
   "report_allowance": "%1$s",
   "report_allowance_assignments": "Tehtävät",
-  "report_allowance_transfered_in": "Siirrä säästöpossusta",
   "report_allowance_transfered_out": "Säästetty",
   "report_allowance_withdrawals": "Maksettu",
   "report_allowance_next": "%1$s juuri nyt",
@@ -1254,5 +1253,6 @@
   "transaction_to_pig": "Sparande",
   "trustly_type_text": "PLZ_TRANSLATE Pankkitilille",
   "withdrawl_from_pig": "PLZ_TRANSLATE kulut",
-  "failed_transaction": "PLZ_TRANSLATE maksu epäonnistui"
+  "failed_transaction": "PLZ_TRANSLATE maksu epäonnistui",
+  "report_allowance_transfered_in": "PLZ_TRANSLATE Vuodesta säästöpossu"
 }

@@ -137,7 +137,6 @@
   "profile_goals_empty": "Time to start saving for something?",
   "report_allowance": "%1$s",
   "report_allowance_assignments": "Reward",
-  "report_allowance_transfered_in": "Transferred from the piggy bank",
   "report_allowance_transfered_out": "Transferred to the piggy bank",
   "report_allowance_withdrawals": "Paid out",
   "report_allowance_next": "Currently %1$s",
@@ -1254,5 +1253,6 @@
   "transaction_to_pig": "Sparande",
   "trustly_type_text": "PLZ_TRANSLATE Auf Bankkonto",
   "withdrawl_from_pig": "PLZ_TRANSLATE Aufwand",
-  "failed_transaction": "PLZ_TRANSLATE Fehlgeschlagene Zahlung"
+  "failed_transaction": "PLZ_TRANSLATE Fehlgeschlagene Zahlung",
+  "report_allowance_transfered_in": "PLZ_TRANSLATE Vom Sparschwein"
 }

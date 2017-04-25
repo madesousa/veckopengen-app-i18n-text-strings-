@@ -137,7 +137,6 @@
   "profile_goals_empty": "PLZ_TRANSLATE Time to start saving for something?",
   "report_allowance": "PLZ_TRANSLATE %1$s",
   "report_allowance_assignments": "PLZ_TRANSLATE Reward",
-  "report_allowance_transfered_in": "PLZ_TRANSLATE Transferred from the piggy bank",
   "report_allowance_transfered_out": "PLZ_TRANSLATE Transferred to the piggy bank",
   "report_allowance_withdrawals": "PLZ_TRANSLATE Paid out",
   "report_allowance_next": "PLZ_TRANSLATE Currently %1$s",
@@ -1254,5 +1253,6 @@
   "transaction_to_pig": "Sparande",
   "trustly_type_text": "PLZ_TRANSLATE Для банкаўскага рахунку",
   "withdrawl_from_pig": "PLZ_TRANSLATE выдатак",
-  "failed_transaction": "PLZ_TRANSLATE памылка аплаты"
+  "failed_transaction": "PLZ_TRANSLATE памылка аплаты",
+  "report_allowance_transfered_in": "PLZ_TRANSLATE з скарбонкі"
 }
