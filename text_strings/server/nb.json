@@ -129,5 +129,5 @@
   "push_new_weekly_tasks_2": "Hohei! Du har fått nye oppgaver!",
   "push_new_weekly_tasks_3": "Hohei! Du har fått nye oppgaver!",
   "push_new_weekly_tasks_4": "Hohei! Du har fått nye oppgaver!",
-  "push_goal_activated": "PLZ_TRANSLATE {goal.updated_by.name} har aktivert besparelser mål {goal.title}."
+  "push_goal_activated": "PLZ_TRANSLATE {goal.updated_by.name} har aktivert  sparemål {goal.title}."
 }
