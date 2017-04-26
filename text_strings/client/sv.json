@@ -1264,5 +1264,6 @@
   "failed_transaction": "Misslyckad utbetalning",
   "report_allowance_transfered_in": "Från spargrisen",
   "qr_code_hint_text": "När koden scannas kopplas ni ihop. Den du ska koppla ihop med når scannern genom att klicka sig vidare på knappen \"Koppla ihop med familjemedlem\" från startsidan.",
-  "report_savings_account_diff": "Avrundningsrad"
+  "report_savings_account_diff": "Avrundningsrad",
+  "edit_savings_goal_amount_hint": "Ställ in pris för %1$d"
 }

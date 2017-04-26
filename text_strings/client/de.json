@@ -1253,5 +1253,6 @@
   "failed_transaction": "PLZ_TRANSLATE Fehlgeschlagene Zahlung",
   "report_allowance_transfered_in": "PLZ_TRANSLATE Vom Sparschwein",
   "qr_code_hint_text": "PLZ_TRANSLATE Wenn der Code gescannt wird, sind Sie verbunden. Diejenige, die Sie mit dem Scanner erreichen möchten, erreicht den Scanner, indem Sie auf dem Startbildschirm auf die Schaltfläche \"Mit Familienmitglied verbinden\" klicken.",
-  "report_savings_account_diff": "PLZ_TRANSLATE Abrissreihe"
+  "report_savings_account_diff": "PLZ_TRANSLATE Abrissreihe",
+  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Set Preis von %1$d"
 }

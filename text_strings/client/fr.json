@@ -1253,5 +1253,6 @@
   "failed_transaction": "PLZ_TRANSLATE Paiement échoué",
   "report_allowance_transfered_in": "PLZ_TRANSLATE De la tirelire",
   "qr_code_hint_text": "PLZ_TRANSLATE Lorsque le code est scanné, vous êtes connecté. Celui que vous souhaitez coupler atteint le scanner en cliquant sur le bouton \"Se connecter avec le membre de la famille\" sur l'écran d'accueil.",
-  "report_savings_account_diff": "PLZ_TRANSLATE Arrondi"
+  "report_savings_account_diff": "PLZ_TRANSLATE Arrondi",
+  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Prix ​​fixe de %1$d"
 }

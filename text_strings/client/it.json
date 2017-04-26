@@ -1253,5 +1253,6 @@
   "failed_transaction": "PLZ_TRANSLATE il pagamento non riuscito",
   "report_allowance_transfered_in": "PLZ_TRANSLATE Dalla banca piggy",
   "qr_code_hint_text": "PLZ_TRANSLATE Quando si esegue la scansione del codice, si è connessi. Quello che si desidera accoppiare con raggiunge lo scanner facendo clic sul pulsante \"Connetti con il membro della famiglia\" nella schermata iniziale.",
-  "report_savings_account_diff": "PLZ_TRANSLATE fila arrotondamento"
+  "report_savings_account_diff": "PLZ_TRANSLATE fila arrotondamento",
+  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Imposta prezzo di %1$d"
 }
