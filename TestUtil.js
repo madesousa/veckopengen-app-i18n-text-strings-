@@ -111,7 +111,8 @@ export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLang
       var differencePerc = (firstLang[key].length - secondLang[key].length) / 100
 
       if (Math.abs(differencePerc) >= 0.20) {
-        longTextWarning.push(`Lang: '${firstLangName}', Key: '${key}' is 20% longer than: '${secondLangName}'`)
+        var actIncr = Math.abs(differencePerc)
+        longTextWarning.push(`Lang: ${firstLangName}, Key: ${key} is 20% longer than: ${secondLangName} -> ${actIncr}`)
       }
     }
     return true
