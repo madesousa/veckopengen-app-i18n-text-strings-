@@ -1,6 +1,6 @@
 /* eslint no-console:0 */
 import {getTextStrings, languageCodes} from '../index'
-import {compareKeys, compareDollarSigns, checkBirgittaInconsistencies} from '../TestUtil'
+import {compareKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
 jest.disableAutomock()
 
 describe('TextStrings', () => {
@@ -22,6 +22,10 @@ describe('TextStrings', () => {
     expect(getTextStrings('en')).toEqual(getTextStrings(''))
   })
 
+  it('Text strings should not be more than 20% longer in other languages', () => {
+    languageCodes.forEach(lang2 => checkStringLenght(getTextStrings('en'), getTextStrings(lang2), 'en', lang2))
+  })
+
   it('should not have any birgitta inconsistencies', () => {
     var errorMessages = {}
     languageCodes.forEach((lang1, i) =>
@@ -33,6 +37,7 @@ describe('TextStrings', () => {
       }))
     console.warn(JSON.stringify(errorMessages, undefined, 2))
   })
+
   it('should not have unclosed brackers', () => {
     var leftSide = 0
     var rightSide = 0

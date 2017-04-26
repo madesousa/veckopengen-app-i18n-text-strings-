@@ -10,6 +10,7 @@ var ignoredKeys = ['currency', 'currencyMinus', 'currencyPlus', 'aint_no_money_d
 export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
   var keys = Object.keys(firstLang)
   var errorMessages = []
+
   keys.some(key => {
     if (secondLang[key] === undefined || secondLang[key] === '') {
       errorMessages.push(`Lang: '${secondLangName}', Missing key: '${key}'`)
@@ -98,4 +99,23 @@ export let checkBirgittaInconsistencies = (firstLang: Object, secondLang: Object
   })
 
   return errorMessages
+}
+
+export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string) => {
+  var keys = Object.keys(firstLang)
+
+  var longTextWarning = []
+  keys.forEach(key => {
+    if (firstLangName === 'en' && secondLangName !== 'en') {
+      if (secondLang[key].includes(plzTranslateTemplate)) secondLang[key] = secondLang[key].replace(plzTranslateTemplate, '')
+      var differencePerc = (firstLang[key].length - secondLang[key].length) / 100
+
+      if (Math.abs(differencePerc) >= 0.20) {
+        longTextWarning.push(`Lang: '${firstLangName}', Key: '${key}' is 20% longer than: '${secondLangName}'`)
+      }
+    }
+    return true
+  })
+  // eslint-disable-next-line
+  if (longTextWarning.length >0) {console.warn(longTextWarning)}
 }
