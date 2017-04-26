@@ -129,5 +129,5 @@
   "push_new_weekly_tasks_2": "Kig! Du har fået nye opgaver!",
   "push_new_weekly_tasks_3": "Kig! Du har fået nye opgaver!",
   "push_new_weekly_tasks_4": "Kig! Du har fået nye opgaver!",
-  "push_goal_activated": " {goal.updated_by.name} har oprettet et opsparingsmål {goal.title}."
+  "push_goal_activated": "{goal.updated_by.name} har oprettet et opsparingsmål {goal.title}."
 }
