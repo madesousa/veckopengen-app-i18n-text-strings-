@@ -1254,5 +1254,8 @@
   "qr_code_hint_text": "PLZ_TRANSLATE Als de code is gescand, bent u verbonden. Met wie je wilt koppelen, komt de scanner aan door op de knop 'Verbinden met familielid' op het startscherm te klikken.",
   "report_savings_account_diff": "PLZ_TRANSLATE afronding rij",
   "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Stel de prijs van %1$d in",
-  "goal_editor_parent_title": "PLZ_TRANSLATE Helpen"
+  "goal_editor_parent_title": "PLZ_TRANSLATE Helpen",
+  "add_category_text_title": "PLZ_TRANSLATE Wat heet de categorie?",
+  "add_category_text_help": "PLZ_TRANSLATE MAX %1$d tekens",
+  "add_category_text_placeholder": "PLZ_TRANSLATE Categorie naam"
 }

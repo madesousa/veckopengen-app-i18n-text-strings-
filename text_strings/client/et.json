@@ -1254,5 +1254,8 @@
   "qr_code_hint_text": "PLZ_TRANSLATE Kui kood on skaneeritud, olete ühendatud. Mida soovite siduda jõuab skanner klõpsates \"Ühenda pereliige\" nuppu avakuva.",
   "report_savings_account_diff": "PLZ_TRANSLATE ümardamine rida",
   "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Määra hind %1$d",
-  "goal_editor_parent_title": "PLZ_TRANSLATE Välja aitama"
+  "goal_editor_parent_title": "PLZ_TRANSLATE Välja aitama",
+  "add_category_text_title": "PLZ_TRANSLATE Mis on kategooria nimega?",
+  "add_category_text_help": "PLZ_TRANSLATE MAX %1$d tähemärki",
+  "add_category_text_placeholder": "PLZ_TRANSLATE Kategooria nimi"
 }

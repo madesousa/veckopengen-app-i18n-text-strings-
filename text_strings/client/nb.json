@@ -1254,5 +1254,8 @@
   "qr_code_hint_text": "Når koden er skannet, er du tilkoblet. Den du vil koble sammen med, får frem skanneren, ved å klikke på \"Koble sammen med familiemedlem\" -knappen på startskjermen.",
   "report_savings_account_diff": "PLZ_TRANSLATE avrunding rad",
   "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Sett pris på %1$d",
-  "goal_editor_parent_title": "PLZ_TRANSLATE Hjelpe til"
+  "goal_editor_parent_title": "PLZ_TRANSLATE Hjelpe til",
+  "add_category_text_title": "PLZ_TRANSLATE Hva heter kategorien?",
+  "add_category_text_help": "PLZ_TRANSLATE MAX %1$d tegn",
+  "add_category_text_placeholder": "PLZ_TRANSLATE Kategori navn"
 }

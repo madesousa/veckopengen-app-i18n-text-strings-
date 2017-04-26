@@ -1254,5 +1254,8 @@
   "qr_code_hint_text": "PLZ_TRANSLATE Quando si esegue la scansione del codice, si è connessi. Quello che si desidera accoppiare con raggiunge lo scanner facendo clic sul pulsante \"Connetti con il membro della famiglia\" nella schermata iniziale.",
   "report_savings_account_diff": "PLZ_TRANSLATE fila arrotondamento",
   "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Imposta prezzo di %1$d",
-  "goal_editor_parent_title": "PLZ_TRANSLATE Dare una mano"
+  "goal_editor_parent_title": "PLZ_TRANSLATE Dare una mano",
+  "add_category_text_title": "PLZ_TRANSLATE Qual è la categoria chiamata?",
+  "add_category_text_help": "PLZ_TRANSLATE MAX %1$d caratteri",
+  "add_category_text_placeholder": "PLZ_TRANSLATE Nome della categoria"
 }

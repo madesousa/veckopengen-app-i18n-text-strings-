@@ -1254,5 +1254,8 @@
   "qr_code_hint_text": "PLZ_TRANSLATE Þegar kóðinn er skönnuð ertu tengdur. Sá sem þú vilt para við nær skannanum með því að smella á \"Connect with Family Member\" hnappinn á heimaskjánum.",
   "report_savings_account_diff": "PLZ_TRANSLATE námundun röð",
   "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Setja verð %1$d",
-  "goal_editor_parent_title": "PLZ_TRANSLATE Hjálpa"
+  "goal_editor_parent_title": "PLZ_TRANSLATE Hjálpa",
+  "add_category_text_title": "PLZ_TRANSLATE Hvað er flokkurinn sem heitir?",
+  "add_category_text_help": "PLZ_TRANSLATE MAX %1$d stafir",
+  "add_category_text_placeholder": "PLZ_TRANSLATE Flokkur heiti"
 }

@@ -1254,5 +1254,8 @@
   "qr_code_hint_text": "PLZ_TRANSLATE Cuando se escanea el código, está conectado. El que desea emparejar llega al escáner haciendo clic en el botón \"Conectar con miembro de la familia\" en la pantalla de inicio.",
   "report_savings_account_diff": "PLZ_TRANSLATE Fila de redondeo",
   "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Precio fijo de %1$d",
-  "goal_editor_parent_title": "PLZ_TRANSLATE Ayudar"
+  "goal_editor_parent_title": "PLZ_TRANSLATE Ayudar",
+  "add_category_text_title": "PLZ_TRANSLATE ¿Cómo se llama la categoría?",
+  "add_category_text_help": "PLZ_TRANSLATE MAX %1$d personajes",
+  "add_category_text_placeholder": "PLZ_TRANSLATE Nombre de la categoría"
 }
