@@ -1164,7 +1164,6 @@
   "goal_map_graph_left_to_save": "PLZ_TRANSLATE Left to save %1$d",
   "goal_map_graph_parent_help": "PLZ_TRANSLATE Parents help %1$d",
   "assignment_created": "PLZ_TRANSLATE Chore created",
-  "goal_editor_parent_title": "PLZ_TRANSLATE Help",
   "goal_editor_parent_help": "PLZ_TRANSLATE Sponsored sum",
   "goal_editor_parent_boost": "PLZ_TRANSLATE Boost per milestone",
   "goal_map_graph_parent_help_text": "PLZ_TRANSLATE Parent help",
@@ -1254,5 +1253,6 @@
   "report_allowance_transfered_in": "PLZ_TRANSLATE Dalla banca piggy",
   "qr_code_hint_text": "PLZ_TRANSLATE Quando si esegue la scansione del codice, si è connessi. Quello che si desidera accoppiare con raggiunge lo scanner facendo clic sul pulsante \"Connetti con il membro della famiglia\" nella schermata iniziale.",
   "report_savings_account_diff": "PLZ_TRANSLATE fila arrotondamento",
-  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Imposta prezzo di %1$d"
+  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Imposta prezzo di %1$d",
+  "goal_editor_parent_title": "PLZ_TRANSLATE Dare una mano"
 }

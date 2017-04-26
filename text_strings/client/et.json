@@ -1164,7 +1164,6 @@
   "goal_map_graph_left_to_save": "PLZ_TRANSLATE Left to save %1$d",
   "goal_map_graph_parent_help": "PLZ_TRANSLATE Parents help %1$d",
   "assignment_created": "PLZ_TRANSLATE Chore created",
-  "goal_editor_parent_title": "PLZ_TRANSLATE Help",
   "goal_editor_parent_help": "PLZ_TRANSLATE Sponsored sum",
   "goal_editor_parent_boost": "PLZ_TRANSLATE Boost per milestone",
   "goal_map_graph_parent_help_text": "PLZ_TRANSLATE Parent help",
@@ -1254,5 +1253,6 @@
   "report_allowance_transfered_in": "PLZ_TRANSLATE Alates notsu panga",
   "qr_code_hint_text": "PLZ_TRANSLATE Kui kood on skaneeritud, olete ühendatud. Mida soovite siduda jõuab skanner klõpsates \"Ühenda pereliige\" nuppu avakuva.",
   "report_savings_account_diff": "PLZ_TRANSLATE ümardamine rida",
-  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Määra hind %1$d"
+  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Määra hind %1$d",
+  "goal_editor_parent_title": "PLZ_TRANSLATE Välja aitama"
 }

@@ -1164,7 +1164,6 @@
   "goal_map_graph_left_to_save": "A enregistrer %1$d",
   "goal_map_graph_parent_help": "Aide Parents %1$d",
   "assignment_created": "Tâche créée",
-  "goal_editor_parent_title": "Aide",
   "goal_editor_parent_help": "Montant parrainé ",
   "goal_editor_parent_boost": "Augmentation par jalon",
   "goal_map_graph_parent_help_text": "Aide Parents",
@@ -1254,5 +1253,6 @@
   "report_allowance_transfered_in": "PLZ_TRANSLATE De la tirelire",
   "qr_code_hint_text": "PLZ_TRANSLATE Lorsque le code est scanné, vous êtes connecté. Celui que vous souhaitez coupler atteint le scanner en cliquant sur le bouton \"Se connecter avec le membre de la famille\" sur l'écran d'accueil.",
   "report_savings_account_diff": "PLZ_TRANSLATE Arrondi",
-  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Prix ​​fixe de %1$d"
+  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Prix ​​fixe de %1$d",
+  "goal_editor_parent_title": "PLZ_TRANSLATE Aidez-nous"
 }

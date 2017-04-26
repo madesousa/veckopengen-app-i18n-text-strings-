@@ -1164,7 +1164,6 @@
   "goal_map_graph_left_to_save": "Voortzetting op te slaan %1$d",
   "goal_map_graph_parent_help": "Ouders helpen %1$d",
   "assignment_created": "Taak gemaakt",
-  "goal_editor_parent_title": "Help",
   "goal_editor_parent_help": "Gesponsorde som",
   "goal_editor_parent_boost": "Boost per mijlpaal",
   "goal_map_graph_parent_help_text": "Ouders Help",
@@ -1254,5 +1253,6 @@
   "report_allowance_transfered_in": "PLZ_TRANSLATE Van spaarpot",
   "qr_code_hint_text": "PLZ_TRANSLATE Als de code is gescand, bent u verbonden. Met wie je wilt koppelen, komt de scanner aan door op de knop 'Verbinden met familielid' op het startscherm te klikken.",
   "report_savings_account_diff": "PLZ_TRANSLATE afronding rij",
-  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Stel de prijs van %1$d in"
+  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Stel de prijs van %1$d in",
+  "goal_editor_parent_title": "PLZ_TRANSLATE Helpen"
 }

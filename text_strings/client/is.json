@@ -1164,7 +1164,6 @@
   "goal_map_graph_left_to_save": "PLZ_TRANSLATE Áframhaldandi að spara %1$d",
   "goal_map_graph_parent_help": "PLZ_TRANSLATE Foreldrar Hjálp %1$d",
   "assignment_created": "PLZ_TRANSLATE verkefni búið",
-  "goal_editor_parent_title": "PLZ_TRANSLATE Hjálp",
   "goal_editor_parent_help": "PLZ_TRANSLATE Sponsored summan",
   "goal_editor_parent_boost": "PLZ_TRANSLATE Boost fyrir Milestone",
   "goal_map_graph_parent_help_text": "PLZ_TRANSLATE foreldrar Hjálp",
@@ -1254,5 +1253,6 @@
   "report_allowance_transfered_in": "PLZ_TRANSLATE Frá grís banka",
   "qr_code_hint_text": "PLZ_TRANSLATE Þegar kóðinn er skönnuð ertu tengdur. Sá sem þú vilt para við nær skannanum með því að smella á \"Connect with Family Member\" hnappinn á heimaskjánum.",
   "report_savings_account_diff": "PLZ_TRANSLATE námundun röð",
-  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Setja verð %1$d"
+  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Setja verð %1$d",
+  "goal_editor_parent_title": "PLZ_TRANSLATE Hjálpa"
 }

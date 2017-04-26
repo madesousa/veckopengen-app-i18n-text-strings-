@@ -1164,7 +1164,6 @@
   "goal_map_graph_left_to_save": "Säästämistä %1$d jäljellä",
   "goal_map_graph_parent_help": "Vanhemmat auttavat %1$d",
   "assignment_created": "Tehtävä luotu",
-  "goal_editor_parent_title": "Ohje",
   "goal_editor_parent_help": "Sponsoroitu summa",
   "goal_editor_parent_boost": "Boost per saavutus",
   "goal_map_graph_parent_help_text": "Ohje vanhemmille",
@@ -1254,5 +1253,6 @@
   "report_allowance_transfered_in": "PLZ_TRANSLATE Vuodesta säästöpossu",
   "qr_code_hint_text": "PLZ_TRANSLATE Kun koodi on skannattu, olet yhteydessä. Yksi haluat pariutumaan saavuttaa skannerin klikkaamalla \"Connect with perheenjäsen\" -painiketta aloitusnäytössä.",
   "report_savings_account_diff": "PLZ_TRANSLATE pyöristys rivi",
-  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Aseta hinta %1$d"
+  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Aseta hinta %1$d",
+  "goal_editor_parent_title": "PLZ_TRANSLATE Auttaa"
 }

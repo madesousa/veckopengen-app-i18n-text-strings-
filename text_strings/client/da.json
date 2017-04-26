@@ -1164,7 +1164,6 @@
   "goal_map_graph_left_to_save": "Fortsat at spare %1$d",
   "goal_map_graph_parent_help": "Forældres hjælp %1$d",
   "assignment_created": "Opgave oprettet",
-  "goal_editor_parent_title": "Hjælp",
   "goal_editor_parent_help": "Sponsoreret beløb",
   "goal_editor_parent_boost": "Boost pr milepæl",
   "goal_map_graph_parent_help_text": "Forældres hjælp",
@@ -1254,5 +1253,6 @@
   "report_allowance_transfered_in": "Fra sparegris",
   "qr_code_hint_text": "Når koden er scannet bliver du tilsluttet. Scanneren aktiveres ved at du klikker på knappen \"Tilsut familiemedlem\" på startskærmen.",
   "report_savings_account_diff": "PLZ_TRANSLATE Afrunding række",
-  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Indstil pris på %1$d"
+  "edit_savings_goal_amount_hint": "PLZ_TRANSLATE Indstil pris på %1$d",
+  "goal_editor_parent_title": "PLZ_TRANSLATE Hjælpe"
 }
