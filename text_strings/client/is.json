@@ -1252,5 +1252,6 @@
   "withdrawl_from_pig": "PLZ_TRANSLATE tilkostnaður",
   "failed_transaction": "PLZ_TRANSLATE mistókst greiðslu",
   "report_allowance_transfered_in": "PLZ_TRANSLATE Frá grís banka",
-  "qr_code_hint_text": "PLZ_TRANSLATE Þegar kóðinn er skönnuð ertu tengdur. Sá sem þú vilt para við nær skannanum með því að smella á \"Connect with Family Member\" hnappinn á heimaskjánum."
+  "qr_code_hint_text": "PLZ_TRANSLATE Þegar kóðinn er skönnuð ertu tengdur. Sá sem þú vilt para við nær skannanum með því að smella á \"Connect with Family Member\" hnappinn á heimaskjánum.",
+  "report_savings_account_diff": "PLZ_TRANSLATE námundun röð"
 }

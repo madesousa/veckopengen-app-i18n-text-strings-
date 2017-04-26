@@ -1252,5 +1252,6 @@
   "withdrawl_from_pig": "PLZ_TRANSLATE kulut",
   "failed_transaction": "PLZ_TRANSLATE maksu epäonnistui",
   "report_allowance_transfered_in": "PLZ_TRANSLATE Vuodesta säästöpossu",
-  "qr_code_hint_text": "PLZ_TRANSLATE Kun koodi on skannattu, olet yhteydessä. Yksi haluat pariutumaan saavuttaa skannerin klikkaamalla \"Connect with perheenjäsen\" -painiketta aloitusnäytössä."
+  "qr_code_hint_text": "PLZ_TRANSLATE Kun koodi on skannattu, olet yhteydessä. Yksi haluat pariutumaan saavuttaa skannerin klikkaamalla \"Connect with perheenjäsen\" -painiketta aloitusnäytössä.",
+  "report_savings_account_diff": "PLZ_TRANSLATE pyöristys rivi"
 }

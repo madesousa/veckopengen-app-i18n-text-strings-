@@ -1252,5 +1252,6 @@
   "withdrawl_from_pig": "PLZ_TRANSLATE kulu",
   "failed_transaction": "PLZ_TRANSLATE ebaõnnestunud makse",
   "report_allowance_transfered_in": "PLZ_TRANSLATE Alates notsu panga",
-  "qr_code_hint_text": "PLZ_TRANSLATE Kui kood on skaneeritud, olete ühendatud. Mida soovite siduda jõuab skanner klõpsates \"Ühenda pereliige\" nuppu avakuva."
+  "qr_code_hint_text": "PLZ_TRANSLATE Kui kood on skaneeritud, olete ühendatud. Mida soovite siduda jõuab skanner klõpsates \"Ühenda pereliige\" nuppu avakuva.",
+  "report_savings_account_diff": "PLZ_TRANSLATE ümardamine rida"
 }

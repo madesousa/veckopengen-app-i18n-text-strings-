@@ -1252,5 +1252,6 @@
   "withdrawl_from_pig": "PLZ_TRANSLATE выдатак",
   "failed_transaction": "PLZ_TRANSLATE памылка аплаты",
   "report_allowance_transfered_in": "PLZ_TRANSLATE з скарбонкі",
-  "qr_code_hint_text": "PLZ_TRANSLATE Калі код скануецца, вы падлучаныя. , Які вы хочаце выканаць спалучэнне з дасягае сканара, націснуўшы на кнопку «Connect з члена сям'і» на галоўным экране."
+  "qr_code_hint_text": "PLZ_TRANSLATE Калі код скануецца, вы падлучаныя. , Які вы хочаце выканаць спалучэнне з дасягае сканара, націснуўшы на кнопку «Connect з члена сям'і» на галоўным экране.",
+  "report_savings_account_diff": "PLZ_TRANSLATE завяршаюць шэраг"
 }

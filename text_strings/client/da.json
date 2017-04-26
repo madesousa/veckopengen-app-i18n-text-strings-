@@ -1252,5 +1252,6 @@
   "withdrawl_from_pig": "Udlæg",
   "failed_transaction": "Mislykket betaling",
   "report_allowance_transfered_in": "Fra sparegris",
-  "qr_code_hint_text": "Når koden er scannet bliver du tilsluttet. Scanneren aktiveres ved at du klikker på knappen \"Tilsut familiemedlem\" på startskærmen."
+  "qr_code_hint_text": "Når koden er scannet bliver du tilsluttet. Scanneren aktiveres ved at du klikker på knappen \"Tilsut familiemedlem\" på startskærmen.",
+  "report_savings_account_diff": "PLZ_TRANSLATE Afrunding række"
 }

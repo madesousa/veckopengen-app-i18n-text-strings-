@@ -1252,5 +1252,6 @@
   "withdrawl_from_pig": "PLZ_TRANSLATE Desembolso",
   "failed_transaction": "PLZ_TRANSLATE Pago fallido",
   "report_allowance_transfered_in": "PLZ_TRANSLATE De hucha",
-  "qr_code_hint_text": "PLZ_TRANSLATE Cuando se escanea el código, está conectado. El que desea emparejar llega al escáner haciendo clic en el botón \"Conectar con miembro de la familia\" en la pantalla de inicio."
+  "qr_code_hint_text": "PLZ_TRANSLATE Cuando se escanea el código, está conectado. El que desea emparejar llega al escáner haciendo clic en el botón \"Conectar con miembro de la familia\" en la pantalla de inicio.",
+  "report_savings_account_diff": "PLZ_TRANSLATE Fila de redondeo"
 }

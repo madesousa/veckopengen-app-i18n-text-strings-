@@ -1252,5 +1252,6 @@
   "withdrawl_from_pig": "PLZ_TRANSLATE onkosten",
   "failed_transaction": "PLZ_TRANSLATE mislukte betaling",
   "report_allowance_transfered_in": "PLZ_TRANSLATE Van spaarpot",
-  "qr_code_hint_text": "PLZ_TRANSLATE Als de code is gescand, bent u verbonden. Met wie je wilt koppelen, komt de scanner aan door op de knop 'Verbinden met familielid' op het startscherm te klikken."
+  "qr_code_hint_text": "PLZ_TRANSLATE Als de code is gescand, bent u verbonden. Met wie je wilt koppelen, komt de scanner aan door op de knop 'Verbinden met familielid' op het startscherm te klikken.",
+  "report_savings_account_diff": "PLZ_TRANSLATE afronding rij"
 }
