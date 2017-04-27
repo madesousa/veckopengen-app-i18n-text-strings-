@@ -109,7 +109,7 @@
   "push_monthly_allowance_pre_payout_parent_4": "Tid til {child}s månedspenge!",
   "push_weekly_assignment_0": "I dag, kan du {task} for {value}, hvilket deal!",
   "push_weekly_assignment_1": "Godmorgen venner! I dag kan du tjene {value}! Gå ind i appen og se hvilken opgave du kan udføre!",
-  "push_weekly_assignment_2": "Du har modtaget en ny opgave: {task} i og tjek hvad du kan tjene!",
+  "push_weekly_assignment_2": "Du har modtaget en ny opgave: {task} Gå ind i appen og tjek hvad du kan tjene!",
   "push_weekly_assignment_3": "Ny opgave! Yay! Du kan blive {value} rigere! Gå ind i appen og tjek hvilke opgaver du kan udføre!",
   "push_weekly_assignment_4": "Ny opgave! {task} Box! Gå ind i appen og se, hvad du kan tjene!",
   "push_weekly_allowance_trustly_pre_payout": "Udbetaling i morgen.  Lige nu er der {amount} i ugentlig ydelse til {child}s bankkonto.",
