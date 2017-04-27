@@ -1257,5 +1257,6 @@
   "goal_editor_parent_title": "PLZ_TRANSLATE Helpen",
   "add_category_text_title": "PLZ_TRANSLATE Wat heet de categorie?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d tekens",
-  "add_category_text_placeholder": "PLZ_TRANSLATE Categorie naam"
+  "add_category_text_placeholder": "PLZ_TRANSLATE Categorie naam",
+  "invite_with_ble": "PLZ_TRANSLATE Dichtbij jou"
 }

@@ -1257,5 +1257,6 @@
   "goal_editor_parent_title": "PLZ_TRANSLATE выручыць",
   "add_category_text_title": "PLZ_TRANSLATE Што такое катэгорыя называецца?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d сімвалаў",
-  "add_category_text_placeholder": "PLZ_TRANSLATE назву катэгорыі"
+  "add_category_text_placeholder": "PLZ_TRANSLATE назву катэгорыі",
+  "invite_with_ble": "PLZ_TRANSLATE Побач з вамі"
 }

@@ -1257,5 +1257,6 @@
   "goal_editor_parent_title": "PLZ_TRANSLATE Aushelfen",
   "add_category_text_title": "PLZ_TRANSLATE Wie heißt die Kategorie?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d Zeichen",
-  "add_category_text_placeholder": "PLZ_TRANSLATE Kategoriename"
+  "add_category_text_placeholder": "PLZ_TRANSLATE Kategoriename",
+  "invite_with_ble": "PLZ_TRANSLATE Nahe bei dir"
 }

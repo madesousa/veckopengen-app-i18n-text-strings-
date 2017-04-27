@@ -1257,5 +1257,6 @@
   "goal_editor_parent_title": "PLZ_TRANSLATE Auttaa",
   "add_category_text_title": "PLZ_TRANSLATE Mikä luokka nimeltään?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d merkkiä",
-  "add_category_text_placeholder": "PLZ_TRANSLATE Kategorian nimi"
+  "add_category_text_placeholder": "PLZ_TRANSLATE Kategorian nimi",
+  "invite_with_ble": "PLZ_TRANSLATE Lähellä sinua"
 }

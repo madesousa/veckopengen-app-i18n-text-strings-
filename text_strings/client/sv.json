@@ -1268,5 +1268,6 @@
   "goal_editor_parent_title": "Hjälp till",
   "add_category_text_title": "Vad ska kategorin heta?",
   "add_category_text_help": "MAX %1$d tecken",
-  "add_category_text_placeholder": "Kategorinamn"
+  "add_category_text_placeholder": "Kategorinamn",
+  "invite_with_ble": "I närheten"
 }

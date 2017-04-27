@@ -1257,5 +1257,6 @@
   "goal_editor_parent_title": "PLZ_TRANSLATE Ayudar",
   "add_category_text_title": "PLZ_TRANSLATE ¿Cómo se llama la categoría?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d personajes",
-  "add_category_text_placeholder": "PLZ_TRANSLATE Nombre de la categoría"
+  "add_category_text_placeholder": "PLZ_TRANSLATE Nombre de la categoría",
+  "invite_with_ble": "PLZ_TRANSLATE Cerca de usted"
 }

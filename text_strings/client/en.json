@@ -1257,5 +1257,6 @@
   "goal_editor_parent_title": "Help out",
   "add_category_text_title": "What is the category called?",
   "add_category_text_help": "MAX %1$d characters",
-  "add_category_text_placeholder": "Category name"
+  "add_category_text_placeholder": "Category name",
+  "invite_with_ble": "Near you"
 }

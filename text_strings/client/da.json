@@ -1257,5 +1257,6 @@
   "goal_editor_parent_title": "PLZ_TRANSLATE Hjælpe",
   "add_category_text_title": "PLZ_TRANSLATE Hvad hedder kategorien?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d tegn",
-  "add_category_text_placeholder": "PLZ_TRANSLATE Kategori navn"
+  "add_category_text_placeholder": "PLZ_TRANSLATE Kategori navn",
+  "invite_with_ble": "PLZ_TRANSLATE I nærheden af ​​dig"
 }

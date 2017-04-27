@@ -1257,5 +1257,6 @@
   "goal_editor_parent_title": "PLZ_TRANSLATE Hjálpa",
   "add_category_text_title": "PLZ_TRANSLATE Hvað er flokkurinn sem heitir?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d stafir",
-  "add_category_text_placeholder": "PLZ_TRANSLATE Flokkur heiti"
+  "add_category_text_placeholder": "PLZ_TRANSLATE Flokkur heiti",
+  "invite_with_ble": "PLZ_TRANSLATE Nálægt þér"
 }

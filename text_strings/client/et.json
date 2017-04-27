@@ -1257,5 +1257,6 @@
   "goal_editor_parent_title": "PLZ_TRANSLATE Välja aitama",
   "add_category_text_title": "PLZ_TRANSLATE Mis on kategooria nimega?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d tähemärki",
-  "add_category_text_placeholder": "PLZ_TRANSLATE Kategooria nimi"
+  "add_category_text_placeholder": "PLZ_TRANSLATE Kategooria nimi",
+  "invite_with_ble": "PLZ_TRANSLATE Sinu lähedal"
 }
