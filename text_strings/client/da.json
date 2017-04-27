@@ -482,7 +482,7 @@
   "add_child_task_info_text_bad": "Du har valgt <boldRed>%1$d %2$d</boldRed>. %3$d vil hjælpe mere i hjemmet, hvis du uddeler nogle opgaver!",
   "add_child_task_one": "opgave",
   "add_child_task_multi": "opgaver",
-  "add_child_task_first": "Tilføj en første opgave!",
+  "add_child_task_first": "Tilføj din første opgave!",
   "add_child_first_tasks_headline": "Hvilke er %1$d første opgaver?",
   "created_child_connected": "Tilsluttet",
   "created_child_monster": "Du har oprettet et barn!",
