@@ -927,7 +927,7 @@
   "trustly_receipt_error_description_over_limit": "Banköverföringen har inte genomförts då summan överskrider maxbeloppet på 1000 kr. Minska beloppet till under 1000 kr för att utbetalningen ska genomföras vid nästa vecko- eller månadspeng.",
   "add_wish_modal_price": "hinta",
   "add_wish_modal_price_placeholder": "Mitä se maksaa?",
-  "popover_slider_change_headline": "Förändring i %1$d",
+  "popover_slider_change_headline": "muutos %1$dssa",
   "trustly_overview_sort_transactions": "Siirrot",
   "withdraw_from_transactional_account_popover_header": "Syötä viikkorahoista nostettava summa",
   "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "Idag har %1$d fått %2$s",
