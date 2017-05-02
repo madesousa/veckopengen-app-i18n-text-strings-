@@ -1263,5 +1263,6 @@
   "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Innskudd",
   "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Ta ut",
   "category_picker_new": "PLZ_TRANSLATE Ny",
-  "choose": "PLZ_TRANSLATE Velge"
+  "choose": "PLZ_TRANSLATE Velge",
+  "pick_category": "PLZ_TRANSLATE Velg kategori"
 }

@@ -1263,5 +1263,6 @@
   "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Borg",
   "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Onttrekken",
   "category_picker_new": "PLZ_TRANSLATE nieuwe",
-  "choose": "PLZ_TRANSLATE Kiezen"
+  "choose": "PLZ_TRANSLATE Kiezen",
+  "pick_category": "PLZ_TRANSLATE Kies categorie"
 }

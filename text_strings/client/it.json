@@ -1263,5 +1263,6 @@
   "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Depositare",
   "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Ritirare",
   "category_picker_new": "PLZ_TRANSLATE Nuovo",
-  "choose": "PLZ_TRANSLATE Scegliere"
+  "choose": "PLZ_TRANSLATE Scegliere",
+  "pick_category": "PLZ_TRANSLATE Scegli la categoria"
 }
