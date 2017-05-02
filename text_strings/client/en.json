@@ -1262,5 +1262,6 @@
   "deposit_withdraw_button": "Perform",
   "deposit_withdraw_deposit_button": "Deposit",
   "deposit_withdraw_withdraw_button": "Withdraw",
-  "category_picker_new": "New"
+  "category_picker_new": "New",
+  "choose": "Choose"
 }

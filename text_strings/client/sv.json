@@ -1273,5 +1273,6 @@
   "deposit_withdraw_button": "Utför",
   "deposit_withdraw_deposit_button": "Insättning",
   "deposit_withdraw_withdraw_button": "Utlägg",
-  "category_picker_new": "Ny"
+  "category_picker_new": "Ny",
+  "choose": "Välj"
 }

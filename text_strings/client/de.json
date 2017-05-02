@@ -1262,5 +1262,6 @@
   "deposit_withdraw_button": "PLZ_TRANSLATE Ausführen",
   "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Anzahlung",
   "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Abheben",
-  "category_picker_new": "PLZ_TRANSLATE Neu"
+  "category_picker_new": "PLZ_TRANSLATE Neu",
+  "choose": "PLZ_TRANSLATE Wählen"
 }

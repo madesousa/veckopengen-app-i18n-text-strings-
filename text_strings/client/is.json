@@ -1262,5 +1262,6 @@
   "deposit_withdraw_button": "PLZ_TRANSLATE Framkvæma",
   "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Innborgun",
   "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Afturkalla",
-  "category_picker_new": "PLZ_TRANSLATE Nýtt"
+  "category_picker_new": "PLZ_TRANSLATE Nýtt",
+  "choose": "PLZ_TRANSLATE Veldu"
 }

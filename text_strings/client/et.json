@@ -1262,5 +1262,6 @@
   "deposit_withdraw_button": "PLZ_TRANSLATE täitma",
   "deposit_withdraw_deposit_button": "PLZ_TRANSLATE deposiit",
   "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE tagasi võtma",
-  "category_picker_new": "PLZ_TRANSLATE uus"
+  "category_picker_new": "PLZ_TRANSLATE uus",
+  "choose": "PLZ_TRANSLATE valima"
 }
