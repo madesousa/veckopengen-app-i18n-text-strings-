@@ -1258,5 +1258,9 @@
   "add_category_text_title": "PLZ_TRANSLATE Mis on kategooria nimega?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d tähemärki",
   "add_category_text_placeholder": "PLZ_TRANSLATE Kategooria nimi",
-  "invite_with_ble": "PLZ_TRANSLATE Sinu lähedal"
+  "invite_with_ble": "PLZ_TRANSLATE Sinu lähedal",
+  "deposit_withdraw_button": "PLZ_TRANSLATE täitma",
+  "deposit_withdraw_deposit_button": "PLZ_TRANSLATE deposiit",
+  "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE tagasi võtma",
+  "category_picker_new": "PLZ_TRANSLATE uus"
 }

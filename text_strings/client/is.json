@@ -1258,5 +1258,9 @@
   "add_category_text_title": "PLZ_TRANSLATE Hvað er flokkurinn sem heitir?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d stafir",
   "add_category_text_placeholder": "PLZ_TRANSLATE Flokkur heiti",
-  "invite_with_ble": "PLZ_TRANSLATE Nálægt þér"
+  "invite_with_ble": "PLZ_TRANSLATE Nálægt þér",
+  "deposit_withdraw_button": "PLZ_TRANSLATE Framkvæma",
+  "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Innborgun",
+  "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Afturkalla",
+  "category_picker_new": "PLZ_TRANSLATE Nýtt"
 }

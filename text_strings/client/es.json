@@ -1258,5 +1258,9 @@
   "add_category_text_title": "PLZ_TRANSLATE ¿Cómo se llama la categoría?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d personajes",
   "add_category_text_placeholder": "PLZ_TRANSLATE Nombre de la categoría",
-  "invite_with_ble": "PLZ_TRANSLATE Cerca de usted"
+  "invite_with_ble": "PLZ_TRANSLATE Cerca de usted",
+  "deposit_withdraw_button": "PLZ_TRANSLATE Realizar",
+  "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Depositar",
+  "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Retirar",
+  "category_picker_new": "PLZ_TRANSLATE Nuevo"
 }

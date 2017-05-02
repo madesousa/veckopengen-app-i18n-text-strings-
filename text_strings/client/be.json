@@ -1258,5 +1258,9 @@
   "add_category_text_title": "PLZ_TRANSLATE Што такое катэгорыя называецца?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d сімвалаў",
   "add_category_text_placeholder": "PLZ_TRANSLATE назву катэгорыі",
-  "invite_with_ble": "PLZ_TRANSLATE Побач з вамі"
+  "invite_with_ble": "PLZ_TRANSLATE Побач з вамі",
+  "deposit_withdraw_button": "PLZ_TRANSLATE выконваць",
+  "deposit_withdraw_deposit_button": "PLZ_TRANSLATE дэпазіт",
+  "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE адклікаць",
+  "category_picker_new": "PLZ_TRANSLATE новы"
 }

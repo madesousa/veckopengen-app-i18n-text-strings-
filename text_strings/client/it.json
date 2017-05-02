@@ -1258,5 +1258,9 @@
   "add_category_text_title": "PLZ_TRANSLATE Qual è la categoria chiamata?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d caratteri",
   "add_category_text_placeholder": "PLZ_TRANSLATE Nome della categoria",
-  "invite_with_ble": "PLZ_TRANSLATE Vicino a te"
+  "invite_with_ble": "PLZ_TRANSLATE Vicino a te",
+  "deposit_withdraw_button": "PLZ_TRANSLATE Eseguire",
+  "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Depositare",
+  "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Ritirare",
+  "category_picker_new": "PLZ_TRANSLATE Nuovo"
 }

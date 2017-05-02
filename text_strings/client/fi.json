@@ -1258,5 +1258,9 @@
   "add_category_text_title": "PLZ_TRANSLATE Mikä luokka nimeltään?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d merkkiä",
   "add_category_text_placeholder": "PLZ_TRANSLATE Kategorian nimi",
-  "invite_with_ble": "PLZ_TRANSLATE Lähellä sinua"
+  "invite_with_ble": "PLZ_TRANSLATE Lähellä sinua",
+  "deposit_withdraw_button": "PLZ_TRANSLATE Suorittaa",
+  "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Tallettaa",
+  "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Peruuttaa",
+  "category_picker_new": "PLZ_TRANSLATE Uusi"
 }

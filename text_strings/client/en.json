@@ -1258,5 +1258,9 @@
   "add_category_text_title": "What is the category called?",
   "add_category_text_help": "MAX %1$d characters",
   "add_category_text_placeholder": "Category name",
-  "invite_with_ble": "Near you"
+  "invite_with_ble": "Near you",
+  "deposit_withdraw_button": "Perform",
+  "deposit_withdraw_deposit_button": "Deposit",
+  "deposit_withdraw_withdraw_button": "Withdraw",
+  "category_picker_new": "New"
 }

@@ -1258,5 +1258,9 @@
   "add_category_text_title": "Quel est le nom de la catégorie?",
   "add_category_text_help": "MAX %1$d caractères",
   "add_category_text_placeholder": "Nom de la catégorie",
-  "invite_with_ble": "A proximité"
+  "invite_with_ble": "A proximité",
+  "deposit_withdraw_button": "PLZ_TRANSLATE Effectuer",
+  "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Dépôt",
+  "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Se désister",
+  "category_picker_new": "PLZ_TRANSLATE Nouveau"
 }

@@ -1258,5 +1258,9 @@
   "add_category_text_title": "Hvad hedder kategorien?",
   "add_category_text_help": "MAX %1$d tegn",
   "add_category_text_placeholder": "Navn på kategorien",
-  "invite_with_ble": " I nærheden af dig"
+  "invite_with_ble": " I nærheden af dig",
+  "deposit_withdraw_button": "PLZ_TRANSLATE Udføre",
+  "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Depositum",
+  "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Træk",
+  "category_picker_new": "PLZ_TRANSLATE Ny"
 }

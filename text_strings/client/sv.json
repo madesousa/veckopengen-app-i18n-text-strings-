@@ -1269,5 +1269,9 @@
   "add_category_text_title": "Vad ska kategorin heta?",
   "add_category_text_help": "MAX %1$d tecken",
   "add_category_text_placeholder": "Kategorinamn",
-  "invite_with_ble": "I närheten"
+  "invite_with_ble": "I närheten",
+  "deposit_withdraw_button": "Utför",
+  "deposit_withdraw_deposit_button": "Insättning",
+  "deposit_withdraw_withdraw_button": "Utlägg",
+  "category_picker_new": "Ny"
 }

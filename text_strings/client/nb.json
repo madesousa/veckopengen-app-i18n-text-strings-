@@ -1258,5 +1258,9 @@
   "add_category_text_title": "PLZ_TRANSLATE Hva heter kategorien?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d tegn",
   "add_category_text_placeholder": "PLZ_TRANSLATE Kategori navn",
-  "invite_with_ble": "PLZ_TRANSLATE I nærheten av deg"
+  "invite_with_ble": "PLZ_TRANSLATE I nærheten av deg",
+  "deposit_withdraw_button": "PLZ_TRANSLATE Utføre",
+  "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Innskudd",
+  "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Ta ut",
+  "category_picker_new": "PLZ_TRANSLATE Ny"
 }

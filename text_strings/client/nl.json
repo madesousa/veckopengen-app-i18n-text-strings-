@@ -1258,5 +1258,9 @@
   "add_category_text_title": "PLZ_TRANSLATE Wat heet de categorie?",
   "add_category_text_help": "PLZ_TRANSLATE MAX %1$d tekens",
   "add_category_text_placeholder": "PLZ_TRANSLATE Categorie naam",
-  "invite_with_ble": "PLZ_TRANSLATE Dichtbij jou"
+  "invite_with_ble": "PLZ_TRANSLATE Dichtbij jou",
+  "deposit_withdraw_button": "PLZ_TRANSLATE Uitvoeren",
+  "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Borg",
+  "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Onttrekken",
+  "category_picker_new": "PLZ_TRANSLATE nieuwe"
 }
