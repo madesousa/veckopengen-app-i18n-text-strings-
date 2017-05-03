@@ -127,7 +127,7 @@
   "template_description_brush_teeth": "Brossez-vous les dents",
   "template_title_empty_litter": "Litière vide",
   "template_description_empty_litter": "Litière vide et en ordre",
-  "template_title_tuck_siblings": "PLZ_CHECK Rester frère et soeurs",
+  "template_title_tuck_siblings": "Mettre ses frères et soeurs au lit",
   "template_description_tuck_siblings": "Mettez vos petits frères et soeurs au lit",
   "template_title_shovel_snow": "Pelleter la neige",
   "template_description_shovel_snow": "Pelletez l'allée et autour de la voiture",
@@ -146,7 +146,7 @@
   "template_title_wood_mountain_special": "Bâtir une tour de bûches",
   "template_description_wood_mountain_special": "Bâtissez une tour de bûches, la plus haute que possible. Prenez une photo de la tour.",
   "template_title_angel_mountain_special": "Faire un bonhomme de neige",
-  "template_description_angel_mountain_special": "Faites un ange en bougeant vos bras et vos jambes sur le sol plein de neige. Par la suite, prenez une photo de l'ange.",
+  "template_description_angel_mountain_special": "Faites un ange en bougeant vos bras et vos jambes sur le sol plein de neige. Prenez ensuite une photo de l'ange.",
   "template_title_junk_mountain_special": "Ramasser la poubelle et la jeter ailleurs",
   "template_description_junk_mountain_special": "Ramassez les ordures et jetez-les dans la poubelle la plus proche, prenez-vous en photo pendant que vous le faites.",
   "template_title_dish_mountain_special": "Laver la vaisselle",
@@ -163,8 +163,8 @@
   "template_description_breakfast_surprise": "Surprenez vos parents avec un délicieux petit-déjeuner de week-end!",
   "template_title_treehouse": " Construire une maison dans un arbre",
   "template_description_treehouse": " Construire une maison en plein air avec des amis ou des frères et sœurs.",
-  "template_title_handstand": "PLZ_CHECK Prendre une main 10 fois",
-  "template_description_handstand": "Faites un support de main libre ou contre un mur. Demandez à un adulte pour obtenir de l'aide.",
+  "template_title_handstand": "Tenir l'équilibre sur les mains 10 fois",
+  "template_description_handstand": "Faites un équilibre sur vos mains sans appui ou contre un mur. Demandez à un adulte de vous aider.",
   "template_title_hide_and_seek_outside": "Cache-cache à l'extérieur",
   "template_description_hide_and_seek_outside": "Rassemblez un groupe d'amis et participez au jeu de cache-cache!"
 }
