@@ -1231,7 +1231,7 @@
   "savings_goal_edit_sponsor_input_title": "Votre partie",
   "activate": "Activer",
   "parent_help": "Aide parentale",
-  "parent_help_label": "PLZ_TRANSLATE Föräldrahjälp",
+  "parent_help_label": "Aide parentale",
   "savings_goal_edit_no_sponsor_description": "Vous avez choisi de ne pas aider votre enfant à atteindre son objectif d'épargne.",
   "savings_goal_item_sponsored_parent": "Vous êtes en train d'aider avec %1$d%",
   "savings_goal_item_sponsored_child": "L'aide parentale est active. Vous êtes soutenu avec %1$d",
@@ -1260,9 +1260,9 @@
   "add_category_text_placeholder": "Nom de la catégorie",
   "invite_with_ble": "A proximité",
   "deposit_withdraw_button": "PLZ_TRANSLATE Effectuer",
-  "deposit_withdraw_deposit_button": "PLZ_TRANSLATE Dépôt",
+  "deposit_withdraw_deposit_button": "Dépôt",
   "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Se désister",
   "category_picker_new": "PLZ_TRANSLATE Nouveau",
-  "choose": "PLZ_TRANSLATE Choisir",
-  "pick_category": "PLZ_TRANSLATE Choisir une catégorie"
+  "choose": "Choisir",
+  "pick_category": "Choisir une catégorie"
 }
