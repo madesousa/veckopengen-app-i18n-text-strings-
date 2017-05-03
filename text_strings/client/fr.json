@@ -1231,7 +1231,7 @@
   "savings_goal_edit_sponsor_input_title": "Votre partie",
   "activate": "Activer",
   "parent_help": "Aide parentale",
-  "parent_help_label": "Föräldrahjälp",
+  "parent_help_label": "PLZ_TRANSLATE Föräldrahjälp",
   "savings_goal_edit_no_sponsor_description": "Vous avez choisi de ne pas aider votre enfant à atteindre son objectif d'épargne.",
   "savings_goal_item_sponsored_parent": "Vous êtes en train d'aider avec %1$d%",
   "savings_goal_item_sponsored_child": "L'aide parentale est active. Vous êtes soutenu avec %1$d",
