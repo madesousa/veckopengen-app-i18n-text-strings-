@@ -803,7 +803,7 @@
   "short_friday": "Fri",
   "short_saturday": "Sat",
   "short_sunday": "Sun",
-  "create_wishlist_child": "Create a wishlist for Christmas",
+  "create_wishlist_christmas": "Create a wishlist for Christmas",
   "wishlist_nav_text_parent": "%1$d´s wishlist",
   "wishlist_nav_text_child": "My wishlist",
   "overview_child_item_not_connected_text": "Connect to a family member",

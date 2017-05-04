@@ -803,7 +803,7 @@
   "short_friday": "Ven",
   "short_saturday": "Sam",
   "short_sunday": "Dim",
-  "create_wishlist_child": "Créer une liste de souhaits pour Noël",
+  "create_wishlist_christmas": "Créer une liste de souhaits pour Noël",
   "wishlist_nav_text_parent": "Liste de souhaits de %1$d ",
   "wishlist_nav_text_child": "Ma liste de souhaits",
   "overview_child_item_not_connected_text": "Se connecter à un membre de la famille",

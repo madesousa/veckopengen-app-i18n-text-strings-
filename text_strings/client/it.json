@@ -803,7 +803,7 @@
   "short_friday": "PLZ_TRANSLATE Fri",
   "short_saturday": "PLZ_TRANSLATE Sat",
   "short_sunday": "PLZ_TRANSLATE Sun",
-  "create_wishlist_child": "PLZ_TRANSLATE Create a wishlist for Christmas",
+  "create_wishlist_christmas": "PLZ_TRANSLATE Create a wishlist for Christmas",
   "wishlist_nav_text_parent": "PLZ_TRANSLATE %1$d´s wishlist",
   "wishlist_nav_text_child": "PLZ_TRANSLATE My wishlist",
   "overview_child_item_not_connected_text": "PLZ_TRANSLATE Connect to a family member",
