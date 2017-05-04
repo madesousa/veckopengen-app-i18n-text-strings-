@@ -1267,5 +1267,6 @@
   "pick_category": "Choose category",
   "hour_suffix": "h",
   "minute_suffix": "m",
-  "day_suffix": "d"
+  "day_suffix": "d",
+  "goal_editor_save_coming": "Create upcoming goal"
 }
