@@ -1264,5 +1264,8 @@
   "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Ritirare",
   "category_picker_new": "PLZ_TRANSLATE Nuovo",
   "choose": "PLZ_TRANSLATE Scegliere",
-  "pick_category": "PLZ_TRANSLATE Scegli la categoria"
+  "pick_category": "PLZ_TRANSLATE Scegli la categoria",
+  "hour_suffix": "h",
+  "minute_suffix": "m",
+  "day_suffix": "d"
 }

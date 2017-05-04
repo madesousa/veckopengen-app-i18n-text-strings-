@@ -1264,5 +1264,8 @@
   "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE адклікаць",
   "category_picker_new": "PLZ_TRANSLATE новы",
   "choose": "PLZ_TRANSLATE выбіраць",
-  "pick_category": "PLZ_TRANSLATE выберыце катэгорыю"
+  "pick_category": "PLZ_TRANSLATE выберыце катэгорыю",
+  "hour_suffix": "h",
+  "minute_suffix": "m",
+  "day_suffix": "d"
 }

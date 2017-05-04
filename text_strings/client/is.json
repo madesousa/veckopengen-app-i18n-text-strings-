@@ -1264,5 +1264,8 @@
   "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Afturkalla",
   "category_picker_new": "PLZ_TRANSLATE Nýtt",
   "choose": "PLZ_TRANSLATE Veldu",
-  "pick_category": "PLZ_TRANSLATE Veldu flokk"
+  "pick_category": "PLZ_TRANSLATE Veldu flokk",
+  "hour_suffix": "h",
+  "minute_suffix": "m",
+  "day_suffix": "d"
 }

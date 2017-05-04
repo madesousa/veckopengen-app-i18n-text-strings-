@@ -1275,5 +1275,8 @@
   "deposit_withdraw_withdraw_button": "Utlägg",
   "category_picker_new": "Ny",
   "choose": "Välj",
-  "pick_category": "Välj kategori"
+  "pick_category": "Välj kategori",
+  "hour_suffix": "h",
+  "minute_suffix": "m",
+  "day_suffix": "d"
 }

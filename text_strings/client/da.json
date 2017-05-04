@@ -1264,5 +1264,8 @@
   "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Træk",
   "category_picker_new": "PLZ_TRANSLATE Ny",
   "choose": "PLZ_TRANSLATE Vælge",
-  "pick_category": "PLZ_TRANSLATE Vælg kategori"
+  "pick_category": "PLZ_TRANSLATE Vælg kategori",
+  "hour_suffix": "h",
+  "minute_suffix": "m",
+  "day_suffix": "d"
 }

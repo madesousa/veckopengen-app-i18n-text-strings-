@@ -1264,5 +1264,8 @@
   "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE tagasi võtma",
   "category_picker_new": "PLZ_TRANSLATE uus",
   "choose": "PLZ_TRANSLATE valima",
-  "pick_category": "PLZ_TRANSLATE Vali kategooria"
+  "pick_category": "PLZ_TRANSLATE Vali kategooria",
+  "hour_suffix": "h",
+  "minute_suffix": "m",
+  "day_suffix": "d"
 }

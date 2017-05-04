@@ -1264,5 +1264,8 @@
   "deposit_withdraw_withdraw_button": "Withdraw",
   "category_picker_new": "New",
   "choose": "Choose",
-  "pick_category": "Choose category"
+  "pick_category": "Choose category",
+  "hour_suffix": "h",
+  "minute_suffix": "m",
+  "day_suffix": "d"
 }

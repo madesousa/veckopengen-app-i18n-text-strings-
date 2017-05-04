@@ -1264,5 +1264,8 @@
   "deposit_withdraw_withdraw_button": "PLZ_TRANSLATE Peruuttaa",
   "category_picker_new": "PLZ_TRANSLATE Uusi",
   "choose": "PLZ_TRANSLATE Valita",
-  "pick_category": "PLZ_TRANSLATE valitse tuoteryhmä"
+  "pick_category": "PLZ_TRANSLATE valitse tuoteryhmä",
+  "hour_suffix": "h",
+  "minute_suffix": "m",
+  "day_suffix": "d"
 }
