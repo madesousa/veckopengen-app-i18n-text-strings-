@@ -1268,5 +1268,6 @@
   "hour_suffix": "h",
   "minute_suffix": "m",
   "day_suffix": "d",
-  "goal_editor_save_coming": "PLZ_TRANSLATE Luo tuleva tavoite"
+  "goal_editor_save_coming": "PLZ_TRANSLATE Luo tuleva tavoite",
+  "happy_birthday": "PLZ_TRANSLATE Hyvää syntymäpäivää!"
 }

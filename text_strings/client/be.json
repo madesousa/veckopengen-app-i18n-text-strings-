@@ -1268,5 +1268,6 @@
   "hour_suffix": "h",
   "minute_suffix": "m",
   "day_suffix": "d",
-  "goal_editor_save_coming": "PLZ_TRANSLATE Стварэнне маючай мэты"
+  "goal_editor_save_coming": "PLZ_TRANSLATE Стварэнне маючай мэты",
+  "happy_birthday": "PLZ_TRANSLATE З Днём Нараджэння!"
 }

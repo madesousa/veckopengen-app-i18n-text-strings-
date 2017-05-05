@@ -1268,5 +1268,6 @@
   "hour_suffix": "h",
   "minute_suffix": "m",
   "day_suffix": "j",
-  "goal_editor_save_coming": "Créer un prochain objectif"
+  "goal_editor_save_coming": "Créer un prochain objectif",
+  "happy_birthday": "PLZ_TRANSLATE Bon anniversaire!"
 }
