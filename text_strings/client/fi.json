@@ -1265,9 +1265,9 @@
   "category_picker_new": "PLZ_TRANSLATE Uusi",
   "choose": "PLZ_TRANSLATE Valita",
   "pick_category": "PLZ_TRANSLATE valitse tuoteryhmä",
-  "hour_suffix": "h",
+  "hour_suffix": "t",
   "minute_suffix": "m",
-  "day_suffix": "d",
+  "day_suffix": "p",
   "goal_editor_save_coming": "PLZ_TRANSLATE Luo tuleva tavoite",
   "happy_birthday": "PLZ_TRANSLATE Hyvää syntymäpäivää!"
 }
