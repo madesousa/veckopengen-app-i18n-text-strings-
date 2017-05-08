@@ -288,8 +288,6 @@
   "trans_allowance_to_external_account": "%1$d er blevet overført %1$d til bankkonto",
   "todays_bonus": "Dagens bonus blev <b>%1$d</b>",
   "expense_popover_instructions": "Vælg det beløb som skal overføres fra sparegrisen",
-  "trustly_settings_monthly_low_day": ":a",
-  "trustly_settings_monthly_high_day": ":e",
   "autogiro": "Aktivere direct debit:",
   "on": "på ",
   "on_the": "den ",

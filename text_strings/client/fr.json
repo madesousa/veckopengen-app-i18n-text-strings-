@@ -288,8 +288,6 @@
   "trans_allowance_to_external_account": "%1$d a été transféré au compte bancaire de %2$d",
   "todays_bonus": "Le bonus d'aujourd'hui était <b>%1$d</b>",
   "expense_popover_instructions": "Choisir un montant à retirer de la tirelire",
-  "trustly_settings_monthly_low_day": "er",
-  "trustly_settings_monthly_high_day": "ème",
   "autogiro": "Activer le débit direct",
   "on": "le ",
   "on_the": "le ",

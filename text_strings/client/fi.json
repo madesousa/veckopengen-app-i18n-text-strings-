@@ -288,8 +288,6 @@
   "trans_allowance_to_external_account": "%1$d siirrettiin %2$d:n pankkitilille",
   "todays_bonus": "Päivän bonus on <b>%1$d</b>",
   "expense_popover_instructions": "Ilmoita säästöpossusta otettava summa",
-  "trustly_settings_monthly_low_day": ".",
-  "trustly_settings_monthly_high_day": ".",
   "autogiro": "Aktivoi automaattinen tilisiirto:",
   "on": "päivänä ",
   "on_the": "päivä ",

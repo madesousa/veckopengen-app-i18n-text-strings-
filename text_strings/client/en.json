@@ -288,8 +288,6 @@
   "trans_allowance_to_external_account": "%1$d was transfererd %2$d to bank account",
   "todays_bonus": "Todays bonus was <b>%1$d</b>",
   "expense_popover_instructions": "Choose an amount to be drawn from the piggy bank",
-  "trustly_settings_monthly_low_day": "st",
-  "trustly_settings_monthly_high_day": "th",
   "autogiro": "Activate direct debit:",
   "on": "on ",
   "on_the": "the ",
