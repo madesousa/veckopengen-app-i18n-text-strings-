@@ -264,7 +264,7 @@
   "new_calculated_savings_popover_child_slide4": "%1$d %2$d:sta ",
   "reached_goals": "Saavutetut säästötavoitteet",
   "popover_adult_slider_text_no_money": "Tervetuloa säästöpossulle",
-  "aint_no_money_desc": "Säästä kohteesta %4$s, tee tehtäviä tai pyydä vanhemmiltasi pientä kasvusummaa.",
+  "aint_no_money_desc": "Säästä kohteesta %1$s, tee tehtäviä tai pyydä vanhemmiltasi pientä kasvusummaa.",
   "aint_no_money_month_payed": "kuukausi",
   "expense_popover_title_child": "Maksu vanhemilta",
   "expense_popover_description_child": "Paljonko rahaa olet saanut?",

@@ -264,7 +264,7 @@
   "new_calculated_savings_popover_child_slide4": "%1$d af %2$d ",
   "reached_goals": "spari markmiðum náð",
   "popover_adult_slider_text_no_money": "Velkomin í sparigrísinn",
-  "aint_no_money_desc": "Spara av din %4$s, utför uppgifter eller be dina föräldrar om en insättning för att få den att växa.",
+  "aint_no_money_desc": "Spara av din %1$s, utför uppgifter eller be dina föräldrar om en insättning för att få den att växa.",
   "aint_no_money_month_payed": "þennan mánuð",
   "expense_popover_title_child": "Utlägg av förälder",
   "expense_popover_description_child": "Hversu mikið af peningum hefur þú fengið?",

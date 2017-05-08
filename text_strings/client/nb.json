@@ -264,7 +264,7 @@
   "new_calculated_savings_popover_child_slide4": "%1$d av %2$d ",
   "reached_goals": "Oppnådde sparemål",
   "popover_adult_slider_text_no_money": "Velkommen til sparegrisen",
-  "aint_no_money_desc": "Spar av dine %4$s, utfør oppgaver eller be foreldre dine om en innsetting for å få den til å vokse.",
+  "aint_no_money_desc": "Spar av dine %1$s, utfør oppgaver eller be foreldre dine om en innsetting for å få den til å vokse.",
   "aint_no_money_month_payed": "måneden den",
   "expense_popover_title_child": "Utlegg av foreldre",
   "expense_popover_description_child": "Hvor mye penger har du fått?",
