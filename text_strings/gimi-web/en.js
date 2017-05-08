@@ -1,6 +1,7 @@
 /**
  * Created by amitava on 22/02/17.
  */
+/* eslint max-len: ["warn", 1000] */
 export default {
   'title.home': 'Gimi',
   'title.family': 'Gimi >> Family Community',
