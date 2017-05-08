@@ -440,7 +440,6 @@
   "child_settings_connections": "%1$d yhteyttä",
   "childs_settings_headline_money": "%1$d rahaa",
   "child_settings_allowance_weekly_on": "%1$d %2$d:ssa",
-  "child_settings_allowance_monthly_on": "%1$d, %2$d%3$d",
   "child_settings_interest_rate": "Säästökorko",
   "percentage_rate": "%1$d %",
   "child_settings_autosave_allowance": "Autom. tallennus ei maksettu %1$d",
@@ -1271,5 +1270,6 @@
   "goal_editor_save_coming": "Luo tuleva tavoite",
   "happy_birthday": "Hyvää syntymäpäivää!",
   "task_type_duration": "PLZ_TRANSLATE Tunnissa",
-  "default_reward_account": "PLZ_TRANSLATE palkita tili"
+  "default_reward_account": "PLZ_TRANSLATE palkita tili",
+  "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d on %2$d"
 }

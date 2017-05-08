@@ -440,7 +440,6 @@
   "child_settings_connections": "%1$d connections",
   "childs_settings_headline_money": "%1$d money",
   "child_settings_allowance_weekly_on": "%1$d on %2$d",
-  "child_settings_allowance_monthly_on": "%1$d the %2$d%3$d",
   "child_settings_interest_rate": "Interest rate",
   "percentage_rate": "%1$d %",
   "child_settings_autosave_allowance": "Autosave %1$d",
@@ -1271,5 +1270,6 @@
   "goal_editor_save_coming": "PLZ_TRANSLATE Erstellen Sie das kommende Ziel",
   "happy_birthday": "PLZ_TRANSLATE Alles Gute zum Geburtstag!",
   "task_type_duration": "PLZ_TRANSLATE Pro Stunde",
-  "default_reward_account": "PLZ_TRANSLATE Belohnungskonto"
+  "default_reward_account": "PLZ_TRANSLATE Belohnungskonto",
+  "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d auf der %2$d"
 }

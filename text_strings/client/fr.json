@@ -440,7 +440,6 @@
   "child_settings_connections": "%1$d connexions",
   "childs_settings_headline_money": "Argent de %1$d",
   "child_settings_allowance_weekly_on": "%1$d le %2$d",
-  "child_settings_allowance_monthly_on": "%1$d le %2$d%3$d",
   "child_settings_interest_rate": "Taux d'intérêt",
   "percentage_rate": "%1$d %",
   "child_settings_autosave_allowance": "Auto épargne %1$d",
@@ -1271,5 +1270,6 @@
   "goal_editor_save_coming": "Créer un prochain objectif",
   "happy_birthday": "PLZ_TRANSLATE Bon anniversaire!",
   "task_type_duration": "PLZ_TRANSLATE Par heure",
-  "default_reward_account": "PLZ_TRANSLATE Compte de récompense"
+  "default_reward_account": "PLZ_TRANSLATE Compte de récompense",
+  "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d sur le %2$d"
 }

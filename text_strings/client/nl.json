@@ -440,7 +440,6 @@
   "child_settings_connections": "%1$d connecties",
   "childs_settings_headline_money": "%1$d geld",
   "child_settings_allowance_weekly_on": "%1$d op %2$d",
-  "child_settings_allowance_monthly_on": "%1$d de %2$d%3$d",
   "child_settings_interest_rate": "Interest",
   "percentage_rate": "%1$d %",
   "child_settings_autosave_allowance": "Automatisch opslaan %1$d",
@@ -1271,5 +1270,6 @@
   "goal_editor_save_coming": "PLZ_TRANSLATE Maak een komend doel",
   "happy_birthday": "PLZ_TRANSLATE Fijne verjaardag!",
   "task_type_duration": "PLZ_TRANSLATE Per uur",
-  "default_reward_account": "PLZ_TRANSLATE Beloning account"
+  "default_reward_account": "PLZ_TRANSLATE Beloning account",
+  "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d op de %2$d"
 }
