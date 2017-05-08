@@ -129,5 +129,6 @@
   "push_new_weekly_tasks_2": "Kolla! Du har fått nya uppgifter!",
   "push_new_weekly_tasks_3": "Kolla! Du har fått nya uppgifter!",
   "push_new_weekly_tasks_4": "Kolla! Du har fått nya uppgifter!",
-  "push_goal_activated": "PLZ_TRANSLATE {goal.updated_by.name} a activé l'objectif d'économie {goal.title}."
+  "push_goal_activated": "PLZ_TRANSLATE {goal.updated_by.name} a activé l'objectif d'économie {goal.title}.",
+  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} a sponsorisé l'objectif d'économie {goal.title} avec {goal.sponsored_amount_str}!"
 }

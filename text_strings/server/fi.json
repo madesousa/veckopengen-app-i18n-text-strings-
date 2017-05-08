@@ -129,5 +129,6 @@
   "push_new_weekly_tasks_2": "Katso! Olet saanut uusia tehtäviä!",
   "push_new_weekly_tasks_3": "Katso! Olet saanut uusia tehtäviä!",
   "push_new_weekly_tasks_4": "Katso! Olet saanut uusia tehtäviä!",
-  "push_goal_activated": "PLZ_TRANSLATE {goal.updated_by.name} on aktivoitu säästöt maalin {goal.title}."
+  "push_goal_activated": "PLZ_TRANSLATE {goal.updated_by.name} on aktivoitu säästöt maalin {goal.title}.",
+  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} sponsoroi säästöistä maalia {goal.title} kanssa {goal.sponsored_amount_str}!"
 }
