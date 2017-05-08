@@ -130,5 +130,5 @@
   "push_new_weekly_tasks_3": "Hey! You have new tasks!",
   "push_new_weekly_tasks_4": "Hey! You have new tasks!",
   "push_goal_activated": "{goal.updated_by.name} has activated savings goal {goal.title}.",
-  "push_goal_sponsored": "{goal.updated_by.name} sponsored the savings goal {goal.title} with {goal.sponsored_amount_str}!"
+  "push_goal_sponsored": "{goal.updated_by.name} sponsored the savings goal {goal.title}!"
 }

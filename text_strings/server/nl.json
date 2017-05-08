@@ -130,5 +130,5 @@
   "push_new_weekly_tasks_3": "Hey! Je hebt nieuwe taken!",
   "push_new_weekly_tasks_4": "Hey! Je hebt nieuwe taken!",
   "push_goal_activated": " {goal.updated_by.name} heeft besparingen doel {goal.title} geactiveerd.",
-  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} heeft de doelstelling {goal.title} gesponsord met {goal.sponsored_amount_str}!"
+  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} sponsored the savings doel {goal.title}!"
 }

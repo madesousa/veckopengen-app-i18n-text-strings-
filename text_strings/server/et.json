@@ -130,5 +130,5 @@
   "push_new_weekly_tasks_3": "PLZ_TRANSLATE Hey! You have new tasks!",
   "push_new_weekly_tasks_4": "PLZ_TRANSLATE Hey! You have new tasks!",
   "push_goal_activated": "PLZ_TRANSLATE {goal.updated_by.name} on aktiveeritud säästukalkulaator {goal.title}.",
-  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} sponsoreeritud säästukalkulaator {goal.title} koos {goal.sponsored_amount_str}!"
+  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} sponsoreeritud säästukalkulaator {goal.title}!"
 }
