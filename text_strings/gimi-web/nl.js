@@ -145,29 +145,29 @@ export default {
   'training.tab1.title': 'Money & decisions',
   'training.tab1.header': 'You can’t just go to a ATM if you are out of money',
   'training.tab1.content': `
-  <p><strong>Introduce and be someone you can rely on if children wants advice or talk</strong><br/>
-      Most children get their first weekly pocket money at the age between 7-10 years. The weekly
-      pocket money is normally around 20 kr at that age. When the child gets older and more mature,
-      you can raise the weekly pocket money and after a while go over to monthly pocket money. Don’t
-      just hand out the money. It’s important that you as a parent discuss with your children. Are
-      they happy about their choices and how well have they spent their money?</p>
-  <p><strong>The dinner table is not wrong<br/>
-  </strong>Talking about money during dinner time is not wrong. Money should be funny and not related
-      to anxiety when the child wants to buy something new and there is no money left. Many tough
-      discussions between children and parents are related to money. Thats’s why you should talk about
-      money continuous and not only when the wallet is totally empty.</p>
-  <p><strong>Negotiate with your children<br/>
-  </strong>Negotiations are important so that parents and children agree on what the money should
-      cover from time to time. Weekly pocket money that covers a child&#8217;s purchases and at the
-      same time gives an opportunity to save some money is recommended.</p>
-  <p><strong>When there is no more money: Say no<br/>
-  </strong>When you have agreed about the weekly and monthly pocket money, the children can take
-      responsibility for what they can buy and what they will do with their savings. At time specific
-      occations the children can expect their weekly or monthly pocket money.  The children will
-      therefor be able to predispose their own money and take responsibility for what they purchase.
-      If the money runs out, the children will have to wait for their next weekly or monthly pocket
-      money.</p>
-  <p><strong>Let your children buy the ”wrong” stuff<br/>
+        <p><strong>Introduce and be someone you can rely on if children wants advice or talk</strong><br/>
+            Most children get their first weekly pocket money at the age between 7-10 years. The weekly
+            pocket money is normally around 20 kr at that age. When the child gets older and more mature,
+            you can raise the weekly pocket money and after a while go over to monthly pocket money. Don’t
+            just hand out the money. It’s important that you as a parent discuss with your children. Are
+            they happy about their choices and how well have they spent their money?</p>
+        <p><strong>The dinner table is not wrong<br/>
+        </strong>Talking about money during dinner time is not wrong. Money should be funny and not related
+            to anxiety when the child wants to buy something new and there is no money left. Many tough
+            discussions between children and parents are related to money. Thats’s why you should talk about
+            money continuous and not only when the wallet is totally empty.</p>
+        <p><strong>Negotiate with your children<br/>
+        </strong>Negotiations are important so that parents and children agree on what the money should
+            cover from time to time. Weekly pocket money that covers a child&#8217;s purchases and at the
+            same time gives an opportunity to save some money is recommended.</p>
+        <p><strong>When there is no more money: Say no<br/>
+        </strong>When you have agreed about the weekly and monthly pocket money, the children can take
+            responsibility for what they can buy and what they will do with their savings. At time specific
+            occations the children can expect their weekly or monthly pocket money. The children will
+            therefor be able to predispose their own money and take responsibility for what they purchase.
+            If the money runs out, the children will have to wait for their next weekly or monthly pocket
+            money.</p>
+        <p><strong>Let your children buy the ”wrong” stuff<br/>
         </strong>The youngest children buy candy for most of their weekly pocket money. For boys are tv- and
             computer games most common and for girls, make-up and clothes are most common. It’s important
             that, if you as a parent don’t like your child&#8217;s purcheases, you still have to allow them
@@ -184,7 +184,7 @@ export default {
   'training.tab2.title': 'Digital appliances',
   'training.tab2.header': 'Apps and digital appliances give the children a good base for learning.',
   'training.tab2.content': `
-        <p><strong>Learning which is not damageable<br/>
+        <p><strong>Learning which is not damageable<br/>
             </strong>Det finns ingen forskning som visar att det skulle vara skadligt för barn, stora som små,
                 att använda en surfplatta eller mobil. Att surfplattan eller mobilen ska sända ut skadlig
                 strålning eller göra att ett barn på något sätt får sämre inlärning är bara en myt. Det finns
@@ -197,7 +197,7 @@ export default {
                 av många som skamligt. På samma sätt som vi har skepsis mot mobiler och surfplattor har vi
                 bemött boken och tv:n när de var nya i samhället. Men låt inte dina egna ideal av barndomen
                 styra.</p>
-            <p><strong>Money in the phone<br/>
+            <p><strong>Money in the phone<br/>
             </strong>The easiest way for adults to keep control over the money is looking at the mobile. So this
                 should be the same for children. Today, most children have their own mobile phones and have a
                 good understanding for its use and functions. Therefore it is important that they also can
@@ -210,7 +210,7 @@ export default {
                 One out of ten youths says that they have bought something at the internet that they thought was
                 free. Every second youth has at the same time bought something from the internet within the last
                 three months.</p>
-            <p><strong>Let the digital accentuate creativity</strong><br/>
+            <p><strong>Let the digital accentuate creativity</strong><br/>
                 Mobile phones and tablets inhibit the creativity amongst children, compared to for example Lego.
                 This is a myth. If you take a closer look at a package from Lego, those it give you all the
                 instructions what to do. Compare that to Minecraft for example, where there are no boundaries
@@ -229,40 +229,40 @@ export default {
   'training.tab3.title': 'Practice & learning',
   'training.tab3.header': 'You can’t just go to a ATM if you are out of money',
   'training.tab3.content': `
-<p><strong>Prepare your children for the grown-up life<br/>
-  </strong>The way you can learn mathematics, balance of your mind and football is the same way that
-      you can learn to handle your economy. A good way to lear the children about economy is to give
-      them the liberty to questioning and think for themselves. If we during the childrens childhood
-      give them the opportunity to make their own choices, they will be able to achieve succesful and
-      horrible purchases. Even the bad purchases will help the children to learn and develop when it
-      comes to economy. Maybe they will change their descions next time? Give the children the liberty
-      to choose for themselves.</p>
-  <p><strong>Create the opportunity to earn an extra coin<br/>
-  </strong>By giving the children tasks at home and at school, they will be learning that getting
-      money often demands some kind of effort. When the children are earning their own money, they
-      will understand its value and a feeling of owning their own money. It can also create an
-      companionship within the family when everybody is helping out.  The children should not get paid
-      for everything they do. They can than easily think that as soon as they do something they will
-      be rewarded with money.</p>
-  <p><strong>Learn and play<br/>
-  </strong>To play with money and play games like Monopoly is a good way to introduce new terms and
-      create an understanding for expenditures and revenues. Buying/selling games at home gives the
-      children an insight with concepts like money and trade. If you have any older children they can
-      start to invest in real or fictional companies, and create a game where you compare with the
-      real tradning market. Compete and see who succeeds ”investing” money in the right company!</p>
-  <p><strong>Give a saving bonus<br/>
-  </strong>By giving the children an interest rate for their savings, you will increase the
-      opportunity that they will save money. You have come a far way learning the children about
-      moneys value if they understand that it is important to save and it will take time to achieve
-      the amount that an expensive item costs. Let the children create their own savings goals. Let
-      them know that saved money increases as time goes by. That is an realistic image for how the
-      world looks today.</p>
-  <p><strong>When the money runs out<br/>
-  </strong>Sit down and have a chat with your child if there is not enough money to buy certain items.
-      Talk about why there is to little money. Does your child get to small amounts, or does he or her
-      spend their money to easily. Unpredicted expenditures is a matter, but if you give the child the
-      impression that they always can get more money, they will never learn the money&#8217;s true
-      value.</p>
+        <p><strong>Prepare your children for the grown-up life<br/>
+            </strong>The way you can learn mathematics, balance of your mind and football is the same way that
+                you can learn to handle your economy. A good way to lear the children about economy is to give
+                them the liberty to questioning and think for themselves. If we during the childrens childhood
+                give them the opportunity to make their own choices, they will be able to achieve succesful and
+                horrible purchases. Even the bad purchases will help the children to learn and develop when it
+                comes to economy. Maybe they will change their descions next time? Give the children the liberty
+                to choose for themselves.</p>
+            <p><strong>Create the opportunity to earn an extra coin<br/>
+            </strong>By giving the children tasks at home and at school, they will be learning that getting
+                money often demands some kind of effort. When the children are earning their own money, they
+                will understand its value and a feeling of owning their own money. It can also create an
+                companionship within the family when everybody is helping out. The children should not get paid
+                for everything they do. They can than easily think that as soon as they do something they will
+                be rewarded with money.</p>
+            <p><strong>Learn and play<br/>
+            </strong>To play with money and play games like Monopoly is a good way to introduce new terms and
+                create an understanding for expenditures and revenues. Buying/selling games at home gives the
+                children an insight with concepts like money and trade. If you have any older children they can
+                start to invest in real or fictional companies, and create a game where you compare with the
+                real tradning market. Compete and see who succeeds ”investing” money in the right company!</p>
+            <p><strong>Give a saving bonus<br/>
+            </strong>By giving the children an interest rate for their savings, you will increase the
+                opportunity that they will save money. You have come a far way learning the children about
+                moneys value if they understand that it is important to save and it will take time to achieve
+                the amount that an expensive item costs. Let the children create their own savings goals. Let
+                them know that saved money increases as time goes by. That is an realistic image for how the
+                world looks today.</p>
+            <p><strong>When the money runs out<br/>
+            </strong>Sit down and have a chat with your child if there is not enough money to buy certain items.
+                Talk about why there is to little money. Does your child get to small amounts, or does he or her
+                spend their money to easily. Unpredicted expenditures is a matter, but if you give the child the
+                impression that they always can get more money, they will never learn the money&#8217;s true
+                value.</p>
     `,
   'training.tab3.person.title': 'Leg. Psychologist and leg. psychotherapist',
   'training.tab3.person.about': 'Liv has long experience from working with children, youths and families. She has also given out several books within the topic and helped families around the country.',

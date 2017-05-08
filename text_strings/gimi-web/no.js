@@ -3,331 +3,339 @@
  */
 export default {
   'title.home': 'Gimi',
-  'title.family': 'Gimi >> Opplev',
-  'title.coaching': 'Gimi >> Trening',
-  'title.news': 'Gimi >> Aktuellt',
-  'title.about': 'Gimi >> Om Oss',
+  'title.family': 'Gimi >> Family Community',
+  'title.coaching': 'Gimi >> Coaching',
+  'title.news': 'Gimi >> News',
+  'title.about': 'Gimi >> About us',
   'title.terms': 'Gimi >> Terms',
-  'title.faq': 'Gimi >> Spørsmål & svar',
+  'title.faq': 'Gimi >> FAQ',
 
-  'header.home': 'Hjem',
-  'header.family': 'OPPLEV',
-  'header.training': 'Trening',
-  'header.about': 'Om oss',
-  'header.news': 'Aktuellt',
-  'header.job': 'Jobb',
+  'header.home': 'Home',
+  'header.family': 'Family community',
+  'header.training': 'Coaching',
+  'header.about': 'About us',
+  'header.news': 'News',
+  'header.job': 'Job',
 
-  'footer.amout_paid_out': 'Utbetalte uke- og månedspenger',
-  'footer.about_companyname': 'Om Gimi',
-  'footer.about': 'Vi på Gimi jobber for at barn og unge enkelt skal kunne håndtere penger på en sunn og ansvarsfull måte. Våre verktøy skal fremheve en trygg, lærerik og morsommere privatøkonomi for både barn og foreldre.',
-  'footer.about2': 'Kontakt oss gjerne for support eller feedback: <a href="mailto:info@barnpengar.se" target="_blank">info@barnpengar.se</a>',
-  'footer.newsletter': 'Sign up for våre nyhetsbrev',
-  'footer.press': 'Media',
-  'footer.terms': ' Villkor',
-  'footer.faq': ' Frågor & svar',
+  'footer.amout_paid_out': 'Pocket money paid out',
+  'footer.about_companyname': 'About Gimi',
+  'footer.about': 'We at Gimi work to enable kids to handle money in a responsible and simple way. Our tools are meant to promote a secure, instructive and fun personal finance for kids and parents.',
+  'footer.about2': 'Please contact us for support or feedback at <a href="mailto:info@gimitheapp.com" target="_blank">info@gimitheapp.com</a>',
+  'footer.newsletter': 'Or sign up for our newsletter',
+  'footer.press': 'Press',
+  'footer.terms': 'Terms',
+  'footer.faq': 'FAQ',
 
-  'home.slide1.header': 'Dette er den nye metoden som skaper en fornuftig håndtering av uke- eller månedspenger!',
-  'home.slide1.desc': 'Woop woop! Gimi inneholder økonomiske superfunksjoner som gjør at håndteringen av penger blir morsomt og lærerikt. Både for barn og foreldre.',
-  'home.slide2.header': 'Surfkollen!',
-  'home.slide2.desc': ' <strong>Nu lanserar vi tjänsten Sufkollen tillsammans med Telenor, för att göra det lättare att hålla koll på surfen. <a href="{about}">Läs mer här!</a></strong>',
-  'home.slide3.header': 'Med familjen i fokus',
-  'home.slide3.desc': '<strong>Veckopengen har etiska regler för att hela familjen ska känna sig trygg. <em><a href="/terms" target="_blank">Läs mer om våra etiska regler här</a>.</em></strong>',
-  'home.watch': 'Visa film',
+  'home.slide1.header': 'Let’s talk money!',
+  'home.slide1.desc': 'Gimi is an app that has super financial functionalities making it fun and educational to handle money. Both for kids and parents.',
+  'home.slide2.header': 'We are the experts!',
+  'home.slide2.desc': 'Gimi\'s own experts are children aged 8-15 years. <em><a href="{about}">Learn more about the Micro Managers here.</a></em>',
+  'home.slide3.header': 'Family comes first!',
+  'home.slide3.desc': 'We have created our own Code of ethics so that the whole family can feel safe. <a href="/terms" target="_blank"><em>Read our Code of ethics here.</em></a>',
+  'home.watch': 'Show video',
 
-  'home.section1.header': 'Barnslig bra for hele familien',
-  'home.section1.desc': 'Gimis funksjoner er formet slik at barn skal kunne håndtere sine egne penger og få økonomiske superkrefter.',
-  'home.section2.header': 'Ha kontroll på ukepengene',
-  'home.section2.body': 'Foreldrene velger dag, sum og om det skal være uke- eller månedspenger. Få tips om hva som er “normale” uke- eller månedspenger pluss en påminnelse om når pengene skal utbetales.',
-  'home.section2.subheader': 'Superkraft:',
-  'home.section2.superpower': 'Barna tar ansvar og planlegger sine kjøp',
-  'home.section3.header': 'En sparegris som vokser',
-  'home.section3.body': 'Gjennom å sette en rente på sparegrispengene oppmuntrer foreldrene til sparing. Når barnet sparer sine ukepenger vokser sparegrisen og blir gladere.',
-  'home.section3.interest': '10% sparränta',
-  'home.section3.subheader': 'Superkraft:',
-  'home.section3.superpower': 'Barnet vet at sparing lønner seg',
-  'home.section4.header': 'Oppgaver med bildebevis',
-  'home.section4.body': 'Foreldrene gir barna oppgaver med potensielle belønninger. Oppgavene kan gjenta seg visse dager. Kjør “førstemann til mølla” prinsippet mellom søsken der man krever et gyldig bildebevis.',
-  'home.section4.subheader': 'Superkraft:',
-  'home.section4.superpower': 'Barna tjener sine egne penger og får en bedre forståelse for verdien av dem',
-  'home.section5.header': 'Store drømmer oppnås med sparemål',
-  'home.section5.body': 'Barn kan sette opp mål med sparingen og se hvordan kronene de sparer tar dem nærmere sine sparemål.',
-  'home.section5.superpower': 'Barna lykkes med å spare til saker de tidligere bare har drømt om',
-  'home.section5.point1': 'er spart til et tivoli-besøk',
-  'home.section5.point2': 'er spart til en spillkonsoll',
-  'home.section5.point3': 'er spart til en fotball',
-  'home.section6.download_tip': 'Last ned nå og få tilgang til superkreftene!',
-  'home.section6.button': 'Opplev Gimi',
+  'home.section1.header': 'Family financials made fun',
+  'home.section1.desc': 'Gimi has fantastic family features that allow children to handle their own money and to get economic superpowers in real life.',
+  'home.section2.header': 'Keep track of the money',
+  'home.section2.body': 'Parents choose day, sum and whether it should be weekly or monthly allowance. Get recommendations about what is an appropriate sum for the child\'s age and get notified when it\'s time to pay up.',
+  'home.section2.subheader': 'Superpower:',
+  'home.section2.superpower': 'The children take responsibility and plan their spending.',
+  'home.section3.header': 'A live piggy bank',
+  'home.section3.body': 'Parents encourage saving by putting interest in the piggy bank. When the child saves money, the piggy bank becomes happier.',
+  'home.section3.interest': '10% interest rate',
+  'home.section3.subheader': 'Superpower:',
+  'home.section3.superpower': 'The children learn that saving pays off.',
+  'home.section4.header': 'Tasks with photo evidence',
+  'home.section4.body': 'Parents hand out tasks that reward the children. The tasks can be reoccurring on specific days, demand photo evidence or as first come first serve.',
+  'home.section4.subheader': 'Superpower:',
+  'home.section4.superpower': 'The children earn their own money and better understand its value',
+  'home.section5.header': 'Saving goals for big dreams',
+  'home.section5.body': 'The children can plan their savings towards goals and see how they get closer with every penny.',
+  'home.section5.superpower': 'The children can save up to things they previously only dreamt about',
+  'home.section5.point1': 'saved for a funfair trip',
+  'home.section5.point2': 'saved for gaming console',
+  'home.section5.point3': 'saved for a football',
+  'home.section6.download_tip': 'Download now and unlock the superpowers!',
+  'home.section6.button': 'Family community',
 
-  'home.quote1': '““Hei foreldre. Er det vanskelig å bestemme seg for en bursdagsgave til barnet? Gå inn på Opplev Gimi for å se hva ditt barn sparer til akkurat nå!””',
-  'home.quote1_sub': 'Caj Westlund',
-  'home.quote1_name': 'Markedsansvarlig',
+  'home.quote1': '“Easy to use and a great way to motivate my kids!”',
+  'home.quote1_sub': '37 year old mother of two',
+  'home.quote1_name': 'Anna',
+  'home.quote2': '“I love the way my money grows over time!”',
+  'home.quote2_sub': '10 years',
+  'home.quote2_name': 'Leon',
+  'home.quote3': '“It\'s cool to have your pocket money in an app!”',
+  'home.quote3_sub': '8 years',
+  'home.quote3_name': 'Benny',
+  'home.quote4': '“Thumbs up for Gimi! It’s a great may to keep track of your promises to the kids and they get motivation to help around the house!”',
+  'home.quote4_sub': 'Dad to four',
+  'home.quote4_name': 'Thomas',
+  'home.quote5': '“An easy way to teach kids about the value of money!”',
+  'home.quote5_sub': '29 years, mom to Henry',
+  'home.quote5_name': 'Johanna',
 
-  'family.section1.header': 'Familjerna i Veckopengen',
-  'family.section1.desc': '… håller just nu på att bli självlärda superhjältar i ekonomi. De sparar, delar uppgifter och håller enkelt koll på sina vecko- och månadspengar. Här kan du följa deras resa mot att bättre kunna hantera pengar inom familjen!',
-  'family.slider1.amount': '20 kr',
-  'family.slider1.period': 'Gjennomsnitt ukepenger',
-  'family.slider1.task': 'Vask opp etter maten',
-  'family.slider1.common': 'Vanligste oppgaven',
-  'family.slider1.goal': 'Kinobesøk',
-  'family.slider1.popular': 'Mest populære sparemålet',
-  'family.slider2.amount': '26 kr',
-  'family.slider2.period': 'Gjennomsnitt ukepenger',
-  'family.slider2.task': 'Rydde rommet',
-  'family.slider2.common': 'Vanligste oppgaven',
+  'family.section1.header': 'The family members...',
+  'family.section1.desc': '…are becoming self-taught superheroes in family finance. They save, share tasks and keep track of their weekly and monthly pocket money. Here you can follow their journey towards better money management in the family.',
+  'family.slider1.amount': '3 $',
+  'family.slider1.period': 'Average weekly allowance',
+  'family.slider1.task': 'Doing the dishes',
+  'family.slider1.common': 'Most common task',
+  'family.slider1.goal': 'Going to the movies',
+  'family.slider1.popular': 'Most popular saving goal',
+  'family.slider2.amount': '4 $',
+  'family.slider2.period': 'Average weekly allowance',
+  'family.slider2.task': 'Cleaning the room',
+  'family.slider2.common': 'Most common task',
   'family.slider2.goal': 'Lego',
-  'family.slider2.popular': 'Mest populære sparemålet',
-  'family.slider3.amount': '33 kr',
-  'family.slider3.period': 'Gjennomsnitt ukepenger',
-  'family.slider3.task': 'Re opp sengen',
-  'family.slider3.common': 'Vanligste oppgaven',
-  'family.slider3.goal': 'Mobiltelefon',
-  'family.slider3.popular': 'Mest populære sparemålet',
-  'family.slider4.amount': '48 kr',
-  'family.slider4.period': 'Gjennomsnitt ukepenger',
-  'family.slider4.task': 'Gå ut med søppelet',
-  'family.slider4.common': 'Vanligste oppgaven',
+  'family.slider2.popular': 'Most popular saving goal',
+  'family.slider3.amount': '5 $',
+  'family.slider3.period': 'Average weekly allowance',
+  'family.slider3.task': 'Making the bed',
+  'family.slider3.common': 'Most common task',
+  'family.slider3.goal': 'Cellular phone',
+  'family.slider3.popular': 'Most popular saving goal',
+  'family.slider4.amount': '7 $',
+  'family.slider4.period': 'Average weekly allowance',
+  'family.slider4.task': 'Taking out the trash',
+  'family.slider4.common': 'Most common task',
   'family.slider4.goal': 'Airboard',
-  'family.slider4.popular': 'Mest populære sparemålet',
-  'family.slider5.amount': '490 kr',
-  'family.slider5.period': 'Gjennomsnitt månedspenger',
-  'family.slider5.task': 'Hjelpe til med klesvasken',
-  'family.slider5.common': 'Vanligste oppgaven',
-  'family.slider5.goal': 'Dataspill',
-  'family.slider5.popular': 'Mest populære sparemålet',
-  'family.slider6.amount': '690 kr',
-  'family.slider6.period': 'Gjennomsnitt månedspenger',
-  'family.slider6.task': 'Gjøre leksene',
-  'family.slider6.common': 'Vanligste oppgaven',
+  'family.slider4.popular': 'Most popular saving goal',
+  'family.slider5.amount': '70 $',
+  'family.slider5.period': 'Average monthly allowance',
+  'family.slider5.task': 'Help out with the laundry',
+  'family.slider5.common': 'Most common task',
+  'family.slider5.goal': 'Video-game',
+  'family.slider5.popular': 'Most popular saving goal',
+  'family.slider6.amount': '95 $',
+  'family.slider6.period': 'Average monthly allowance',
+  'family.slider6.task': 'Homework',
+  'family.slider6.common': 'Most common task',
   'family.slider6.goal': 'Drone',
-  'family.slider6.popular': 'Mest populære sparemålet',
-  'years': 'år',
-  'family.section2.header': 'Antall kroner har blitt spart av barn gjennom Ukepengen',
-  'family.section2.subtitle': 'Det motsvarer',
-  'family.section2.item1': 'Spillkonsoller',
-  'family.section2.item2': 'Tivoli-besøk',
-  'family.section2.item3': 'Fotballer',
-  'family.section3.header': 'Renten som hjelper 100 %',
-  'family.section3.body': 'For at barna skal kunne lykkes med å nå sine drømmer setter foreldrene en rente som gjør at sparingen i sparegrisen vokser. Det gjør at flere barn når sine sparemål. Akkurat nå er gjennomsnittlig sparerente på:',
-  'family.section3.download': 'Last ned appen her!',
-  'family.section4.header': 'Mest populære oppgavene',
-  'family.section4.body': 'Tusentalls av barn utfører oppgaver hver dag som bidrar til trivselen i hjemmet. De skaffer seg samtidig en økt forståelse for penger. Av våre brukere fins det barn som har byttet dekk, klippet hekken, vært barnevakt, malt garasjen, lagt småsøsken, lært seg å “slå hjul” og ikke spist godteri på en hel uke.',
-  'family.section4.item1': 'Bær ut søppelet',
-  'family.section4.item2': 'Vaske opp etter maten',
-  'family.section4.item3': 'Re opp sengen',
-  'family.section4.item4': 'Klesvasken',
-  'family.section4.item5': 'Rydde rommet',
-  'family.section4.item6': 'Lekser',
-  'family.section5.header': 'Alle barn skal ha retten til økonomisk trening',
-  'family.section5.body': 'Det er i hjemmet barn prater og lærer seg om penger. Ukepengen har derfor samlet ulike tips og triks til foreldre som vil ha det morsomt sammen med barna, samtidig som man hjelper barna til en bedre forståelse for penger. Ta en titt på økonomisk trening for å bli superforeldre.',
-  'family.section5.tip': 'Bli superforeldre',
-  'family.section5.button': 'Økonomisk trening',
+  'family.slider6.popular': 'Most popular saving goal',
+  'years': 'years',
+  'family.section2.header': 'SEK has been saved by kids using Gimi',
+  'family.section2.subtitle': 'Which equales',
+  'family.section2.item1': 'Game Consoles',
+  'family.section2.item2': 'Funfair Vitits',
+  'family.section2.item3': 'Footballs',
+  'family.section3.header': 'Interest that brings you to 100%',
+  'family.section3.body': 'To enable kids to reach their dreams, the parents chooses an interest that makes the money grow. That makes more kids reach their saving goals. The average interest is:',
+  'family.section3.download': 'Download it here!',
+  'family.section4.header': 'Most popular tasks',
+  'family.section4.body': 'Each day thousands of kids completes tasks that contributes at home and brings a broader understanding for money. Among our users there are kids that has changed tires, been babysitting, painted the garage, learned the periodic table and kept from sugar for a whole week(!)',
+  'family.section4.item1': 'Take out the trash',
+  'family.section4.item2': 'Doing the dishes',
+  'family.section4.item3': 'Make the bed',
+  'family.section4.item4': 'Do the laundry',
+  'family.section4.item5': 'Clean you room',
+  'family.section4.item6': 'Homwork',
+  'family.section5.header': 'Every child deserves financial coaching',
+  'family.section5.body': 'It is at home children talk and learn about money. Gimi has gathered tips and trix to all parents who wants to have a good time and at the sam time help their kids in their journey towards a better understanding for money. Dive into Coaching to become a superparent!',
+  'family.section5.tip': 'Be a superparent!',
+  'family.section5.button': 'COACHING',
 
-  'training.section1.header': 'Økonomisk trening for fremtidens superforeldre.',
-  'training.section1.subtitle': 'Her gir vi foreldre tips om hvordan dere kan gi barna deres en bedre forståelse for penger utover ukepengene.',
-  'training.section1.point1.title': 'Prat om penger!',
-  'training.section1.point1.desc': 'Barn peker på saker og vil ha dem med en gang. Når foreldre betaler for barna, får barna ingen oppfatning av hvor pengene kommer fra, eller hva som kreves for å spare til noe verdifullt. Diskuter hva barna skal få og hva de skal betale for selv. Det er først når det fins en ide om hva pengene kan brukes til at de får en “ekte” verdi.',
-  'training.section1.point2.title': 'Bruk mobilen',
-  'training.section1.point2.desc': 'Bruk et betalingskort eller penger i telefonene. Da vil barna lære seg om digitale penger og se at de kommer frem som siffer på skjermen. Denne måten å bruke penger på kommer til å bli relevant i fremtiden. Metoden er derfor bra med tanke på å forberede barn på voksenlivet.',
-  'training.section1.point3.title': 'Start tidlig',
-  'training.section1.point3.desc': 'Den beste tiden for et barn å lære seg om en fornuftig pengehåndtering er i tidlig alder. Men du kan like gjerne bruke en annen belønning enn penger. Eksempelvis kan barna pusse tennene ordentlig i en uke mot å få godteri på lørdagskvelden. Det viktige er uansett at du gir barna dine muligheten til å ta egne valg.',
-  'training.tab1.title': 'Penger & beslutninger',
-  'training.tab1.header': 'Det handler ikke om mengden penger, men forholdet til dem.',
+  'training.section1.header': 'Financial training for the superparents.',
+  'training.section1.subtitle': 'Here we give you as a parent tips and tricks on how to give your child a better understanding for money.',
+  'training.section1.point1.title': 'Talk money!',
+  'training.section1.point1.desc': 'Children are always pointing finger at what they want. By giving and buying stuff to the children, you will not give them any perceptions about where the money comes from or what it takes to save money so you can buy something you really want. Discuss with your children what you as a parent will buy for them and what costs they have to pay for themselves. It is only when there is an idea about how you can use your money they get a real value.',
+  'training.section1.point2.title': 'Use the phone!',
+  'training.section1.point2.desc': 'Use a credit card or money in the phone. Then a child will understand that digital money will often appear on a screen. That is how money will be used in the future and thus a great way to prepare them for adulthood.',
+  'training.section1.point3.title': 'Start early!',
+  'training.section1.point3.desc': 'The easiest way to teach children about money is in an early age. But the rewards don’t always have to include money. Parents can for an example give candy to their children at Saturday night in exchange for a weeks toothbrushing. The most important thing is to give your children the opportunity to make their own decisions.',
+  'training.tab1.title': 'Money & decisions',
+  'training.tab1.header': 'You can’t just go to a ATM if you are out of money',
   'training.tab1.content': `
-        <p><strong>Introduser og diskuter med barna</strong></p>
-            <p>De fleste barn får sine første ukepenger i alderen 7-10 år. Som regel ligger de på rundt 20 kr.
-                Når barnet blir eldre og mer modent kan du øke ukepengene. Når barnet viser seg mer ansvarsfullt
-                kan du gå over til månedspenger. Tenk på at du ikke bare skal gi bort pengene, men diskutere med
-                barnet om det er fornøyd med valgene som er gjort og hvordan pengene har blitt brukt.</p>
-            <p>&nbsp;</p>
-            <p><strong>Middagsbordet er ikke feil</strong></p>
-            <p>Å prate om penger rundt middagsbordet er ikke feil. Penger skal være noe positivt. Ikke noe man
-                forbinder med panikk eller angst når barna vil kjøpe seg noe og pengene ikke rekker til. Mange
-                diskusjoner mellom foreldre og barn handler om penger. Derfor er det viktig å ha en god
-                kommunikasjon samt ofte prate om penger, ikke bare når det er lite penger i lommeboken. Et bra
-                tilfelle for diskusjon er når du deler ut uke- eller månedspengene til barnet.</p>
-            <p>&nbsp;</p>
-            <p><strong>Forhandlinger med barna</strong></p>
-            <p>Ha forhandlinger med barnet og bli enige om hva pengene skal rekke til. En fornuftig utbetaling
-                av ukepenger gir barnet muligheten til å kjøpe det de behøver og samtidig ha litt penger til
-                sparing. Om ditt barn sier at andre har mer ukepenger kan du forklare hvorfor de har mindre. Det
-                er viktig at du forklarer for barnet at ikke alle mennesker har like mye penger.</p>
-            <p>&nbsp;</p>
-            <p><strong>Tomt for penger: Si nei</strong></p>
-            <p>Når dere er enige om ukes- eller månedspenger kan barna selv ta ansvar for hva de vil handle
-                eller spare til. De kan på denne måten forvente seg penger ved ulike tilfeller og ut ifra det
-                disponere pengene samt ta ansvar for hva de vil kjøpe. Tar pengene slutt, ja da er de slutt og
-                barnet får vente til de neste ukepengene.</p>
-            <p>&nbsp;</p>
-            <p><strong>La barna kjøpe feil saker</strong></p>
-            <p>Små barn kjøper stort sett godteri for ukepengene. For unge gutter er TV- og dataspill vanlige
-                kjøp og for unge jenter er det sminke og klær. Selv om du som forelder ikke liker barnas kjøp er
-                det viktig at de selv får bestemme hvordan de vil disponere ukepengene. De må få lære seg å ta
-                valg og det å gjøre feil valg. Eget valg er hele ideèn. Tar vi bort det hindrer vi våre barn i å
-                tenke, lære og prøve seg frem.</p>
+        <p><strong>Introduce and be someone you can rely on if children wants advice or talk</strong><br/>
+            Most children get their first weekly pocket money at the age between 7-10 years. The weekly
+            pocket money is normally around 20 kr at that age. When the child gets older and more mature,
+            you can raise the weekly pocket money and after a while go over to monthly pocket money. Don’t
+            just hand out the money. It’s important that you as a parent discuss with your children. Are
+            they happy about their choices and how well have they spent their money?</p>
+        <p><strong>The dinner table is not wrong<br/>
+        </strong>Talking about money during dinner time is not wrong. Money should be funny and not related
+            to anxiety when the child wants to buy something new and there is no money left. Many tough
+            discussions between children and parents are related to money. Thats’s why you should talk about
+            money continuous and not only when the wallet is totally empty.</p>
+        <p><strong>Negotiate with your children<br/>
+        </strong>Negotiations are important so that parents and children agree on what the money should
+            cover from time to time. Weekly pocket money that covers a child&#8217;s purchases and at the
+            same time gives an opportunity to save some money is recommended.</p>
+        <p><strong>When there is no more money: Say no<br/>
+        </strong>When you have agreed about the weekly and monthly pocket money, the children can take
+            responsibility for what they can buy and what they will do with their savings. At time specific
+            occations the children can expect their weekly or monthly pocket money. The children will
+            therefor be able to predispose their own money and take responsibility for what they purchase.
+            If the money runs out, the children will have to wait for their next weekly or monthly pocket
+            money.</p>
+        <p><strong>Let your children buy the ”wrong” stuff<br/>
+        </strong>The youngest children buy candy for most of their weekly pocket money. For boys are tv- and
+            computer games most common and for girls, make-up and clothes are most common. It’s important
+            that, if you as a parent don’t like your child&#8217;s purcheases, you still have to allow them
+            to buy what they want. The children have to learn to make both right and wrong choices. Making
+            own choices is the whole idea. If you take away that part, you will prevent that children from
+            learning, make up their own minds and find their own solutions.</p>
     `,
-  'training.tab1.person.title': 'Økonom',
-  'training.tab1.person.about': 'Emma Persson er f.d privatøkonom for unge på Nordea bank. Hun har i en lengre tid lært videre kunnskaper om penger og økonomi for hele familien.',
-  'training.tab1.person.tips': 'Emmas tips',
-  'training.tab1.person.tip1': 'Ukepengen kan bli en plattform der man prater om drømmer, sparing og muligheter. Gå ikke glipp av den.',
-  'training.tab1.person.tip2': 'Ta penger fra ukepengene når du betaler for barnet, da blir det en tydlig grense mellom dine egne og barnas penger',
-  'training.tab1.person.bubble': 'I Sverige får to av tre barn uke- eller månedspenger av foreldrene.',
-  'training.tab2.title': 'Digitale hjelpemidler',
-  'training.tab2.header': 'Apper og digitale hjelpemidler er bra for barnets innlæring.',
+  'training.tab1.person.title': 'Economist',
+  'training.tab1.person.about': 'Emma Persson är f.d. privatekonom för unga på Nordea Bank. Hon har länge lärt ut kunskap inom pengar och ekonomi för hela familjen.Emma Persson is a former private economist for young people at Nordea Bank. She has given advice and knowledge, when it comes to money and family economy, for a long time.',
+  'training.tab1.person.tips': 'Emma’s tips',
+  'training.tab1.person.tip1': 'Gimi can become a platform where you can talk about dreams, savnings and possibilities. Don’t miss it!',
+  'training.tab1.person.tip2': 'When you buy something for the child, take that money from the child’s weekly pocket money. By doing that you show the child a clear line between your money and the child’s money.',
+  'training.tab1.person.bubble': 'Two out of three children in Sweden get weekly- or monthly pocket money from their parents.',
+  'training.tab2.title': 'Digital appliances',
+  'training.tab2.header': 'Apps and digital appliances give the children a good base for learning.',
   'training.tab2.content': `
-        <p><strong>Læring som ikke er skadelig</strong></p>
-            <p>Det finnes ingen forskning som sier at det er skadelig for barn, store eller små, å bruke
-                surfebrett eller mobil. At surfebrettet eller mobilen sender ut skadelig stråling eller at barn
-                på noen måte får dårligere læring er bare en myte. Derimot er det en risiko at uten innlæring av
-                digitale tjenester og plattformer som mobil og lesebrett, vil ikke barna lære den teknikken som
-                resten av samfunnet benytter seg av.</p>
-            <p>&nbsp;</p>
-            <p><strong>Gi den nye læringsformen utfoldelse</strong></p>
-            <p>Som foreldre er vi ofte styrt av følelser og vi mennesker har generelt sett problem med å
-                relatere oss til nye saker i samfunnet. At barna får bruke digitale verktøy for at hverdagen
-                skal underlettes blir av mange sett på som skammelig . Når boken og tv:en var nye i samfunnet
-                møtte de den samme motstanden som mobilen og surfebrettet møter i dagens samfunn. Men la ikke
-                dine egne idealer fra barndommen styre.</p>
-            <p>&nbsp;</p>
-            <p><strong>Penger i mobilen</strong></p>
-            <p>Den vanligste måten som voksne holder kontroll på egne penger er med mobilen. Idag har de fleste
-                barn en egen mobil og en bra forståelse for hvordan den skal brukes. Derfor er det bare bra om
-                de også kan håndtere pengene sine på telefonen. Bruk apper som er forståelige for barn og som
-                forklarer verdien av penger samt symbolikken med sparing og sløsing.</p>
-            <p>&nbsp;</p>
-            <p><strong>Digitale kjøp er også kjøp</strong></p>
-            <p>Det er vanskligere for et barn å forstå at et kjøp via mobilen eller på nettet koster penger. Ved
-                at de ikke får noe håndfast som de kan ta eller føle på er det viktig at du som forelder
-                opplyser barna om at digitale kjøp på telefonen er virkelige penger. Hver annen ungdom har
-                handlet noe på nettet de siste tre månedene, og en av ti ungdommer oppgir at de først trodde de
-                hadde kjøpt noe gratis.</p>
-            <p>&nbsp;</p>
-            <p><strong>La det digitale fremheve kreativiteten</strong></p>
-            <p>En annen myte er at mobiler og surfebrett hemmer kreativiteten hos barn sammenlignet med f. eks.
-                Lego. Men ser man på en byggeboks fra Lego står det jo eksakt hva man skal bygge. Sammenlign det
-                med Minecraft f.eks, der det ikke finnes noen grenser for hva man kan skape eller bygge med et
-                uendelig antall “lego-brikker”. Den neste generasjonens digitale plattformer kommer uten tvil
-                stille spørsmål rundt den fysiske verdens begrensninger når det kommer til kreativitet.</p>
+        <p><strong>Learning which is not damageable<br/>
+            </strong>Det finns ingen forskning som visar att det skulle vara skadligt för barn, stora som små,
+                att använda en surfplatta eller mobil. Att surfplattan eller mobilen ska sända ut skadlig
+                strålning eller göra att ett barn på något sätt får sämre inlärning är bara en myt. Det finns
+                däremot en risk då vi låter bli att lära våra barn om digitala tjänster och plattfomar, via
+                mobiler och läsplattor, vilket leder till barnen inte lär sig den teknik som resten av samhället
+                har anammat.</p>
+            <p><strong>Give a chance to this new form for learning</strong><strong><br/>
+            </strong>Som föräldrar är vi ofta känslostyrda och vi människor har överlag svårt att relatera till
+                nya saker i samhället. Att använda digitala verktyg till barnen för att underlätta vardagen ses
+                av många som skamligt. På samma sätt som vi har skepsis mot mobiler och surfplattor har vi
+                bemött boken och tv:n när de var nya i samhället. Men låt inte dina egna ideal av barndomen
+                styra.</p>
+            <p><strong>Money in the phone<br/>
+            </strong>The easiest way for adults to keep control over the money is looking at the mobile. So this
+                should be the same for children. Today, most children have their own mobile phones and have a
+                good understanding for its use and functions. Therefore it is important that they also can
+                handle money in their mobiles. Use apps that are understandable for children that show money its
+                true value and the symbolism by saving and wasting.</p>
+            <p><strong>Digital purchases are also purchases<br/>
+            </strong>It’s difficult for children to understand that mobile purchases or purchases at the
+                internet costs money too. Because they can not see any physical money is it important that you
+                as a parent enlightens the children that mobile- or internet purchases are bought by real money.
+                One out of ten youths says that they have bought something at the internet that they thought was
+                free. Every second youth has at the same time bought something from the internet within the last
+                three months.</p>
+            <p><strong>Let the digital accentuate creativity</strong><br/>
+                Mobile phones and tablets inhibit the creativity amongst children, compared to for example Lego.
+                This is a myth. If you take a closer look at a package from Lego, those it give you all the
+                instructions what to do. Compare that to Minecraft for example, where there are no boundaries
+                for what you can create with an infinite number of ”lego-pieces”. The next generation&#8217;s
+                digital platforms will without a doubt challenge the physical worlds limitations when it comes
+                to creativity.</p>
     `,
-  'training.tab2.person.title': 'Budsjettrågiver',
-  'training.tab2.person.about': 'Bodil har jobbet med familieøkonomi i lenger tid og sett på hvordan man med nye metoder og verktøy kan forbedre barnas læringsprosess når det kommer til penger',
+  'training.tab2.person.title': 'Budget advisor',
+  'training.tab2.person.about': 'Bodil has for a long time worked with family economy. She has looked into how you with some new methods and tools can improve the children’s learning capability when it comes to money.',
   'training.tab2.person.tips': 'Bodils tips',
-  'training.tab2.person.tip1': 'Bruk digitale hjelpemidler for å lære barn om penger',
-  'training.tab2.person.tip2': 'Last ned spill som lar barna håndtere penger i en fiktiv verden på en pedagogisk måte',
-  'training.tab2.person.tip3': 'Gjør dine barn bevisst på at app- musikk- eller spillkjøp på nettet koster penger',
-  'training.tab2.bubble1': '84 % av alle barn i Sverige i alderen 5-8 år har tilgang til et surfebrett.',
-  'training.tab2.bubble2': 'Av våre ungdommer har hver annen handlet noe på nettet de siste tre månedene.',
-  'training.tab3.title': 'Øvelse og læring',
-  'training.tab3.header': 'Om man ikke har penger er det ikke bare å gå til minibanken.',
+  'training.tab2.person.tip1': 'Use digital appliances to teach children about money',
+  'training.tab2.person.tip2': 'Download games that in a pedagogical way gives the children opportunity to handle money in a fictitious world',
+  'training.tab2.person.tip3': 'Let your children know that purchases like apps, music or games from the internet cost money',
+  'training.tab2.bubble1': '84 % of the children in Sweden aged between 5-8 years old have access to a tablet.',
+  'training.tab2.bubble2': '50 % of our users have bought something from the internet during the last three months.',
+  'training.tab3.title': 'Practice & learning',
+  'training.tab3.header': 'You can’t just go to a ATM if you are out of money',
   'training.tab3.content': `
-        <p><strong>Forbered dine barn på voksenlivet</strong></p>
-            <p>På samme måte som det går an å øve seg på matematikk, balanse og fotball går det an å lære seg om
-                hvordan man skal vere økonomisk. En bra måte å lære barn om økonomi er å gi de en viss frihet
-                til å stille spørsmål og tenke selv. Om man lar barna gjøre egne valg under oppveksten kommer de
-                til å gjøre både dårlige kjøp og drømmekjøp. Barna vil sannsynligvis lære av de dårlige valgene
-                og kanskje endre beslutningene neste gang. Gi barna en viss frihet til å velge selv.</p>
-            <p><strong>Gi muligheten til å få en ekstra slant</strong></p>
-            <p>Ved å gi barna oppgaver i hjemmet eller på skolen skaper det en forståelse for barna om at det å
-                få penger ofte krever en motprestasjon. Når et barn tjener sine egne penger får de en bedre
-                forståelse for pengenes verdi og en sterkere følelse for at det er deres penger. Dessuten kan
-                det være bra for familiens trivsel og samhold i hjemmet om alle hjelper til. Barnet bør derimot
-                ikke få penger for alt. Da kan de fort få den oppfattelsen at så fort man gjør noe så får man
-                betalt.</p>
-            <p>&nbsp;</p>
-            <p><strong>Lek og lær</strong></p>
-            <p>Leker med penger og spill som f.eks Monopol kan være en bra introduksjon til å lære seg nye
-                begreper samt skaffe seg en forståelse for inntekter og utgifter. Når barn leker “butikk” hjemme
-                har de det morsomt samtidig som de får et innblikk i begrep som penger og handel. Har du eldre
-                barn kan dere begynne med å “investere” i ekte eller fiktive organisasjoner. La det bli en lek
-                der dere sammenligner med det virkelige markedet og konkurrerer om hvem som lykkes med å satse i
-                rett bedrift.</p>
-            <p>&nbsp;</p>
-            <p><strong>Gi sparebonus</strong></p>
-            <p>Gjennom å sette rente på barnas sparepenger øker du sannsynligheten for at de vil spare deler av
-                pengene. Å spare er viktig. Om barn skaffer seg forståelsen for at det tar tid for å få råd til
-                noe dyrt har man allerede kommet langt. La barna sette opp ulike sparemål og la dem bli
-                inneforstått med at penger som blir spart vokser med tiden. Det er et realistisk bilde av
-                hvordan verden ser ut idag.</p>
-            <p><strong>Når pengene tar slutt</strong></p>
-            <p>Om barnet ønsker seg noe og det ikke finnes tilrekkelig med penger bør dere snakke sammen om
-                hvorfor. Får barnet ditt for lite penger eller er det han eller hun som bruker opp pengene for
-                lett. Uforutsette utgifter er en sak, men lærer du barnet at de alltid kan ta ut mer penger
-                kommer ikke barnet forstå verdien av pengene.</p>
+        <p><strong>Prepare your children for the grown-up life<br/>
+            </strong>The way you can learn mathematics, balance of your mind and football is the same way that
+                you can learn to handle your economy. A good way to lear the children about economy is to give
+                them the liberty to questioning and think for themselves. If we during the childrens childhood
+                give them the opportunity to make their own choices, they will be able to achieve succesful and
+                horrible purchases. Even the bad purchases will help the children to learn and develop when it
+                comes to economy. Maybe they will change their descions next time? Give the children the liberty
+                to choose for themselves.</p>
+            <p><strong>Create the opportunity to earn an extra coin<br/>
+            </strong>By giving the children tasks at home and at school, they will be learning that getting
+                money often demands some kind of effort. When the children are earning their own money, they
+                will understand its value and a feeling of owning their own money. It can also create an
+                companionship within the family when everybody is helping out. The children should not get paid
+                for everything they do. They can than easily think that as soon as they do something they will
+                be rewarded with money.</p>
+            <p><strong>Learn and play<br/>
+            </strong>To play with money and play games like Monopoly is a good way to introduce new terms and
+                create an understanding for expenditures and revenues. Buying/selling games at home gives the
+                children an insight with concepts like money and trade. If you have any older children they can
+                start to invest in real or fictional companies, and create a game where you compare with the
+                real tradning market. Compete and see who succeeds ”investing” money in the right company!</p>
+            <p><strong>Give a saving bonus<br/>
+            </strong>By giving the children an interest rate for their savings, you will increase the
+                opportunity that they will save money. You have come a far way learning the children about
+                moneys value if they understand that it is important to save and it will take time to achieve
+                the amount that an expensive item costs. Let the children create their own savings goals. Let
+                them know that saved money increases as time goes by. That is an realistic image for how the
+                world looks today.</p>
+            <p><strong>When the money runs out<br/>
+            </strong>Sit down and have a chat with your child if there is not enough money to buy certain items.
+                Talk about why there is to little money. Does your child get to small amounts, or does he or her
+                spend their money to easily. Unpredicted expenditures is a matter, but if you give the child the
+                impression that they always can get more money, they will never learn the money&#8217;s true
+                value.</p>
     `,
-  'training.tab3.person.title': 'Leg. psykolog og leg. psykoterapeut',
-  'training.tab3.person.about': 'Liv har lang erfaring når det kommer til arbeid med barn, ungdom og familier. Hun har gitt ut flere bøker rundt emnet for å hjelpe familier rundt om i landet.',
+  'training.tab3.person.title': 'Leg. Psychologist and leg. psychotherapist',
+  'training.tab3.person.about': 'Liv has long experience from working with children, youths and families. She has also given out several books within the topic and helped families around the country.',
   'training.tab3.person.tips': 'Livs tips',
-  'training.tab3.person.tip1': 'La barna drive butikk i hjemmet for å forstå seg på handel',
-  'training.tab3.person.tip2': 'Å lære seg konsekvenser av sin oppførsel er lærerikt for alle barn. Ukepengen kan hjelpe til med det.',
-  'training.tab3.bubble1': 'Tenk på at den beste måten å påvirke barns oppførsel er å oppmuntre til det man vil se mer av.',
+  'training.tab3.person.tip1': 'Let the children create a business at home so that they better can understand trading.',
+  'training.tab3.person.tip2': 'To become aware of consequences from own behaviour is educative for children and Gimi can help focus more on that subject.',
+  'training.tab3.bubble1': 'Encouraging the stuff you want to see more from, is the best way to affect childrens behaviour.',
 
-  'about.header': 'Vi skaper penger som barn kan forstå',
-  'about.subtitle': 'Vi er her fordi vi vil forandre, forbedre og lære barn om hvordan man skal håndtere digitale penger. Vi ønsker dere som vil følge med på reisen varmt velkommen.',
-  'about.section1.header': 'La Ukepengen leve videre!',
-  'about.section1.block1': 'Jeg vokste opp med foreldrene mine og 5 søsken på 90-tallet. Jeg hadde 200 meter til kiosken, en sykkel med 21 gir og 12 stykker klinkekuler. Jeg var åtte år og helt konge hver lørdag når jeg fikk ukepengene mine. Som oftest var det en gullfarget tikroning. Ikke bare lå tieren fint i hånden, men i kiosken kunne jeg bytte den mot en lollipop og fortsatt ha seks kroner igjen som jeg kunne putte på sparegrisen. Man kan si at jeg hadde superkrefter.',
-  'about.section1.block2': 'Jeg maste ganske mye på den tiden. Selv om jeg pekte og “ville ha” fikk jeg som oftest spare eller vente til juleaften. Når jeg hadde spart en stund slo jeg til med kjøp som klinkekuler eller fotballkort til samlepermen. I lang tid håpte jeg på at jeg skulle få Ole Gunnar Solskjær, superspiss på Manchester United. Den dagen jeg fikk han i ene kortpakken hoppet jeg av glede. ',
-  'about.section1.block3': 'Mamma ba meg springe 2 runder rundt huset så jeg fikk roet meg ned. Selv om jeg den dag i dag har sluttet med å løpe rundt huset blir jeg fortsatt glad når jeg tenker på at Ole Gunnar Solskjær ligger innrammet i samlepermen. Jeg savner barndommen. Jeg savner Donald Duck pocketene, gå på epleslang og kjøpe lørdagsgodteri på kiosken. Dette savnet fra barndommen gjorde til at jeg skapte Ukepengen. For i dag er det annerledes. Idag er det mange barn som ikke får oppleve det å vere konge eller dronning for en dag, eller som i det hele tatt får ukepenger på lørdager. Lollipoppen koster ikke lenger 4 kroner og kiosken rundt hjørnet har kanskje stengt dørene. Men jeg vil være med på å skape nye måter slik at tikroningen av gull, ukepenger og sparegriser kan leve videre i den digitale verden. Jeg ønsker at dagens barn skal få oppleve samme følelsen som meg. Nemlig at lørdag kan være verdens beste dag.',
-  'about.section1.footer': 'Philip Haglund, Grundare av Veckopengen',
-  'about.section2.header': 'Barnrådet',
-  'about.section2.content': 'Hos oss på Veckopengen står barnen i centrum. Inte bara i användningen, utan också i skapandet. Barnrådet är vår samling unga experter som diskuterar, utvärderar, och sprutar ut ideér för att Veckopengen ska bli så bra som möjligt. Vill du komma i kontakt med Barnrådet får du gärna maila till dem på barnradet@veckopengen.se.',
-  'about.section3.header': 'Styrelsen',
-  'about.section3.patrik': 'Patrik är vår egna styrelseordförande och en pådrivare som med mycket energi och många skratt gillar att utmana och förändra såväl företag och branscher till det bättre.',
-  'about.section3.matilda': 'Matilda är en positiv kraft som har lätt för att se moderna, digitala och effektiva lösningar. Hennes skarpa analyser har gjort henne till en lysande stjärna med flera års erfarenheter av tillväxtmodeller och B2C marknadsföring.',
-  'about.section3.stefan': 'Stefan vet hur man skapar digitala verktyg med fokus på användarna. Han har en förkärlek för ny typ av kommunikation och att alltid sätta familjen i första rummet.',
-  'about.section3.oscar': 'Oscar har en tydlig ådra av entreprenörskap med engagemang i flera branscher och en släkt som under generationer varit med och tagit svensk skepparindustri till nya nivåer.',
-  'about.section3.arenbalk': 'Stefan är en entreprenör och investerare som älskar att få både siffror och användarlösningar att hamna i harmoni.qwe',
-  'about.section4.header': 'Teamet',
-  'about.section4.philip': 'Philip er en pådriver og leder som er overbevist om om å virkliggjøre sin visjon om å forandre hvordan barn kan forstå og håndtere penger i den digitale verden.',
-  'about.section4.caj': 'Caj er en varm og sosial nytenkende person som blir inspirert av å gi barn og ungdommer verktøy og egenskaper slik at de kan kommunisere sine ønsker i den voksne verden.',
-  'about.section4.anders': 'Anders blir inspirert av å skrive koder som forbedrer og utvikler nye applikasjoner som finansielle verktøy for vår kommende generasjon.',
-  'about.section4.nic': 'Head of cellaborations',
-  'about.section4.martin': 'Martin er en talentfull programmerer som har et smil om munnen hver eneste dag når han forsøker å finne nye løsninger samt utvikle kontantenes utseende i våre digitale verktøy.',
+  'about.header': 'This is family business!',
+  'about.subtitle': 'We are here to change and improve the way young people learn how to handle digital money. We welcome all kids and parents to join our cause!',
+  'about.section1.header': 'Let the weekly pocket money live on!',
+  'about.section1.block1': 'I grew up with my parents and five siblings during the 90’s. I had 200 meters to the kiosk, a bike with 21 gears and twelve marbles. I was eight years and king every Saturday when i got my golden 10 kr coin. The golden coin wasn’t only precious and shiny, I could even trade it for my favorite ice cream and still have 6 kroners left that i could put in my piggy bank. You could say that I had superpowers.',
+  'about.section1.block2': 'I was pretty good at nagging at that time. Even though i  pointed at items and stuff i wanted i had to save money or wait for christmas eve. When i had saved for some time, i normally bought marbles or hockeycards for my collectorbinder. For a long time i was hoping for Mario Lemieux, a center who played for Pittsburg Penguins. When he finally popped out of a package i bought i started crying and jumping because i was so happy. My mother asked me to run to times around the house so i could calm down. Even though i have stopped running around the house i still get a smile on my face when i know that Mario is framed in my binder.',
+  'about.section1.block3': 'I miss my childhood. I miss Donald Duck pockets, stealing apples and buying candy for Saturday evening at the local kiosk. It’s because of this longing that I created Gimi. Because it’s different today. Many children are today not able to be kings or queens for a day or dosen’t even get any weekly pocket money at Saturdays. Sure, the ice cream dosen’t cost 4 kroners and the local kiosk has probably been shut down. But I want to be part of creating new ways to keep golden coins, weekly pocket money and piggy banks to live on in the digital world. I want to make sure that todays children also will get that amazing feeling, that Saturdays are the greatest of days.',
+  'about.section1.footer': 'Philip Haglund CEO & Founder',
+  'about.section2.header': 'The Micro Managers',
+  'about.section2.content': 'Children are one third of our population and all of our future. Here at Gimi are children therefore obviously at the center. Not only in the use of the app, but also in the creation. The Micro Managers is our own group of experts who discuss, evaluate, and share ideas so that Gimi can become as good as possible. Would you like to get in touch with the Micro Managers, feel free to e-mail them at micromanagers@gimitheapp.com.',
+  'about.section3.header': 'The Board',
+  'about.section3.patrik': 'Chairman of the Board',
+  'about.section3.matilda': 'Member',
+  'about.section3.stefan': 'Member',
+  'about.section3.oscar': 'Member',
+  'about.section3.arenbalk': 'Member',
+  'about.section4.header': 'Team',
+  'about.section4.philip': 'Playing CEO',
+  'about.section4.caj': 'Flying CMO',
+  'about.section4.anders': 'Lovely CTO',
+  'about.section4.nic': 'Head of collaborations',
+  'about.section4.martin': 'Front end lead',
   'about.section4.andy': 'Back End Lead',
   'about.section4.frida': 'Kids and Family Manager',
   'about.section4.joa': 'Head of testing',
   'about.section4.mat': 'Front end',
-  'about.section4.join': 'Vil du bli en del av vårt team?',
-  'about.section5': 'Å hjelpe barn og ungdommer er en jobb som vi tar på störste alvor. Vi forsøker å utdanne unge når det kommer till håndtering av penger, men samtidig hjelpe andre organisasjoner som jobber med barn. Vi bidrar blant annet hver måned med penger till Barncancerfondet for å hjelpe dem i deres viktige jobb i kampen mot kreft.',
+  'about.section4.join': 'Want to join our team?',
+  'about.section5': "Helping children and youths is important and something we take very serious. That is why we are not only educating young people in handling their own money. We are every month supporting ”The children's cancer fund” with parts of our employees' salaries. By doing that we hope that we will help ”The children's cancer fund” with their important work in the fight against cancer.",
 
-  'faq.title': 'Spørsmål & svar',
-  'faq.q1': 'Lär Veckopengen verkligen mina barn om pengar?',
-  'faq.q1.a': 'Ja, Veckopengen är framtagen tillsammans med ekonomer och barnterapeuter för att skapa en så pedagogisk tjänst som möjligt för att barn ska kunna förstå sig på pengar.',
-  'faq.q2': 'Vi är skilda och har barnet varannan vecka, hur gör vi då?',
-  'faq.q2.a': 'Vi tittar på olika lösningar tills nästa uppdatering, men under tiden så kan man betala halva veckopengen i appen istället, och betala ut de veckorna man träffar sitt barn. T.ex. Emma ska ha 100kr i Veckopeng av dig, sätt den då till 50kr så det stämmer när ni träffas.',
-  'faq.q3': 'Är Veckopengen kopplad till någon bank?',
-  'faq.q3.a': 'Nej, Veckopengen är fristående från alla banker.',
-  'faq.q4': 'I vilken ålder borde mitt barn få månadspeng?',
-  'faq.q4.a': 'Det beror på mognad och ålder, de flesta barn får månadspeng runt tidiga tonåren, 12-13 år.',
-  'faq.q5': 'När är det lämpligt att börja med Veckopengen?',
-  'faq.q5.a': 'Det bestämmer du som förälder men vi har skrivit och designat för en 6 åring ska förstå den, ett bra knep är att börja använda den tillsammans.',
-  'faq.q6': 'Vad borde mitt barn ha i vecko- eller månadspeng?',
-  'faq.q6.a': 'Det är helt individuellt, beroende på ålder, beteende och föräldrarnas inkomst, den summan vi rekommenderar är en genomsnittsuträkning på alla barn i Sverige.',
-  'faq.q7': 'Vad bör jag sätta i ränta?',
-  'faq.q7.a': 'Det är helt individuellt, den genomsnittliga räntan i Veckopengen är 1,5 % men många har mer än så.',
-  'faq.q8': 'Varför ska man sätta ränta?',
-  'faq.q8.a': 'Att sätta ränta till sitt barn gör dels att barnet uppmanas till att spara sina pengar istället för att slösa, men det är också en spegelbild på hur det ser ut i vuxenvärlden.',
-  'faq.q9': 'Jag skrev att jag är ett barn/förälder men det är fel?',
-  'faq.q9.a': 'Gå in på översiktsbilden och tryck på kugghjulet, där kan du sedan antingen radera kontot eller logga ut. Om man är barn och inte kommer vidare så maila oss så fixar vi det.',
-  'faq.q10': 'Varför har jag minus i veckopengen?',
-  'faq.q10.a': 'Du har antagligen gjort ett för stort uttag i vecko- eller månadspengen, eller så har du sänkt vecko- eller månadspengen för mycket. Du kan då göra en insättning i spargrisen och sedan föra över pengar till vecko- eller månadspengen eller höja summan igen för att återställa kontosaldot.',
-  'faq.q11': 'Hur kopplar jag ihop Veckopengen med mitt barn?',
-  'faq.q11.a': 'Tryck på koppla ihop med *Namn* eller gå in på kugghjulet och tryck på Bjud in barn, där kan ni sedan välja att bjuda in via telefonnummer eller via mail om ert barn inte har någon telefon.',
-  'faq.q12': 'Hur lägger jag till en förälder?',
-  'faq.q12.a': 'Som förälder kan du trycka på kugghjulet när du är inne på ditt barns profil och sedan välja att Koppla in en till förälder.',
-  'faq.q13': 'Kan man skapa uppgifter som delas ut varje dag?',
-  'faq.q13.a': 'Ja, när du skapar en ny uppgift så trycker du in de dagar som en uppgift ska återkomma.',
-  'faq.q14': 'Sparas bilderna som tas för bildbevis hos er?',
-  'faq.q14.a': 'Nej, bilderna skickas via en server och sparas bara lokalt på era telefoner.',
-  'faq.q15': 'Hur används barnens information?',
-  'faq.q15.a': 'Vi förstår att era barns uppgifter är väldigt känsliga så vi kommer aldrig att sälja eller använda uppgifterna för att kontakta barnen.',
-  'faq.q16': 'Skickar man riktiga pengar i Veckopengen?',
-  'faq.q16.a': 'Nej, idag så har vi inte den funktionen, utan pengar delas själv ut av föräldern, oftast kontant eller via en mobilbank. Veckopengen är främst framtagen för att lära barn förstå sig på pengar och hålla koll på vecko- eller månadspengen. Men vi tittar på hur vi kan skapa en tjänst med riktiga överföringar framöver.',
-  'faq.q17': 'Kostar veckopengen någonting?',
-  'faq.q17.a': 'Nej, appen är gratis.',
-  'faq.q18': 'För vilka plattformar finns veckopengen?',
-  'faq.q18.a': 'Den finns på App Store och Google Play, alltså för både iPhone och Android-telefoner.',
-  'faq.q19': 'Varför måste jag skriva in telefonnummer?',
-  'faq.q19.a': 'Den enda anledningen att vi gör det är för att vi använder oss av en SMS-tjänst för att koppla ihop telefonerna, vi kommer aldrig ringa er eller era barn om vi inte har frågat om vi får innan.',
-  'faq.q20': 'Hur använder ni uppgifterna som samlas in via appen?',
-  'faq.q20.a': 'Vi säljer aldrig vidare information som samlats in via Veckopengen. Vi kommer dock att göra generella undersökningar utan att personinformation berörs.'
-
+  'faq.title': 'FAQ',
+  'faq.q1': 'In which way do you use the information that is collected through the app?',
+  'faq.q1.a': 'We will not sell any information that we collect through Gimi. We might make some surveys in general without any personal information being touched.',
+  'faq.q2': 'Why do i have to write down a phone number?',
+  'faq.q2.a': 'The only reason that are doing that is that we use a SMS-service to connect the phones. We will never call you or your parent without any permission from you to do so.',
+  'faq.q3': 'At which platforms can you find Gimi?',
+  'faq.q3.a': 'You can find it at App Store and Google Play. It’s able for both iPhones and Androide phones.',
+  'faq.q4': 'Does Gimi cost anything?',
+  'faq.q4.a': 'Nope, it is free of charge 🙂',
+  'faq.q5': 'Do you send real money with Gimi?',
+  'faq.q5.a': 'No, today we do not have that feature. Money will be handed out by the parent, often cash or by mobile banking. Gimi is mainly developed to teach children about money, how to understand, handle and keep control over their weekly- or monthly pocket money. We are looking into how we in the future can create a service with real transfers.',
+  'faq.q6': 'How will information about a child be used?',
+  'faq.q6.a': 'We understand that your childrens information is sensitive. That is why we will never sell or use those tasks to contact the children.',
+  'faq.q7': 'Will pictures taken as picture proof be saved at your hard drive?',
+  'faq.q7.a': 'No, the pictures are sent in by a server and will only be saved locally at your phones.',
+  'faq.q8': 'Is it possible to create tasks that is given out every day?',
+  'faq.q8.a': 'Yes, if you create a new task you are able to announce which days the tasks will repet themselves.',
+  'faq.q9': 'How do i add an extra parent?',
+  'faq.q9.a': 'As a parent you can press the three lines in the top right corner when you are checking out your childs profile and later choose “Connect to another parent”.',
+  'faq.q10': 'How do i connect Gimi with my child?',
+  'faq.q10.a': 'Press connect together with *Name* or go to the three lines in the top right corner and press “Invite child” where you later can invite through a phone number or by mail, if your child don’t own any phone.',
+  'faq.q11': 'Why do i have a negative balance in my weekly pocket money?',
+  'faq.q11.a': 'You have probably made a excessive withdrawal from the weekly- or monthly pocket money, or you have reduced the weekly- or monthly pocket money to much. You can make a deposit to the piggy bank and later transfer money to the weekly- or monthly pocket money or possibly raise the amount to restore the account balance.',
+  'faq.q12': 'I wrote that i am a child/parent but that is wrong, what do i do?',
+  'faq.q12.a': 'Go to the overview and press the three lines in the top right corner. There you can log out or erase your account. If you’re a child and can’t get any further: Mail us and we will fix it.',
+  'faq.q13': 'Why should we set an interest rate?',
+  'faq.q13.a': 'An interest rate will encourage the child to save their money instead of spending them. It is also a reflection to how the grown-up lifestyle.',
+  'faq.q14': 'What should i put as interest rate?',
+  'faq.q14.a': 'It is individually, but Gimi has an average interest rate at 1,5 %. Many have more than that.',
+  'faq.q15': 'When is it suiteble to start using Gimi?',
+  'faq.q15.a': 'You as a parent will decide that, but we have designed the app so that a 6 year old child can understand it. A fine trick is to start use it togheter, children and parents.',
+  'faq.q16': 'At what age is my child supposed to get monthly pocket money?',
+  'faq.q16.a': 'Depends on different matters. What age has the child and how mature is it? Most children gets monthly pocket money in their early teenages, 12-13 years old.',
+  'faq.q17': 'Is Gimi connected to any bank?',
+  'faq.q17.a': 'No, Gimi is independent from all banks.',
+  'faq.q18': 'We are separated and has got the child biweekly, how do we do?',
+  'faq.q18.a': 'We are looking for different solutions to our next update. During that time you can pay half the amount of the weekly pocket money, and pay out money those weeks that you have the responsibility for your child. For example. Emma is supposed to get 100 kr as weekly pocket money. Put an 50 kr amount instead so that it will be right next time you see eachother.',
+  'faq.q19': 'Does Gimi actually teach my children about money?',
+  'faq.q19.a': 'Yes, Gimi is developed together with economists and child therapists to create a pedagogical service that makes it possible for children to understand how they should relate to money.'
 }
