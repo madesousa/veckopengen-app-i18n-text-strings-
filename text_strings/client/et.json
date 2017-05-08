@@ -1269,5 +1269,6 @@
   "minute_suffix": "m",
   "day_suffix": "d",
   "goal_editor_save_coming": "PLZ_TRANSLATE Loo tulemas eesmärk",
-  "happy_birthday": "PLZ_TRANSLATE Palju õnne sünnipäevaks!"
+  "happy_birthday": "PLZ_TRANSLATE Palju õnne sünnipäevaks!",
+  "task_type_duration": "PLZ_TRANSLATE Tunnis"
 }

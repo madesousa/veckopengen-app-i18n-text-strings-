@@ -1269,5 +1269,6 @@
   "minute_suffix": "PLZ_TRANSLATE m",
   "day_suffix": "PLZ_TRANSLATE d",
   "goal_editor_save_coming": "PLZ_TRANSLATE Maak een komend doel",
-  "happy_birthday": "PLZ_TRANSLATE Fijne verjaardag!"
+  "happy_birthday": "PLZ_TRANSLATE Fijne verjaardag!",
+  "task_type_duration": "PLZ_TRANSLATE Per uur"
 }

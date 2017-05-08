@@ -1280,5 +1280,6 @@
   "minute_suffix": "m",
   "day_suffix": "d",
   "goal_editor_save_coming": "Skapa kommande sparmål",
-  "happy_birthday": "Grattis på födelsedagen!"
+  "happy_birthday": "Grattis på födelsedagen!",
+  "task_type_duration": "Per timme"
 }

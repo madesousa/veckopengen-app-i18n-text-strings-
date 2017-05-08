@@ -1269,5 +1269,6 @@
   "minute_suffix": "m",
   "day_suffix": "d",
   "goal_editor_save_coming": "PLZ_TRANSLATE Búðu til komandi markmið",
-  "happy_birthday": "PLZ_TRANSLATE Til hamingju með afmælið!"
+  "happy_birthday": "PLZ_TRANSLATE Til hamingju með afmælið!",
+  "task_type_duration": "PLZ_TRANSLATE Á klukkustund"
 }

@@ -1269,5 +1269,6 @@
   "minute_suffix": "m",
   "day_suffix": "d",
   "goal_editor_save_coming": "Create upcoming goal",
-  "happy_birthday": "Happy Birthday!"
+  "happy_birthday": "Happy Birthday!",
+  "task_type_duration": "Per hour"
 }

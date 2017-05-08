@@ -1269,5 +1269,6 @@
   "minute_suffix": "m",
   "day_suffix": "p",
   "goal_editor_save_coming": "Luo tuleva tavoite",
-  "happy_birthday": "Hyvää syntymäpäivää!"
+  "happy_birthday": "Hyvää syntymäpäivää!",
+  "task_type_duration": "PLZ_TRANSLATE Tunnissa"
 }

@@ -1269,5 +1269,6 @@
   "minute_suffix": "m",
   "day_suffix": "j",
   "goal_editor_save_coming": "Créer un prochain objectif",
-  "happy_birthday": "PLZ_TRANSLATE Bon anniversaire!"
+  "happy_birthday": "PLZ_TRANSLATE Bon anniversaire!",
+  "task_type_duration": "PLZ_TRANSLATE Par heure"
 }

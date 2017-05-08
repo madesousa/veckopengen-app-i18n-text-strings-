@@ -1269,5 +1269,6 @@
   "minute_suffix": " m",
   "day_suffix": " d",
   "goal_editor_save_coming": " Opret fremtidig opsparingsmål",
-  "happy_birthday": " Tillykke med fødselsdagen!"
+  "happy_birthday": " Tillykke med fødselsdagen!",
+  "task_type_duration": "PLZ_TRANSLATE Per time"
 }

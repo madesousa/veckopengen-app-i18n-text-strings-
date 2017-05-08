@@ -1269,5 +1269,6 @@
   "minute_suffix": "m",
   "day_suffix": "d",
   "goal_editor_save_coming": "PLZ_TRANSLATE Erstellen Sie das kommende Ziel",
-  "happy_birthday": "PLZ_TRANSLATE Alles Gute zum Geburtstag!"
+  "happy_birthday": "PLZ_TRANSLATE Alles Gute zum Geburtstag!",
+  "task_type_duration": "PLZ_TRANSLATE Pro Stunde"
 }
