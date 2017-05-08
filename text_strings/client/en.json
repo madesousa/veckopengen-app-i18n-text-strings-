@@ -1201,6 +1201,9 @@
   "savings_goal_info_text_overview_child": "You have now reached %1$d of your savings goal. You have %2$d in your piggy bank and %3$d left to save.  You have reached %4$d savings goal in total",
   "savings_goal_info_text_overview_parent_help_parent": "%1$d has now reached %2$d the savings goal. %3$d is in the piggy bank and %4$d is yet to be saved. Parental help is enabled and you sponsor with %5$d. %1$d has reached %6$d savings goals in total",
   "savings_goal_info_text_overview_parent": "1$d has now reached %2$d the savings goal. %3$d is in the piggy bank and %4$d is yet to be saved. %1$d has reached %5$d savings goals in total",
+
+  "savings_goal_info_text_overview_parent": "%1$d Har nu nået %2$d af sine opsparingsmål. %3$d er i sparegrisen og %4$d er endnu ikke opsparet. %1$d har nået %5$d af sine opsparingsmål i alt",
+
   "savings_goal_info_text_milestone_boost_child": "You have reached %1$d milestones and have %2$d milestones left until you reach your savings goal. At each milestone you get %3$d as a boost to your piggy bank.",
   "savings_goal_info_text_milestone_child": "You have reached %1$d milestones and have %2$d milestones left until you reach your savings goal.",
   "savings_goal_info_text_milestone_boost_parent": "%1$d has reached %2$d milestones and has %3$d milestones left to reach the savings goal. At each milestone you give %4$d as a boost to the piggy bank.",

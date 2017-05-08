@@ -33,7 +33,7 @@ export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: 
 export let compareDollarSigns = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '', template: string = '$') => {
   var keys = Object.keys(firstLang)
   var errorMessages = []
-  keys.some(key => {
+  keys.forEach(key => {
     if (firstLang[key] === undefined) return true
     if (secondLang[key] === undefined) return true
     if (!ignoredKeys.includes(key) && firstLang[key].split(template).length !== secondLang[key].split(template).length) {
