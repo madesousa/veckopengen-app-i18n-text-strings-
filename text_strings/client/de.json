@@ -1270,5 +1270,6 @@
   "day_suffix": "d",
   "goal_editor_save_coming": "PLZ_TRANSLATE Erstellen Sie das kommende Ziel",
   "happy_birthday": "PLZ_TRANSLATE Alles Gute zum Geburtstag!",
-  "task_type_duration": "PLZ_TRANSLATE Pro Stunde"
+  "task_type_duration": "PLZ_TRANSLATE Pro Stunde",
+  "default_reward_account": "PLZ_TRANSLATE Belohnungskonto"
 }

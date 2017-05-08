@@ -1270,5 +1270,6 @@
   "day_suffix": "PLZ_TRANSLATE d",
   "goal_editor_save_coming": "PLZ_TRANSLATE Opprett kommende mål",
   "happy_birthday": "PLZ_TRANSLATE Gratulerer med dagen!",
-  "task_type_duration": "PLZ_TRANSLATE Per time"
+  "task_type_duration": "PLZ_TRANSLATE Per time",
+  "default_reward_account": "PLZ_TRANSLATE Belønningskonto"
 }

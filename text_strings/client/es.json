@@ -1270,5 +1270,6 @@
   "day_suffix": "d",
   "goal_editor_save_coming": "PLZ_TRANSLATE Crear la próxima meta",
   "happy_birthday": "PLZ_TRANSLATE ¡Feliz cumpleaños!",
-  "task_type_duration": "PLZ_TRANSLATE Por hora"
+  "task_type_duration": "PLZ_TRANSLATE Por hora",
+  "default_reward_account": "PLZ_TRANSLATE Cuenta de recompensa"
 }

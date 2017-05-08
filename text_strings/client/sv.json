@@ -1281,5 +1281,6 @@
   "day_suffix": "d",
   "goal_editor_save_coming": "Skapa kommande sparmål",
   "happy_birthday": "Grattis på födelsedagen!",
-  "task_type_duration": "Per timme"
+  "task_type_duration": "Per timme",
+  "default_reward_account": "Belöningskonto"
 }

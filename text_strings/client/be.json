@@ -1270,5 +1270,6 @@
   "day_suffix": "d",
   "goal_editor_save_coming": "PLZ_TRANSLATE Стварэнне маючай мэты",
   "happy_birthday": "PLZ_TRANSLATE З Днём Нараджэння!",
-  "task_type_duration": "PLZ_TRANSLATE за гадзіну"
+  "task_type_duration": "PLZ_TRANSLATE за гадзіну",
+  "default_reward_account": "PLZ_TRANSLATE ўзнагароджанне рахункі"
 }

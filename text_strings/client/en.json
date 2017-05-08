@@ -1270,5 +1270,6 @@
   "day_suffix": "d",
   "goal_editor_save_coming": "Create upcoming goal",
   "happy_birthday": "Happy Birthday!",
-  "task_type_duration": "Per hour"
+  "task_type_duration": "Per hour",
+  "default_reward_account": "Reward account"
 }

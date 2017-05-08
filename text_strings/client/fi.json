@@ -1270,5 +1270,6 @@
   "day_suffix": "p",
   "goal_editor_save_coming": "Luo tuleva tavoite",
   "happy_birthday": "Hyvää syntymäpäivää!",
-  "task_type_duration": "PLZ_TRANSLATE Tunnissa"
+  "task_type_duration": "PLZ_TRANSLATE Tunnissa",
+  "default_reward_account": "PLZ_TRANSLATE palkita tili"
 }
