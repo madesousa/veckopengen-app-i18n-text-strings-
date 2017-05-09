@@ -1,30 +1,50 @@
 // @Flow
+import {getTextStrings, languageCodes} from '../../index'
+import {checkStringLenght} from '../../TestUtil'
+
 var Slack = require('node-slack')
 var slack = new Slack('https://hooks.slack.com/services/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')
 
-var attachmentPayload = [{
-  'fallback': 'Required text summary of the attachment that is shown by clients that understand attachments but choose not to show them.',
+let runFiora = ():* => {
+  var stringLengthData = languageCodes.forEach(lang2 => checkStringLenght(getTextStrings('en'), getTextStrings(lang2), 'en', lang2))
 
-  'text': 'Optional text that should appear within the attachment',
-  'pretext': 'Optional text that should appear above the formatted data',
+  var attachmentPayload = [{
+    'fallback': 'Required text summary of the attachment that is shown by clients that understand attachments but choose not to show them.',
 
-  'color': '#36a64f', // Can either be one of 'good', 'warning', 'danger', or any hex color code
+    'text': 'Optional text that should appear within the attachment',
+    'pretext': 'Optional text that should appear above the formatted data',
 
-  // Fields are displayed in a table on the message
-  'fields': [
+    'color': '#36a64f', // Can either be one of 'good', 'warning', 'danger', or any hex color code
+
+    // Fields are displayed in a table on the message
+    'fields': [
+      {
+        'title': 'Required Field Title', // The title may not contain markup and will be escaped for you
+        'value': 'Text value of the field. May contain standard message markup and must be escaped as normal. May be multi-line.',
+        'short': false // Optional flag indicating whether the `value` is short enough to be displayed side-by-side with other values
+      }
+    ]
+  },
     {
-      'title': 'Required Field Title', // The title may not contain markup and will be escaped for you
-      'value': 'Text value of the field. May contain standard message markup and must be escaped as normal. May be multi-line.',
-      'short': false // Optional flag indicating whether the `value` is short enough to be displayed side-by-side with other values
+      'fallback': 'String lenght data',
+
+      'text': 'Optional text that should appear within the attachment',
+      'pretext': 'Optional text that should appear above the formatted data',
+
+      'color': '#36a64f', // Can either be one of 'good', 'warning', 'danger', or any hex color code
+
+    // Fields are displayed in a table on the message
+      'fields': stringLengthData
     }
   ]
-}]
-slack.send({
-  text: 'Howdy!',
-  channel: '#translation_status',
-  username: 'TranslationStatus',
-  icon_emoji: 'bread',
-  attachments: attachmentPayload,
-  unfurl_links: true,
-  link_names: 1
-})
+  slack.send({
+    text: 'Greetings Here is todays info!',
+    channel: '#translation_status',
+    username: 'TranslationStatus',
+    icon_emoji: 'bread',
+    attachments: attachmentPayload,
+    unfurl_links: true,
+    link_names: 1
+  })
+}
+runFiora()

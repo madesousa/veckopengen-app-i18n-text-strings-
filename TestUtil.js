@@ -101,10 +101,11 @@ export let checkBirgittaInconsistencies = (firstLang: Object, secondLang: Object
   return errorMessages
 }
 
-export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string) => {
+export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string):Array<Object> => {
   var keys = Object.keys(firstLang)
 
   var longTextWarning = []
+  var longTextSlackData = []
   keys.forEach(key => {
     if (firstLangName === 'en' && secondLangName !== 'en') {
       if (secondLang[key].includes(plzTranslateTemplate)) secondLang[key] = secondLang[key].replace(plzTranslateTemplate, '')
@@ -113,10 +114,27 @@ export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLang
       if (Math.abs(differencePerc) >= 0.20) {
         var actIncr = Math.abs(differencePerc)
         longTextWarning.push(`Lang: ${firstLangName}, Key: ${key} is 20% longer than: ${secondLangName} -> ${actIncr}`)
+        longTextSlackData.push({lang: firstLangName, title: key, secLang: secondLangName, value: differencePerc, short: true})
       }
     }
     return true
   })
   // eslint-disable-next-line
   if (longTextWarning.length >0) {console.warn(longTextWarning)}
+  return longTextSlackData
+}
+export let countTranslationTemplates = (lang: Object, langName: string): Object => {
+  var keys = Object.keys(lang)
+
+  var countUsesCheck = []
+  var countUsesTranslate = []
+  keys.forEach(key => {
+    if (lang[key].includes(plzTranslateTemplate)) {
+      countUsesTranslate.push(`Lang: ${langName}, Key: ${key}`)
+    }
+    if (lang[key].includes(birgittaTemplate)) {
+      countUsesCheck.push(`Lang: ${langName}, Key: ${key}`)
+    }
+  })
+  return {lang: langName, countTranslate: countUsesTranslate.length, countCheck: countUsesCheck.length}
 }
