@@ -1168,7 +1168,6 @@
   "goal_editor_active_label": "Aktiv",
   "a_transaction": "Transaktion",
   "multiple_transactions": "Transaktioner",
-  "child_detail_button_transactions": "%1$d %2$d den %3$d",
   "start_screen_slide_1_header_text": "Lad os tale om penge",
   "start_screen_slide_2_header_text": "Nemme lommepenge",
   "start_screen_slide_3_header_text": "Dette er et familieforetagende",
@@ -1273,5 +1272,7 @@
   "task_header_singular_parent": "PLZ_TRANSLATE %1$d har %2$d opgave og kan tjene %3$d",
   "task_header_singular_child": "PLZ_TRANSLATE Du har %1$d opgave og kan tjene %2$d",
   "task_header_multi_parent": "PLZ_TRANSLATE %1$d har %2$d opgaver og kan tjene %3$d",
-  "task_header_multi_child": "PLZ_TRANSLATE Du har %1$d opgaver og kan tjene %2$d"
+  "task_header_multi_child": "PLZ_TRANSLATE Du har %1$d opgaver og kan tjene %2$d",
+  "child_detail_button_transaction": "PLZ_TRANSLATE 1 transaktion denne %2$d",
+  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d transaktioner denne %2$d"
 }

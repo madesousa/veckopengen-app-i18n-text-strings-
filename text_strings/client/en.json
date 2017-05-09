@@ -1168,7 +1168,6 @@
   "goal_editor_active_label": "Active",
   "a_transaction": "transaction",
   "multiple_transactions": "transactions",
-  "child_detail_button_transactions": "%1$d %2$d this %3$d",
   "start_screen_slide_1_header_text": "Let's talk money",
   "start_screen_slide_2_header_text": "Poket money made easy",
   "start_screen_slide_3_header_text": "This is family business",
@@ -1273,5 +1272,7 @@
   "task_header_singular_parent": "%1$d has %2$d task and can earn %3$d",
   "task_header_singular_child": "You have %1$d task and can earn %2$d",
   "task_header_multi_parent": "%1$d has %2$d tasks and can earn %3$d",
-  "task_header_multi_child": "You have %1$d tasks and can earn %2$d"
+  "task_header_multi_child": "You have %1$d tasks and can earn %2$d",
+  "child_detail_button_transaction": "1 transaction this %2$d",
+  "child_detail_button_transactions": "%1$d transactions this %2$d"
 }

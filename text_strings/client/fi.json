@@ -1168,7 +1168,6 @@
   "goal_editor_active_label": "Aktiivinen",
   "a_transaction": "siirto",
   "multiple_transactions": "siirrot",
-  "child_detail_button_transactions": "%1$d %2$d tämän %3$d",
   "start_screen_slide_1_header_text": "Puhutaan rahasta",
   "start_screen_slide_2_header_text": "Taskurahan saaminen helpoksi",
   "start_screen_slide_3_header_text": "Tämä on perheyritys",
@@ -1273,5 +1272,7 @@
   "task_header_singular_parent": "PLZ_TRANSLATE %1$d on %2$d tehtävä ja voi ansaita %3$d",
   "task_header_singular_child": "PLZ_TRANSLATE Sinulla on %1$d tehtävä ja voi ansaita %2$d",
   "task_header_multi_parent": "PLZ_TRANSLATE %1$d on %2$d tehtäviä ja voi ansaita %3$d",
-  "task_header_multi_child": "PLZ_TRANSLATE Sinulla on %1$d tehtävistä ja voi ansaita %2$d"
+  "task_header_multi_child": "PLZ_TRANSLATE Sinulla on %1$d tehtävistä ja voi ansaita %2$d",
+  "child_detail_button_transaction": "PLZ_TRANSLATE 1 tapahtuma tämä %2$d",
+  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d liiketoimet tämä %2$d"
 }

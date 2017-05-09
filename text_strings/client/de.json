@@ -1168,7 +1168,6 @@
   "goal_editor_active_label": "Active",
   "a_transaction": "transaction",
   "multiple_transactions": "transactions",
-  "child_detail_button_transactions": "%1$d %2$d this %3$d",
   "start_screen_slide_1_header_text": "Let's talk money",
   "start_screen_slide_2_header_text": "Poket money made easy",
   "start_screen_slide_3_header_text": "This is family business",
@@ -1273,5 +1272,7 @@
   "task_header_singular_parent": "PLZ_TRANSLATE %1$d hat %2$d Aufgabe und kann verdienen %3$d",
   "task_header_singular_child": "PLZ_TRANSLATE Sie haben %1$d Aufgabe und können verdienen %2$d",
   "task_header_multi_parent": "PLZ_TRANSLATE %1$d hat %2$d Aufgaben und kann verdienen %3$d",
-  "task_header_multi_child": "PLZ_TRANSLATE Sie haben %1$d Aufgaben und können verdienen %2$d"
+  "task_header_multi_child": "PLZ_TRANSLATE Sie haben %1$d Aufgaben und können verdienen %2$d",
+  "child_detail_button_transaction": "PLZ_TRANSLATE 1 Transaktion dieses %2$d",
+  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d Transaktionen diese %2$d"
 }

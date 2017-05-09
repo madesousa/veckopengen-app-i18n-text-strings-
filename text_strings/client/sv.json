@@ -1179,7 +1179,6 @@
   "goal_editor_active_label": "Aktivt",
   "a_transaction": "transaktion",
   "multiple_transactions": "transaktioner",
-  "child_detail_button_transactions": "%1$d %2$d den här %3$d",
   "start_screen_slide_1_header_text": "Börja prata pengar",
   "start_screen_slide_2_header_text": "Pengar som barn kan förstå",
   "start_screen_slide_3_header_text": "Familjen kommer först",
@@ -1284,5 +1283,7 @@
   "task_header_singular_parent": "%1$d har %2$d uppgift och kan tjäna %3$d",
   "task_header_singular_child": "Du har %1$d uppgift och kan tjäna %2$d",
   "task_header_multi_parent": "%1$d har %2$d uppgifter och kan tjäna %3$d",
-  "task_header_multi_child": "Du har %1$d uppgifter och kan tjäna %2$d"
+  "task_header_multi_child": "Du har %1$d uppgifter och kan tjäna %2$d",
+  "child_detail_button_transaction": "1 transaktion den här %2$d",
+  "child_detail_button_transactions": "%1$d transaktioner den här %2$d"
 }

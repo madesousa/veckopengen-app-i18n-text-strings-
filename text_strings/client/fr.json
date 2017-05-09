@@ -1168,7 +1168,6 @@
   "goal_editor_active_label": "Actif(s)",
   "a_transaction": "transfert",
   "multiple_transactions": "transferts",
-  "child_detail_button_transactions": "%1$d %2$d ce %3$d ",
   "start_screen_slide_1_header_text": "Parlons d'argent",
   "start_screen_slide_2_header_text": "Argent de poche facile",
   "start_screen_slide_3_header_text": "C'est une affaire familiale",
@@ -1273,5 +1272,7 @@
   "task_header_singular_parent": "PLZ_TRANSLATE %1$d a %2$d tâche et peut gagner %3$d",
   "task_header_singular_child": "PLZ_TRANSLATE Vous avez %1$d tâche et peut gagner %2$d",
   "task_header_multi_parent": "PLZ_TRANSLATE %1$d a %2$d tâches et peut gagner %3$d",
-  "task_header_multi_child": "PLZ_TRANSLATE Vous avez %1$d tâches et peut gagner %2$d"
+  "task_header_multi_child": "PLZ_TRANSLATE Vous avez %1$d tâches et peut gagner %2$d",
+  "child_detail_button_transaction": "PLZ_TRANSLATE 1 transaction ce %2$d",
+  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d transactions ce %2$d"
 }
