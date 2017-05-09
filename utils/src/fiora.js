@@ -1,12 +1,37 @@
 // @Flow
-import {getTextStrings, languageCodes} from '../../index'
-import {checkStringLenght} from '../../TestUtil'
-
 var Slack = require('node-slack')
 var slack = new Slack('https://hooks.slack.com/services/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')
 
+export var languageCodes = ['da', 'fi', 'is', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et', 'is']
+
+var textStringSets = {}
+languageCodes.forEach((code) => (textStringSets[code] = require(`../../text_strings/client/${code}.json`)))
+
+export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string):Array<Object> => {
+  var keys = Object.keys(firstLang)
+
+  var longTextWarning = []
+  var longTextSlackData = []
+  keys.forEach(key => {
+    if (firstLangName === 'en' && secondLangName !== 'en') {
+      if (secondLang[key].includes('PLZ_TRANSLATE')) secondLang[key] = secondLang[key].replace('PLZ_TRANSLATE', '')
+      var differencePerc = (firstLang[key].length - secondLang[key].length) / 100
+
+      if (Math.abs(differencePerc) >= 0.20) {
+        var actIncr = Math.abs(differencePerc)
+        longTextWarning.push(`Lang: ${firstLangName}, Key: ${key} is 20% longer than: ${secondLangName} -> ${actIncr}`)
+        longTextSlackData.push({lang: firstLangName, title: key, secLang: secondLangName, value: differencePerc, short: true})
+      }
+    }
+    return true
+  })
+  // eslint-disable-next-line
+  if (longTextWarning.length >0) {console.warn(longTextWarning)}
+  return longTextSlackData
+}
+
 let runFiora = ():* => {
-  var stringLengthData = languageCodes.forEach(lang2 => checkStringLenght(getTextStrings('en'), getTextStrings(lang2), 'en', lang2))
+  var stringLengthData = languageCodes.forEach(lang2 => checkStringLenght(textStringSets.en, textStringSets[lang2], 'en', lang2))
 
   var attachmentPayload = [{
     'fallback': 'Required text summary of the attachment that is shown by clients that understand attachments but choose not to show them.',

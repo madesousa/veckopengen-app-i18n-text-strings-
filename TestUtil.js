@@ -123,6 +123,7 @@ export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLang
   if (longTextWarning.length >0) {console.warn(longTextWarning)}
   return longTextSlackData
 }
+
 export let countTranslationTemplates = (lang: Object, langName: string): Object => {
   var keys = Object.keys(lang)
 

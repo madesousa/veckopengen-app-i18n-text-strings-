@@ -6,7 +6,6 @@
   "scripts": {
     "test": "jest",
     "babelize": "./node_modules/.bin/babel ./utils/src -d ./utils/dest",
-    "babelizeE6": "./node_modules/babel-cli/bin/babel-node.js ./utils/src -d ./utils/dest",
     "lint": "eslint . --ignore-pattern=/utils/dest/",
     "sara": "npm run babelize && node ./utils/dest/sara.js",
     "anna": "npm run babelize && node ./utils/dest/anna.js",
