@@ -1269,5 +1269,6 @@
   "happy_birthday": "PLZ_TRANSLATE Bon anniversaire!",
   "task_type_duration": "PLZ_TRANSLATE Par heure",
   "default_reward_account": "PLZ_TRANSLATE Compte de récompense",
-  "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d sur le %2$d"
+  "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d sur le %2$d",
+  "goal_blank_item_text": "PLZ_TRANSLATE L'heure d'un nouvel objectif d'épargne?"
 }

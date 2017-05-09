@@ -1204,10 +1204,9 @@
   "savings_goal_info_text_milestone_boost_child": "You have reached %1$d milestones and have %2$d milestones left until you reach your savings goal. At each milestone you get %3$d as a boost to your piggy bank.",
   "savings_goal_info_text_milestone_child": "PLZ_TRANSLATE Hai raggiunto %1$d traguardi e hanno %2$d pietre miliari a sinistra fino a raggiungere il tuo obiettivo di risparmio.",
   "savings_goal_info_text_milestone_boost_parent": "%1$d has reached %2$d milestones and has %3$d milestones left to reach the savings goal. At each milestone you give %4$d as a boost to the piggy bank.",
-  "savings_goal_info_text_milestone_parent": "PLZ_TRANSLATE %1$d %2$d ha raggiunto traguardi e ha %3$d pietre miliari a sinistra per raggiungere l'obiettivo di risparmio.",
-  "savings_goal_info_text_graph_parent": "%1$d started at %2$d and has in %3$d days succeeded in growing the piggy bank to %4$d",
-  "savings_goal_info_text_graph_child": "You started at %1$d and in %2$d days you have succeeded in growing your piggy bank to %3$d",
   "savings_goal_info_text_milestone_parent": "%1$d has reached %2$d milestones and has %3$d milestones left to reach the savings goal.",
+  "savings_goal_info_text_graph_child": "You started at %1$d and in %2$d days you have succeeded in growing your piggy bank to %3$d",
+  "savings_goal_info_text_graph_parent": "%1$d started at %2$d and has in %3$d days succeeded in growing the piggy bank to %4$d",
   "savings_goal_info_text_forecast_child": "You have saved for %1$d days. If you save your %2$d every week you are expected to have %3$d days until you achieve your savings goal. Right now you have saved %4$d more/less than expected",
   "savings_goal_info_text_forecast_parent": "PLZ_TRANSLATE %1$d ha salvato per %2$d giorni. Se il %3$d viene salvato ogni settimana, si prevede di prendere %4$d giorni fino a raggiungere l'obiettivo di risparmio. In questo momento è stato salvato% %5$d di più / meno del previsto",
   "android_datepicker_info_text": "PLZ_TRANSLATE Fare clic per impostare la data",
@@ -1270,5 +1269,6 @@
   "happy_birthday": "PLZ_TRANSLATE Buon compleanno!",
   "task_type_duration": "PLZ_TRANSLATE All'ora",
   "default_reward_account": "PLZ_TRANSLATE Reward account",
-  "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d sul %2$d"
+  "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d sul %2$d",
+  "goal_blank_item_text": "PLZ_TRANSLATE Tempo per un nuovo obiettivo di risparmio?"
 }

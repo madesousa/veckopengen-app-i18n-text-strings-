@@ -1269,5 +1269,6 @@
   "happy_birthday": "Hyvää syntymäpäivää!",
   "task_type_duration": "PLZ_TRANSLATE Tunnissa",
   "default_reward_account": "PLZ_TRANSLATE palkita tili",
-  "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d on %2$d"
+  "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d on %2$d",
+  "goal_blank_item_text": "PLZ_TRANSLATE Aika uusi säästöjä tavoite?"
 }

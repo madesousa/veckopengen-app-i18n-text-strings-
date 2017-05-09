@@ -1269,5 +1269,6 @@
   "happy_birthday": "PLZ_TRANSLATE Gratulerer med dagen!",
   "task_type_duration": "PLZ_TRANSLATE Per time",
   "default_reward_account": "PLZ_TRANSLATE Belønningskonto",
-  "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d på %2$d"
+  "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d på %2$d",
+  "goal_blank_item_text": "PLZ_TRANSLATE Tid for et nytt sparemål?"
 }

@@ -1280,5 +1280,6 @@
   "happy_birthday": "Grattis på födelsedagen!",
   "task_type_duration": "Per timme",
   "default_reward_account": "Belöningskonto",
-  "child_settings_allowance_monthly_on": "%1$d den %2$d"
+  "child_settings_allowance_monthly_on": "%1$d den %2$d",
+  "goal_blank_item_text": "Dags för ett nytt sparmål?"
 }
