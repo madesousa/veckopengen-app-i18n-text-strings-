@@ -954,7 +954,6 @@
   "task_percentage_done": "Performance Grade",
   "tasks_done_one": "%1$d completed chore",
   "tasks_done_multi": "%1$d completed chores",
-  "task_header": "%1$d have %2$d %3$d and can earn %4$d",
   "task_list_history": "History",
   "add_task_recurring_standing": "May be repeated once approved",
   "is_task_approved_child": "Are you finished with the chore?",
@@ -1270,5 +1269,9 @@
   "task_type_duration": "Per hour",
   "default_reward_account": "Reward account",
   "child_settings_allowance_monthly_on": "%1$d on the %2$d",
-  "goal_blank_item_text": "Time for a new savings goal?"
+  "goal_blank_item_text": "Time for a new savings goal?",
+  "task_header_singular_parent": "%1$d has %2$d task and can earn %3$d",
+  "task_header_singular_child": "You have %1$d task and can earn %2$d",
+  "task_header_multi_parent": "%1$d has %2$d tasks and can earn %3$d",
+  "task_header_multi_child": "You have %1$d tasks and can earn %2$d"
 }

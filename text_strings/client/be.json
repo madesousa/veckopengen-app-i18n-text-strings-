@@ -954,7 +954,6 @@
   "task_percentage_done": "PLZ_TRANSLATE Performance Grade",
   "tasks_done_one": "PLZ_TRANSLATE %1$d completed chore",
   "tasks_done_multi": "PLZ_TRANSLATE %1$d completed chores",
-  "task_header": "PLZ_TRANSLATE %1$d has %2$d %3$d and can earn %4$d",
   "task_list_history": "PLZ_TRANSLATE History",
   "add_task_recurring_standing": "PLZ_TRANSLATE May be repeated once approved",
   "is_task_approved_child": "PLZ_TRANSLATE Are you finished with the chore?",
@@ -1270,5 +1269,9 @@
   "task_type_duration": "PLZ_TRANSLATE за гадзіну",
   "default_reward_account": "PLZ_TRANSLATE ўзнагароджанне рахункі",
   "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d на %2$d",
-  "goal_blank_item_text": "PLZ_TRANSLATE Час для новай ашчаднай мэты?"
+  "goal_blank_item_text": "PLZ_TRANSLATE Час для новай ашчаднай мэты?",
+  "task_header_singular_parent": "PLZ_TRANSLATE %1$d %2$d мае задачу і можа зарабіць %3$d",
+  "task_header_singular_child": "PLZ_TRANSLATE У вас ёсць %1$d задачы і могуць зарабіць %2$d",
+  "task_header_multi_parent": "PLZ_TRANSLATE %1$d %2$d мае задачы і можа зарабіць %3$d",
+  "task_header_multi_child": "PLZ_TRANSLATE У вас ёсць %1$d задачы і могуць зарабіць %2$d"
 }

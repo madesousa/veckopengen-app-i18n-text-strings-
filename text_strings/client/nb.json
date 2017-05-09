@@ -954,7 +954,6 @@
   "task_percentage_done": "Utførelsesgrad",
   "tasks_done_one": "%1$d utført oppgave",
   "tasks_done_multi": "%1$d utførte oppgaver",
-  "task_header": "%1$d har %2$d %3$d og kan tjene %4$d",
   "task_list_history": "Historikk",
   "add_task_recurring_standing": "Kan utføres igjen etter at den har blitt godkjent",
   "is_task_approved_child": "Er du ferdig med oppgaven?",
@@ -1270,5 +1269,9 @@
   "task_type_duration": "PLZ_TRANSLATE Per time",
   "default_reward_account": "PLZ_TRANSLATE Belønningskonto",
   "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d på %2$d",
-  "goal_blank_item_text": "PLZ_TRANSLATE Tid for et nytt sparemål?"
+  "goal_blank_item_text": "PLZ_TRANSLATE Tid for et nytt sparemål?",
+  "task_header_singular_parent": "PLZ_TRANSLATE %1$d har %2$d oppgave og kan tjene %3$d",
+  "task_header_singular_child": "PLZ_TRANSLATE Du har %1$d oppgave og kan tjene %2$d",
+  "task_header_multi_parent": "PLZ_TRANSLATE %1$d har %2$d oppgaver og kan tjene %3$d",
+  "task_header_multi_child": "PLZ_TRANSLATE Du har %1$d oppgaver og kan tjene %2$d"
 }

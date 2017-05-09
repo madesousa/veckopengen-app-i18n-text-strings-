@@ -965,7 +965,6 @@
   "task_percentage_done": "Utförandegrad",
   "tasks_done_one": "%1$d utförd uppgift",
   "tasks_done_multi": "%1$d utförda uppgifter",
-  "task_header": "%1$d har %2$d %3$d och kan tjäna %4$d",
   "task_list_history": "Historik",
   "add_task_recurring_standing": "Kan utföras igen efter att den blivit godkänd",
   "is_task_approved_child": "Är du klar med uppgiften?",
@@ -1281,5 +1280,9 @@
   "task_type_duration": "Per timme",
   "default_reward_account": "Belöningskonto",
   "child_settings_allowance_monthly_on": "%1$d den %2$d",
-  "goal_blank_item_text": "Dags för ett nytt sparmål?"
+  "goal_blank_item_text": "Dags för ett nytt sparmål?",
+  "task_header_singular_parent": "%1$d har %2$d uppgift och kan tjäna %3$d",
+  "task_header_singular_child": "Du har %1$d uppgift och kan tjäna %2$d",
+  "task_header_multi_parent": "%1$d har %2$d uppgifter och kan tjäna %3$d",
+  "task_header_multi_child": "Du har %1$d uppgifter och kan tjäna %2$d"
 }

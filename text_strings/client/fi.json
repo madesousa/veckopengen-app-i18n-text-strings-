@@ -954,7 +954,6 @@
   "task_percentage_done": "suorituskyky Grade",
   "tasks_done_one": "%1$d valmistunut tehtävän",
   "tasks_done_multi": "%1$d valmiit tehtävät",
-  "task_header": "%1$d har %2$d %3$d ja voi palvella%4$d",
   "task_list_history": "historiallinen",
   "add_task_recurring_standing": "Kan utföras igen efter att den blivit godkänd",
   "is_task_approved_child": "Är du klar med uppgiften?",
@@ -1270,5 +1269,9 @@
   "task_type_duration": "PLZ_TRANSLATE Tunnissa",
   "default_reward_account": "PLZ_TRANSLATE palkita tili",
   "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d on %2$d",
-  "goal_blank_item_text": "PLZ_TRANSLATE Aika uusi säästöjä tavoite?"
+  "goal_blank_item_text": "PLZ_TRANSLATE Aika uusi säästöjä tavoite?",
+  "task_header_singular_parent": "PLZ_TRANSLATE %1$d on %2$d tehtävä ja voi ansaita %3$d",
+  "task_header_singular_child": "PLZ_TRANSLATE Sinulla on %1$d tehtävä ja voi ansaita %2$d",
+  "task_header_multi_parent": "PLZ_TRANSLATE %1$d on %2$d tehtäviä ja voi ansaita %3$d",
+  "task_header_multi_child": "PLZ_TRANSLATE Sinulla on %1$d tehtävistä ja voi ansaita %2$d"
 }

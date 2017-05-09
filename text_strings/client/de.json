@@ -954,7 +954,6 @@
   "task_percentage_done": "Performance Grade",
   "tasks_done_one": "%1$d completed chore",
   "tasks_done_multi": "%1$d completed chores",
-  "task_header": "%1$d has %2$d %3$d and can earn %4$d",
   "task_list_history": "History",
   "add_task_recurring_standing": "May be repeated once approved",
   "is_task_approved_child": "Are you finished with the chore?",
@@ -1270,5 +1269,9 @@
   "task_type_duration": "PLZ_TRANSLATE Pro Stunde",
   "default_reward_account": "PLZ_TRANSLATE Belohnungskonto",
   "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d auf der %2$d",
-  "goal_blank_item_text": "PLZ_TRANSLATE Zeit für ein neues Sparziel?"
+  "goal_blank_item_text": "PLZ_TRANSLATE Zeit für ein neues Sparziel?",
+  "task_header_singular_parent": "PLZ_TRANSLATE %1$d hat %2$d Aufgabe und kann verdienen %3$d",
+  "task_header_singular_child": "PLZ_TRANSLATE Sie haben %1$d Aufgabe und können verdienen %2$d",
+  "task_header_multi_parent": "PLZ_TRANSLATE %1$d hat %2$d Aufgaben und kann verdienen %3$d",
+  "task_header_multi_child": "PLZ_TRANSLATE Sie haben %1$d Aufgaben und können verdienen %2$d"
 }

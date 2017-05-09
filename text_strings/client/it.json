@@ -954,7 +954,6 @@
   "task_percentage_done": "PLZ_TRANSLATE Performance Grade",
   "tasks_done_one": "PLZ_TRANSLATE %1$d completed chore",
   "tasks_done_multi": "PLZ_TRANSLATE %1$d completed chores",
-  "task_header": "PLZ_TRANSLATE %1$d has %2$d %3$d and can earn %4$d",
   "task_list_history": "PLZ_TRANSLATE History",
   "add_task_recurring_standing": "PLZ_TRANSLATE May be repeated once approved",
   "is_task_approved_child": "PLZ_TRANSLATE Are you finished with the chore?",
@@ -1270,5 +1269,9 @@
   "task_type_duration": "PLZ_TRANSLATE All'ora",
   "default_reward_account": "PLZ_TRANSLATE Reward account",
   "child_settings_allowance_monthly_on": "PLZ_TRANSLATE %1$d sul %2$d",
-  "goal_blank_item_text": "PLZ_TRANSLATE Tempo per un nuovo obiettivo di risparmio?"
+  "goal_blank_item_text": "PLZ_TRANSLATE Tempo per un nuovo obiettivo di risparmio?",
+  "task_header_singular_parent": "PLZ_TRANSLATE %1$d ha %2$d compito e può guadagnare %3$d",
+  "task_header_singular_child": "PLZ_TRANSLATE Hai %1$d compito e puoi guadagnare %2$d",
+  "task_header_multi_parent": "PLZ_TRANSLATE %1$d ha %2$d attività e può guadagnare %3$d",
+  "task_header_multi_child": "PLZ_TRANSLATE Hai %1$d attività e puoi guadagnare %2$d"
 }
