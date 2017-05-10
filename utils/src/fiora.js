@@ -1,4 +1,3 @@
-// @flow
 var Slack = require('node-slack')
 var slack = new Slack('https://hooks.slack.com/services/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')
 
