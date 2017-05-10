@@ -35,12 +35,9 @@ let runFiora = ():* => {
 
   var attachmentPayload = [{
     'fallback': 'Required text summary of the attachment that is shown by clients that understand attachments but choose not to show them.',
-
     'text': 'Optional text that should appear within the attachment',
     'pretext': 'Optional text that should appear above the formatted data',
-
     'color': '#36a64f', // Can either be one of 'good', 'warning', 'danger', or any hex color code
-
     // Fields are displayed in a table on the message
     'fields': [
       {
@@ -49,19 +46,14 @@ let runFiora = ():* => {
         'short': false // Optional flag indicating whether the `value` is short enough to be displayed side-by-side with other values
       }
     ]
-  },
-    {
-      'fallback': 'String lenght data',
-
-      'text': 'Optional text that should appear within the attachment',
-      'pretext': 'Optional text that should appear above the formatted data',
-
-      'color': '#36a64f', // Can either be one of 'good', 'warning', 'danger', or any hex color code
-
+  }, {
+    'fallback': 'String lenght data',
+    'text': 'Optional text that should appear within the attachment',
+    'pretext': 'Optional text that should appear above the formatted data',
+    'color': '#36a64f', // Can either be one of 'good', 'warning', 'danger', or any hex color code
     // Fields are displayed in a table on the message
-      'fields': stringLengthData
-    }
-  ]
+    'fields': stringLengthData
+  }]
   slack.send({
     text: 'Greetings Here is todays info!',
     channel: '#translation_status',
