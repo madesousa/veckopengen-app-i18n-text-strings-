@@ -288,6 +288,8 @@
   "trans_allowance_to_external_account": "%1$d millifærðist á %2$d reikning",
   "todays_bonus": "Bónus dagsins var <b>%1$d</b>",
   "expense_popover_instructions": "Gefðu upp summu til þess að taka út úr sparigrísnum",
+  "trustly_settings_monthly_low_day": ":a",
+  "trustly_settings_monthly_high_day": ":e",
   "autogiro": "Virkja autogiro:",
   "on": "á ",
   "on_the": "þann ",

@@ -288,6 +288,8 @@
   "trans_allowance_to_external_account": "%1$d werd overgeschreven %2$d naar bankrekening",
   "todays_bonus": "De bonus van vandaag was <b>%1$d</b>",
   "expense_popover_instructions": "Kies een bedrag om af te halen van uw spaarpot",
+  "trustly_settings_monthly_low_day": ":l",
+  "trustly_settings_monthly_high_day": "ste",
   "autogiro": "Activeer direct krediet",
   "on": "op ",
   "on_the": "de",

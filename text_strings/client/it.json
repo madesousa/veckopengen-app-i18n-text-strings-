@@ -288,6 +288,8 @@
   "trans_allowance_to_external_account": "PLZ_TRANSLATE %1$d was transfererd %2$d to bank account",
   "todays_bonus": "PLZ_TRANSLATE Todays bonus was <b>%1$d</b>",
   "expense_popover_instructions": "PLZ_TRANSLATE Choose an amount to be drawn from the piggy bank",
+  "trustly_settings_monthly_low_day": "PLZ_TRANSLATE st",
+  "trustly_settings_monthly_high_day": "PLZ_TRANSLATE th",
   "autogiro": "PLZ_TRANSLATE Activate direct debit:",
   "on": "PLZ_TRANSLATE on ",
   "on_the": "PLZ_TRANSLATE the ",
