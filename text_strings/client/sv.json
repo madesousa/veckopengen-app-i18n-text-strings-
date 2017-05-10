@@ -1288,5 +1288,6 @@
   "task_header_multi_child": "Du har %1$d uppgifter och kan tjäna %2$d",
   "child_detail_button_transaction": "1 transaktion den här %2$d",
   "child_detail_button_transactions": "%1$d transaktioner den här %2$d",
-  "trans_allowance_to_external_account_future": "%1$d överförs till %2$d bankkonto"
+  "trans_allowance_to_external_account_future": "%1$d överförs till %2$d bankkonto",
+  "task_header": "%1$d har %2$d %3$d och kan tjäna %4$d"
 }

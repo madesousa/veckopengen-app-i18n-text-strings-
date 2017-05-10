@@ -1277,5 +1277,6 @@
   "task_header_multi_child": "You have %1$d tasks and can earn %2$d",
   "child_detail_button_transaction": "1 transaction this %2$d",
   "child_detail_button_transactions": "%1$d transactions this %2$d",
-  "trans_allowance_to_external_account_future": "%1$d transfer to %2$d bank account"
+  "trans_allowance_to_external_account_future": "%1$d transfer to %2$d bank account",
+  "task_header": "%1$d have %2$d %3$d and can earn %4$d"
 }

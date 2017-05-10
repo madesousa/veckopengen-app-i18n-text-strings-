@@ -1277,5 +1277,6 @@
   "task_header_multi_child": "PLZ_TRANSLATE У вас ёсць %1$d задачы і могуць зарабіць %2$d",
   "child_detail_button_transaction": "PLZ_TRANSLATE 1 здзелка гэта %2$d",
   "child_detail_button_transactions": "PLZ_TRANSLATE %1$d здзелкі гэта %2$d",
-  "trans_allowance_to_external_account_future": "PLZ_TRANSLATE %1$d %2$d пераклад на банкаўскі рахунак"
+  "trans_allowance_to_external_account_future": "PLZ_TRANSLATE %1$d %2$d пераклад на банкаўскі рахунак",
+  "task_header": "PLZ_TRANSLATE %1$d has %2$d %3$d and can earn %4$d"
 }

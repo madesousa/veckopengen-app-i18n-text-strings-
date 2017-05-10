@@ -1277,5 +1277,6 @@
   "task_header_multi_child": "PLZ_TRANSLATE Sinulla on %1$d tehtävistä ja voi ansaita %2$d",
   "child_detail_button_transaction": "PLZ_TRANSLATE 1 tapahtuma tämä %2$d",
   "child_detail_button_transactions": "PLZ_TRANSLATE %1$d liiketoimet tämä %2$d",
-  "trans_allowance_to_external_account_future": "PLZ_TRANSLATE %1$d siirto %2$d pankkitilille"
+  "trans_allowance_to_external_account_future": "PLZ_TRANSLATE %1$d siirto %2$d pankkitilille",
+  "task_header": "%1$d har %2$d %3$d ja voi palvella%4$d"
 }
