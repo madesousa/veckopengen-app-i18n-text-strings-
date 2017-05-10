@@ -5,6 +5,7 @@ var slack = new Slack('https://hooks.slack.com/services/T0E4WB55E/B5AJ6VA0K/gnF5
 export var languageCodes = ['da', 'fi', 'is', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et', 'is']
 
 var textStringSets = {}
+// $FlowFixMe
 languageCodes.forEach((code) => (textStringSets[code] = require(`../../text_strings/client/${code}.json`)))
 
 export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string):Array<Object> => {
