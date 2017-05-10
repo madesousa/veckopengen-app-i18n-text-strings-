@@ -1274,5 +1274,6 @@
   "task_header_multi_parent": "PLZ_TRANSLATE %1$d on %2$d ülesanded ja teenida %3$d",
   "task_header_multi_child": "PLZ_TRANSLATE Sul on %1$d ülesanded ja teenida %2$d",
   "child_detail_button_transaction": "PLZ_TRANSLATE 1 tehingu käesoleva %2$d",
-  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d tehingute seda %2$d"
+  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d tehingute seda %2$d",
+  "trans_allowance_to_external_account_future": "PLZ_TRANSLATE %1$d üleandmise %2$d pangakonto"
 }

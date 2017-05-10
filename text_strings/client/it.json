@@ -1274,5 +1274,6 @@
   "task_header_multi_parent": "PLZ_TRANSLATE %1$d ha %2$d attività e può guadagnare %3$d",
   "task_header_multi_child": "PLZ_TRANSLATE Hai %1$d attività e puoi guadagnare %2$d",
   "child_detail_button_transaction": "PLZ_TRANSLATE 1 transazione questo %2$d",
-  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d transazioni questo %2$d"
+  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d transazioni questo %2$d",
+  "trans_allowance_to_external_account_future": "PLZ_TRANSLATE %1$d trasferimento a %2$d conto corrente bancario"
 }

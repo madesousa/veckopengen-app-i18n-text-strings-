@@ -1274,5 +1274,6 @@
   "task_header_multi_parent": "PLZ_TRANSLATE %1$d hefur %2$d verkefni og getur fengið %3$d",
   "task_header_multi_child": "PLZ_TRANSLATE Þú hefur %1$d verkefni og getur fengið %2$d",
   "child_detail_button_transaction": "PLZ_TRANSLATE 1 færðu þetta %2$d",
-  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d viðskipti þetta %2$d"
+  "child_detail_button_transactions": "PLZ_TRANSLATE %1$d viðskipti þetta %2$d",
+  "trans_allowance_to_external_account_future": "PLZ_TRANSLATE %1$d flytja til %2$d bankareikning"
 }

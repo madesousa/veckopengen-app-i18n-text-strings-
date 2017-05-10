@@ -1274,5 +1274,6 @@
   "task_header_multi_parent": " %1$d har %2$d opgaver og kan tjene %3$d",
   "task_header_multi_child": " Du har %1$d opgaver og kan tjene %2$d",
   "child_detail_button_transaction": " 1 transaktion denne %2$d",
-  "child_detail_button_transactions": " %1$d transaktioner denne %2$d"
+  "child_detail_button_transactions": " %1$d transaktioner denne %2$d",
+  "trans_allowance_to_external_account_future": "PLZ_TRANSLATE %1$d overførsel til %2$d bankkonto"
 }
