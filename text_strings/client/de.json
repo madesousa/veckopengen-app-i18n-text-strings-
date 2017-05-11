@@ -1324,5 +1324,8 @@
   "follow_social_instagram": "PLZ_TRANSLATE Folge uns auf Instagram",
   "follow_social_facebook": "PLZ_TRANSLATE Folge uns auf Facebook",
   "follow_social_twitter": "PLZ_TRANSLATE Folge uns auf Twitter",
-  "follow_social_header": "PLZ_TRANSLATE Folgen Sie uns auf Social Media"
+  "follow_social_header": "PLZ_TRANSLATE Folgen Sie uns auf Social Media",
+  "instagram_url": "https://www.instagram.com/gimitheapp/",
+  "facebook_url": "https://www.facebook.com/gimitheapp/",
+  "twitter_url": "https://twitter.com/gimitheapp"
 }

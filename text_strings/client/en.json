@@ -1324,5 +1324,8 @@
   "follow_social_instagram": "Follow us on Instagram",
   "follow_social_facebook": "Follow us on Facebook",
   "follow_social_twitter": "Follow us on Twitter",
-  "follow_social_header": "Follow us on social media"
+  "follow_social_header": "Follow us on social media",
+  "instagram_url": "https://www.instagram.com/gimitheapp/",
+  "facebook_url": "https://www.facebook.com/gimitheapp/",
+  "twitter_url": "https://twitter.com/gimitheapp"
 }

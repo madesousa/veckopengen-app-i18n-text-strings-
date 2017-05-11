@@ -1324,5 +1324,8 @@
   "follow_social_instagram": "PLZ_TRANSLATE Выконвайце за намі на Instagram",
   "follow_social_facebook": "PLZ_TRANSLATE Выконвайце за намі на Facebook",
   "follow_social_twitter": "PLZ_TRANSLATE Выконвайце за намі ў Twitter",
-  "follow_social_header": "PLZ_TRANSLATE Выконвайце за намі ў сацыяльных сетках"
+  "follow_social_header": "PLZ_TRANSLATE Выконвайце за намі ў сацыяльных сетках",
+  "instagram_url": "https://www.instagram.com/gimitheapp/",
+  "facebook_url": "https://www.facebook.com/gimitheapp/",
+  "twitter_url": "https://twitter.com/gimitheapp"
 }
