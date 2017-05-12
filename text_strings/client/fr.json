@@ -1327,5 +1327,6 @@
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
-  "task_requires_photo_action": "PLZ_TRANSLATE Prendre une photo 📷"
+  "task_requires_photo_action": "PLZ_TRANSLATE Prendre une photo 📷",
+  "go_back": "PLZ_TRANSLATE Retourner"
 }
