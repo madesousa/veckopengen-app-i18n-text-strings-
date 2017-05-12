@@ -177,7 +177,6 @@
   "task_approve_approve": "Goedgekeurd!",
   "task_approve_reject": "Niet goedgekeurd",
   "task_requires_photo_text": "Neem een foto om te bevestigen dat je de taak hebt volbracht!",
-  "task_requires_photo_action": "Neem een foto",
   "task_completed_title_child": "Perfect!",
   "task_completed_title_parent": "Is de taak voltooid?",
   "task_reject_change": "Wijzig",
@@ -1327,5 +1326,6 @@
   "follow_social_header": "PLZ_TRANSLATE Volg ons op sociale media",
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
-  "twitter_url": "https://twitter.com/gimitheapp"
+  "twitter_url": "https://twitter.com/gimitheapp",
+  "task_requires_photo_action": "PLZ_TRANSLATE Neem foto 📷"
 }

@@ -177,7 +177,6 @@
   "task_approve_approve": "samþykkt!",
   "task_approve_reject": "ekki samþykkt",
   "task_requires_photo_text": "taka mynd til að sína hvað þú hefur gert!",
-  "task_requires_photo_action": "taka mynd",
   "task_completed_title_child": "vel gert!",
   "task_completed_title_parent": "Er verkefnið unnið?",
   "task_reject_change": "breyta",
@@ -1327,5 +1326,6 @@
   "follow_social_header": "PLZ_TRANSLATE Fylgdu okkur á félagslegum fjölmiðlum",
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
-  "twitter_url": "https://twitter.com/gimitheapp"
+  "twitter_url": "https://twitter.com/gimitheapp",
+  "task_requires_photo_action": "PLZ_TRANSLATE Taka mynd 📷"
 }

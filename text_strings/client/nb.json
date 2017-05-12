@@ -177,7 +177,6 @@
   "task_approve_approve": "Godkjent!",
   "task_approve_reject": "Ikke godkjent",
   "task_requires_photo_text": "Ta et bilde som viser at du klart oppgaven!",
-  "task_requires_photo_action": "Ta bilde",
   "task_completed_title_child": "Bravo!",
   "task_completed_title_parent": "Er oppgaven utført?",
   "task_reject_change": "Endre",
@@ -1327,5 +1326,6 @@
   "follow_social_header": "PLZ_TRANSLATE Følg oss på sosiale medier",
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
-  "twitter_url": "https://twitter.com/gimitheapp"
+  "twitter_url": "https://twitter.com/gimitheapp",
+  "task_requires_photo_action": "PLZ_TRANSLATE Ta bilde 📷"
 }

@@ -177,7 +177,6 @@
   "task_approve_approve": "Godkänd!",
   "task_approve_reject": "Inte godkänd",
   "task_requires_photo_text": "Ta en bild som visar att du klarat uppgiften!",
-  "task_requires_photo_action": "Ta bild",
   "task_completed_title_child": "Bravo!",
   "task_completed_title_parent": "Är uppgiften utförd?",
   "task_reject_change": "Ändra",
@@ -1338,5 +1337,6 @@
   "follow_social_header": "Följ oss på sociala medier",
   "instagram_url": "https://www.instagram.com/veckopengen/",
   "facebook_url": "https://www.facebook.com/veckopengen/",
-  "twitter_url": "https://twitter.com/veckopengen/"
+  "twitter_url": "https://twitter.com/veckopengen/",
+  "task_requires_photo_action": "Ta bild 📷"
 }

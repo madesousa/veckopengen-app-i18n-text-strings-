@@ -177,7 +177,6 @@
   "task_approve_approve": "Approved!",
   "task_approve_reject": "Not approved",
   "task_requires_photo_text": "Take a picture to confirm that you have completed the chore!",
-  "task_requires_photo_action": "Take a picture",
   "task_completed_title_child": "Great!",
   "task_completed_title_parent": "Is the chore complete?",
   "task_reject_change": "Change",
@@ -1327,5 +1326,6 @@
   "follow_social_header": "PLZ_TRANSLATE Folgen Sie uns auf Social Media",
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
-  "twitter_url": "https://twitter.com/gimitheapp"
+  "twitter_url": "https://twitter.com/gimitheapp",
+  "task_requires_photo_action": "PLZ_TRANSLATE Nehmen Sie Bild 📷"
 }

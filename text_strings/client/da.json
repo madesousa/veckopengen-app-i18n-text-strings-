@@ -177,7 +177,6 @@
   "task_approve_approve": "Godkend!",
   "task_approve_reject": "Ikke godkendt",
   "task_requires_photo_text": "Tag et billed for at bevise at du har gennemført opgaven!",
-  "task_requires_photo_action": "Tag et billed",
   "task_completed_title_child": "Bravo!",
   "task_completed_title_parent": "Er opgaven gennemført?",
   "task_reject_change": "Erstat",
@@ -1327,5 +1326,6 @@
   "follow_social_header": "PLZ_TRANSLATE Følg os på sociale medier",
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
-  "twitter_url": "https://twitter.com/gimitheapp"
+  "twitter_url": "https://twitter.com/gimitheapp",
+  "task_requires_photo_action": "PLZ_TRANSLATE Tag billede 📷"
 }

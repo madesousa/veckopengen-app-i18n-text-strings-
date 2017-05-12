@@ -177,7 +177,6 @@
   "task_approve_approve": "PLZ_TRANSLATE Approved!",
   "task_approve_reject": "PLZ_TRANSLATE Not approved",
   "task_requires_photo_text": "PLZ_TRANSLATE Take a picture to confirm that you have completed the chore!",
-  "task_requires_photo_action": "PLZ_TRANSLATE Take a picture",
   "task_completed_title_child": "PLZ_TRANSLATE Great!",
   "task_completed_title_parent": "PLZ_TRANSLATE Is the chore complete?",
   "task_reject_change": "PLZ_TRANSLATE Change",
@@ -1327,5 +1326,6 @@
   "follow_social_header": "PLZ_TRANSLATE Jälgi meid sotsiaalmeedias",
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
-  "twitter_url": "https://twitter.com/gimitheapp"
+  "twitter_url": "https://twitter.com/gimitheapp",
+  "task_requires_photo_action": "PLZ_TRANSLATE Pildista 📷"
 }
