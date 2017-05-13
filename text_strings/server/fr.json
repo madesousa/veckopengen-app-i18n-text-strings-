@@ -88,10 +88,10 @@
   "dashboard_disabled_task_created": "tâche suggérée {task}.",
   "push_trustly_mandate_revoked": "Votre compte bancaire est maintenant déconnecté, mettez à jour vos informations à utiliser les virements bancaires.",
   "push_weekly_allowance_pre_payout_0":  "Il est temps de verser l'allocation hebdo!",
-  "push_weekly_allowance_pre_payout_1":  "Il est temps de verser l'allocation hebdo!"
-  "push_weekly_allowance_pre_payout_2":  "Il est temps de verser l'allocation hebdo!"
-  "push_weekly_allowance_pre_payout_3":  "Il est temps de verser l'allocation hebdo!"
-  "push_weekly_allowance_pre_payout_4":  "Il est temps de verser l'allocation hebdo!"
+  "push_weekly_allowance_pre_payout_1":  "Il est temps de verser l'allocation hebdo!",
+  "push_weekly_allowance_pre_payout_2":  "Il est temps de verser l'allocation hebdo!",
+  "push_weekly_allowance_pre_payout_3":  "Il est temps de verser l'allocation hebdo!",
+  "push_weekly_allowance_pre_payout_4":  "Il est temps de verser l'allocation hebdo!",
   "push_monthly_allowance_pre_payout_0": "Il est temps de verser l'allocation mensuelle!",
   "push_monthly_allowance_pre_payout_1": "Il est temps de verser l'allocation mensuelle!",
   "push_monthly_allowance_pre_payout_2": "Il est temps de verser l'allocation mensuelle!",

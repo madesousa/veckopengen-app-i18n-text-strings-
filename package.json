@@ -46,6 +46,7 @@
   },
   "dependencies": {
     "@google-cloud/translate": "0.7.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-node6": "^11.0.0",
     "google-translate-api": "2.2.2"
   }
