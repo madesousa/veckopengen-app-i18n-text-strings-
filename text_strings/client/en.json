@@ -1328,5 +1328,6 @@
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
   "task_requires_photo_action": "Take picture 📷",
-  "go_back": "Go back"
+  "go_back": "Go back",
+  "goal_completed_long_text": "<b>Congratulations</b>! Your goal goal is reached. When its finished, you will continue your journey."
 }

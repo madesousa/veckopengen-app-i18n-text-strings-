@@ -1328,5 +1328,6 @@
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
   "task_requires_photo_action": "PLZ_TRANSLATE Pildista 📷",
-  "go_back": "PLZ_TRANSLATE Mine tagasi"
+  "go_back": "PLZ_TRANSLATE Mine tagasi",
+  "goal_completed_long_text": "PLZ_TRANSLATE <b>Õnnitleme!</b> Teie eesmärk eesmärk on saavutatud. Kui selle lõpetanud, siis jätkab oma teekonda."
 }

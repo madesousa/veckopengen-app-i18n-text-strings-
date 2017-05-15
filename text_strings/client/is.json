@@ -1328,5 +1328,6 @@
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
   "task_requires_photo_action": "PLZ_TRANSLATE Taka mynd 📷",
-  "go_back": "PLZ_TRANSLATE Farðu til baka"
+  "go_back": "PLZ_TRANSLATE Farðu til baka",
+  "goal_completed_long_text": "PLZ_TRANSLATE <b>Til hamingju</b> ! Markmið þitt er náð. Þegar það er lokið mun þú halda áfram ferðinni."
 }

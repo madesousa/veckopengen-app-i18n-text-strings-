@@ -1328,5 +1328,6 @@
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
   "task_requires_photo_action": "PLZ_TRANSLATE сфатаграфуйце 📷",
-  "go_back": "PLZ_TRANSLATE Вяртацца"
+  "go_back": "PLZ_TRANSLATE Вяртацца",
+  "goal_completed_long_text": "PLZ_TRANSLATE <b>Віншуем!</b> Ваша мэта мэта дасягнутая. Калі яго скончылі, вы будзеце працягваць сваё падарожжа."
 }

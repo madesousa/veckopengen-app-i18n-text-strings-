@@ -1328,5 +1328,6 @@
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
   "task_requires_photo_action": "PLZ_TRANSLATE Nehmen Sie Bild 📷",
-  "go_back": "PLZ_TRANSLATE Geh zurück"
+  "go_back": "PLZ_TRANSLATE Geh zurück",
+  "goal_completed_long_text": "PLZ_TRANSLATE <b>Herzlichen Glückwunsch</b> ! Ihr Ziel ist erreicht. Wenn es fertig ist, wirst du deine Reise fortsetzen."
 }

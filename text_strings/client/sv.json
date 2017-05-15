@@ -1339,5 +1339,6 @@
   "facebook_url": "https://www.facebook.com/veckopengen/",
   "twitter_url": "https://twitter.com/veckopengen/",
   "task_requires_photo_action": "Ta bild 📷",
-  "go_back": "Tillbaka"
+  "go_back": "Tillbaka",
+  "goal_completed_long_text": "<b>Grattis</b>! Ditt sparmål är uppnått. När det har avslutats fortsätter du din sparresa."
 }
