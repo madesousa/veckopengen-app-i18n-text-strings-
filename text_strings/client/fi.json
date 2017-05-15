@@ -1329,5 +1329,6 @@
   "twitter_url": "https://twitter.com/gimitheapp",
   "task_requires_photo_action": "PLZ_TRANSLATE Ota kuva 📷",
   "go_back": "PLZ_TRANSLATE Mene takaisin",
-  "goal_completed_long_text": "PLZ_TRANSLATE <b>Onneksi olkoon!</b> Oma tavoite tavoite on saavutettu. Kun sen valmis, voit jatkaa matkaa."
+  "goal_completed_long_text_child": "PLZ_TRANSLATE <b>Onneksi olkoon!</b> Oma tavoite tavoite on saavutettu. Kun se on valmis, voit jatkaa matkaa.",
+  "goal_completed_long_text_parent": "PLZ_TRANSLATE <b>Onneksi olkoon!</b> %1$d tavoite on saavutettu. Valmistuttuaan %1$d jatkaa matkaa."
 }
