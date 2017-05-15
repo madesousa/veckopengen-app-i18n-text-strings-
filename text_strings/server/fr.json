@@ -74,7 +74,7 @@
   "push_child_logged_in": "{child.name} s'est connecté!",
   "sms_app_download": "Bienvenue dans Gimi!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{goal.updated_by.name} a archivé un objectif d'épargne {goal.title}",
-  "push_timed_assignment_created": "Regardez, vous avez reçu une tâche a durée determinée!",
+  "push_timed_assignment_created": "Regardez, vous avez reçu une tâche à durée determinée!",
   "push_new_shared_assignment": "Vous êtes en compétition pour accomplir une tâche!",
   "push_new_repeating_assignment": "Regardez, vous avez une nouvelle tâche routinière!",
   "push_check_wish_list": "Il reste encore un mois avant votre anniversaire. Consultez la liste de souhaits!",
