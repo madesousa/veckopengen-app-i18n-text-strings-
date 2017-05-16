@@ -11,8 +11,7 @@
     "anna": "npm run babelize && node ./utils/dest/anna.js",
     "jenny": "npm run babelize && node ./utils/dest/jenny.js",
     "poli": "npm run babelize && node ./utils/dest/polina.js",
-    "krisi": "npm run babelize && node ./utils/dest/krisi.js",
-    "fiora": "npm run babelize && node ./utils/dest/fiora.js"
+    "krisi": "npm run babelize && node ./utils/dest/krisi.js"
   },
   "repository": {
     "type": "git",

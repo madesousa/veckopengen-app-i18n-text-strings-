@@ -139,3 +139,44 @@ export let countTranslationTemplates = (lang: Object, langName: string): Object 
   })
   return {lang: langName, countTranslate: countUsesTranslate.length, countCheck: countUsesCheck.length}
 }
+
+export let stringLenghtStatistic = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string):Object => {
+  var keys = Object.keys(firstLang)
+
+  var longTextWarning = []
+  var longTextSlackData = []
+  var veryLongText = false
+  keys.forEach(key => {
+    if (firstLangName === 'en' && secondLangName !== 'en') {
+      if (secondLang[key].includes(plzTranslateTemplate)) secondLang[key] = secondLang[key].replace(plzTranslateTemplate, '')
+      var differencePerc = (firstLang[key].length - secondLang[key].length) / 100
+
+      if (Math.abs(differencePerc) >= 0.25) {
+        if (Math.abs(differencePerc) >= 0.80) veryLongText = true
+        differencePerc = differencePerc * 100
+        var actIncr = Math.abs(differencePerc) + '%'
+        longTextWarning.push(`Lang: ${firstLangName}, Key: ${key} is 20% longer than: ${secondLangName} -> ${actIncr}`)
+        longTextSlackData.push({title: key, value: actIncr, short: true})
+      }
+    }
+  })
+  return {data: longTextSlackData, status: veryLongText}
+}
+export let stringTranslationTags = (lang: Object, languageCode: string):Object => {
+  var keys = Object.keys(lang)
+  var trasnationTagData = []
+  var numberPlzCheck = 0
+  var numberPlzTransalte = 0
+  var completeNumber = 0
+  var moreThanHalfNotTranslated = false
+  keys.forEach(key => {
+    if (languageCode) {
+      completeNumber++
+      if (lang[key].includes(birgittaTemplate)) numberPlzCheck++
+      if (lang[key].includes(plzTranslateTemplate)) numberPlzTransalte++
+    }
+  })
+  if (completeNumber / 2 <= numberPlzTransalte) moreThanHalfNotTranslated = true
+  trasnationTagData.push({title: 'The language file contains', value: numberPlzCheck + ' PLZ_CHECK and ' + numberPlzTransalte + ' PLZ_TRANSLATE from ' + completeNumber, short: false})
+  return {data: trasnationTagData, status: moreThanHalfNotTranslated}
+}
