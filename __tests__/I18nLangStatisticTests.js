@@ -7,7 +7,7 @@ var Slack = require('node-slack')
 jest.disableAutomock()
 
 describe('TextStrings', () => {
-  xit('it should export in slack the length of text_strings', () => {
+  it('it should export in slack the length of text_strings', () => {
     var stringLengthData
 
     languageCodes.forEach(languageCode => {
@@ -37,7 +37,9 @@ describe('TextStrings', () => {
         'fields': stringLengthData.data
       }]
       // https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/client/be.json
-      if (stringLengthData.data) SendToSlackTagStats(attachmentPayload, languageCode)
+      if (stringLengthData.plzCheck > 0 || stringLengthData.plzTrans > 0) {
+        if (stringLengthData.data) SendToSlackTagStats(attachmentPayload, languageCode)
+      }
     })
   })
 })

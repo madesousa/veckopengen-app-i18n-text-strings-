@@ -178,5 +178,5 @@ export let stringTranslationTags = (lang: Object, languageCode: string):Object =
   })
   if (completeNumber / 2 <= numberPlzTransalte) moreThanHalfNotTranslated = true
   trasnationTagData.push({title: 'The language file contains', value: numberPlzCheck + ' PLZ_CHECK and ' + numberPlzTransalte + ' PLZ_TRANSLATE from ' + completeNumber, short: false})
-  return {data: trasnationTagData, status: moreThanHalfNotTranslated}
+  return {data: trasnationTagData, status: moreThanHalfNotTranslated, plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte}
 }
