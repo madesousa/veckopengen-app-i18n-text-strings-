@@ -1334,5 +1334,8 @@
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Verwijder en betaal niet",
   "goal_popover_child_payout_action": "PLZ_TRANSLATE uitbetaling",
   "goal_popover_child_title": "PLZ_TRANSLATE Je hebt het gedaan!",
-  "goal_popover_child_text": "PLZ_TRANSLATE U heeft %1$d bereikt. Wanneer u uit de spaarpot betaald wordt, wordt het item later gekocht en dan betaald door een ouder."
+  "goal_popover_child_text": "PLZ_TRANSLATE U heeft %1$d bereikt. Wanneer u uit de spaarpot betaald wordt, wordt het item later gekocht en dan betaald door een ouder.",
+  "goal_popover_delete_and_repay": "PLZ_TRANSLATE Verwijderen en terugbetalen",
+  "goal_popover_bought_title": "PLZ_TRANSLATE Is het gekocht?",
+  "goal_popover_bought_text": "PLZ_TRANSLATE Dit doel is te kopen en te betalen door een ouder, omdat het is bereikt en al betaald van de spaarpot."
 }

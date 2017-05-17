@@ -1334,5 +1334,8 @@
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Poista eivätkä voitto",
   "goal_popover_child_payout_action": "PLZ_TRANSLATE Palautusprosentti",
   "goal_popover_child_title": "PLZ_TRANSLATE Teit sen!",
-  "goal_popover_child_text": "PLZ_TRANSLATE Olet saavuttanut %1$d. maksettaessa ulos säästöpossu, kohde ostetaan myöhemmin ja maksaa sitten vanhemman."
+  "goal_popover_child_text": "PLZ_TRANSLATE Olet saavuttanut %1$d. maksettaessa ulos säästöpossu, kohde ostetaan myöhemmin ja maksaa sitten vanhemman.",
+  "goal_popover_delete_and_repay": "PLZ_TRANSLATE Poista ja palauttaa",
+  "goal_popover_bought_title": "PLZ_TRANSLATE Hankintaan ole saatu?",
+  "goal_popover_bought_text": "PLZ_TRANSLATE Tämä tavoite on ostaa ja maksaa vanhemman koska se on saavutettu, ja jo maksetut säästöpossu."
 }

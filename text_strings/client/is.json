@@ -1334,5 +1334,8 @@
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Eyða og ekki greiða",
   "goal_popover_child_payout_action": "PLZ_TRANSLATE Útborgun",
   "goal_popover_child_title": "PLZ_TRANSLATE Þú gerðir það!",
-  "goal_popover_child_text": "PLZ_TRANSLATE Þú náð %1$d. Þegar greitt er úr grísabankanum verður hluturinn keypt seinna og síðan greiddur af foreldri."
+  "goal_popover_child_text": "PLZ_TRANSLATE Þú náð %1$d. Þegar greitt er úr grísabankanum verður hluturinn keypt seinna og síðan greiddur af foreldri.",
+  "goal_popover_delete_and_repay": "PLZ_TRANSLATE Eyða og endurgreiða",
+  "goal_popover_bought_title": "PLZ_TRANSLATE Hefur það verið keypt?",
+  "goal_popover_bought_text": "PLZ_TRANSLATE Þetta markmið er að vera keypt og greitt af foreldri vegna þess að það er náð og þegar greitt frá grís bankanum."
 }

@@ -1334,5 +1334,8 @@
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Выдаліць і не выплаты",
   "goal_popover_child_payout_action": "PLZ_TRANSLATE выплата",
   "goal_popover_child_title": "PLZ_TRANSLATE Вы зрабілі гэта!",
-  "goal_popover_child_text": "PLZ_TRANSLATE Вы дасягнулі %1$d. Пры аплаце з скарбонкі, дэталь будзе набыта пазней, а затым аплачваюцца бацькамі."
+  "goal_popover_child_text": "PLZ_TRANSLATE Вы дасягнулі %1$d. Пры аплаце з скарбонкі, дэталь будзе набыта пазней, а затым аплачваюцца бацькамі.",
+  "goal_popover_delete_and_repay": "PLZ_TRANSLATE Выдаленне і вяртанне",
+  "goal_popover_bought_title": "PLZ_TRANSLATE Ці быў ён куплены?",
+  "goal_popover_bought_text": "PLZ_TRANSLATE Гэтая мэта складаецца ў тым, каб быць набыты і аплочаны адным з бацькоў, таму што гэта дасягаецца і ўжо аплачана з скарбонкі."
 }

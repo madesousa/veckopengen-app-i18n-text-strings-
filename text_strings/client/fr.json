@@ -1334,5 +1334,8 @@
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Supprimer et ne pas payer",
   "goal_popover_child_payout_action": "PLZ_TRANSLATE Payout",
   "goal_popover_child_title": "PLZ_TRANSLATE Tu l'as fait!",
-  "goal_popover_child_text": "PLZ_TRANSLATE Vous avez atteint %1$d. Lorsqu'il est payé à partir de la tirelire, l'article sera acheté plus tard puis payé par un parent."
+  "goal_popover_child_text": "PLZ_TRANSLATE Vous avez atteint %1$d. Lorsqu'il est payé à partir de la tirelire, l'article sera acheté plus tard puis payé par un parent.",
+  "goal_popover_delete_and_repay": "PLZ_TRANSLATE Supprimer et rembourser",
+  "goal_popover_bought_title": "PLZ_TRANSLATE A-t-on acheté?",
+  "goal_popover_bought_text": "PLZ_TRANSLATE Cet objectif doit être acheté et payé par un parent parce qu'il est atteint et déjà payé par la tirelire."
 }

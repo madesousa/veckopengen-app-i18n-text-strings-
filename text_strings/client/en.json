@@ -1334,5 +1334,8 @@
   "goal_popover_child_delete_action": "Delete and do not payout",
   "goal_popover_child_payout_action": "Payout",
   "goal_popover_child_title": "You did it!",
-  "goal_popover_child_text": "You reached %1$d. When paid out of the piggy bank, the item will be purchased later and then paid by a parent."
+  "goal_popover_child_text": "You reached %1$d. When paid out of the piggy bank, the item will be purchased later and then paid by a parent.",
+  "goal_popover_delete_and_repay": "Delete and refund",
+  "goal_popover_bought_title": "Has it been purchased?",
+  "goal_popover_bought_text": "This goal is to be purchased and paid by a parent because it is achieved and already paid from the piggy bank."
 }

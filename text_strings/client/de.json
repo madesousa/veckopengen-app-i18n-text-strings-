@@ -1334,5 +1334,8 @@
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Löschen und nicht auszahlen",
   "goal_popover_child_payout_action": "PLZ_TRANSLATE Auszahlung",
   "goal_popover_child_title": "PLZ_TRANSLATE Du hast es geschafft!",
-  "goal_popover_child_text": "PLZ_TRANSLATE Sie erreichten %1$d. Wenn aus dem Sparschwein ausgezahlt, wird das Einzelteil später gekauft und dann von einem Elternteil bezahlt."
+  "goal_popover_child_text": "PLZ_TRANSLATE Sie erreichten %1$d. Wenn aus dem Sparschwein ausgezahlt, wird das Einzelteil später gekauft und dann von einem Elternteil bezahlt.",
+  "goal_popover_delete_and_repay": "PLZ_TRANSLATE Löschen und zurückerstatten",
+  "goal_popover_bought_title": "PLZ_TRANSLATE Ist es gekauft worden?",
+  "goal_popover_bought_text": "PLZ_TRANSLATE Dieses Ziel soll von einem Elternteil gekauft und bezahlt werden, weil es erreicht und bereits vom Sparschwein bezahlt wird."
 }

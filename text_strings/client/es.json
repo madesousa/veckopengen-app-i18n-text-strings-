@@ -1334,5 +1334,8 @@
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Eliminar y no pagar",
   "goal_popover_child_payout_action": "PLZ_TRANSLATE Pago",
   "goal_popover_child_title": "PLZ_TRANSLATE ¡Lo hiciste!",
-  "goal_popover_child_text": "PLZ_TRANSLATE Llegó a %1$d. Cuando se paga por la alcancía, el artículo será comprado más tarde y luego pagado por un padre."
+  "goal_popover_child_text": "PLZ_TRANSLATE Llegó a %1$d. Cuando se paga por la alcancía, el artículo será comprado más tarde y luego pagado por un padre.",
+  "goal_popover_delete_and_repay": "PLZ_TRANSLATE Eliminar y reembolsar",
+  "goal_popover_bought_title": "PLZ_TRANSLATE ¿Ha sido comprado?",
+  "goal_popover_bought_text": "PLZ_TRANSLATE Este objetivo debe ser comprado y pagado por un padre porque se logra y ya pagado de la alcancía."
 }

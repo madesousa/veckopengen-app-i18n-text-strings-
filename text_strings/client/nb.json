@@ -1334,5 +1334,8 @@
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Slett og ikke utbetaling",
   "goal_popover_child_payout_action": "PLZ_TRANSLATE utbetaling",
   "goal_popover_child_title": "PLZ_TRANSLATE Du gjorde det!",
-  "goal_popover_child_text": "PLZ_TRANSLATE Du nådde %1$d. Når betalt ut av spargrisen, vil varen bli kjøpt senere og deretter betalt av en forelder."
+  "goal_popover_child_text": "PLZ_TRANSLATE Du nådde %1$d. Når betalt ut av spargrisen, vil varen bli kjøpt senere og deretter betalt av en forelder.",
+  "goal_popover_delete_and_repay": "PLZ_TRANSLATE Slett og refunder",
+  "goal_popover_bought_title": "PLZ_TRANSLATE Har det blitt kjøpt?",
+  "goal_popover_bought_text": "PLZ_TRANSLATE Dette målet er å bli kjøpt og betalt av en forelder fordi det er oppnådd og allerede betalt fra spargrisen."
 }

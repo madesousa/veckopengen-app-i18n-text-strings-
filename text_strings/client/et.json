@@ -1334,5 +1334,8 @@
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Kustuta ning ei väljamakse",
   "goal_popover_child_payout_action": "PLZ_TRANSLATE väljamakse",
   "goal_popover_child_title": "PLZ_TRANSLATE Sa tegid seda!",
-  "goal_popover_child_text": "PLZ_TRANSLATE Sa jõudnud %1$d. Kui makstakse välja notsu pank, toode on ostetud hiljem ja siis maksab lapsevanem."
+  "goal_popover_child_text": "PLZ_TRANSLATE Sa jõudnud %1$d. Kui makstakse välja notsu pank, toode on ostetud hiljem ja siis maksab lapsevanem.",
+  "goal_popover_delete_and_repay": "PLZ_TRANSLATE Kustuta ja tagastab",
+  "goal_popover_bought_title": "PLZ_TRANSLATE Kas see on ostetud?",
+  "goal_popover_bought_text": "PLZ_TRANSLATE See eesmärk on osta ja maksab vanem, sest see on saavutatud ja juba makstud alates notsu panka."
 }
