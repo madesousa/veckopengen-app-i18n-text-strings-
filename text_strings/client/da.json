@@ -1332,5 +1332,7 @@
   "goal_completed_long_text_child": " <b>Tillykke</b> ! Dit mål er nået. Når det er fuldført, kan du fortsætte din rejse.",
   "goal_completed_long_text_parent": " <b>Tillykke</b> ! %1$d Målet er nået. Når det er fuldført, vil %1$d kunne fortsætte sin rejse.",
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Slet og ikke udbetaling",
-  "goal_popover_child_payout_action": "PLZ_TRANSLATE Udbetaling"
+  "goal_popover_child_payout_action": "PLZ_TRANSLATE Udbetaling",
+  "goal_popover_child_title": "PLZ_TRANSLATE Du gjorde det!",
+  "goal_popover_child_text": "PLZ_TRANSLATE Du nåede %1$d. Når du betaler ud af spargrisen, købes varen senere og derefter betales af en forælder."
 }

@@ -1332,5 +1332,7 @@
   "goal_completed_long_text_child": "PLZ_TRANSLATE <b>Herzlichen Glückwunsch</b> ! Ihr Ziel ist erreicht. Wenn es fertig ist, wirst du deine Reise fortsetzen.",
   "goal_completed_long_text_parent": "PLZ_TRANSLATE <b>Herzlichen Glückwunsch</b> ! %1$d Ziel ist erreicht. Einmal abgeschlossen, wird %1$d die Reise fortsetzen.",
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Löschen und nicht auszahlen",
-  "goal_popover_child_payout_action": "PLZ_TRANSLATE Auszahlung"
+  "goal_popover_child_payout_action": "PLZ_TRANSLATE Auszahlung",
+  "goal_popover_child_title": "PLZ_TRANSLATE Du hast es geschafft!",
+  "goal_popover_child_text": "PLZ_TRANSLATE Sie erreichten %1$d. Wenn aus dem Sparschwein ausgezahlt, wird das Einzelteil später gekauft und dann von einem Elternteil bezahlt."
 }

@@ -1332,5 +1332,7 @@
   "goal_completed_long_text_child": "PLZ_TRANSLATE <b>Õnnitleme!</b> Teie eesmärk eesmärk on saavutatud. Kui allalaadimine on lõppenud, saate jätkata oma teekonda.",
   "goal_completed_long_text_parent": "PLZ_TRANSLATE <b>Õnnitleme!</b> %1$d eesmärk on saavutatud. Täidetud %1$d jätkab reisi.",
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Kustuta ning ei väljamakse",
-  "goal_popover_child_payout_action": "PLZ_TRANSLATE väljamakse"
+  "goal_popover_child_payout_action": "PLZ_TRANSLATE väljamakse",
+  "goal_popover_child_title": "PLZ_TRANSLATE Sa tegid seda!",
+  "goal_popover_child_text": "PLZ_TRANSLATE Sa jõudnud %1$d. Kui makstakse välja notsu pank, toode on ostetud hiljem ja siis maksab lapsevanem."
 }

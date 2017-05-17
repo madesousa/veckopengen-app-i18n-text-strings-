@@ -1332,5 +1332,7 @@
   "goal_completed_long_text_child": "PLZ_TRANSLATE <b>Til hamingju</b> ! Markmið þitt er náð. Þegar það er lokið munum við halda áfram ferðinni.",
   "goal_completed_long_text_parent": "PLZ_TRANSLATE <b>Til hamingju</b> ! %1$d Markmiðið er náð. Þegar lokið verður %1$d áfram ferðin.",
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Eyða og ekki greiða",
-  "goal_popover_child_payout_action": "PLZ_TRANSLATE Útborgun"
+  "goal_popover_child_payout_action": "PLZ_TRANSLATE Útborgun",
+  "goal_popover_child_title": "PLZ_TRANSLATE Þú gerðir það!",
+  "goal_popover_child_text": "PLZ_TRANSLATE Þú náð %1$d. Þegar greitt er úr grísabankanum verður hluturinn keypt seinna og síðan greiddur af foreldri."
 }

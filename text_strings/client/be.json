@@ -1332,5 +1332,7 @@
   "goal_completed_long_text_child": "PLZ_TRANSLATE <b>Віншуем!</b> Ваша мэта мэта дасягнутая. Калі яна будзе скончаная, вы будзеце працягваць сваё падарожжа.",
   "goal_completed_long_text_parent": "PLZ_TRANSLATE <b>Віншуем!</b> %1$d мэта дасягнутая. Пасля завяршэння %1$d будуць працягваць падарожжа.",
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Выдаліць і не выплаты",
-  "goal_popover_child_payout_action": "PLZ_TRANSLATE выплата"
+  "goal_popover_child_payout_action": "PLZ_TRANSLATE выплата",
+  "goal_popover_child_title": "PLZ_TRANSLATE Вы зрабілі гэта!",
+  "goal_popover_child_text": "PLZ_TRANSLATE Вы дасягнулі %1$d. Пры аплаце з скарбонкі, дэталь будзе набыта пазней, а затым аплачваюцца бацькамі."
 }

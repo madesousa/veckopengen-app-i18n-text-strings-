@@ -1332,5 +1332,7 @@
   "goal_completed_long_text_child": "PLZ_TRANSLATE <b>Gratulerer</b> ! Målet ditt er nådd. Når det er ferdig, fortsetter du reisen.",
   "goal_completed_long_text_parent": "PLZ_TRANSLATE <b>Gratulerer</b> ! %1$d målet er nådd. Når du er ferdig, vil %1$d fortsette reisen.",
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Slett og ikke utbetaling",
-  "goal_popover_child_payout_action": "PLZ_TRANSLATE utbetaling"
+  "goal_popover_child_payout_action": "PLZ_TRANSLATE utbetaling",
+  "goal_popover_child_title": "PLZ_TRANSLATE Du gjorde det!",
+  "goal_popover_child_text": "PLZ_TRANSLATE Du nådde %1$d. Når betalt ut av spargrisen, vil varen bli kjøpt senere og deretter betalt av en forelder."
 }

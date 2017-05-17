@@ -1332,5 +1332,7 @@
   "goal_completed_long_text_child": "PLZ_TRANSLATE <b>Congratulazioni</b> ! Il tuo obiettivo è raggiunto. Quando è finito, continuerai il tuo viaggio.",
   "goal_completed_long_text_parent": "PLZ_TRANSLATE <b>Congratulazioni</b> ! %1$d è raggiunto l&#39;obiettivo. Una volta completata, %1$d continuerà il viaggio.",
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Elimina e non paghi",
-  "goal_popover_child_payout_action": "PLZ_TRANSLATE payout"
+  "goal_popover_child_payout_action": "PLZ_TRANSLATE payout",
+  "goal_popover_child_title": "PLZ_TRANSLATE Lo hai fatto!",
+  "goal_popover_child_text": "PLZ_TRANSLATE Hai raggiunto %1$d. Quando pagato dalla banca salvadanaio, l'articolo verrà acquistato in seguito e poi pagato da un genitore."
 }

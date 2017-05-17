@@ -1332,5 +1332,7 @@
   "goal_completed_long_text_child": "PLZ_TRANSLATE <b>Gefeliciteerd</b> ! Je doelwit is bereikt. Als het klaar is, gaat u verder met uw reis.",
   "goal_completed_long_text_parent": "PLZ_TRANSLATE <b>Gefeliciteerd</b> ! %1$d doel is bereikt. Na voltooiing zal %1$d de reis doorgaan.",
   "goal_popover_child_delete_action": "PLZ_TRANSLATE Verwijder en betaal niet",
-  "goal_popover_child_payout_action": "PLZ_TRANSLATE uitbetaling"
+  "goal_popover_child_payout_action": "PLZ_TRANSLATE uitbetaling",
+  "goal_popover_child_title": "PLZ_TRANSLATE Je hebt het gedaan!",
+  "goal_popover_child_text": "PLZ_TRANSLATE U heeft %1$d bereikt. Wanneer u uit de spaarpot betaald wordt, wordt het item later gekocht en dan betaald door een ouder."
 }
