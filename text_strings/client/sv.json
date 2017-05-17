@@ -1341,5 +1341,7 @@
   "task_requires_photo_action": "Ta bild 📷",
   "go_back": "Tillbaka",
   "goal_completed_long_text_child": "<b>Grattis</b>! Ditt sparmål är uppnått. När det har avslutats fortsätter du din sparresa.",
-  "goal_completed_long_text_parent": "<b>Grattis</b>! %1$d sparmål är uppnått. När det har avslutats fortsätter %1$d sin sparresa."
+  "goal_completed_long_text_parent": "<b>Grattis</b>! %1$d sparmål är uppnått. När det har avslutats fortsätter %1$d sin sparresa.",
+  "goal_popover_child_delete_action": "Radera och betala inte ut",
+  "goal_popover_child_payout_action": "Betala ut"
 }

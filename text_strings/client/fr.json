@@ -1330,5 +1330,7 @@
   "task_requires_photo_action": "PLZ_TRANSLATE Prendre une photo 📷",
   "go_back": "PLZ_TRANSLATE Retourner",
   "goal_completed_long_text_child": "PLZ_TRANSLATE <b>Félicitations</b> ! Votre but est atteint. Une fois terminé, vous continuerez votre voyage.",
-  "goal_completed_long_text_parent": "PLZ_TRANSLATE <b>Félicitations</b> ! %1$d but atteint. Une fois terminé, %1$d continuera le voyage."
+  "goal_completed_long_text_parent": "PLZ_TRANSLATE <b>Félicitations</b> ! %1$d but atteint. Une fois terminé, %1$d continuera le voyage.",
+  "goal_popover_child_delete_action": "PLZ_TRANSLATE Supprimer et ne pas payer",
+  "goal_popover_child_payout_action": "PLZ_TRANSLATE Payout"
 }
