@@ -1222,7 +1222,6 @@
   "android_datepicker_info_text": "Klicka för att ställa in datum",
   "goal_map_details": "Detaljer",
   "savings_goal_payout_header": "Betala ut sparmål",
-  "savings_goal_payout_desc": "Har du köpt sparmålet eller kommer det köpas inom en snar framtid?",
   "savings_goal_payout_button_is_purchased": "Har köpts",
   "savings_goal_payout_button_not_purchased": "Köps senare",
   "savings_goal_lost_of_sponsor": "Andel kommer förloras",
@@ -1348,5 +1347,6 @@
   "goal_popover_child_text": "Du nådde %1$d. När det betalas ut från spargrisen ska sparmålet senare köpas och då betalas av en förälder.",
   "goal_popover_delete_and_repay": "Radera och återbetala",
   "goal_popover_bought_title": "Har det köpts?",
-  "goal_popover_bought_text": "Detta sparmål ska köpas och betalas av en förälder eftersom det är uppnåt och redan utbetalat från spargrisen."
+  "goal_popover_bought_text": "Detta sparmål ska köpas och betalas av en förälder eftersom det är uppnåt och redan utbetalat från spargrisen.",
+  "savings_goal_payout_desc": "Välj att betala ut för att pengarna ska dras från spargrisen och ett nytt sparmål kan påbörjas."
 }

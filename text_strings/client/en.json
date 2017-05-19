@@ -1211,7 +1211,6 @@
   "android_datepicker_info_text": "Click to set the date",
   "goal_map_details": "Details",
   "savings_goal_payout_header": "Payout savings goal",
-  "savings_goal_payout_desc": "Have you bought the savings goal or will it be bought soon?",
   "savings_goal_payout_button_is_purchased": "has been purchased",
   "savings_goal_payout_button_not_purchased": "purchase later",
   "savings_goal_lost_of_sponsor": "Percentage will be lost",
@@ -1337,5 +1336,6 @@
   "goal_popover_child_text": "You reached %1$d. When paid out of the piggy bank, the item will be purchased later and then paid by a parent.",
   "goal_popover_delete_and_repay": "Delete and refund",
   "goal_popover_bought_title": "Has it been purchased?",
-  "goal_popover_bought_text": "This goal is to be purchased and paid by a parent because it is achieved and already paid from the piggy bank."
+  "goal_popover_bought_text": "This goal is to be purchased and paid by a parent because it is achieved and already paid from the piggy bank.",
+  "savings_goal_payout_desc": "Choose Payout savings goal to deduct from the piggy bank so you can begin saving for you next goal."
 }

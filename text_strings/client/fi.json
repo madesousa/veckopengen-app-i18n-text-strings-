@@ -1211,7 +1211,6 @@
   "android_datepicker_info_text": "Klikkaa asettaaksesi päivämäärä",
   "goal_map_details": "Lisätiedot",
   "savings_goal_payout_header": "Maksa säästötavoite",
-  "savings_goal_payout_desc": "Oletko ostanut säästötavoitteen tai aiotko ostaa sen pian?",
   "savings_goal_payout_button_is_purchased": "Ostettu",
   "savings_goal_payout_button_not_purchased": "Osta myöhemmin",
   "savings_goal_lost_of_sponsor": "Osa menetetään",
@@ -1337,5 +1336,6 @@
   "goal_popover_child_text": "Olet saavuttanut %1$d. Maksettaessa säästöpossusta kohde ostetaan myöhemmin vanhemman maksamana.",
   "goal_popover_delete_and_repay": "Poista ja hyvitä",
   "goal_popover_bought_title": "Onko kohde ostettu?",
-  "goal_popover_bought_text": "Tämä tavoite ostetaan vanhemman maksamana, koska se on saavutettu ja maksettu jo säästöpossusta."
+  "goal_popover_bought_text": "Tämä tavoite ostetaan vanhemman maksamana, koska se on saavutettu ja maksettu jo säästöpossusta.",
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Valitse Maksu säästöjä tavoite vähentää säästöpossu jotta voit aloittaa säästää sinulle seuraava tavoite."
 }

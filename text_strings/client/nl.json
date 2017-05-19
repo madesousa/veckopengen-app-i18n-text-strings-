@@ -1211,7 +1211,6 @@
   "android_datepicker_info_text": "Klik hier om de datum in te stellen",
   "goal_map_details": "Details",
   "savings_goal_payout_header": "Betaal spaardoel uit",
-  "savings_goal_payout_desc": "Heb je je spaardoel al gekocht of ga je dit gauw doen?",
   "savings_goal_payout_button_is_purchased": "Is gekocht",
   "savings_goal_payout_button_not_purchased": "Later kopen",
   "savings_goal_lost_of_sponsor": "Percentage gaat verloren",
@@ -1337,5 +1336,6 @@
   "goal_popover_child_text": "PLZ_TRANSLATE U heeft %1$d bereikt. Wanneer u uit de spaarpot betaald wordt, wordt het item later gekocht en dan betaald door een ouder.",
   "goal_popover_delete_and_repay": "PLZ_TRANSLATE Verwijderen en terugbetalen",
   "goal_popover_bought_title": "PLZ_TRANSLATE Is het gekocht?",
-  "goal_popover_bought_text": "PLZ_TRANSLATE Dit doel is te kopen en te betalen door een ouder, omdat het is bereikt en al betaald van de spaarpot."
+  "goal_popover_bought_text": "PLZ_TRANSLATE Dit doel is te kopen en te betalen door een ouder, omdat het is bereikt en al betaald van de spaarpot.",
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Kies een uitbetalingbesparingsdoel om van de spaarpot af te trekken, zodat u kunt beginnen met het opslaan van uw volgende doel."
 }

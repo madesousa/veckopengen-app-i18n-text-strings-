@@ -1211,7 +1211,6 @@
   "android_datepicker_info_text": "PLZ_TRANSLATE Smelltu til að stilla dagsetningu",
   "goal_map_details": "Detaljer",
   "savings_goal_payout_header": "Betala ut sparmål",
-  "savings_goal_payout_desc": "Har du köpt sparmålet eller kommer det köpas inom en snar framtid?",
   "savings_goal_payout_button_is_purchased": "Har köpts",
   "savings_goal_payout_button_not_purchased": "Köps senare",
   "savings_goal_lost_of_sponsor": "Andel kommer förloras",
@@ -1337,5 +1336,6 @@
   "goal_popover_child_text": "PLZ_TRANSLATE Þú náð %1$d. Þegar greitt er úr grísabankanum verður hluturinn keypt seinna og síðan greiddur af foreldri.",
   "goal_popover_delete_and_repay": "PLZ_TRANSLATE Eyða og endurgreiða",
   "goal_popover_bought_title": "PLZ_TRANSLATE Hefur það verið keypt?",
-  "goal_popover_bought_text": "PLZ_TRANSLATE Þetta markmið er að vera keypt og greitt af foreldri vegna þess að það er náð og þegar greitt frá grís bankanum."
+  "goal_popover_bought_text": "PLZ_TRANSLATE Þetta markmið er að vera keypt og greitt af foreldri vegna þess að það er náð og þegar greitt frá grís bankanum.",
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Veldu útborgunarsparnaðarmarkmið til að draga frá grís bankanum svo þú getir byrjað að spara fyrir næsta markmið."
 }

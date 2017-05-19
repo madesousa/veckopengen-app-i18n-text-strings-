@@ -1211,7 +1211,6 @@
   "android_datepicker_info_text": "PLZ_TRANSLATE Націсніце, каб усталяваць дату",
   "goal_map_details": "Detaljer",
   "savings_goal_payout_header": "Betala ut sparmål",
-  "savings_goal_payout_desc": "Har du köpt sparmålet eller kommer det köpas inom en snar framtid?",
   "savings_goal_payout_button_is_purchased": "Har köpts",
   "savings_goal_payout_button_not_purchased": "Köps senare",
   "savings_goal_lost_of_sponsor": "Andel kommer förloras",
@@ -1337,5 +1336,6 @@
   "goal_popover_child_text": "PLZ_TRANSLATE Вы дасягнулі %1$d. Пры аплаце з скарбонкі, дэталь будзе набыта пазней, а затым аплачваюцца бацькамі.",
   "goal_popover_delete_and_repay": "PLZ_TRANSLATE Выдаленне і вяртанне",
   "goal_popover_bought_title": "PLZ_TRANSLATE Ці быў ён куплены?",
-  "goal_popover_bought_text": "PLZ_TRANSLATE Гэтая мэта складаецца ў тым, каб быць набыты і аплочаны адным з бацькоў, таму што гэта дасягаецца і ўжо аплачана з скарбонкі."
+  "goal_popover_bought_text": "PLZ_TRANSLATE Гэтая мэта складаецца ў тым, каб быць набыты і аплочаны адным з бацькоў, таму што гэта дасягаецца і ўжо аплачана з скарбонкі.",
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Выберыце Выплату зберажэнняў мэты адняць з скарбонкі, так што вы можаце пачаць эканоміць для вас наступнай мэты."
 }

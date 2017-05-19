@@ -1211,7 +1211,6 @@
   "android_datepicker_info_text": "PLZ_TRANSLATE Vajuta, et seada kuupäeva",
   "goal_map_details": "Detaljer",
   "savings_goal_payout_header": "Betala ut sparmål",
-  "savings_goal_payout_desc": "Har du köpt sparmålet eller kommer det köpas inom en snar framtid?",
   "savings_goal_payout_button_is_purchased": "Har köpts",
   "savings_goal_payout_button_not_purchased": "Köps senare",
   "savings_goal_lost_of_sponsor": "Andel kommer förloras",
@@ -1337,5 +1336,6 @@
   "goal_popover_child_text": "PLZ_TRANSLATE Sa jõudnud %1$d. Kui makstakse välja notsu pank, toode on ostetud hiljem ja siis maksab lapsevanem.",
   "goal_popover_delete_and_repay": "PLZ_TRANSLATE Kustuta ja tagastab",
   "goal_popover_bought_title": "PLZ_TRANSLATE Kas see on ostetud?",
-  "goal_popover_bought_text": "PLZ_TRANSLATE See eesmärk on osta ja maksab vanem, sest see on saavutatud ja juba makstud alates notsu panka."
+  "goal_popover_bought_text": "PLZ_TRANSLATE See eesmärk on osta ja maksab vanem, sest see on saavutatud ja juba makstud alates notsu panka.",
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Vali Väljamakse säästukalkulaator maha arvata notsu panga siis võite alustada salvestamist teile järgmine eesmärk."
 }

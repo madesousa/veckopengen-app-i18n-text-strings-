@@ -1211,7 +1211,6 @@
   "android_datepicker_info_text": "Klikk for å stille dato",
   "goal_map_details": "Detaljer",
   "savings_goal_payout_header": "Utbetaling av sparemål",
-  "savings_goal_payout_desc": "Har du kjøpt sparemålet eller vil det bli kjøpt i nær fremtid?",
   "savings_goal_payout_button_is_purchased": "Er kjøpt",
   "savings_goal_payout_button_not_purchased": "Kjøpes senere",
   "savings_goal_lost_of_sponsor": "Prosentdel vil gå tapt",
@@ -1337,5 +1336,6 @@
   "goal_popover_child_text": "PLZ_TRANSLATE Du nådde %1$d. Når betalt ut av spargrisen, vil varen bli kjøpt senere og deretter betalt av en forelder.",
   "goal_popover_delete_and_repay": "PLZ_TRANSLATE Slett og refunder",
   "goal_popover_bought_title": "PLZ_TRANSLATE Har det blitt kjøpt?",
-  "goal_popover_bought_text": "PLZ_TRANSLATE Dette målet er å bli kjøpt og betalt av en forelder fordi det er oppnådd og allerede betalt fra spargrisen."
+  "goal_popover_bought_text": "PLZ_TRANSLATE Dette målet er å bli kjøpt og betalt av en forelder fordi det er oppnådd og allerede betalt fra spargrisen.",
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Velg Utbetalingsbesparelsesmål for å trekke fra spargebanen, slik at du kan begynne å spare for deg neste mål."
 }

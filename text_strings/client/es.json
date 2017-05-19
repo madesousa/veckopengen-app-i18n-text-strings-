@@ -1211,7 +1211,6 @@
   "android_datepicker_info_text": "PLZ_TRANSLATE Haga clic para establecer la fecha",
   "goal_map_details": "Detaljer",
   "savings_goal_payout_header": "Betala ut sparmål",
-  "savings_goal_payout_desc": "Har du köpt sparmålet eller kommer det köpas inom en snar framtid?",
   "savings_goal_payout_button_is_purchased": "Har köpts",
   "savings_goal_payout_button_not_purchased": "Köps senare",
   "savings_goal_lost_of_sponsor": "Andel kommer förloras",
@@ -1337,5 +1336,6 @@
   "goal_popover_child_text": "PLZ_TRANSLATE Llegó a %1$d. Cuando se paga por la alcancía, el artículo será comprado más tarde y luego pagado por un padre.",
   "goal_popover_delete_and_repay": "PLZ_TRANSLATE Eliminar y reembolsar",
   "goal_popover_bought_title": "PLZ_TRANSLATE ¿Ha sido comprado?",
-  "goal_popover_bought_text": "PLZ_TRANSLATE Este objetivo debe ser comprado y pagado por un padre porque se logra y ya pagado de la alcancía."
+  "goal_popover_bought_text": "PLZ_TRANSLATE Este objetivo debe ser comprado y pagado por un padre porque se logra y ya pagado de la alcancía.",
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Elija la meta de ahorros de pago para deducir de la alcancía para que pueda empezar a ahorrar para su próxima meta."
 }

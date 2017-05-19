@@ -1211,7 +1211,6 @@
   "android_datepicker_info_text": "Cliquez pour définir la date",
   "goal_map_details": "Détails",
   "savings_goal_payout_header": "Versement des objectifs d'épargne",
-  "savings_goal_payout_desc": "Avez-vous acheté les choses pour lesquelles vous avez épargné ou bien allez-vous prochainement les acheter ?",
   "savings_goal_payout_button_is_purchased": "a été acheté",
   "savings_goal_payout_button_not_purchased": "acheter plus tard",
   "savings_goal_lost_of_sponsor": "Un pourcentage sera perdu",
@@ -1337,5 +1336,6 @@
   "goal_popover_child_text": "PLZ_TRANSLATE Vous avez atteint %1$d. Lorsqu'il est payé à partir de la tirelire, l'article sera acheté plus tard puis payé par un parent.",
   "goal_popover_delete_and_repay": "PLZ_TRANSLATE Supprimer et rembourser",
   "goal_popover_bought_title": "PLZ_TRANSLATE A-t-on acheté?",
-  "goal_popover_bought_text": "PLZ_TRANSLATE Cet objectif doit être acheté et payé par un parent parce qu'il est atteint et déjà payé par la tirelire."
+  "goal_popover_bought_text": "PLZ_TRANSLATE Cet objectif doit être acheté et payé par un parent parce qu'il est atteint et déjà payé par la tirelire.",
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Choisissez un objectif d'épargne de versement pour déduire de la tirelire afin que vous puissiez commencer à économiser pour vous le prochain objectif."
 }

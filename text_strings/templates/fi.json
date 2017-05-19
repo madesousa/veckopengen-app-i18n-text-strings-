@@ -1,8 +1,8 @@
 {
   "task_category_name_cleaning": "Siivoaminen",
-  "task_category_description_cleaning": "Kaiken raikkaana & puhtaana pitämiseen",
-  "task_category_name_school": "Koulu",
   "task_category_description_school": "Hyvään koululäsnäoloon",
+  "task_category_name_school": "Koulu",
+  "task_category_description_cleaning": "Kaiken raikkaana & puhtaana pitämiseen",
   "task_category_name_laundry": "Pyykkäys",
   "task_category_description_laundry": "Pyykkien kanssa auttamiseen",
   "task_category_name_kitchen": "Keittiöapulainen",
