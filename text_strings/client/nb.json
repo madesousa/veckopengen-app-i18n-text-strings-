@@ -1189,7 +1189,7 @@
   "child_name_placeholder": "Ditt barn",
   "trustly_overview_sort_done": "fullført",
   "trustly_overview_sort_upoming": "kommende",
-  "category": "Kategori",
+  "category": "PLZ_TRANSLATE Kategori",
   "add_note": "Legg til notat",
   "connection_handler_no_connection": "Ingen tilkobling",
   "connection_handler_connecting": "Kobler til",

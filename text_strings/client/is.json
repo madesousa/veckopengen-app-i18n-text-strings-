@@ -1189,7 +1189,7 @@
   "child_name_placeholder": "PLZ_TRANSLATE barnið þitt",
   "trustly_overview_sort_done": "PLZ_TRANSLATE lokið",
   "trustly_overview_sort_upoming": "PLZ_TRANSLATE Næstu",
-  "category": "Kategori",
+  "category": "PLZ_TRANSLATE Kategori",
   "add_note": "Lägg till anteckning",
   "connection_handler_no_connection": "Ansluten",
   "connection_handler_connecting": "Ansluter",

@@ -11,7 +11,7 @@ export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: 
   var keys = Object.keys(firstLang)
   var errorMessages = []
 
-  keys.some(key => {
+  keys.forEach(key => {
     if (secondLang[key] === undefined || secondLang[key] === '') {
       errorMessages.push(`Lang: '${secondLangName}', Missing key: '${key}'`)
       return true

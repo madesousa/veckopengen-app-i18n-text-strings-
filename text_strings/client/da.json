@@ -1189,7 +1189,7 @@
   "child_name_placeholder": "Dit barn",
   "trustly_overview_sort_done": "Afsluttet",
   "trustly_overview_sort_upoming": "Kommende",
-  "category": "Kategori",
+  "category": "PLZ_TRANSLATE Kategori",
   "add_note": "Tilføj meddelelse",
   "connection_handler_no_connection": "Ingen forbindelse",
   "connection_handler_connecting": "Tilslut",
