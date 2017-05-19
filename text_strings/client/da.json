@@ -1333,7 +1333,7 @@
   "goal_popover_child_delete_action": "Slet og foretag ingen udbetaling",
   "goal_popover_child_payout_action": "Udbetaling",
   "goal_popover_child_title": "Du klarede det!",
-  "goal_popover_child_text": "Du nåede %1$d. Når du betaler ud fra spargrisen, købes varen senere og betales derefter af en forælder.",
+  "goal_popover_child_text": "Du nåede %1$d. Når du udbetaler fra spargrisen, købes varen senere og betales derefter af en forælder.",
   "goal_popover_delete_and_repay": "Slet og tilbagebetal",
   "goal_popover_bought_title": "Er det blevet købt?",
   "goal_popover_bought_text": "Dette opsparingsmål er blevet købt og betalt af en forælder fordi det er opnået og allerede udbetalt fra sparegrisen.",
