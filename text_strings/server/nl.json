@@ -83,7 +83,7 @@
   "dashboard_assignment_approved": "De taak {assignment.task.title} was goedgekeurd. ({assignment.str_value})",
   "push_task_enabled": "Je kan nu {task} voltooien!",
   "push_disabled_task_created": "{child} heeft {task} voorgesteld!",
-  "push_weekly_payout_message_parent": "{amount} van het wekelijks zakgeld is overgezet naar {child} 's bank rekening.",
+  "push_weekly_payout_message_parent": "{amount} van het wekelijks zakgeld is overgezet naar {child:possessive} bank rekening.",
   "push_monthly_payout_message_parent": "PLZ_CHECK {amount} van de maandelijkse toelage werd overgebracht naar {child:possessive} bankrekening.",
   "push_charge_message_parent": "PLZ_CHECK Momenteel: {amount} wordt overgedragen aan {child:possessive} bankrekening morgen.",
   "dashboard_disabled_task_created": "Voorgestelde taak {task}.",
