@@ -363,5 +363,8 @@
   "goal_template_title_moped",
   "goal_template_title_nerf_gun",
   "goal_map_details",
-  "savings_goal_edit_sponsor_input_title"
+  "savings_goal_edit_sponsor_input_title",
+  "popover_button_notification_remind",
+  "goal_map_underground_milestone_reached_amount",
+  "child_name_placeholder"
 ]
