@@ -1348,5 +1348,6 @@
   "goal_popover_delete_and_repay": "Radera och återbetala",
   "goal_popover_bought_title": "Har det köpts?",
   "goal_popover_bought_text": "Detta sparmål ska köpas och betalas av en förälder eftersom det är uppnåt och redan utbetalat från spargrisen.",
-  "savings_goal_payout_desc": "Välj att betala ut för att pengarna ska dras från spargrisen och ett nytt sparmål kan påbörjas."
+  "savings_goal_payout_desc": "Välj att betala ut för att pengarna ska dras från spargrisen och ett nytt sparmål kan påbörjas.",
+  "disable_sound_setting": "Ljud"
 }
