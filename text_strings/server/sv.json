@@ -130,5 +130,9 @@
   "push_new_weekly_tasks_3": "Yes! Du har fått nya uppgifter! In och kolla hur mycket du kan tjäna!",
   "push_new_weekly_tasks_4": "Nya uppgifter! In och kolla vad som ska göras!",
   "push_goal_activated": "{goal.updated_by.name} har aktiverat sparmål {goal.title}.",
-  "push_goal_sponsored": "WAOW! Nu har {goal.updated_by.name} sponsrade ditt sparmål {goal.title}! Det är värt en kram!"
+  "push_goal_sponsored": "WAOW! Nu har {goal.updated_by.name} sponsrade ditt sparmål {goal.title}! Det är värt en kram!",
+  "push_goal_boost_decreased": "Du har tappat en boost på sparkartan!",
+  "push_goal_boosts_decreased": "Du har tappat flera boosts på sparkartan!",
+  "dashboard_goal_boost_decreased": "Tappade en boost på sparkartan.",
+  "dashboard_goal_boosts_decreased": "Tappade flera boosts på sparkartan."
 }

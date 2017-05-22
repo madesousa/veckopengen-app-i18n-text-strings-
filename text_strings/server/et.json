@@ -130,5 +130,9 @@
   "push_new_weekly_tasks_3": "PLZ_TRANSLATE Hey! You have new tasks!",
   "push_new_weekly_tasks_4": "PLZ_TRANSLATE Hey! You have new tasks!",
   "push_goal_activated": "PLZ_TRANSLATE {goal.updated_by.name} on aktiveeritud säästukalkulaator {goal.title}.",
-  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} sponsoreeritud säästukalkulaator {goal.title}!"
+  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} sponsoreeritud säästukalkulaator {goal.title}!",
+  "push_goal_boost_decreased": "PLZ_TRANSLATE Olete kaotanud hoogu oma säästud eesmärk kaarti!",
+  "push_goal_boosts_decreased": "PLZ_TRANSLATE Olete kaotanud suurendab oma säästud eesmärk kaarti!",
+  "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Kaotatud hoogu hoiuste eesmärk kaardil.",
+  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Kaotatud suurendab hoiuste eesmärk kaardil."
 }

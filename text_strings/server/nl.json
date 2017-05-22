@@ -130,5 +130,9 @@
   "push_new_weekly_tasks_3": "Hey! Je hebt nieuwe taken!",
   "push_new_weekly_tasks_4": "Hey! Je hebt nieuwe taken!",
   "push_goal_activated": "{goal.updated_by.name} heeft besparingen doel {goal.title} geactiveerd.",
-  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} sponsored the savings doel {goal.title}!"
+  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} sponsored the savings doel {goal.title}!",
+  "push_goal_boost_decreased": "PLZ_TRANSLATE Je hebt een boost op je spaardoelkaart verloren!",
+  "push_goal_boosts_decreased": "PLZ_TRANSLATE Je hebt de boosts op je spaardoelkaart verloren!",
+  "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Verloren een boost op de spaarkaart.",
+  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Verloren verhogingen op de doelkaart van de spaargeld."
 }

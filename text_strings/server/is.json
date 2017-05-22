@@ -130,5 +130,9 @@
   "push_new_weekly_tasks_3": "PLZ_TRANSLATE Kolla! Du har fått nya uppgifter!",
   "push_new_weekly_tasks_4": "PLZ_TRANSLATE Kolla! Du har fått nya uppgifter!",
   "push_goal_activated": "PLZ_TRANSLATE {goal.updated_by.name} hefur virkjað savings mark {goal.title}.",
-  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} styrktu sparnaðarmarkmiðið {goal.title}!"
+  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} styrktu sparnaðarmarkmiðið {goal.title}!",
+  "push_goal_boost_decreased": "PLZ_TRANSLATE Þú hefur misst uppörvun á sparisjóðum þínum!",
+  "push_goal_boosts_decreased": "PLZ_TRANSLATE Þú hefur misst uppörvun á sparnaðarmarkmiðinu þínu!",
+  "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Lost uppörvun á sparnaðarmarkmið.",
+  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Lost uppörvun á sparnaðarmarkmiði."
 }

@@ -130,5 +130,9 @@
   "push_new_weekly_tasks_3": "Katso! Olet saanut uusia tehtäviä!",
   "push_new_weekly_tasks_4": "Katso! Olet saanut uusia tehtäviä!",
   "push_goal_activated": "{goal.updated_by.name} on saavuttanut säästötavoitteen {goal.title}.",
-  "push_goal_sponsored": "{goal.updated_by.name} sponsoroi säästötavoitteen {goal.title}!"
+  "push_goal_sponsored": "{goal.updated_by.name} sponsoroi säästötavoitteen {goal.title}!",
+  "push_goal_boost_decreased": "PLZ_TRANSLATE Olet menettänyt vauhtia säästöillesi tavoite kartalla!",
+  "push_goal_boosts_decreased": "PLZ_TRANSLATE Olet menettänyt boosteja säästöillesi tavoite kartalla!",
+  "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Menetti vauhtia säästöjen tavoite kartalla.",
+  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Kadonnut boosteja säästämisen tavoite kartalla."
 }

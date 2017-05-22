@@ -130,5 +130,9 @@
   "push_new_weekly_tasks_3": "Kig! Du har fået nye opgaver!",
   "push_new_weekly_tasks_4": "Kig! Du har fået nye opgaver!",
   "push_goal_activated": "{goal.updated_by.name} har oprettet et opsparingsmål {goal.title}.",
-  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} sponsoreret besparelsesmålet {goal.title}!"
+  "push_goal_sponsored": "PLZ_TRANSLATE {goal.updated_by.name} sponsoreret besparelsesmålet {goal.title}!",
+  "push_goal_boost_decreased": "PLZ_TRANSLATE Du har mistet et løft på dit opsparingsmål!",
+  "push_goal_boosts_decreased": "PLZ_TRANSLATE Du har tabt boosts på dit opsparingsmål!",
+  "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Mistet et løft på opsparingsmålkartet.",
+  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Mistet øger på opsparing mål map."
 }
