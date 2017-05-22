@@ -1337,5 +1337,6 @@
   "goal_popover_delete_and_repay": "PLZ_TRANSLATE Kustuta ja tagastab",
   "goal_popover_bought_title": "PLZ_TRANSLATE Kas see on ostetud?",
   "goal_popover_bought_text": "PLZ_TRANSLATE See eesmärk on osta ja maksab vanem, sest see on saavutatud ja juba makstud alates notsu panka.",
-  "savings_goal_payout_desc": "PLZ_TRANSLATE Vali Väljamakse säästukalkulaator maha arvata notsu panga siis võite alustada salvestamist teile järgmine eesmärk."
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Vali Väljamakse säästukalkulaator maha arvata notsu panga siis võite alustada salvestamist teile järgmine eesmärk.",
+  "disable_sound_setting": "PLZ_TRANSLATE Heli"
 }

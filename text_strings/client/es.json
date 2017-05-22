@@ -1337,5 +1337,6 @@
   "goal_popover_delete_and_repay": "PLZ_TRANSLATE Eliminar y reembolsar",
   "goal_popover_bought_title": "PLZ_TRANSLATE ¿Ha sido comprado?",
   "goal_popover_bought_text": "PLZ_TRANSLATE Este objetivo debe ser comprado y pagado por un padre porque se logra y ya pagado de la alcancía.",
-  "savings_goal_payout_desc": "PLZ_TRANSLATE Elija la meta de ahorros de pago para deducir de la alcancía para que pueda empezar a ahorrar para su próxima meta."
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Elija la meta de ahorros de pago para deducir de la alcancía para que pueda empezar a ahorrar para su próxima meta.",
+  "disable_sound_setting": "PLZ_TRANSLATE Sonar"
 }

@@ -1337,5 +1337,6 @@
   "goal_popover_delete_and_repay": "PLZ_TRANSLATE Verwijderen en terugbetalen",
   "goal_popover_bought_title": "PLZ_TRANSLATE Is het gekocht?",
   "goal_popover_bought_text": "PLZ_TRANSLATE Dit doel is te kopen en te betalen door een ouder, omdat het is bereikt en al betaald van de spaarpot.",
-  "savings_goal_payout_desc": "PLZ_TRANSLATE Kies een uitbetalingbesparingsdoel om van de spaarpot af te trekken, zodat u kunt beginnen met het opslaan van uw volgende doel."
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Kies een uitbetalingbesparingsdoel om van de spaarpot af te trekken, zodat u kunt beginnen met het opslaan van uw volgende doel.",
+  "disable_sound_setting": "PLZ_TRANSLATE Geluid"
 }

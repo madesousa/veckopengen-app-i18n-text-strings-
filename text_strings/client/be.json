@@ -1337,5 +1337,6 @@
   "goal_popover_delete_and_repay": "PLZ_TRANSLATE Выдаленне і вяртанне",
   "goal_popover_bought_title": "PLZ_TRANSLATE Ці быў ён куплены?",
   "goal_popover_bought_text": "PLZ_TRANSLATE Гэтая мэта складаецца ў тым, каб быць набыты і аплочаны адным з бацькоў, таму што гэта дасягаецца і ўжо аплачана з скарбонкі.",
-  "savings_goal_payout_desc": "PLZ_TRANSLATE Выберыце Выплату зберажэнняў мэты адняць з скарбонкі, так што вы можаце пачаць эканоміць для вас наступнай мэты."
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Выберыце Выплату зберажэнняў мэты адняць з скарбонкі, так што вы можаце пачаць эканоміць для вас наступнай мэты.",
+  "disable_sound_setting": "PLZ_TRANSLATE гук"
 }

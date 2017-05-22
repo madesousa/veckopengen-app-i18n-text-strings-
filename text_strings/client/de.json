@@ -1337,5 +1337,6 @@
   "goal_popover_delete_and_repay": "PLZ_TRANSLATE Löschen und zurückerstatten",
   "goal_popover_bought_title": "PLZ_TRANSLATE Ist es gekauft worden?",
   "goal_popover_bought_text": "PLZ_TRANSLATE Dieses Ziel soll von einem Elternteil gekauft und bezahlt werden, weil es erreicht und bereits vom Sparschwein bezahlt wird.",
-  "savings_goal_payout_desc": "PLZ_TRANSLATE Wählen Sie Auszahlungssperre Ziel, von der Sparschwein abzuziehen, so dass Sie beginnen können, für Sie das nächste Ziel zu speichern."
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Wählen Sie Auszahlungssperre Ziel, von der Sparschwein abzuziehen, so dass Sie beginnen können, für Sie das nächste Ziel zu speichern.",
+  "disable_sound_setting": "PLZ_TRANSLATE Klingen"
 }

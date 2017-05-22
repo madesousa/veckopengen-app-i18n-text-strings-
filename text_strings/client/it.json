@@ -1337,5 +1337,6 @@
   "goal_popover_delete_and_repay": "PLZ_TRANSLATE Elimina e rimborsi",
   "goal_popover_bought_title": "PLZ_TRANSLATE È stato acquistato?",
   "goal_popover_bought_text": "PLZ_TRANSLATE Questo obiettivo è quello di essere acquistato e pagato da un genitore perché è raggiunto e già pagato dalla banca salvadanaio.",
-  "savings_goal_payout_desc": "PLZ_TRANSLATE Scegli un obiettivo di risparmio di versamento da dedurre dalla banca salvadanaio in modo da poter iniziare a risparmiare per il tuo prossimo obiettivo."
+  "savings_goal_payout_desc": "PLZ_TRANSLATE Scegli un obiettivo di risparmio di versamento da dedurre dalla banca salvadanaio in modo da poter iniziare a risparmiare per il tuo prossimo obiettivo.",
+  "disable_sound_setting": "PLZ_TRANSLATE Suono"
 }

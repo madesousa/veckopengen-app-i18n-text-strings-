@@ -1337,5 +1337,6 @@
   "goal_popover_delete_and_repay": "Delete and refund",
   "goal_popover_bought_title": "Has it been purchased?",
   "goal_popover_bought_text": "This goal is to be purchased and paid by a parent because it is achieved and already paid from the piggy bank.",
-  "savings_goal_payout_desc": "Choose Payout savings goal to deduct from the piggy bank so you can begin saving for you next goal."
+  "savings_goal_payout_desc": "Choose Payout savings goal to deduct from the piggy bank so you can begin saving for you next goal.",
+  "disable_sound_setting": "Sound"
 }
