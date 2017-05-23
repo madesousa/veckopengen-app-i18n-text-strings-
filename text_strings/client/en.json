@@ -1344,5 +1344,8 @@
   "news_popover_sub_headline": "Reward directly in the piggy bank",
   "news_popover_first": "1. Rewards for performed chores goes <b>in to the piggy bank</b> instead of weekly or monthly allowance.",
   "news_popover_last": "2. Now there are categories for expense and deposits - so you'll see if the money goes to candy or apps!",
-  "news_popover_button": "Nice, then I'm ready!"
+  "news_popover_button": "Nice, then I'm ready!",
+  "lost_boost_popover_title": "You've lost a boost",
+  "lost_boost_popover_text": "You have spent money from the piggy bank which made you lose %1$d in boost that you previously received at a milestone.",
+  "lost_boost_popover_see_transaction": "See transaction"
 }

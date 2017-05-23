@@ -1344,5 +1344,8 @@
   "news_popover_sub_headline": "PLZ_TRANSLATE Ўзнагароджанне непасрэдна ў скарбонку",
   "news_popover_first": "PLZ_TRANSLATE 1. Ўзнагароджанне за выкананыя абавязкі ўваходзіць <b>да скарбонцы</b> замест штотыднёвага або штомесячнай дапамогі.",
   "news_popover_last": "PLZ_TRANSLATE 2. У цяперашні час ёсць катэгорыі для выдаткаў і дэпазітаў - так што вы ўбачыце, калі грошы ідуць на цукеркі або дадатак!",
-  "news_popover_button": "PLZ_TRANSLATE Nice, то я з радасцю!"
+  "news_popover_button": "PLZ_TRANSLATE Nice, то я з радасцю!",
+  "lost_boost_popover_title": "PLZ_TRANSLATE Вы страцілі імпульс",
+  "lost_boost_popover_text": "PLZ_TRANSLATE Вы патрацілі грошы з скарбонкі, якія зрабілі вы губляеце %1$d ў імпульсе, які вы атрымалі раней на вяху.",
+  "lost_boost_popover_see_transaction": "PLZ_TRANSLATE см здзелкі"
 }

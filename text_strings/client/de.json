@@ -1344,5 +1344,8 @@
   "news_popover_sub_headline": "PLZ_TRANSLATE Belohnung direkt im Sparschwein",
   "news_popover_first": "PLZ_TRANSLATE 1. Belohnungen für ausgeführte Hausarbeiten gehen <b>in die</b> Sparschwein statt wöchentlich oder monatliche Zulage.",
   "news_popover_last": "PLZ_TRANSLATE 2. Jetzt gibt es Kategorien für Aufwand und Einlagen - also wirst du sehen, ob das Geld zu Süßigkeiten oder Apps geht!",
-  "news_popover_button": "PLZ_TRANSLATE Schön, dann bin ich bereit!"
+  "news_popover_button": "PLZ_TRANSLATE Schön, dann bin ich bereit!",
+  "lost_boost_popover_title": "PLZ_TRANSLATE Du hast einen Schub verloren",
+  "lost_boost_popover_text": "PLZ_TRANSLATE Sie haben Geld von der Sparschwein ausgegeben, die Sie verlieren %1$d in Schub, dass Sie zuvor an einem Meilenstein erhalten.",
+  "lost_boost_popover_see_transaction": "PLZ_TRANSLATE Siehe Transaktion"
 }

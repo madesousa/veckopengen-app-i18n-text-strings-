@@ -1344,5 +1344,8 @@
   "news_popover_sub_headline": "PLZ_TRANSLATE Palkita suoraan säästöpossu",
   "news_popover_first": "PLZ_TRANSLATE 1. Palkkiot suoritetaan askareita menee <b>sisään säästöpossu</b> sijasta viikoittain tai kuukausittain korvausta.",
   "news_popover_last": "PLZ_TRANSLATE 2. Nyt on luokat kustannuksella ja talletukset - niin näet jos rahat menee makeisia tai sovelluksia!",
-  "news_popover_button": "PLZ_TRANSLATE Kiva, niin olen valmis!"
+  "news_popover_button": "PLZ_TRANSLATE Kiva, niin olen valmis!",
+  "lost_boost_popover_title": "PLZ_TRANSLATE Olet menettänyt vauhtia",
+  "lost_boost_popover_text": "PLZ_TRANSLATE Olet käyttänyt rahaa säästöpossu joka teki häviät %1$d tehostetun joita aikaisemmin saapunut virstanpylväs.",
+  "lost_boost_popover_see_transaction": "PLZ_TRANSLATE Katso tapahtuman"
 }

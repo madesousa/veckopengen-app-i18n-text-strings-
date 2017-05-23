@@ -1344,5 +1344,8 @@
   "news_popover_sub_headline": "PLZ_TRANSLATE Ricompensa direttamente in salvadanaio",
   "news_popover_first": "PLZ_TRANSLATE 1. Le ricompense per i lavori eseguiti vengono inseriti <b>nella banca</b> salvadana invece che l&#39;indennità settimanale o mensile.",
   "news_popover_last": "PLZ_TRANSLATE 2. Ora ci sono categorie di spese e depositi - in modo da vedere se i soldi vanno a caramelle o apps!",
-  "news_popover_button": "PLZ_TRANSLATE Bello, allora sono pronto!"
+  "news_popover_button": "PLZ_TRANSLATE Bello, allora sono pronto!",
+  "lost_boost_popover_title": "PLZ_TRANSLATE Hai perso una spinta",
+  "lost_boost_popover_text": "PLZ_TRANSLATE Hai speso denaro dalla banca piggy che ha fatto perdere %1$d in boost che hai ricevuto in precedenza ad una pietra miliare.",
+  "lost_boost_popover_see_transaction": "PLZ_TRANSLATE Vedi transazione"
 }

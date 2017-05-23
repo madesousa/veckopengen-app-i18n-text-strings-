@@ -1344,5 +1344,8 @@
   "news_popover_sub_headline": "PLZ_TRANSLATE Beloon direct in de spaarpot",
   "news_popover_first": "PLZ_TRANSLATE 1. Beloningen voor de uitgevoerde taken gaan <b>binnen in de spaarpot</b> in plaats van wekelijkse of maandelijkse toeslag.",
   "news_popover_last": "PLZ_TRANSLATE 2. Nu zijn er categorieën voor kosten en deposito's - dus je zult zien of het geld gaat naar snoep of apps!",
-  "news_popover_button": "PLZ_TRANSLATE Leuk, dan ben ik klaar!"
+  "news_popover_button": "PLZ_TRANSLATE Leuk, dan ben ik klaar!",
+  "lost_boost_popover_title": "PLZ_TRANSLATE Je hebt een boost verloren",
+  "lost_boost_popover_text": "PLZ_TRANSLATE Je hebt geld uitgegeven van de spaarpot, waardoor je %1$d in de boost verloor die je eerder op een mijlpaal hebt ontvangen.",
+  "lost_boost_popover_see_transaction": "PLZ_TRANSLATE Zie transactie"
 }

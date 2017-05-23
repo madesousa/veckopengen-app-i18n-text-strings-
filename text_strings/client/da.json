@@ -1344,5 +1344,8 @@
   "news_popover_sub_headline": "PLZ_TRANSLATE Belønne direkte i sparegrisen",
   "news_popover_first": "PLZ_TRANSLATE 1. Belønninger for udførte opgaver går <b>ind</b> i spargrisen <b>i</b> stedet for ugentlig eller månedlig godtgørelse.",
   "news_popover_last": "PLZ_TRANSLATE 2. Nu er der kategorier for udgifter og indskud - så du vil se om pengene går til slik eller apps!",
-  "news_popover_button": "PLZ_TRANSLATE Nice, så er jeg klar!"
+  "news_popover_button": "PLZ_TRANSLATE Nice, så er jeg klar!",
+  "lost_boost_popover_title": "PLZ_TRANSLATE Du har mistet et løft",
+  "lost_boost_popover_text": "PLZ_TRANSLATE Du har brugt penge fra spargrisen, hvilket gjorde at du tabte %1$d i boost, som du tidligere modtog på en milepæl.",
+  "lost_boost_popover_see_transaction": "PLZ_TRANSLATE Se transaktion"
 }

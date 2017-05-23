@@ -1344,5 +1344,8 @@
   "news_popover_sub_headline": "PLZ_TRANSLATE Récompenser directement dans la tirelire",
   "news_popover_first": "PLZ_TRANSLATE 1. Les récompenses pour les tâches effectuées vont <b>à la tirelire</b> au lieu d&#39;une allocation hebdomadaire ou mensuelle.",
   "news_popover_last": "PLZ_TRANSLATE 2. Maintenant, il existe des catégories pour les dépenses et les dépôts - de sorte que vous verrez si l'argent va aux bonbons ou aux applications!",
-  "news_popover_button": "PLZ_TRANSLATE Bien, alors je suis prêt!"
+  "news_popover_button": "PLZ_TRANSLATE Bien, alors je suis prêt!",
+  "lost_boost_popover_title": "PLZ_TRANSLATE Vous avez perdu un coup de pouce",
+  "lost_boost_popover_text": "PLZ_TRANSLATE Vous avez dépensé de l'argent de la tirelire qui vous a fait perdre %1$d au coup de pouce que vous avez déjà reçu lors d'une étape importante.",
+  "lost_boost_popover_see_transaction": "PLZ_TRANSLATE Voir transaction"
 }
