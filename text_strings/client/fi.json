@@ -1187,7 +1187,7 @@
   "parent_settings_allowance_near": "PLZ_CHECK Viikkoraha lähelläsi",
   "not_set": "Ei valittu",
   "child_name_placeholder": "Sinun lapsesi",
-  "trustly_overview_sort_done": "Valmistunut",
+  "trustly_overview_sort_done": "PLZ_TRANSLATE valmistunut",
   "trustly_overview_sort_upoming": "Tuleva",
   "category": "Kategoria",
   "add_note": "PLZ_TRANSLATE Lisää merkintä",
