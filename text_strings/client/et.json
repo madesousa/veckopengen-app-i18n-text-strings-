@@ -1339,5 +1339,10 @@
   "goal_popover_bought_text": "PLZ_TRANSLATE See eesmärk on osta ja maksab vanem, sest see on saavutatud ja juba makstud alates notsu panka.",
   "savings_goal_payout_desc": "PLZ_TRANSLATE Vali Väljamakse säästukalkulaator maha arvata notsu panga siis võite alustada salvestamist teile järgmine eesmärk.",
   "disable_sound_setting": "PLZ_TRANSLATE Heli",
-  "reward_per_hour": "PLZ_TRANSLATE Tasu tunnis"
+  "reward_per_hour": "PLZ_TRANSLATE Tasu tunnis",
+  "news_popover_headline": "PLZ_TRANSLATE Uus värskendus rakenduse!",
+  "news_popover_sub_headline": "PLZ_TRANSLATE Rahuldust otse notsu panga",
+  "news_popover_first": "PLZ_TRANSLATE 1. Soodustused läbi majapidamistöid läheb <b>sisse notsu panga</b> asemel nädalas või kuus toetust.",
+  "news_popover_last": "PLZ_TRANSLATE 2. Nüüd on kategooriate kulul ja hoiused - nii näete, kui raha läheb kommi või rakendused!",
+  "news_popover_button": "PLZ_TRANSLATE Nice, siis ma olen valmis!"
 }

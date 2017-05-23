@@ -1350,5 +1350,10 @@
   "goal_popover_bought_text": "Detta sparmål ska köpas och betalas av en förälder eftersom det är uppnåt och redan utbetalat från spargrisen.",
   "savings_goal_payout_desc": "Välj att betala ut för att pengarna ska dras från spargrisen och ett nytt sparmål kan påbörjas.",
   "disable_sound_setting": "Ljud",
-  "reward_per_hour": "Belöning per timme"
+  "reward_per_hour": "Belöning per timme",
+  "news_popover_headline": "Nytt i appen!",
+  "news_popover_sub_headline": "Belöning direkt i spargrisen",
+  "news_popover_first": "1. Belöningar för utförda uppgifter landar <b>i spargrisen</b> istället för vecko- eller månadspengen.",
+  "news_popover_last": "2. Nu finns kategorier för utlägg och insättningar - så att ni ser om pengarna läggs på godis eller appar!",
+  "news_popover_button": "Kul, då är jag redo!"
 }

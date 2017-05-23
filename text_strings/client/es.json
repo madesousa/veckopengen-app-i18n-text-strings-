@@ -1339,5 +1339,10 @@
   "goal_popover_bought_text": "PLZ_TRANSLATE Este objetivo debe ser comprado y pagado por un padre porque se logra y ya pagado de la alcancía.",
   "savings_goal_payout_desc": "PLZ_TRANSLATE Elija la meta de ahorros de pago para deducir de la alcancía para que pueda empezar a ahorrar para su próxima meta.",
   "disable_sound_setting": "PLZ_TRANSLATE Sonar",
-  "reward_per_hour": "PLZ_TRANSLATE Recompensa por hora"
+  "reward_per_hour": "PLZ_TRANSLATE Recompensa por hora",
+  "news_popover_headline": "PLZ_TRANSLATE Nueva actualización en la aplicación!",
+  "news_popover_sub_headline": "PLZ_TRANSLATE Recompensa directamente en la alcancía",
+  "news_popover_first": "PLZ_TRANSLATE 1. Las recompensas por las tareas realizadas van <b>a la alcancía</b> en lugar de la asignación semanal o mensual.",
+  "news_popover_last": "PLZ_TRANSLATE 2. Ahora hay categorías para los gastos y los depósitos - por lo que verá si el dinero va a dulces o aplicaciones!",
+  "news_popover_button": "PLZ_TRANSLATE Bien, entonces estoy listo!"
 }

@@ -1339,5 +1339,10 @@
   "goal_popover_bought_text": "Tämä tavoite ostetaan vanhemman maksamana, koska se on saavutettu ja maksettu jo säästöpossusta.",
   "savings_goal_payout_desc": "PLZ_TRANSLATE Valitse Maksu säästöjä tavoite vähentää säästöpossu jotta voit aloittaa säästää sinulle seuraava tavoite.",
   "disable_sound_setting": "PLZ_TRANSLATE Ääni",
-  "reward_per_hour": "PLZ_TRANSLATE Palkita tunnissa"
+  "reward_per_hour": "PLZ_TRANSLATE Palkita tunnissa",
+  "news_popover_headline": "PLZ_TRANSLATE Uusi päivitys app!",
+  "news_popover_sub_headline": "PLZ_TRANSLATE Palkita suoraan säästöpossu",
+  "news_popover_first": "PLZ_TRANSLATE 1. Palkkiot suoritetaan askareita menee <b>sisään säästöpossu</b> sijasta viikoittain tai kuukausittain korvausta.",
+  "news_popover_last": "PLZ_TRANSLATE 2. Nyt on luokat kustannuksella ja talletukset - niin näet jos rahat menee makeisia tai sovelluksia!",
+  "news_popover_button": "PLZ_TRANSLATE Kiva, niin olen valmis!"
 }

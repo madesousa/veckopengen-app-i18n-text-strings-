@@ -1339,5 +1339,10 @@
   "goal_popover_bought_text": "PLZ_TRANSLATE Dieses Ziel soll von einem Elternteil gekauft und bezahlt werden, weil es erreicht und bereits vom Sparschwein bezahlt wird.",
   "savings_goal_payout_desc": "PLZ_TRANSLATE Wählen Sie Auszahlungssperre Ziel, von der Sparschwein abzuziehen, so dass Sie beginnen können, für Sie das nächste Ziel zu speichern.",
   "disable_sound_setting": "PLZ_TRANSLATE Klingen",
-  "reward_per_hour": "PLZ_TRANSLATE Belohnung pro Stunde"
+  "reward_per_hour": "PLZ_TRANSLATE Belohnung pro Stunde",
+  "news_popover_headline": "PLZ_TRANSLATE Neues Update in der App!",
+  "news_popover_sub_headline": "PLZ_TRANSLATE Belohnung direkt im Sparschwein",
+  "news_popover_first": "PLZ_TRANSLATE 1. Belohnungen für ausgeführte Hausarbeiten gehen <b>in die</b> Sparschwein statt wöchentlich oder monatliche Zulage.",
+  "news_popover_last": "PLZ_TRANSLATE 2. Jetzt gibt es Kategorien für Aufwand und Einlagen - also wirst du sehen, ob das Geld zu Süßigkeiten oder Apps geht!",
+  "news_popover_button": "PLZ_TRANSLATE Schön, dann bin ich bereit!"
 }

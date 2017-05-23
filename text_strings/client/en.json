@@ -1339,5 +1339,10 @@
   "goal_popover_bought_text": "This goal is to be purchased and paid by a parent because it is achieved and already paid from the piggy bank.",
   "savings_goal_payout_desc": "Choose Payout savings goal to deduct from the piggy bank so you can begin saving for you next goal.",
   "disable_sound_setting": "Sound",
-  "reward_per_hour": "Reward per hour"
+  "reward_per_hour": "Reward per hour",
+  "news_popover_headline": "New update in the app!",
+  "news_popover_sub_headline": "Reward directly in the piggy bank",
+  "news_popover_first": "1. Rewards for performed chores goes <b>in to the piggy bank</b> instead of weekly or monthly allowance.",
+  "news_popover_last": "2. Now there are categories for expense and deposits - so you'll see if the money goes to candy or apps!",
+  "news_popover_button": "Nice, then I'm ready!"
 }

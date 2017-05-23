@@ -1339,5 +1339,10 @@
   "goal_popover_bought_text": "PLZ_TRANSLATE Dette målet er å bli kjøpt og betalt av en forelder fordi det er oppnådd og allerede betalt fra spargrisen.",
   "savings_goal_payout_desc": "PLZ_TRANSLATE Velg Utbetalingsbesparelsesmål for å trekke fra spargebanen, slik at du kan begynne å spare for deg neste mål.",
   "disable_sound_setting": "PLZ_TRANSLATE Lyd",
-  "reward_per_hour": "PLZ_TRANSLATE Belønning per time"
+  "reward_per_hour": "PLZ_TRANSLATE Belønning per time",
+  "news_popover_headline": "PLZ_TRANSLATE Ny oppdatering i appen!",
+  "news_popover_sub_headline": "PLZ_TRANSLATE Belønne direkte i spargrisen",
+  "news_popover_first": "PLZ_TRANSLATE 1. Belønninger for utførte oppgaver går <b>inn i</b> spargrisen <b>i</b> stedet for ukentlig eller månedlig godtgjørelse.",
+  "news_popover_last": "PLZ_TRANSLATE 2. Nå er det kategorier for utgifter og innskudd - så du vil se om pengene går til godteri eller apps!",
+  "news_popover_button": "PLZ_TRANSLATE Fint, så er jeg klar!"
 }

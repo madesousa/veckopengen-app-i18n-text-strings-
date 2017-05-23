@@ -1339,5 +1339,10 @@
   "goal_popover_bought_text": "PLZ_TRANSLATE Cet objectif doit être acheté et payé par un parent parce qu'il est atteint et déjà payé par la tirelire.",
   "savings_goal_payout_desc": "PLZ_TRANSLATE Choisissez un objectif d'épargne de versement pour déduire de la tirelire afin que vous puissiez commencer à économiser pour vous le prochain objectif.",
   "disable_sound_setting": "PLZ_TRANSLATE Du son",
-  "reward_per_hour": "PLZ_TRANSLATE Récompense par heure"
+  "reward_per_hour": "PLZ_TRANSLATE Récompense par heure",
+  "news_popover_headline": "PLZ_TRANSLATE Nouvelle mise à jour dans l'application!",
+  "news_popover_sub_headline": "PLZ_TRANSLATE Récompenser directement dans la tirelire",
+  "news_popover_first": "PLZ_TRANSLATE 1. Les récompenses pour les tâches effectuées vont <b>à la tirelire</b> au lieu d&#39;une allocation hebdomadaire ou mensuelle.",
+  "news_popover_last": "PLZ_TRANSLATE 2. Maintenant, il existe des catégories pour les dépenses et les dépôts - de sorte que vous verrez si l'argent va aux bonbons ou aux applications!",
+  "news_popover_button": "PLZ_TRANSLATE Bien, alors je suis prêt!"
 }

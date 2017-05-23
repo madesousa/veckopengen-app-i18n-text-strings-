@@ -1339,5 +1339,10 @@
   "goal_popover_bought_text": "PLZ_TRANSLATE Questo obiettivo è quello di essere acquistato e pagato da un genitore perché è raggiunto e già pagato dalla banca salvadanaio.",
   "savings_goal_payout_desc": "PLZ_TRANSLATE Scegli un obiettivo di risparmio di versamento da dedurre dalla banca salvadanaio in modo da poter iniziare a risparmiare per il tuo prossimo obiettivo.",
   "disable_sound_setting": "PLZ_TRANSLATE Suono",
-  "reward_per_hour": "PLZ_TRANSLATE Ricompensa all'ora"
+  "reward_per_hour": "PLZ_TRANSLATE Ricompensa all'ora",
+  "news_popover_headline": "PLZ_TRANSLATE Nuovo aggiornamento nell'app!",
+  "news_popover_sub_headline": "PLZ_TRANSLATE Ricompensa direttamente in salvadanaio",
+  "news_popover_first": "PLZ_TRANSLATE 1. Le ricompense per i lavori eseguiti vengono inseriti <b>nella banca</b> salvadana invece che l&#39;indennità settimanale o mensile.",
+  "news_popover_last": "PLZ_TRANSLATE 2. Ora ci sono categorie di spese e depositi - in modo da vedere se i soldi vanno a caramelle o apps!",
+  "news_popover_button": "PLZ_TRANSLATE Bello, allora sono pronto!"
 }
