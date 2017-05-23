@@ -1338,5 +1338,6 @@
   "goal_popover_bought_title": "PLZ_TRANSLATE Hefur það verið keypt?",
   "goal_popover_bought_text": "PLZ_TRANSLATE Þetta markmið er að vera keypt og greitt af foreldri vegna þess að það er náð og þegar greitt frá grís bankanum.",
   "savings_goal_payout_desc": "PLZ_TRANSLATE Veldu útborgunarsparnaðarmarkmið til að draga frá grís bankanum svo þú getir byrjað að spara fyrir næsta markmið.",
-  "disable_sound_setting": "PLZ_TRANSLATE Hljóð"
+  "disable_sound_setting": "PLZ_TRANSLATE Hljóð",
+  "reward_per_hour": "PLZ_TRANSLATE Verðlaun á klukkustund"
 }

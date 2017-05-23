@@ -1338,5 +1338,6 @@
   "goal_popover_bought_title": "Onko kohde ostettu?",
   "goal_popover_bought_text": "Tämä tavoite ostetaan vanhemman maksamana, koska se on saavutettu ja maksettu jo säästöpossusta.",
   "savings_goal_payout_desc": "PLZ_TRANSLATE Valitse Maksu säästöjä tavoite vähentää säästöpossu jotta voit aloittaa säästää sinulle seuraava tavoite.",
-  "disable_sound_setting": "PLZ_TRANSLATE Ääni"
+  "disable_sound_setting": "PLZ_TRANSLATE Ääni",
+  "reward_per_hour": "PLZ_TRANSLATE Palkita tunnissa"
 }

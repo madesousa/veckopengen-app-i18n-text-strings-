@@ -1338,5 +1338,6 @@
   "goal_popover_bought_title": "PLZ_TRANSLATE Har det blitt kjøpt?",
   "goal_popover_bought_text": "PLZ_TRANSLATE Dette målet er å bli kjøpt og betalt av en forelder fordi det er oppnådd og allerede betalt fra spargrisen.",
   "savings_goal_payout_desc": "PLZ_TRANSLATE Velg Utbetalingsbesparelsesmål for å trekke fra spargebanen, slik at du kan begynne å spare for deg neste mål.",
-  "disable_sound_setting": "PLZ_TRANSLATE Lyd"
+  "disable_sound_setting": "PLZ_TRANSLATE Lyd",
+  "reward_per_hour": "PLZ_TRANSLATE Belønning per time"
 }

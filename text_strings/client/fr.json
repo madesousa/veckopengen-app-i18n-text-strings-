@@ -1338,5 +1338,6 @@
   "goal_popover_bought_title": "PLZ_TRANSLATE A-t-on acheté?",
   "goal_popover_bought_text": "PLZ_TRANSLATE Cet objectif doit être acheté et payé par un parent parce qu'il est atteint et déjà payé par la tirelire.",
   "savings_goal_payout_desc": "PLZ_TRANSLATE Choisissez un objectif d'épargne de versement pour déduire de la tirelire afin que vous puissiez commencer à économiser pour vous le prochain objectif.",
-  "disable_sound_setting": "PLZ_TRANSLATE Du son"
+  "disable_sound_setting": "PLZ_TRANSLATE Du son",
+  "reward_per_hour": "PLZ_TRANSLATE Récompense par heure"
 }

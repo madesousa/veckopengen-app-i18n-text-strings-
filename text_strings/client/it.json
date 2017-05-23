@@ -1338,5 +1338,6 @@
   "goal_popover_bought_title": "PLZ_TRANSLATE È stato acquistato?",
   "goal_popover_bought_text": "PLZ_TRANSLATE Questo obiettivo è quello di essere acquistato e pagato da un genitore perché è raggiunto e già pagato dalla banca salvadanaio.",
   "savings_goal_payout_desc": "PLZ_TRANSLATE Scegli un obiettivo di risparmio di versamento da dedurre dalla banca salvadanaio in modo da poter iniziare a risparmiare per il tuo prossimo obiettivo.",
-  "disable_sound_setting": "PLZ_TRANSLATE Suono"
+  "disable_sound_setting": "PLZ_TRANSLATE Suono",
+  "reward_per_hour": "PLZ_TRANSLATE Ricompensa all'ora"
 }
