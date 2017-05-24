@@ -1351,5 +1351,6 @@
   "reverted_transaction_headline": "PLZ_TRANSLATE Gekoppelde transactie",
   "reverted_transaction_info": "PLZ_TRANSLATE Transactie %1$d teruggezet",
   "delete_trustly_hint": "PLZ_TRANSLATE Wilt u uw vertrouwelijke verbinding verwijderen?",
-  "delete_trustly_button": "PLZ_TRANSLATE Verwijder je vertrouwelijke verbinding?"
+  "delete_trustly_button": "PLZ_TRANSLATE Verwijder je vertrouwelijke verbinding?",
+  "new_transaction": "PLZ_TRANSLATE Nieuwe transactie"
 }

@@ -1351,5 +1351,6 @@
   "reverted_transaction_headline": "Reverted transaction",
   "reverted_transaction_info": "Transaction %1$d reverted",
   "delete_trustly_hint": "Do you want to delete your Trustly connection?",
-  "delete_trustly_button": "Delete your Trustly connection?"
+  "delete_trustly_button": "Delete your Trustly connection?",
+  "new_transaction": "New transaction"
 }

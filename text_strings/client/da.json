@@ -1351,5 +1351,6 @@
   "reverted_transaction_headline": "PLZ_TRANSLATE Tilbagekaldt transaktion",
   "reverted_transaction_info": "PLZ_TRANSLATE Transaktion %1$d vendte tilbage",
   "delete_trustly_hint": "PLZ_TRANSLATE Ønsker du at slette din troværdige forbindelse?",
-  "delete_trustly_button": "PLZ_TRANSLATE Slet din troværdige forbindelse?"
+  "delete_trustly_button": "PLZ_TRANSLATE Slet din troværdige forbindelse?",
+  "new_transaction": "PLZ_TRANSLATE Ny transaktion"
 }

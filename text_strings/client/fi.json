@@ -1351,5 +1351,6 @@
   "reverted_transaction_headline": "PLZ_TRANSLATE Palautettu kauppa",
   "reverted_transaction_info": "PLZ_TRANSLATE Transaction %1$d palautettu",
   "delete_trustly_hint": "PLZ_TRANSLATE Haluatko poistaa Trustly yhteyden?",
-  "delete_trustly_button": "PLZ_TRANSLATE Poistaa Trustly yhteyden?"
+  "delete_trustly_button": "PLZ_TRANSLATE Poistaa Trustly yhteyden?",
+  "new_transaction": "PLZ_TRANSLATE uusi tapahtuma"
 }

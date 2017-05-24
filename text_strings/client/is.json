@@ -1351,5 +1351,6 @@
   "reverted_transaction_headline": "PLZ_TRANSLATE Afturkölluð viðskipti",
   "reverted_transaction_info": "PLZ_TRANSLATE Viðskipti %1$d afturkölluð",
   "delete_trustly_hint": "PLZ_TRANSLATE Viltu eyða Trustly tengingu þinni?",
-  "delete_trustly_button": "PLZ_TRANSLATE Eyða traustri tengingu þinni?"
+  "delete_trustly_button": "PLZ_TRANSLATE Eyða traustri tengingu þinni?",
+  "new_transaction": "PLZ_TRANSLATE Ný viðskipti"
 }

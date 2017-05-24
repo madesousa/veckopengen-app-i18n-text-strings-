@@ -1351,5 +1351,6 @@
   "reverted_transaction_headline": "PLZ_TRANSLATE Opération réverbérée",
   "reverted_transaction_info": "PLZ_TRANSLATE Transaction %1$d inversée",
   "delete_trustly_hint": "PLZ_TRANSLATE Voulez-vous supprimer votre connexion Trustly?",
-  "delete_trustly_button": "PLZ_TRANSLATE Supprimez votre connexion Trustly?"
+  "delete_trustly_button": "PLZ_TRANSLATE Supprimez votre connexion Trustly?",
+  "new_transaction": "PLZ_TRANSLATE Nouvelle transaction"
 }

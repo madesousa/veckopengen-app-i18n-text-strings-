@@ -1362,5 +1362,6 @@
   "reverted_transaction_headline": "Ångrad transaktion",
   "reverted_transaction_info": "Transaktion %1$d ångrades",
   "delete_trustly_hint": "Vill du ta bort din Trustly koppling?",
-  "delete_trustly_button": "Ta bort Trustly koppling?"
+  "delete_trustly_button": "Ta bort Trustly koppling?",
+  "new_transaction": "Ny transaktion"
 }
