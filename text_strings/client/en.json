@@ -1347,5 +1347,7 @@
   "news_popover_button": "Nice, then I'm ready!",
   "lost_boost_popover_title": "You've lost a boost",
   "lost_boost_popover_text": "You have spent money from the piggy bank which made you lose %1$d in boost that you previously received at a milestone.",
-  "lost_boost_popover_see_transaction": "See transaction"
+  "lost_boost_popover_see_transaction": "See transaction",
+  "reverted_transaction_headline": "Reverted transaction",
+  "reverted_transaction_info": "Transaction %1$d reverted"
 }

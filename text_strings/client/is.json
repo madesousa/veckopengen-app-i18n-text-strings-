@@ -1347,5 +1347,7 @@
   "news_popover_button": "PLZ_TRANSLATE Nice, þá er ég tilbúinn!",
   "lost_boost_popover_title": "PLZ_TRANSLATE Þú hefur misst uppörvun",
   "lost_boost_popover_text": "PLZ_TRANSLATE Þú hefur eytt peningum frá grísinni sem gerði þér að tapa %1$d í uppörvun sem þú fékkst áður á áfangastað.",
-  "lost_boost_popover_see_transaction": "PLZ_TRANSLATE Sjá viðskipti"
+  "lost_boost_popover_see_transaction": "PLZ_TRANSLATE Sjá viðskipti",
+  "reverted_transaction_headline": "PLZ_TRANSLATE Afturkölluð viðskipti",
+  "reverted_transaction_info": "PLZ_TRANSLATE Viðskipti %1$d afturkölluð"
 }

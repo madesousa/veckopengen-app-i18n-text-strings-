@@ -1347,5 +1347,7 @@
   "news_popover_button": "PLZ_TRANSLATE Fint, så er jeg klar!",
   "lost_boost_popover_title": "PLZ_TRANSLATE Du har mistet et løft",
   "lost_boost_popover_text": "PLZ_TRANSLATE Du har brukt penger fra spargrisen, noe som gjorde at du mistet %1$d i løft som du tidligere mottok på en milepæl.",
-  "lost_boost_popover_see_transaction": "PLZ_TRANSLATE Se transaksjonen"
+  "lost_boost_popover_see_transaction": "PLZ_TRANSLATE Se transaksjonen",
+  "reverted_transaction_headline": "PLZ_TRANSLATE Tilbakestilt transaksjon",
+  "reverted_transaction_info": "PLZ_TRANSLATE Transaksjon %1$d tilbakebetalt"
 }
