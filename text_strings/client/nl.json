@@ -1349,5 +1349,7 @@
   "lost_boost_popover_text": "Je hebt geld uitgegeven van de spaarpot, waardoor je %1$d in de boost verloor die je eerder op een mijlpaal hebt ontvangen.",
   "lost_boost_popover_see_transaction": "Zie transactie",
   "reverted_transaction_headline": "PLZ_TRANSLATE Gekoppelde transactie",
-  "reverted_transaction_info": "PLZ_TRANSLATE Transactie %1$d teruggezet"
+  "reverted_transaction_info": "PLZ_TRANSLATE Transactie %1$d teruggezet",
+  "delete_trustly_hint": "PLZ_TRANSLATE Wilt u uw vertrouwelijke verbinding verwijderen?",
+  "delete_trustly_button": "PLZ_TRANSLATE Verwijder je vertrouwelijke verbinding?"
 }

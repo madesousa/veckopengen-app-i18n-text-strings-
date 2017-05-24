@@ -1349,5 +1349,7 @@
   "lost_boost_popover_text": "PLZ_TRANSLATE Du har brukt penger fra spargrisen, noe som gjorde at du mistet %1$d i løft som du tidligere mottok på en milepæl.",
   "lost_boost_popover_see_transaction": "PLZ_TRANSLATE Se transaksjonen",
   "reverted_transaction_headline": "PLZ_TRANSLATE Tilbakestilt transaksjon",
-  "reverted_transaction_info": "PLZ_TRANSLATE Transaksjon %1$d tilbakebetalt"
+  "reverted_transaction_info": "PLZ_TRANSLATE Transaksjon %1$d tilbakebetalt",
+  "delete_trustly_hint": "PLZ_TRANSLATE Vil du slette din pålitelige tilkobling?",
+  "delete_trustly_button": "PLZ_TRANSLATE Slett din pålitelige tilkobling?"
 }

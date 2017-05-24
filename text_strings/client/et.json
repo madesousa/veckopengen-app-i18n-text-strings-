@@ -1349,5 +1349,7 @@
   "lost_boost_popover_text": "PLZ_TRANSLATE Sul on kulutatud raha notsu pank, mis pani sind kaotada %1$d kiirendusrežiimis et olete varem saabus pöördepunkt.",
   "lost_boost_popover_see_transaction": "PLZ_TRANSLATE Vaata tehingu",
   "reverted_transaction_headline": "PLZ_TRANSLATE Pöörduti tehingu",
-  "reverted_transaction_info": "PLZ_TRANSLATE Tehing %1$d ennistatakse"
+  "reverted_transaction_info": "PLZ_TRANSLATE Tehing %1$d ennistatakse",
+  "delete_trustly_hint": "PLZ_TRANSLATE Kas soovite kustutada oma Trustly ühendus?",
+  "delete_trustly_button": "PLZ_TRANSLATE Kustuta oma Trustly ühendus?"
 }
