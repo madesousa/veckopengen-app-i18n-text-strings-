@@ -4,18 +4,16 @@ import { languageCodes } from '..'
 var langCodes = languageCodes
 jest.disableAutomock()
 
-var textStringsTypes = ['server', 'templates', 'gimi-web']
+var textStringsTypes = ['server', 'templates']
 
 var textStrings = {}
 textStringsTypes.forEach(textStringsType => { textStrings[textStringsType] = {} })
 textStringsTypes.forEach(textStringsType => {
-  if (textStringsType === 'gimi-web') langCodes = ['da', 'en', 'fi', 'fr', 'nl', 'no', 'se']
   langCodes.forEach(lang => { textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`) })
 })
 
 textStringsTypes.forEach(textStringsType => {
   describe(`${textStringsType} TextStrings`, () => {
-    if (textStringsType === 'gimi-web') langCodes = ['da', 'en', 'fi', 'fr', 'nl', 'no', 'se']
     langCodes.forEach(lang => {
       it(`it should return Text Strings for ${textStringsType} ${lang}`, () => {
         expect(textStrings[textStringsType][lang]).not.toEqual(undefined)
