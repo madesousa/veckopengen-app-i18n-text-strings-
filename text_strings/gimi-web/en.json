@@ -6,23 +6,20 @@
   "title.about": "Gimi >> About us",
   "title.terms": "Gimi >> Terms",
   "title.faq": "Gimi >> FAQ",
-
   "header.home": "Home",
   "header.family": "Family community",
   "header.training": "Coaching",
   "header.about": "About us",
   "header.news": "News",
   "header.job": "Job",
-
   "footer.amout_paid_out": "Pocket money paid out",
   "footer.about_companyname": "About Gimi",
-  "footer.about": "We at Gimi work to enable kids to handle money in a responsible and simple way. Our tools are meant to promote a secure, instructive and fun personal finance for kids and parents.",
-  "footer.about2": "Please contact us for support or feedback at <a href=\"mailto:info@gimitheapp.com\" target=\"_blank\">info@gimitheapp.com</a>",
+  "footer.about": "PLZ_TRANSLATE We at Weekly Care work for children and young people to easily manage money in a healthy and responsible manner. Our tools will promote a safe, instructive and funeral private economy for both children and parents.",
+  "footer.about2": "PLZ_TRANSLATE Please contact us for support or feedback: <a href=\"mailto:{email}\" target=\"_blank\">{email}</a>",
   "footer.newsletter": "Or sign up for our newsletter",
   "footer.press": "Press",
   "footer.terms": "Terms",
   "footer.faq": "FAQ",
-
   "home.slide1.header": "Let’s talk money!",
   "home.slide1.desc": "Gimi is an app that has super financial functionalities making it fun and educational to handle money. Both for kids and parents.",
   "home.slide2.header": "We are the experts!",
@@ -30,7 +27,6 @@
   "home.slide3.header": "Family comes first!",
   "home.slide3.desc": "We have created our own Code of ethics so that the whole family can feel safe. <a href=\"/terms\" target=\"_blank\"><em>Read our Code of ethics here.</em></a>",
   "home.watch": "Show video",
-
   "home.section1.header": "Family financials became fun",
   "home.section1.desc": "Gimi has fantastic family features that allow children to handle their own money and get economic superpowers in real life.",
   "home.section2.header": "Keep track of the money",
@@ -54,7 +50,6 @@
   "home.section5.point3": "saved for a football",
   "home.section6.download_tip": "Download now and unlock the superpowers!",
   "home.section6.button": "Family community",
-
   "home.quote1": "“Easy to use and a great way to motivate my kids!”",
   "home.quote1_sub": "37 year old mother of two",
   "home.quote1_name": "Anna",
@@ -70,7 +65,6 @@
   "home.quote5": "“An easy way to teach kids about the value of money!”",
   "home.quote5_sub": "29 years, mom of Henry",
   "home.quote5_name": "Johanna",
-
   "family.section1.header": "The family members...",
   "family.section1.desc": "…are becoming self-taught superheroes in family finance. They save, share tasks and keep track of their weekly and monthly pocket money. Here you can follow their journey towards better money management in the family.",
   "family.slider1.amount": "3 $",
@@ -130,7 +124,6 @@
   "family.section5.body": "It is at home where children talk and learn about money. Gimi has gathered tips and tricks for all parents who want to have a good time and at the same time help their kids in their journey towards a better understanding for money. Dive into Coaching to become a superparent!",
   "family.section5.tip": "Be a superparent!",
   "family.section5.button": "COACHING",
-
   "training.section1.header": "Financial training for the superparents.",
   "training.section1.subtitle": "Here we give you tips and tricks on how to give your child a better understanding for money as a parent.",
   "training.section1.point1.title": "Talk money!",
@@ -168,7 +161,6 @@
   "training.tab3.person.tip1": "Let the children create a business at home so that they better understand trading.",
   "training.tab3.person.tip2": "To become aware of consequences from one's own behaviour is educative for children and Gimi can help focus more on that subject.",
   "training.tab3.bubble1": "Encouraging the stuff you want to see more from, is the best way to affect children's behaviour.",
-
   "about.header": "This is family business!",
   "about.subtitle": "We are here to change and improve the way young people learn how to handle digital money. We welcome all kids and parents to join our cause!",
   "about.section1.header": "Let the weekly pocket money live on!",
@@ -196,7 +188,6 @@
   "about.section4.mat": "Front end",
   "about.section4.join": "Want to join our team?",
   "about.section5": "Helping children and youths is important and something we take very serious. That is why we are not only educating young people in handling their own money. We are every month supporting ”The children's cancer fund” with parts of our employees' salaries. By doing that we hope that we will help ”The children's cancer fund” with their important work in the fight against cancer.",
-
   "faq.title": "FAQ",
   "faq.q1": "In which way do you use the information that is collected through the app?",
   "faq.q1.a": "We will not sell any information that we collect through Gimi. We might make some surveys in general without any personal information being touched.",
@@ -235,5 +226,23 @@
   "faq.q18": "We are separated and I have got the child biweekly, how do we use Gimi?",
   "faq.q18.a": "We are looking for different solutions to our next update. During that time you can pay half the amount of the weekly pocket money, and pay out money those weeks that you have the responsibility for your child. For example: Emma is supposed to get 100 kr as weekly pocket money. Put 50 kr amount instead so that it will be right next time you see eachother.",
   "faq.q19": "Does Gimi actually teach my children about money?",
-  "faq.q19.a": "Yes, Gimi is developed together with economists and child therapists to create a pedagogical service that makes it possible for children to understand how they should relate to money."
+  "faq.q19.a": "Yes, Gimi is developed together with economists and child therapists to create a pedagogical service that makes it possible for children to understand how they should relate to money.",
+  "faq.q20": "PLZ_TRANSLATE I happened to write that I'm a child / parent but it's wrong, how do I do?",
+  "faq.q20.a": "PLZ_TRANSLATE Enter the overview image and tap the three bars in the top right corner, where you can either delete the account or log out. If you are a child and do not get on then email us and we'll fix it.",
+  "faq.q21": "PLZ_TRANSLATE How do I pair the Weekly Hangout with my child?",
+  "faq.q21.a": "PLZ_TRANSLATE Touch the link with * Name * or enter the three bars in the top right corner and press Invite children, then you can choose to invite by phone number or by email if your child does not have a phone.",
+  "faq.q22": "PLZ_TRANSLATE How do I add a parent?",
+  "faq.q22.a": "PLZ_TRANSLATE As a parent you can touch the three bars in the top right corner of your child's profile and then choose to pair one to parent.",
+  "faq.q23": "PLZ_TRANSLATE Can you create tasks that are distributed every day?",
+  "faq.q23.a": "PLZ_TRANSLATE Yes, when you create a new task, enter the days that a task will return.",
+  "faq.q24": "PLZ_TRANSLATE Are the photos saved for proof of proof with you?",
+  "faq.q24.a": "PLZ_TRANSLATE No, the images are sent via a server and only saved locally on your phones.",
+  "faq.q25": "PLZ_TRANSLATE How are children's information used?",
+  "faq.q25.a": "PLZ_TRANSLATE We understand that your children's tasks are very sensitive so we will never sell or use the information to contact the children.",
+  "faq.q26": "PLZ_TRANSLATE Do you send real money during the week?",
+  "faq.q26.a": "PLZ_TRANSLATE No, today we do not have that feature, but money is shared by the parent, usually in cash or via a mobile bank. The weekbook is primarily designed to teach children to understand money and keep track of the weekly or monthly money. But we look at how we can create a real-time service in the future.",
+  "faq.q27": "PLZ_TRANSLATE Does the weekly bed cost anything?",
+  "faq.q27.a": "PLZ_TRANSLATE No, the app is free.",
+  "faq.q28": "PLZ_TRANSLATE What platforms are there for the week?",
+  "faq.q28.a": "PLZ_TRANSLATE It is on the App Store and Google Play, for both iPhone and Android phones."
 }

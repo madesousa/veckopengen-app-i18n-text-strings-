@@ -6,23 +6,20 @@
   "title.about": "Gimi >> About us",
   "title.terms": "Gimi >> Terms",
   "title.faq": "Gimi >> FAQ",
-
   "header.home": "Home",
   "header.family": "Family community",
   "header.training": "Coaching",
   "header.about": "About us",
   "header.news": "News",
   "header.job": "Job",
-
   "footer.amout_paid_out": "Pocket money paid out",
   "footer.about_companyname": "About Gimi",
-  "footer.about": "We at Gimi work to enable kids to handle money in a responsible and simple way. Our tools are meant to promote a secure, instructive and fun personal finance for kids and parents.",
-  "footer.about2": "Please contact us for support or feedback at <a href=\"mailto:info@gimitheapp.com\" target=\"_blank\">info@gimitheapp.com</a>",
+  "footer.about": "PLZ_TRANSLATE Vi ved lommepenge arbejder for børn og unge vil nemt være i stand til at håndtere penge på en sund og ansvarlig måde. Vores værktøjer til at fremme en sikker, uddannelsesmæssige og sjov personlig finansiering for både børn og forældre.",
+  "footer.about2": "PLZ_TRANSLATE Kontakt os venligst for støtte eller feedback: <a href=\"mailto:{email}\" target=\"_blank\">{email}</a>",
   "footer.newsletter": "Or sign up for our newsletter",
   "footer.press": "Press",
   "footer.terms": "Terms",
   "footer.faq": "FAQ",
-
   "home.slide1.header": "Let’s talk money!",
   "home.slide1.desc": "Gimi is an app that has super financial functionalities making it fun and educational to handle money. Both for kids and parents.",
   "home.slide2.header": "We are the experts!",
@@ -30,7 +27,6 @@
   "home.slide3.header": "Family comes first!",
   "home.slide3.desc": "We have created our own Code of ethics so that the whole family can feel safe. <a href=\"/terms\" target=\"_blank\"><em>Read our Code of ethics here.</em></a>",
   "home.watch": "Show video",
-
   "home.section1.header": "Family financials made fun",
   "home.section1.desc": "Gimi has fantastic family features that allow children to handle their own money and to get economic superpowers in real life.",
   "home.section2.header": "Keep track of the money",
@@ -54,7 +50,6 @@
   "home.section5.point3": "saved for a football",
   "home.section6.download_tip": "Download now and unlock the superpowers!",
   "home.section6.button": "Family community",
-
   "home.quote1": "“Easy to use and a great way to motivate my kids!”",
   "home.quote1_sub": "37 year old mother of two",
   "home.quote1_name": "Anna",
@@ -70,7 +65,6 @@
   "home.quote5": "“An easy way to teach kids about the value of money!”",
   "home.quote5_sub": "29 years, mom to Henry",
   "home.quote5_name": "Johanna",
-
   "family.section1.header": "The family members...",
   "family.section1.desc": "…are becoming self-taught superheroes in family finance. They save, share tasks and keep track of their weekly and monthly pocket money. Here you can follow their journey towards better money management in the family.",
   "family.slider1.amount": "3 $",
@@ -130,7 +124,6 @@
   "family.section5.body": "It is at home children talk and learn about money. Gimi has gathered tips and trix to all parents who wants to have a good time and at the sam time help their kids in their journey towards a better understanding for money. Dive into Coaching to become a superparent!",
   "family.section5.tip": "Be a superparent!",
   "family.section5.button": "COACHING",
-
   "training.section1.header": "Financial training for the superparents.",
   "training.section1.subtitle": "Here we give you as a parent tips and tricks on how to give your child a better understanding for money.",
   "training.section1.point1.title": "Talk money!",
@@ -168,7 +161,6 @@
   "training.tab3.person.tip1": "Let the children create a business at home so that they better can understand trading.",
   "training.tab3.person.tip2": "To become aware of consequences from own behaviour is educative for children and Gimi can help focus more on that subject.",
   "training.tab3.bubble1": "Encouraging the stuff you want to see more from, is the best way to affect childrens behaviour.",
-
   "about.header": "This is family business!",
   "about.subtitle": "We are here to change and improve the way young people learn how to handle digital money. We welcome all kids and parents to join our cause!",
   "about.section1.header": "Let the weekly pocket money live on!",
@@ -196,7 +188,6 @@
   "about.section4.mat": "Front end",
   "about.section4.join": "Want to join our team?",
   "about.section5": "Helping children and youths is important and something we take very serious. That is why we are not only educating young people in handling their own money. We are every month supporting ”The children's cancer fund” with parts of our employees salaries. By doing that we hope that we will help ”The children's cancer fund” with their important work in the fight against cancer.",
-
   "faq.title": "FAQ",
   "faq.q1": "In which way do you use the information that is collected through the app?",
   "faq.q1.a": "We will not sell any information that we collect through Gimi. We might make some surveys in general without any personal information being touched.",
@@ -235,5 +226,23 @@
   "faq.q18": "We are separated and has got the child biweekly, how do we do?",
   "faq.q18.a": "We are looking for different solutions to our next update. During that time you can pay half the amount of the weekly pocket money, and pay out money those weeks that you have the responsibility for your child. For example. Emma is supposed to get 100 kr as weekly pocket money. Put an 50 kr amount instead so that it will be right next time you see eachother.",
   "faq.q19": "Does Gimi actually teach my children about money?",
-  "faq.q19.a": "Yes, Gimi is developed together with economists and child therapists to create a pedagogical service that makes it possible for children to understand how they should relate to money."
+  "faq.q19.a": "Yes, Gimi is developed together with economists and child therapists to create a pedagogical service that makes it possible for children to understand how they should relate to money.",
+  "faq.q20": "PLZ_TRANSLATE Jeg kom til at skrive, at jeg er et barn / forælder, men det er forkert, hvad gør jeg?",
+  "faq.q20.a": "PLZ_TRANSLATE Gå til skærmbilledet Oversigt og røre de tre linjer i øverste højre hjørne, hvor du enten kan slette den konto, eller logge ud. Hvis du er et barn, og vil også venligst mail os, og vi vil ordne det.",
+  "faq.q21": "PLZ_TRANSLATE Hvordan parrer jeg lommepenge af mit barn?",
+  "faq.q21.a": "PLZ_TRANSLATE Tryk for at parre med * Navn * eller besøge de tre søjler i øverste højre hjørne og tryk Inviter børn, hvor man så kan vælge at invitere via telefonen eller via mail, hvis dit barn ikke har en telefon.",
+  "faq.q22": "PLZ_TRANSLATE Hvordan tilføjer jeg en forælder?",
+  "faq.q22.a": "PLZ_TRANSLATE Som forælder kan du trykke på de tre streger i øverste højre hjørne, når du er i dit barns profil, og derefter vælge at Flet til en af ​​forældrene.",
+  "faq.q23": "PLZ_TRANSLATE Kan du oprette opgaver udleveres hver dag?",
+  "faq.q23.a": "PLZ_TRANSLATE Ja, når du opretter en ny opgave, skal du trykke på i de dage, at en opgave skal gentage sig.",
+  "faq.q24": "PLZ_TRANSLATE Gemte billeder tages for fotografisk dokumentation af jer?",
+  "faq.q24.a": "PLZ_TRANSLATE Nej, billederne sendes af en server og lagres kun lokalt på din telefon.",
+  "faq.q25": "PLZ_TRANSLATE Hvordan er børnenes oplysninger?",
+  "faq.q25.a": "PLZ_TRANSLATE Vi forstår, at dit barns oplysninger er meget følsom, så vi aldrig vil sælge eller bruge disse oplysninger til at kontakte børnene.",
+  "faq.q26": "PLZ_TRANSLATE For at sende penge i lommepenge?",
+  "faq.q26.a": "PLZ_TRANSLATE Nej, i dag har vi ikke fungere uden penge tildelt sig selv ud af den forælder, som regel i kontanter eller via en mobil bank. Ugentlig godtgørelse er primært designet til at lære børn at forstå penge og bo på en ugentlig eller månedlig ydelse. Men vi ser på, hvordan vi kan skabe en tjeneste med rigtige overførsler kommer.",
+  "faq.q27": "PLZ_TRANSLATE Omkostninger ugentlig ydelse noget?",
+  "faq.q27.a": "PLZ_TRANSLATE Nej, den app er gratis.",
+  "faq.q28": "PLZ_TRANSLATE For hvilke platforme er ugentlig ydelse?",
+  "faq.q28.a": "PLZ_TRANSLATE Det er tilgængeligt på App Store og Google Play, så for både iPhone og Android-telefoner."
 }
