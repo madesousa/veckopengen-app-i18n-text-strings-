@@ -1276,7 +1276,6 @@
   "child_detail_button_transaction": "PLZ_TRANSLATE 1 transaction ce %2$d",
   "child_detail_button_transactions": "PLZ_TRANSLATE %1$d transactions ce %2$d",
   "trans_allowance_to_external_account_future": "PLZ_TRANSLATE %1$d transfert vers %2$d compte bancaire",
-  "task_header": "%1$d avez %2$d %3$d et vous pouvez gagner %4$d",
   "category_name_1": "PLZ_TRANSLATE Général",
   "category_name_2": "PLZ_TRANSLATE Télévision et jeux informatiques",
   "category_name_3": "PLZ_TRANSLATE Ordinateur",

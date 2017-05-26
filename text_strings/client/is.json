@@ -1276,7 +1276,6 @@
   "child_detail_button_transaction": "PLZ_TRANSLATE 1 færðu þetta %2$d",
   "child_detail_button_transactions": "PLZ_TRANSLATE %1$d viðskipti þetta %2$d",
   "trans_allowance_to_external_account_future": "PLZ_TRANSLATE %1$d flytja til %2$d bankareikning",
-  "task_header": "%1$d %2$d %3$d og getur þjónað %4$d",
   "category_name_1": "PLZ_TRANSLATE Almennt",
   "category_name_2": "PLZ_TRANSLATE Sjónvarp og tölvuleikir",
   "category_name_3": "PLZ_TRANSLATE Tölva",

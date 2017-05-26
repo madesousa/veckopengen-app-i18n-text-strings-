@@ -1276,7 +1276,6 @@
   "child_detail_button_transaction": "PLZ_TRANSLATE 1 tehingu käesoleva %2$d",
   "child_detail_button_transactions": "PLZ_TRANSLATE %1$d tehingute seda %2$d",
   "trans_allowance_to_external_account_future": "PLZ_TRANSLATE %1$d üleandmise %2$d pangakonto",
-  "task_header": "PLZ_TRANSLATE %1$d has %2$d %3$d and can earn %4$d",
   "category_name_1": "PLZ_TRANSLATE üldine",
   "category_name_2": "PLZ_TRANSLATE TV ja arvutimängud",
   "category_name_3": "PLZ_TRANSLATE arvuti",

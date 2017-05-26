@@ -1276,7 +1276,6 @@
   "child_detail_button_transaction": "PLZ_CHECK 1 siirto %2$d:lle",
   "child_detail_button_transactions": "PLZ_CHECK %1$d siirrot %2$d:lle",
   "trans_allowance_to_external_account_future": "%1$d siirto %2$d pankkitilille",
-  "task_header": "%1$d on %2$d %3$d ja voi ansaita %4$d",
   "category_name_1": "Yleinen",
   "category_name_2": "TV & tietokonepelit",
   "category_name_3": "Tietokone",

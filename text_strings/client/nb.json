@@ -1276,7 +1276,6 @@
   "child_detail_button_transaction": "PLZ_TRANSLATE 1 transaksjon dette %2$d",
   "child_detail_button_transactions": "PLZ_TRANSLATE %1$d transaksjoner denne %2$d",
   "trans_allowance_to_external_account_future": "PLZ_TRANSLATE %1$d overføring til %2$d bankkonto",
-  "task_header": "%1$d har %2$d %3$d og kan tjene %4$d",
   "category_name_1": "PLZ_TRANSLATE Generell",
   "category_name_2": "PLZ_TRANSLATE TV og dataspill",
   "category_name_3": "PLZ_TRANSLATE Datamaskin",
