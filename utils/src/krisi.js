@@ -14,14 +14,14 @@ let RunAnna = (filePath):* => {
   var hasPLZTranslate = false
   let getPath = (file) => `${filePath}/${file}`
   var {toHash, fromHash, translationHelpTemplate} = AnnaHelper
-  var translateFrom = 'se.json'
+  var translateFrom = 'sv.json'
   let getTranslateFromPath = `${filePath}/` + translateFrom
 
   let translateTextStringForFile = (file, textId) => {
     if (file === 'default.json') { return Promise.resolve() }
     if (file.indexOf('.json') === -1) { return Promise.resolve() }
 
-    if (file === 'se.json') {
+    if (file === 'sv.json') {
       return Promise.resolve()
     }
     /* Translate from given string
