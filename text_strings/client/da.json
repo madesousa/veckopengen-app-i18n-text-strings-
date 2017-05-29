@@ -1104,7 +1104,6 @@
   "popover_rate_in_appstore_title": "Kan du lide ugentlige lommepenge?",
   "popover_rate_in_appstore_text": "Kan du lide ugentlig lommepenge og vil du vurdere det? Det vil hjælpe os med at forbedre denne app.",
   "premium_free_promo_title": "Bank Strøm af %1$d",
-  "premium_free_promo_desc": "Ønsker du at aktivere kontoen Overførsler og tillade at ugentlige eller månedlige lommepenge udbetales til dit barns bankkonto? Det er helt gratis frem til til den 1. juli.",
   "login_description": "Vælg, hvordan du ønsker at logge på.",
   "goal_map_find_more": "Find flere opsparingsmål",
   "goal_map_keep_saving": "Men hvad sker der hvis du fortsætter med at spare op?",
@@ -1351,5 +1350,6 @@
   "reverted_transaction_info": "PLZ_TRANSLATE Transaktion %1$d vendte tilbage",
   "delete_trustly_hint": "PLZ_TRANSLATE Ønsker du at slette din troværdige forbindelse?",
   "delete_trustly_button": "PLZ_TRANSLATE Slet din troværdige forbindelse?",
-  "new_transaction": "PLZ_TRANSLATE Ny transaktion"
+  "new_transaction": "PLZ_TRANSLATE Ny transaktion",
+  "premium_free_promo_desc": "PLZ_TRANSLATE Vil du aktivere kontooverførsler og tillade, at den ugentlige eller månedlige betaling betales til dit barns bankkonto? Det er helt gratis indtil videre"
 }

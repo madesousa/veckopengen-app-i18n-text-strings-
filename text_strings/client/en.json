@@ -1104,7 +1104,6 @@
   "popover_rate_in_appstore_title": "Do you like a weekly allowance?",
   "popover_rate_in_appstore_text": "Do you like a weekly allowance and would you rate it? It will help us to improve the app.",
   "premium_free_promo_title": "Bank Power for %1$d",
-  "premium_free_promo_desc": "Do you want to activate Account Transfers and allow weekly or monthly allowances paid to your child's bank account? It is completely free up to 1st July.",
   "login_description": "Choose how you want to log in.",
   "goal_map_find_more": "Find more savings targets",
   "goal_map_keep_saving": "But what happens if you continue to save?",
@@ -1351,5 +1350,6 @@
   "reverted_transaction_info": "Transaction %1$d reverted",
   "delete_trustly_hint": "Do you want to delete your Trustly connection?",
   "delete_trustly_button": "Delete your Trustly connection?",
-  "new_transaction": "New transaction"
+  "new_transaction": "New transaction",
+  "premium_free_promo_desc": "Do you want to enable Account transfers and allow the weekly or monthly payment to be paid to your child's bank account? It is completely free until further notice"
 }

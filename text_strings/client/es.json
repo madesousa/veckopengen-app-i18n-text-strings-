@@ -1104,7 +1104,6 @@
   "popover_rate_in_appstore_title": "PLZ_TRANSLATE Do you like a weekly allowance?",
   "popover_rate_in_appstore_text": "PLZ_TRANSLATE Do you like a weekly allowance and would you rate it? It will help us to improve the app.",
   "premium_free_promo_title": "PLZ_TRANSLATE PLZ_TRANSLATE Bank Power for %1$d",
-  "premium_free_promo_desc": "PLZ_TRANSLATE Do you want to activate Account Transfers and allow weekly or monthly allowances paid to your child's bank account? It is completely free to 1st July.",
   "login_description": "PLZ_TRANSLATE Choose how you want to log in.",
   "goal_map_find_more": "PLZ_TRANSLATE Find more savings targets",
   "goal_map_keep_saving": "PLZ_TRANSLATE But what happens if you continue to save?",
@@ -1351,5 +1350,6 @@
   "reverted_transaction_info": "PLZ_TRANSLATE La transacción %1$d se ha revertido",
   "delete_trustly_hint": "PLZ_TRANSLATE ¿Quieres eliminar tu conexión de Trustly?",
   "delete_trustly_button": "PLZ_TRANSLATE ¿Eliminar su conexión Confiable?",
-  "new_transaction": "PLZ_TRANSLATE Nueva transacción"
+  "new_transaction": "PLZ_TRANSLATE Nueva transacción",
+  "premium_free_promo_desc": "PLZ_TRANSLATE ¿Desea activar las transferencias de cuenta y permitir que se pague el pago semanal o mensual a la cuenta bancaria de su hijo? Es totalmente gratuito hasta nuevo aviso"
 }

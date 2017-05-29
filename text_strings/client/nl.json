@@ -1104,7 +1104,6 @@
   "popover_rate_in_appstore_title": "Wil je wekelijks zakgeld?",
   "popover_rate_in_appstore_text": "Wil je wekelijks zakgeld en je mening geven? Dit zal ons helpen om de app te verbeteren.",
   "premium_free_promo_title": "Bank krachten voor %1$d",
-  "premium_free_promo_desc": "Wilt u Account Transfers activeren en  wekelijks of maandelijks betalingen kunnne verichten op de bankrekening van uw kind? Het is volledig gratis voor 1 juli.",
   "login_description": "Kies hoe u zich wilt aanmelden.",
   "goal_map_find_more": "Vind meer besparingsdoelen",
   "goal_map_keep_saving": "Maar wat gebeurt er als u doorgaat met het sparen?",
@@ -1351,5 +1350,6 @@
   "reverted_transaction_info": "PLZ_TRANSLATE Transactie %1$d teruggezet",
   "delete_trustly_hint": "PLZ_TRANSLATE Wilt u uw vertrouwelijke verbinding verwijderen?",
   "delete_trustly_button": "PLZ_TRANSLATE Verwijder je vertrouwelijke verbinding?",
-  "new_transaction": "PLZ_TRANSLATE Nieuwe transactie"
+  "new_transaction": "PLZ_TRANSLATE Nieuwe transactie",
+  "premium_free_promo_desc": "PLZ_TRANSLATE Wilt u accountoverdrachten inschakelen en kunt u de wekelijkse of maandelijkse betaling betalen op uw bankrekening? Het is volledig tot verdere aankondiging"
 }

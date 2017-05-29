@@ -1104,7 +1104,6 @@
   "popover_rate_in_appstore_title": "Hyväksytkö viikkorahan?",
   "popover_rate_in_appstore_text": "Hyväksytkö viikkorahan ja haluaisitko antaa sille arvosanan? Se auttaisi meitä parantamaan sovellusta.",
   "premium_free_promo_title": "Bank Power on %1$d",
-  "premium_free_promo_desc": "Haluatko aktivoida tilisiirrot ja mahdollistaa viikoittain tai kuukausittain suoritettavat maksut lapsesi pankkitilille? Se on täysin ilmainen 1. heinäkuuta asti.",
   "login_description": "Valitse, kuinka kirjaudut sisään.",
   "goal_map_find_more": "Etsi lisää säästökohteita",
   "goal_map_keep_saving": "Mutta mitä tapahtuu, jos jatkaa säästämistä?",
@@ -1351,5 +1350,6 @@
   "reverted_transaction_info": "Siirto %1$d palautettu",
   "delete_trustly_hint": "Haluatko poistaa Trustly yhteyden?",
   "delete_trustly_button": "Poista Trustly-yhteys?",
-  "new_transaction": "Uusi siirto"
+  "new_transaction": "Uusi siirto",
+  "premium_free_promo_desc": "PLZ_TRANSLATE Haluatko ottaa tilisiirrot ja anna viikoittain tai kuukausittain maksettavan lapsesi pankkitilille? Se on täysin ilmainen toistaiseksi"
 }

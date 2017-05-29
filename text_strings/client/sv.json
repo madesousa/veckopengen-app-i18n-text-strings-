@@ -1115,7 +1115,6 @@
   "popover_rate_in_appstore_title": "Gillar du veckopengen?",
   "popover_rate_in_appstore_text": "Gillar du veckopengen och skulle du vilja betygsätta den? Det hjälper oss att förbättra appen.",
   "premium_free_promo_title": "Bank Powers för %1$d",
-  "premium_free_promo_desc": "Vill du aktivera Kontoöverföringar och låta vecko- eller månadspengen betalas ut till ditt barns bankkonto? Det är helt gratis till 1:a juli.",
   "login_description": "Välj hur du vill logga in.",
   "goal_map_find_more": "Hitta fler sparmål",
   "goal_map_keep_saving": "Men vad händer om du fortsätter spara?",
@@ -1362,5 +1361,6 @@
   "reverted_transaction_info": "Transaktion %1$d ångrades",
   "delete_trustly_hint": "Vill du ta bort din Trustly koppling?",
   "delete_trustly_button": "Ta bort Trustly koppling?",
-  "new_transaction": "Ny transaktion"
+  "new_transaction": "Ny transaktion",
+  "premium_free_promo_desc": "Vill du aktivera Kontoöverföringar och låta vecko- eller månadspengen betalas ut till ditt barns bankkonto? Det är helt gratis tills vidare"
 }

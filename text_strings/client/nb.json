@@ -1104,7 +1104,6 @@
   "popover_rate_in_appstore_title": "Liker du Gimi?",
   "popover_rate_in_appstore_text": "Liker du Gimi og vil vurdere den? Det vil hjelpe oss med å forbedre appen.",
   "premium_free_promo_title": "Bank Powers for %1$d",
-  "premium_free_promo_desc": "Ønsker du å aktivere kontooverføringer og la uke- eller månedspenger bli betalt til barnets bankkonto? Det er helt gratis til 1. juli.",
   "login_description": "Velg hvordan du ønsker å logge inn.",
   "goal_map_find_more": "Finn flere sparemål",
   "goal_map_keep_saving": "Men hva skjer hvis du fortsetter å spare?",
@@ -1351,5 +1350,6 @@
   "reverted_transaction_info": "PLZ_TRANSLATE Transaksjon %1$d tilbakebetalt",
   "delete_trustly_hint": "PLZ_TRANSLATE Vil du slette din pålitelige tilkobling?",
   "delete_trustly_button": "PLZ_TRANSLATE Slett din pålitelige tilkobling?",
-  "new_transaction": "PLZ_TRANSLATE Ny transaksjon"
+  "new_transaction": "PLZ_TRANSLATE Ny transaksjon",
+  "premium_free_promo_desc": "PLZ_TRANSLATE Vil du aktivere Kontooverføringer og tillate at ukentlig eller månedlig betaling betales til barnets bankkonto? Det er helt gratis til videre varsel"
 }
