@@ -1126,7 +1126,7 @@
   "sign_in_as_child_popover_desc": "Du loggas nu in som ditt barn %1$d. Du kan när som helst logga tillbaka till ditt egna konto under barnets inställningar.",
   "allowance_recommended": "Rekommenderas",
   "child_settings_surfguide": "Surftips",
-  "transaction_reverted": "Revert the transaction: %1$d",
+  "transaction_reverted": "Transaktion %1$d ångrades",
   "reciept_regret_transaction_title": "Ångra transaktion?",
   "reciept_regret_transaction_desc": "Vill du ångra din transaktion genom att skapa en likadan transaktion ”åt andra hållet”?",
   "create_steps_tracking_header": "Ge ut Steg",
