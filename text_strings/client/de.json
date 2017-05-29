@@ -1352,5 +1352,6 @@
   "delete_trustly_button": "PLZ_TRANSLATE Löschen Sie Ihre Trustly-Verbindung?",
   "new_transaction": "PLZ_TRANSLATE Neue Transaktion",
   "premium_free_promo_desc": "PLZ_TRANSLATE Möchten Sie Kontobewegungen aktivieren und die wöchentliche oder monatliche Zahlung auf das Bankkonto Ihres Kindes bezahlen? Es ist bis auf weiteres frei",
-  "edit": "PLZ_TRANSLATE Bearbeiten"
+  "edit": "PLZ_TRANSLATE Bearbeiten",
+  "milestone_boost_lost_reciept_header": "PLZ_TRANSLATE Verloren einen Schub von %1$d"
 }

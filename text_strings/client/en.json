@@ -1352,5 +1352,6 @@
   "delete_trustly_button": "Delete your Trustly connection?",
   "new_transaction": "New transaction",
   "premium_free_promo_desc": "Do you want to enable Account transfers and allow the weekly or monthly payment to be paid to your child's bank account? It is completely free until further notice",
-  "edit": "Edit"
+  "edit": "Edit",
+  "milestone_boost_lost_reciept_header": "Lost a boost of %1$d"
 }

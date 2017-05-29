@@ -1352,5 +1352,6 @@
   "delete_trustly_button": "PLZ_TRANSLATE Kustuta oma Trustly ühendus?",
   "new_transaction": "PLZ_TRANSLATE uus tehing",
   "premium_free_promo_desc": "PLZ_TRANSLATE Kas soovite lubada konto ülekandeid ja võimaldada nädala või kuu makse makstakse teie lapse pangakontole? See on täiesti tasuta kuni edaspidise teatamiseni",
-  "edit": "PLZ_TRANSLATE Edit"
+  "edit": "PLZ_TRANSLATE Edit",
+  "milestone_boost_lost_reciept_header": "PLZ_TRANSLATE Kaotatud tõuke %1$d"
 }

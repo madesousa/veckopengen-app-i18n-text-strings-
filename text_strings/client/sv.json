@@ -1363,5 +1363,6 @@
   "delete_trustly_button": "Ta bort Trustly koppling?",
   "new_transaction": "Ny transaktion",
   "premium_free_promo_desc": "Vill du aktivera Kontoöverföringar och låta vecko- eller månadspengen betalas ut till ditt barns bankkonto? Det är helt gratis tills vidare",
-  "edit": "Redigera"
+  "edit": "Redigera",
+  "milestone_boost_lost_reciept_header": "Tappade en boost på %1$d"
 }

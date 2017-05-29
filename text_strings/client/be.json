@@ -1352,5 +1352,6 @@
   "delete_trustly_button": "PLZ_TRANSLATE Выдаліць падключэнне Trustly?",
   "new_transaction": "PLZ_TRANSLATE Новая транзакцыя",
   "premium_free_promo_desc": "PLZ_TRANSLATE Вы хочаце, каб уключыць перадачу уліковых запісаў і дазваляе штотыдзень або штомесячны плацёж выплачваецца на банкаўскі рахунак вашага дзіцяці? Гэта абсалютна бясплатна да далейшага паведамлення",
-  "edit": "PLZ_TRANSLATE рэдагаваць"
+  "edit": "PLZ_TRANSLATE рэдагаваць",
+  "milestone_boost_lost_reciept_header": "PLZ_TRANSLATE Страчаны імпульс %1$d"
 }

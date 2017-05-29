@@ -1352,5 +1352,6 @@
   "delete_trustly_button": "PLZ_TRANSLATE Eyða traustri tengingu þinni?",
   "new_transaction": "PLZ_TRANSLATE Ný viðskipti",
   "premium_free_promo_desc": "PLZ_TRANSLATE Viltu virkja reikningsfærslur og leyfa vikulega eða mánaðarlega greiðslu að greiða á bankareikning barnsins? Það er algjörlega frjáls fyrr en frekari fyrirvara",
-  "edit": "PLZ_TRANSLATE Breyta"
+  "edit": "PLZ_TRANSLATE Breyta",
+  "milestone_boost_lost_reciept_header": "PLZ_TRANSLATE Missti uppörvun %1$d"
 }

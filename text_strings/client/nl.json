@@ -1352,5 +1352,6 @@
   "delete_trustly_button": "PLZ_TRANSLATE Verwijder je vertrouwelijke verbinding?",
   "new_transaction": "PLZ_TRANSLATE Nieuwe transactie",
   "premium_free_promo_desc": "PLZ_TRANSLATE Wilt u accountoverdrachten inschakelen en kunt u de wekelijkse of maandelijkse betaling betalen op uw bankrekening? Het is volledig tot verdere aankondiging",
-  "edit": "PLZ_TRANSLATE Bewerk"
+  "edit": "PLZ_TRANSLATE Bewerk",
+  "milestone_boost_lost_reciept_header": "PLZ_TRANSLATE Verloren een boost van %1$d"
 }

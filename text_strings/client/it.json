@@ -1352,5 +1352,6 @@
   "delete_trustly_button": "PLZ_TRANSLATE Elimina la connessione Trustful?",
   "new_transaction": "PLZ_TRANSLATE Nuova transazione",
   "premium_free_promo_desc": "PLZ_TRANSLATE Vuoi attivare i trasferimenti di account e permettere che il pagamento settimanale o mensile sia pagato sul conto bancario del tuo figlio? È completamente gratuito fino ad un ulteriore avviso",
-  "edit": "PLZ_TRANSLATE Modifica"
+  "edit": "PLZ_TRANSLATE Modifica",
+  "milestone_boost_lost_reciept_header": "PLZ_TRANSLATE Ha perso una spinta di %1$d"
 }

@@ -1352,5 +1352,6 @@
   "delete_trustly_button": "PLZ_TRANSLATE Slett din pålitelige tilkobling?",
   "new_transaction": "PLZ_TRANSLATE Ny transaksjon",
   "premium_free_promo_desc": "PLZ_TRANSLATE Vil du aktivere Kontooverføringer og tillate at ukentlig eller månedlig betaling betales til barnets bankkonto? Det er helt gratis til videre varsel",
-  "edit": "PLZ_TRANSLATE Redigere"
+  "edit": "PLZ_TRANSLATE Redigere",
+  "milestone_boost_lost_reciept_header": "PLZ_TRANSLATE Mistet et løft på %1$d"
 }
