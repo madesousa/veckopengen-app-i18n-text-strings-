@@ -1351,5 +1351,6 @@
   "delete_trustly_hint": "PLZ_TRANSLATE ¿Quieres eliminar tu conexión de Trustly?",
   "delete_trustly_button": "PLZ_TRANSLATE ¿Eliminar su conexión Confiable?",
   "new_transaction": "PLZ_TRANSLATE Nueva transacción",
-  "premium_free_promo_desc": "PLZ_TRANSLATE ¿Desea activar las transferencias de cuenta y permitir que se pague el pago semanal o mensual a la cuenta bancaria de su hijo? Es totalmente gratuito hasta nuevo aviso"
+  "premium_free_promo_desc": "PLZ_TRANSLATE ¿Desea activar las transferencias de cuenta y permitir que se pague el pago semanal o mensual a la cuenta bancaria de su hijo? Es totalmente gratuito hasta nuevo aviso",
+  "edit": "PLZ_TRANSLATE Editar"
 }

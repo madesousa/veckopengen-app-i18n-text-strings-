@@ -1351,5 +1351,6 @@
   "delete_trustly_hint": "Haluatko poistaa Trustly yhteyden?",
   "delete_trustly_button": "Poista Trustly-yhteys?",
   "new_transaction": "Uusi siirto",
-  "premium_free_promo_desc": "PLZ_TRANSLATE Haluatko ottaa tilisiirrot ja anna viikoittain tai kuukausittain maksettavan lapsesi pankkitilille? Se on täysin ilmainen toistaiseksi"
+  "premium_free_promo_desc": "PLZ_TRANSLATE Haluatko ottaa tilisiirrot ja anna viikoittain tai kuukausittain maksettavan lapsesi pankkitilille? Se on täysin ilmainen toistaiseksi",
+  "edit": "PLZ_TRANSLATE Muokata"
 }

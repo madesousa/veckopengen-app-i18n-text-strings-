@@ -1351,5 +1351,6 @@
   "delete_trustly_hint": "PLZ_TRANSLATE Ønsker du at slette din troværdige forbindelse?",
   "delete_trustly_button": "PLZ_TRANSLATE Slet din troværdige forbindelse?",
   "new_transaction": "PLZ_TRANSLATE Ny transaktion",
-  "premium_free_promo_desc": "PLZ_TRANSLATE Vil du aktivere kontooverførsler og tillade, at den ugentlige eller månedlige betaling betales til dit barns bankkonto? Det er helt gratis indtil videre"
+  "premium_free_promo_desc": "PLZ_TRANSLATE Vil du aktivere kontooverførsler og tillade, at den ugentlige eller månedlige betaling betales til dit barns bankkonto? Det er helt gratis indtil videre",
+  "edit": "PLZ_TRANSLATE Redigere"
 }

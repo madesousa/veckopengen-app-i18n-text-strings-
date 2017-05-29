@@ -1351,5 +1351,6 @@
   "delete_trustly_hint": "PLZ_TRANSLATE Kas soovite kustutada oma Trustly ühendus?",
   "delete_trustly_button": "PLZ_TRANSLATE Kustuta oma Trustly ühendus?",
   "new_transaction": "PLZ_TRANSLATE uus tehing",
-  "premium_free_promo_desc": "PLZ_TRANSLATE Kas soovite lubada konto ülekandeid ja võimaldada nädala või kuu makse makstakse teie lapse pangakontole? See on täiesti tasuta kuni edaspidise teatamiseni"
+  "premium_free_promo_desc": "PLZ_TRANSLATE Kas soovite lubada konto ülekandeid ja võimaldada nädala või kuu makse makstakse teie lapse pangakontole? See on täiesti tasuta kuni edaspidise teatamiseni",
+  "edit": "PLZ_TRANSLATE Edit"
 }
