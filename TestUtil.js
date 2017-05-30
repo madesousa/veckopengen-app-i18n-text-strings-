@@ -164,7 +164,6 @@ export let stringLenghtStatistic = (firstLang: Object, secondLang: Object, first
 }
 export let stringTranslationTags = (lang: Object, languageCode: string):Object => {
   var keys = Object.keys(lang)
-  var trasnationTagData = []
   var numberPlzCheck = 0
   var numberPlzTransalte = 0
   var completeNumber = 0
@@ -177,6 +176,5 @@ export let stringTranslationTags = (lang: Object, languageCode: string):Object =
     }
   })
   if (completeNumber / 2 <= numberPlzTransalte) moreThanHalfNotTranslated = true
-  trasnationTagData.push({title: 'The language file contains', value: numberPlzCheck + ' PLZ_CHECK and ' + numberPlzTransalte + ' PLZ_TRANSLATE from ' + completeNumber, short: false})
-  return {data: trasnationTagData, status: moreThanHalfNotTranslated, plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte}
+  return {status: moreThanHalfNotTranslated, plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode}
 }
