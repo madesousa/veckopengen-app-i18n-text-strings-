@@ -1355,5 +1355,6 @@
   "category_name_41": "PLZ_TRANSLATE Beloning",
   "category_name_42": "PLZ_TRANSLATE Lening",
   "category_name_43": "PLZ_TRANSLATE Bevestiging",
-  "category_name_44": "PLZ_TRANSLATE Bestellen"
+  "category_name_44": "PLZ_TRANSLATE Bestellen",
+  "revert_transaction_button": "PLZ_TRANSLATE Transactie terugzetten"
 }

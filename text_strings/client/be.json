@@ -1355,5 +1355,6 @@
   "category_name_41": "PLZ_TRANSLATE Узнагарода",
   "category_name_42": "PLZ_TRANSLATE пазыка",
   "category_name_43": "PLZ_TRANSLATE пацвярджэнне",
-  "category_name_44": "PLZ_TRANSLATE заказ"
+  "category_name_44": "PLZ_TRANSLATE заказ",
+  "revert_transaction_button": "PLZ_TRANSLATE адкат транзакцыі"
 }

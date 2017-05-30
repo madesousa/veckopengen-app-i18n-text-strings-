@@ -1355,5 +1355,6 @@
   "category_name_41": "PLZ_TRANSLATE Palkinto",
   "category_name_42": "PLZ_TRANSLATE Lainata",
   "category_name_43": "PLZ_TRANSLATE Vahvistus",
-  "category_name_44": "PLZ_TRANSLATE Tilata"
+  "category_name_44": "PLZ_TRANSLATE Tilata",
+  "revert_transaction_button": "PLZ_TRANSLATE Palauta tapahtuma"
 }

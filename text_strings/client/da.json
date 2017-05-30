@@ -1355,5 +1355,6 @@
   "category_name_41": "PLZ_TRANSLATE Belønning",
   "category_name_42": "PLZ_TRANSLATE Lån",
   "category_name_43": "PLZ_TRANSLATE Bekræftelse",
-  "category_name_44": "PLZ_TRANSLATE Bestille"
+  "category_name_44": "PLZ_TRANSLATE Bestille",
+  "revert_transaction_button": "PLZ_TRANSLATE Tilbagefør transaktionen"
 }

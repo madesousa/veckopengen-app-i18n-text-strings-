@@ -1366,5 +1366,6 @@
   "category_name_41": "Belöning",
   "category_name_42": "Lån",
   "category_name_43": "Konfirmation",
-  "category_name_44": "Ordning"
+  "category_name_44": "Ordning",
+  "revert_transaction_button": "Ångra transaktion"
 }

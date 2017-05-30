@@ -1355,5 +1355,6 @@
   "category_name_41": "PLZ_TRANSLATE Verðlaun",
   "category_name_42": "PLZ_TRANSLATE Lán",
   "category_name_43": "PLZ_TRANSLATE Staðfesting",
-  "category_name_44": "PLZ_TRANSLATE Order"
+  "category_name_44": "PLZ_TRANSLATE Order",
+  "revert_transaction_button": "PLZ_TRANSLATE Afturkalla viðskipti"
 }

@@ -1355,5 +1355,6 @@
   "category_name_41": "PLZ_TRANSLATE Recompensa",
   "category_name_42": "PLZ_TRANSLATE Préstamo",
   "category_name_43": "PLZ_TRANSLATE Confirmación",
-  "category_name_44": "PLZ_TRANSLATE Orden"
+  "category_name_44": "PLZ_TRANSLATE Orden",
+  "revert_transaction_button": "PLZ_TRANSLATE Revertir transacción"
 }

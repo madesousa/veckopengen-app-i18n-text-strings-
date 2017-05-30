@@ -1355,5 +1355,6 @@
   "category_name_41": "Reward",
   "category_name_42": "Loan",
   "category_name_43": "Confirmation",
-  "category_name_44": "Order"
+  "category_name_44": "Order",
+  "revert_transaction_button": "Revert transaction"
 }
