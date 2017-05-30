@@ -1359,7 +1359,7 @@
   "revert_transaction_button": "Tilbagefør transaktionen",
   "take_picture": "Tag et billede",
   "take_new_picture": "Tag et nyt billede",
-  "picture_proof": "Billedebevis kræves!",
+  "picture_proof": "Billedbevis påkræves!",
   "picture_proof_desc": "For at blive godkendt skal du tage et billede som bevis",
   "task_per_hour_button_send": "Indsend",
   "task_per_hour_button_finish": "Afslut job",
