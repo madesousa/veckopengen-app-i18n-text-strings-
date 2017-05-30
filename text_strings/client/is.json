@@ -1368,5 +1368,6 @@
   "task_per_hour_pause": "PLZ_TRANSLATE Hlé",
   "task_per_hour_edit_time": "PLZ_TRANSLATE Breyta tíma",
   "task_per_hour_discard": "PLZ_TRANSLATE Rusl",
-  "task_per_hour_headline_done": "PLZ_TRANSLATE Þú ert búinn!"
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Þú ert búinn!",
+  "handle_goal": "PLZ_TRANSLATE Stjórna sparnaðarmarkmiði"
 }

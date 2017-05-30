@@ -1368,5 +1368,6 @@
   "task_per_hour_pause": "PLZ_TRANSLATE Pause",
   "task_per_hour_edit_time": "PLZ_TRANSLATE Rediger tid",
   "task_per_hour_discard": "PLZ_TRANSLATE Affald",
-  "task_per_hour_headline_done": "PLZ_TRANSLATE Du er færdig!"
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Du er færdig!",
+  "handle_goal": "PLZ_TRANSLATE Administrer besparelsesmål"
 }

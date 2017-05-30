@@ -1368,5 +1368,6 @@
   "task_per_hour_pause": "PLZ_TRANSLATE paus",
   "task_per_hour_edit_time": "PLZ_TRANSLATE Muuda aeg",
   "task_per_hour_discard": "PLZ_TRANSLATE prügi",
-  "task_per_hour_headline_done": "PLZ_TRANSLATE Oled valmis!"
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Oled valmis!",
+  "handle_goal": "PLZ_TRANSLATE Manage säästukalkulaator"
 }

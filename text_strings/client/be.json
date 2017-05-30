@@ -1368,5 +1368,6 @@
   "task_per_hour_pause": "PLZ_TRANSLATE паўза",
   "task_per_hour_edit_time": "PLZ_TRANSLATE змяніць час",
   "task_per_hour_discard": "PLZ_TRANSLATE дрэнь",
-  "task_per_hour_headline_done": "PLZ_TRANSLATE Вы зрабілі!"
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Вы зрабілі!",
+  "handle_goal": "PLZ_TRANSLATE Кіраванне ашчадных мэтаў"
 }

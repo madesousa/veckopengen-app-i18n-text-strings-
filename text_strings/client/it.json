@@ -1368,5 +1368,6 @@
   "task_per_hour_pause": "PLZ_TRANSLATE Pausa",
   "task_per_hour_edit_time": "PLZ_TRANSLATE Modifica il tempo",
   "task_per_hour_discard": "PLZ_TRANSLATE Spazzatura",
-  "task_per_hour_headline_done": "PLZ_TRANSLATE Hai finito!"
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Hai finito!",
+  "handle_goal": "PLZ_TRANSLATE Gestisci un obiettivo di risparmio"
 }

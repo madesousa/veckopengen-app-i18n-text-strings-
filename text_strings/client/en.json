@@ -1368,5 +1368,6 @@
   "task_per_hour_pause": "Pause",
   "task_per_hour_edit_time": "Edit time",
   "task_per_hour_discard": "Trash",
-  "task_per_hour_headline_done": "You're done!"
+  "task_per_hour_headline_done": "You're done!",
+  "handle_goal": "Manage savings goal"
 }

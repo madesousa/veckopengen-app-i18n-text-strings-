@@ -1379,5 +1379,6 @@
   "task_per_hour_pause": "Pausa",
   "task_per_hour_edit_time": "Redigera tid",
   "task_per_hour_discard": "Släng",
-  "task_per_hour_headline_done": "Du är klar!"
+  "task_per_hour_headline_done": "Du är klar!",
+  "handle_goal": "Hantera sparmål"
 }

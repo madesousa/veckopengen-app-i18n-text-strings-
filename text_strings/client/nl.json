@@ -1368,5 +1368,6 @@
   "task_per_hour_pause": "PLZ_TRANSLATE Pauze",
   "task_per_hour_edit_time": "PLZ_TRANSLATE Tijd bewerken",
   "task_per_hour_discard": "PLZ_TRANSLATE uitschot",
-  "task_per_hour_headline_done": "PLZ_TRANSLATE Je bent klaar!"
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Je bent klaar!",
+  "handle_goal": "PLZ_TRANSLATE Beheer spaar doel"
 }

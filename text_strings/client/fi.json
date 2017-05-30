@@ -1368,5 +1368,6 @@
   "task_per_hour_pause": "PLZ_TRANSLATE Tauko",
   "task_per_hour_edit_time": "PLZ_TRANSLATE edit aika",
   "task_per_hour_discard": "PLZ_TRANSLATE roska",
-  "task_per_hour_headline_done": "PLZ_TRANSLATE Olet valmis!"
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Olet valmis!",
+  "handle_goal": "PLZ_TRANSLATE Hallitse säästö tavoite"
 }
