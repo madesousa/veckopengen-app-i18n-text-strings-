@@ -71,7 +71,6 @@ export let SendToSlackStats = (attachmentPayload: Array<Object>, languageCode: s
 }
 export let SendToSlackTagStats = (attachmentPayload: Array<Object>, languageCode: string) => {
   var slack = new Slack('https://hooks.slack.com/services/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')
-  console.log('data', attachmentPayload)
   slack.send({
     text: 'i18n Client Language files ',
     channel: '#i18n_translation_tags',
