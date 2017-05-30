@@ -1356,5 +1356,17 @@
   "category_name_42": "PLZ_TRANSLATE Prêt",
   "category_name_43": "PLZ_TRANSLATE Confirmation",
   "category_name_44": "PLZ_TRANSLATE Commande",
-  "revert_transaction_button": "PLZ_TRANSLATE Revenir à la transaction"
+  "revert_transaction_button": "PLZ_TRANSLATE Revenir à la transaction",
+  "take_picture": "PLZ_TRANSLATE Prendre une photo",
+  "take_new_picture": "PLZ_TRANSLATE Prenez une nouvelle photo",
+  "picture_proof": "PLZ_TRANSLATE Une preuve d'image requise!",
+  "picture_proof_desc": "PLZ_TRANSLATE Pour être approuvé, vous devez prendre une photo comme preuve",
+  "task_per_hour_button_send": "PLZ_TRANSLATE Soumettre",
+  "task_per_hour_button_finish": "PLZ_TRANSLATE Quitter le travail",
+  "task_per_hour_button_begin": "PLZ_TRANSLATE Commencer le travail",
+  "task_per_hour_start": "PLZ_TRANSLATE Début",
+  "task_per_hour_pause": "PLZ_TRANSLATE Pause",
+  "task_per_hour_edit_time": "PLZ_TRANSLATE Édition du temps",
+  "task_per_hour_discard": "PLZ_TRANSLATE Poubelle",
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Vous avez terminé!"
 }

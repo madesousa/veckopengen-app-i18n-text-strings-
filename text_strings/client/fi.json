@@ -1356,5 +1356,17 @@
   "category_name_42": "PLZ_TRANSLATE Lainata",
   "category_name_43": "PLZ_TRANSLATE Vahvistus",
   "category_name_44": "PLZ_TRANSLATE Tilata",
-  "revert_transaction_button": "PLZ_TRANSLATE Palauta tapahtuma"
+  "revert_transaction_button": "PLZ_TRANSLATE Palauta tapahtuma",
+  "take_picture": "PLZ_TRANSLATE Ota kuva",
+  "take_new_picture": "PLZ_TRANSLATE Ottaa uuden kuvan",
+  "picture_proof": "PLZ_TRANSLATE Kuva vaaditut!",
+  "picture_proof_desc": "PLZ_TRANSLATE Voidaan hyväksyä, sinun täytyy ottaa kuvan todisteeksi",
+  "task_per_hour_button_send": "PLZ_TRANSLATE Lähetä",
+  "task_per_hour_button_finish": "PLZ_TRANSLATE exit työpaikka",
+  "task_per_hour_button_begin": "PLZ_TRANSLATE Aloita työ",
+  "task_per_hour_start": "PLZ_TRANSLATE alkaa",
+  "task_per_hour_pause": "PLZ_TRANSLATE Tauko",
+  "task_per_hour_edit_time": "PLZ_TRANSLATE edit aika",
+  "task_per_hour_discard": "PLZ_TRANSLATE roska",
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Olet valmis!"
 }

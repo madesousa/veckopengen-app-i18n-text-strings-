@@ -1356,5 +1356,17 @@
   "category_name_42": "PLZ_TRANSLATE пазыка",
   "category_name_43": "PLZ_TRANSLATE пацвярджэнне",
   "category_name_44": "PLZ_TRANSLATE заказ",
-  "revert_transaction_button": "PLZ_TRANSLATE адкат транзакцыі"
+  "revert_transaction_button": "PLZ_TRANSLATE адкат транзакцыі",
+  "take_picture": "PLZ_TRANSLATE сфатаграфуйце",
+  "take_new_picture": "PLZ_TRANSLATE Вазьміце новую карціну",
+  "picture_proof": "PLZ_TRANSLATE доказ фота абавязкова!",
+  "picture_proof_desc": "PLZ_TRANSLATE Каб быць зацверджаны, неабходна зрабіць здымак у якасці доказы",
+  "task_per_hour_button_send": "PLZ_TRANSLATE прадставіць",
+  "task_per_hour_button_finish": "PLZ_TRANSLATE выхад заданні",
+  "task_per_hour_button_begin": "PLZ_TRANSLATE Пачатак працы",
+  "task_per_hour_start": "PLZ_TRANSLATE пачатак",
+  "task_per_hour_pause": "PLZ_TRANSLATE паўза",
+  "task_per_hour_edit_time": "PLZ_TRANSLATE змяніць час",
+  "task_per_hour_discard": "PLZ_TRANSLATE дрэнь",
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Вы зрабілі!"
 }

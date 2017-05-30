@@ -1356,5 +1356,17 @@
   "category_name_42": "PLZ_TRANSLATE Prestito",
   "category_name_43": "PLZ_TRANSLATE Conferma",
   "category_name_44": "PLZ_TRANSLATE Ordine",
-  "revert_transaction_button": "PLZ_TRANSLATE Ripristina la transazione"
+  "revert_transaction_button": "PLZ_TRANSLATE Ripristina la transazione",
+  "take_picture": "PLZ_TRANSLATE Fai una foto",
+  "take_new_picture": "PLZ_TRANSLATE Prendi una nuova immagine",
+  "picture_proof": "PLZ_TRANSLATE Prova di prova richiesta!",
+  "picture_proof_desc": "PLZ_TRANSLATE Per essere approvato, è necessario scattare una foto come prova",
+  "task_per_hour_button_send": "PLZ_TRANSLATE Sottoscrivi",
+  "task_per_hour_button_finish": "PLZ_TRANSLATE Uscire dal lavoro",
+  "task_per_hour_button_begin": "PLZ_TRANSLATE Avviare il lavoro",
+  "task_per_hour_start": "PLZ_TRANSLATE Inizio",
+  "task_per_hour_pause": "PLZ_TRANSLATE Pausa",
+  "task_per_hour_edit_time": "PLZ_TRANSLATE Modifica il tempo",
+  "task_per_hour_discard": "PLZ_TRANSLATE Spazzatura",
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Hai finito!"
 }

@@ -1356,5 +1356,17 @@
   "category_name_42": "Loan",
   "category_name_43": "Confirmation",
   "category_name_44": "Order",
-  "revert_transaction_button": "Revert transaction"
+  "revert_transaction_button": "Revert transaction",
+  "take_picture": "Take a picture",
+  "take_new_picture": "Take a new picture",
+  "picture_proof": "Picture proof required!",
+  "picture_proof_desc": "To be approved, you must take a picture as proof",
+  "task_per_hour_button_send": "Submit",
+  "task_per_hour_button_finish": "Exit job",
+  "task_per_hour_button_begin": "Start job",
+  "task_per_hour_start": "Start",
+  "task_per_hour_pause": "Pause",
+  "task_per_hour_edit_time": "Edit time",
+  "task_per_hour_discard": "Trash",
+  "task_per_hour_headline_done": "You're done!"
 }

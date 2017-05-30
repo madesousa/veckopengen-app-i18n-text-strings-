@@ -1356,5 +1356,17 @@
   "category_name_42": "PLZ_TRANSLATE laen",
   "category_name_43": "PLZ_TRANSLATE Kinnitamine",
   "category_name_44": "PLZ_TRANSLATE järjekord",
-  "revert_transaction_button": "PLZ_TRANSLATE Taasta tehingu"
+  "revert_transaction_button": "PLZ_TRANSLATE Taasta tehingu",
+  "take_picture": "PLZ_TRANSLATE Tee pilti",
+  "take_new_picture": "PLZ_TRANSLATE Võtke uue pildi",
+  "picture_proof": "PLZ_TRANSLATE Pilt tõendid!",
+  "picture_proof_desc": "PLZ_TRANSLATE Tunnustuse saamiseks peate pildistada tõendina",
+  "task_per_hour_button_send": "PLZ_TRANSLATE Esita",
+  "task_per_hour_button_finish": "PLZ_TRANSLATE Välja tööd",
+  "task_per_hour_button_begin": "PLZ_TRANSLATE Alustage tööd",
+  "task_per_hour_start": "PLZ_TRANSLATE algus",
+  "task_per_hour_pause": "PLZ_TRANSLATE paus",
+  "task_per_hour_edit_time": "PLZ_TRANSLATE Muuda aeg",
+  "task_per_hour_discard": "PLZ_TRANSLATE prügi",
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Oled valmis!"
 }

@@ -1356,5 +1356,17 @@
   "category_name_42": "PLZ_TRANSLATE Lán",
   "category_name_43": "PLZ_TRANSLATE Staðfesting",
   "category_name_44": "PLZ_TRANSLATE Order",
-  "revert_transaction_button": "PLZ_TRANSLATE Afturkalla viðskipti"
+  "revert_transaction_button": "PLZ_TRANSLATE Afturkalla viðskipti",
+  "take_picture": "PLZ_TRANSLATE Taktu mynd",
+  "take_new_picture": "PLZ_TRANSLATE Taktu nýja mynd",
+  "picture_proof": "PLZ_TRANSLATE Mynd sönnun krafist!",
+  "picture_proof_desc": "PLZ_TRANSLATE Til að samþykkja verður þú að taka mynd sem sönnun",
+  "task_per_hour_button_send": "PLZ_TRANSLATE Senda inn",
+  "task_per_hour_button_finish": "PLZ_TRANSLATE Hætta starf",
+  "task_per_hour_button_begin": "PLZ_TRANSLATE Byrjaðu starf",
+  "task_per_hour_start": "PLZ_TRANSLATE Byrja",
+  "task_per_hour_pause": "PLZ_TRANSLATE Hlé",
+  "task_per_hour_edit_time": "PLZ_TRANSLATE Breyta tíma",
+  "task_per_hour_discard": "PLZ_TRANSLATE Rusl",
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Þú ert búinn!"
 }

@@ -1356,5 +1356,17 @@
   "category_name_42": "PLZ_TRANSLATE Lening",
   "category_name_43": "PLZ_TRANSLATE Bevestiging",
   "category_name_44": "PLZ_TRANSLATE Bestellen",
-  "revert_transaction_button": "PLZ_TRANSLATE Transactie terugzetten"
+  "revert_transaction_button": "PLZ_TRANSLATE Transactie terugzetten",
+  "take_picture": "PLZ_TRANSLATE Neem een ​​foto",
+  "take_new_picture": "PLZ_TRANSLATE Neem een ​​nieuwe foto",
+  "picture_proof": "PLZ_TRANSLATE Beeldbeveiliging vereist!",
+  "picture_proof_desc": "PLZ_TRANSLATE Om te worden goedgekeurd, moet u een foto als bewijs nemen",
+  "task_per_hour_button_send": "PLZ_TRANSLATE voorleggen",
+  "task_per_hour_button_finish": "PLZ_TRANSLATE Exit baan",
+  "task_per_hour_button_begin": "PLZ_TRANSLATE Start werk",
+  "task_per_hour_start": "PLZ_TRANSLATE Begin",
+  "task_per_hour_pause": "PLZ_TRANSLATE Pauze",
+  "task_per_hour_edit_time": "PLZ_TRANSLATE Tijd bewerken",
+  "task_per_hour_discard": "PLZ_TRANSLATE uitschot",
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Je bent klaar!"
 }

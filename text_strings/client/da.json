@@ -1356,5 +1356,17 @@
   "category_name_42": "PLZ_TRANSLATE Lån",
   "category_name_43": "PLZ_TRANSLATE Bekræftelse",
   "category_name_44": "PLZ_TRANSLATE Bestille",
-  "revert_transaction_button": "PLZ_TRANSLATE Tilbagefør transaktionen"
+  "revert_transaction_button": "PLZ_TRANSLATE Tilbagefør transaktionen",
+  "take_picture": "PLZ_TRANSLATE Tag et billede",
+  "take_new_picture": "PLZ_TRANSLATE Tag et nyt billede",
+  "picture_proof": "PLZ_TRANSLATE Billede bevis kræves!",
+  "picture_proof_desc": "PLZ_TRANSLATE For at blive godkendt skal du tage et billede som bevis",
+  "task_per_hour_button_send": "PLZ_TRANSLATE Indsend",
+  "task_per_hour_button_finish": "PLZ_TRANSLATE Afslut job",
+  "task_per_hour_button_begin": "PLZ_TRANSLATE Start job",
+  "task_per_hour_start": "PLZ_TRANSLATE Start",
+  "task_per_hour_pause": "PLZ_TRANSLATE Pause",
+  "task_per_hour_edit_time": "PLZ_TRANSLATE Rediger tid",
+  "task_per_hour_discard": "PLZ_TRANSLATE Affald",
+  "task_per_hour_headline_done": "PLZ_TRANSLATE Du er færdig!"
 }
