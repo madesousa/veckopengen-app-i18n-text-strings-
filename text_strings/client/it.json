@@ -1370,10 +1370,10 @@
   "task_per_hour_discard": "PLZ_TRANSLATE Spazzatura",
   "task_per_hour_headline_done": "PLZ_TRANSLATE Hai finito!",
   "handle_goal": "PLZ_TRANSLATE Gestisci un obiettivo di risparmio",
-  "milestone_box_headline": "Milstolpe %1$d av %2$d",
-  "milestone_box_to_go": "kvar till milstolpen",
-  "milestone_box_percentage_of_goal": "av sparmåplet",
-  "milestone_box_boost": "boost vid milstolpe",
-  "milestone_box_reached": "Uppnådde milstolpen",
-  "milestone_box_edit": "Redigera boost"
+  "milestone_box_headline": "PLZ_TRANSLATE Milestone %1$d del %2$d",
+  "milestone_box_to_go": "PLZ_TRANSLATE Lasciato alla pietra miliare",
+  "milestone_box_percentage_of_goal": "PLZ_TRANSLATE Dell'obiettivo",
+  "milestone_box_boost": "PLZ_TRANSLATE Spinta alla pietra miliare",
+  "milestone_box_reached": "PLZ_TRANSLATE Raggiunto la pietra miliare",
+  "milestone_box_edit": "PLZ_TRANSLATE Edit boost"
 }

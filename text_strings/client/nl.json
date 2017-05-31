@@ -1370,10 +1370,10 @@
   "task_per_hour_discard": "uitschot",
   "task_per_hour_headline_done": "Je bent klaar!",
   "handle_goal": "Beheer spaar doel",
-  "milestone_box_headline": "Milstolpe %1$d av %2$d",
-  "milestone_box_to_go": "kvar till milstolpen",
-  "milestone_box_percentage_of_goal": "av sparmåplet",
-  "milestone_box_boost": "boost vid milstolpe",
-  "milestone_box_reached": "Uppnådde milstolpen",
-  "milestone_box_edit": "Redigera boost"
+  "milestone_box_headline": "PLZ_TRANSLATE Milestone %1$d van %2$d",
+  "milestone_box_to_go": "PLZ_TRANSLATE Links naar de mijlpaal",
+  "milestone_box_percentage_of_goal": "PLZ_TRANSLATE Van het doel",
+  "milestone_box_boost": "PLZ_TRANSLATE Boost op de mijlpaal",
+  "milestone_box_reached": "PLZ_TRANSLATE Bereikte de mijlpaal",
+  "milestone_box_edit": "PLZ_TRANSLATE Bewerken boost"
 }
