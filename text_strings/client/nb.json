@@ -1375,5 +1375,6 @@
   "milestone_box_percentage_of_goal": "PLZ_TRANSLATE Av målet",
   "milestone_box_boost": "PLZ_TRANSLATE Boost på milepælen",
   "milestone_box_reached": "PLZ_TRANSLATE Oppnådde milepælen",
-  "milestone_box_edit": "PLZ_TRANSLATE Rediger boost"
+  "milestone_box_edit": "PLZ_TRANSLATE Rediger boost",
+  "milestone_box_activate": "PLZ_TRANSLATE Aktiver boost"
 }

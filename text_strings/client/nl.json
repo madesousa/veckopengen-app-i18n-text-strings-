@@ -1375,5 +1375,6 @@
   "milestone_box_percentage_of_goal": "PLZ_TRANSLATE Van het doel",
   "milestone_box_boost": "PLZ_TRANSLATE Boost op de mijlpaal",
   "milestone_box_reached": "PLZ_TRANSLATE Bereikte de mijlpaal",
-  "milestone_box_edit": "PLZ_TRANSLATE Bewerken boost"
+  "milestone_box_edit": "PLZ_TRANSLATE Bewerken boost",
+  "milestone_box_activate": "PLZ_TRANSLATE Activeer boost"
 }

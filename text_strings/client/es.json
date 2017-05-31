@@ -1375,5 +1375,6 @@
   "milestone_box_percentage_of_goal": "PLZ_TRANSLATE De la meta",
   "milestone_box_boost": "PLZ_TRANSLATE Aumento en el hito",
   "milestone_box_reached": "PLZ_TRANSLATE Alcanzado el hito",
-  "milestone_box_edit": "PLZ_TRANSLATE Editar impulso"
+  "milestone_box_edit": "PLZ_TRANSLATE Editar impulso",
+  "milestone_box_activate": "PLZ_TRANSLATE Activar impulso"
 }

@@ -1386,5 +1386,6 @@
   "milestone_box_percentage_of_goal": "av sparmåplet",
   "milestone_box_boost": "boost vid milstolpe",
   "milestone_box_reached": "Uppnådde milstolpen",
-  "milestone_box_edit": "Redigera boost"
+  "milestone_box_edit": "Redigera boost",
+  "milestone_box_activate": "Aktivera boost"
 }

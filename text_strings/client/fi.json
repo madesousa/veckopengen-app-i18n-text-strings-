@@ -1375,5 +1375,6 @@
   "milestone_box_percentage_of_goal": "PLZ_TRANSLATE maalin",
   "milestone_box_boost": "PLZ_TRANSLATE Boost on virstanpylväs",
   "milestone_box_reached": "PLZ_TRANSLATE Saavutettu virstanpylväs",
-  "milestone_box_edit": "PLZ_TRANSLATE edit boost"
+  "milestone_box_edit": "PLZ_TRANSLATE edit boost",
+  "milestone_box_activate": "PLZ_TRANSLATE Aktivoi boost"
 }

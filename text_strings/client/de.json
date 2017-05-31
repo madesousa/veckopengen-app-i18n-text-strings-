@@ -1375,5 +1375,6 @@
   "milestone_box_percentage_of_goal": "PLZ_TRANSLATE Des Ziels",
   "milestone_box_boost": "PLZ_TRANSLATE Steigst den Meilenstein",
   "milestone_box_reached": "PLZ_TRANSLATE Erreicht den Meilenstein",
-  "milestone_box_edit": "PLZ_TRANSLATE Beenden Sie den Boost"
+  "milestone_box_edit": "PLZ_TRANSLATE Beenden Sie den Boost",
+  "milestone_box_activate": "PLZ_TRANSLATE Aktivieren Sie den Boost"
 }

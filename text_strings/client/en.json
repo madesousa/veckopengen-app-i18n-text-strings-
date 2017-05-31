@@ -1375,5 +1375,6 @@
   "milestone_box_percentage_of_goal": "of the goal",
   "milestone_box_boost": "Boost at the milestone",
   "milestone_box_reached": "Reached the milestone",
-  "milestone_box_edit": "Edit boost"
+  "milestone_box_edit": "Edit boost",
+  "milestone_box_activate": "Activate boost"
 }
