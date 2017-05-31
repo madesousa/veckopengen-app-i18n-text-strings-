@@ -162,7 +162,7 @@ export let stringLenghtStatistic = (firstLang: Object, secondLang: Object, first
   })
   return {data: longTextSlackData, status: veryLongText}
 }
-export let stringTranslationTags = (lang: Object, languageCode: string):Object => {
+export let stringTranslationTags = (lang: Object, languageCode: string, textStringsType: string):Object => {
   var keys = Object.keys(lang)
   var numberPlzCheck = 0
   var numberPlzTransalte = 0
@@ -176,5 +176,6 @@ export let stringTranslationTags = (lang: Object, languageCode: string):Object =
     }
   })
   if (completeNumber / 2 <= numberPlzTransalte) moreThanHalfNotTranslated = true
+  if (textStringsType) return {status: moreThanHalfNotTranslated, plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode, path: textStringsType}
   return {status: moreThanHalfNotTranslated, plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode}
 }
