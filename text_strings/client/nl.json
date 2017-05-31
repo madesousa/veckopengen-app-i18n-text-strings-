@@ -1375,6 +1375,5 @@
   "milestone_box_percentage_of_goal": "av sparmåplet",
   "milestone_box_boost": "boost vid milstolpe",
   "milestone_box_reached": "Uppnådde milstolpen",
-  "milestone_box_reached_date": "PLZ_TRANSLATE %1$d (%2$d dagen geleden)",
   "milestone_box_edit": "Redigera boost"
 }
