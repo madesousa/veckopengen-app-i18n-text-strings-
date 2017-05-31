@@ -1369,5 +1369,12 @@
   "task_per_hour_edit_time": "Edit time",
   "task_per_hour_discard": "Trash",
   "task_per_hour_headline_done": "You're done!",
-  "handle_goal": "Manage savings goal"
+  "handle_goal": "Manage savings goal",
+  "milestone_box_headline": "Milestone %1$d of %2$d",
+  "milestone_box_to_go": "left to the milestone",
+  "milestone_box_percentage_of_goal": "of the goal",
+  "milestone_box_boost": "Boost at the milestone",
+  "milestone_box_reached": "Reached the milestone",
+  "milestone_box_reached_date": "%1$d (%2$d days ago)",
+  "milestone_box_edit": "Edit boost"
 }

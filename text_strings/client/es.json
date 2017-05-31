@@ -1369,5 +1369,12 @@
   "task_per_hour_edit_time": "PLZ_TRANSLATE Editar tiempo",
   "task_per_hour_discard": "PLZ_TRANSLATE Basura",
   "task_per_hour_headline_done": "PLZ_TRANSLATE ¡Ya terminaste!",
-  "handle_goal": "PLZ_TRANSLATE Administrar objetivo de ahorro"
+  "handle_goal": "PLZ_TRANSLATE Administrar objetivo de ahorro",
+  "milestone_box_headline": "Milstolpe %1$d av %2$d",
+  "milestone_box_to_go": "kvar till milstolpen",
+  "milestone_box_percentage_of_goal": "av sparmåplet",
+  "milestone_box_boost": "boost vid milstolpe",
+  "milestone_box_reached": "Uppnådde milstolpen",
+  "milestone_box_reached_date": "PLZ_TRANSLATE (Hace %2$d días) %1$d",
+  "milestone_box_edit": "Redigera boost"
 }

@@ -1380,5 +1380,12 @@
   "task_per_hour_edit_time": "Redigera tid",
   "task_per_hour_discard": "Släng",
   "task_per_hour_headline_done": "Du är klar!",
-  "handle_goal": "Hantera sparmål"
+  "handle_goal": "Hantera sparmål",
+  "milestone_box_headline": "Milstolpe %1$d av %2$d",
+  "milestone_box_to_go": "kvar till milstolpen",
+  "milestone_box_percentage_of_goal": "av sparmåplet",
+  "milestone_box_boost": "boost vid milstolpe",
+  "milestone_box_reached": "Uppnådde milstolpen",
+  "milestone_box_reached_date": "%1$d (%2$d dagar sedan)",
+  "milestone_box_edit": "Redigera boost"
 }
