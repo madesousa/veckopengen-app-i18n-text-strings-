@@ -6,12 +6,6 @@ var Slack = require('node-slack')
 
 jest.disableAutomock()
 
-var displayStructureObject:Object = {
-  lang: 'string',
-  count: 0,
-  link: 'string',
-  file: ''
-}
 describe('TextStrings', () => {
   xit('it should export in slack the length of text_strings', () => {
     var stringLengthData
