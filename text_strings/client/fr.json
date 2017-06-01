@@ -1376,5 +1376,6 @@
   "milestone_box_boost": "PLZ_TRANSLATE Accélérer le jalon",
   "milestone_box_reached": "PLZ_TRANSLATE A atteint le jalon",
   "milestone_box_edit": "PLZ_TRANSLATE Changement d'édition",
-  "milestone_box_activate": "PLZ_TRANSLATE Activer le boost"
+  "milestone_box_activate": "PLZ_TRANSLATE Activer le boost",
+  "hours_and_minutes": "PLZ_TRANSLATE %1$d heures et %2$d minutes"
 }

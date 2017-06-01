@@ -1376,5 +1376,6 @@
   "milestone_box_boost": "PLZ_TRANSLATE Boost on virstanpylväs",
   "milestone_box_reached": "PLZ_TRANSLATE Saavutettu virstanpylväs",
   "milestone_box_edit": "PLZ_TRANSLATE edit boost",
-  "milestone_box_activate": "PLZ_TRANSLATE Aktivoi boost"
+  "milestone_box_activate": "PLZ_TRANSLATE Aktivoi boost",
+  "hours_and_minutes": "PLZ_TRANSLATE %1$d tuntia ja %2$d minuuttia"
 }

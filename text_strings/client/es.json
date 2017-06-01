@@ -1376,5 +1376,6 @@
   "milestone_box_boost": "PLZ_TRANSLATE Aumento en el hito",
   "milestone_box_reached": "PLZ_TRANSLATE Alcanzado el hito",
   "milestone_box_edit": "PLZ_TRANSLATE Editar impulso",
-  "milestone_box_activate": "PLZ_TRANSLATE Activar impulso"
+  "milestone_box_activate": "PLZ_TRANSLATE Activar impulso",
+  "hours_and_minutes": "PLZ_TRANSLATE %1$d horas y %2$d minutos"
 }

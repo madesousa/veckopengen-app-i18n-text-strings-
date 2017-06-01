@@ -1376,5 +1376,6 @@
   "milestone_box_boost": "PLZ_TRANSLATE Spinta alla pietra miliare",
   "milestone_box_reached": "PLZ_TRANSLATE Raggiunto la pietra miliare",
   "milestone_box_edit": "PLZ_TRANSLATE Edit boost",
-  "milestone_box_activate": "PLZ_TRANSLATE Attiva lo spinta"
+  "milestone_box_activate": "PLZ_TRANSLATE Attiva lo spinta",
+  "hours_and_minutes": "PLZ_TRANSLATE %1$d ore e %2$d minuti"
 }

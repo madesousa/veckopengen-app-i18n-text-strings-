@@ -1376,5 +1376,6 @@
   "milestone_box_boost": "PLZ_TRANSLATE Steigst den Meilenstein",
   "milestone_box_reached": "PLZ_TRANSLATE Erreicht den Meilenstein",
   "milestone_box_edit": "PLZ_TRANSLATE Beenden Sie den Boost",
-  "milestone_box_activate": "PLZ_TRANSLATE Aktivieren Sie den Boost"
+  "milestone_box_activate": "PLZ_TRANSLATE Aktivieren Sie den Boost",
+  "hours_and_minutes": "PLZ_TRANSLATE %1$d Stunden und %2$d Minuten"
 }

@@ -1376,5 +1376,6 @@
   "milestone_box_boost": "PLZ_TRANSLATE Boost on teetähis",
   "milestone_box_reached": "PLZ_TRANSLATE Jõudnud verstapostiks",
   "milestone_box_edit": "PLZ_TRANSLATE Edit tõuke",
-  "milestone_box_activate": "PLZ_TRANSLATE Aktiveeri tõuke"
+  "milestone_box_activate": "PLZ_TRANSLATE Aktiveeri tõuke",
+  "hours_and_minutes": "PLZ_TRANSLATE %1$d tundi ja %2$d minutit"
 }
