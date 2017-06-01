@@ -1,6 +1,5 @@
-
-import {getTextStrings, languageCodes} from '../index'
-import {stringLenghtStatistic, stringTranslationTags} from '../TestUtil'
+import { getTextStrings, languageCodes } from '../index'
+import { stringLenghtStatistic, stringTranslationTags } from '../TestUtil'
 
 var Slack = require('node-slack')
 
@@ -12,13 +11,15 @@ describe('TextStrings', () => {
 
     languageCodes.forEach(languageCode => {
       stringLengthData = stringLenghtStatistic(getTextStrings('en'), getTextStrings(languageCode), 'en', languageCode)
-      var attachmentPayload = [{
-        'fallback': 'String lenght data',
-        'text': 'Link to git "' + languageCode + '"  <https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/client/' + languageCode + '.json|Click here>',
-        'color': stringLengthData.status ? 'warning' : '#36a64f', // Can either be one of 'good', 'warning', 'danger', or any hex color code
-        // Fields are displayed in a table on the message
-        'fields': stringLengthData.data
-      }]
+      var attachmentPayload = [
+        {
+          fallback: 'String lenght data',
+          text: 'Link to git "' + languageCode + '"  <https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/client/' + languageCode + '.json|Click here>',
+          color: stringLengthData.status ? 'warning' : '#36a64f', // Can either be one of 'good', 'warning', 'danger', or any hex color code
+          // Fields are displayed in a table on the message
+          fields: stringLengthData.data
+        }
+      ]
       // https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/client/be.json
       if (stringLengthData.data.length > 1) SendToSlackStats(attachmentPayload, languageCode)
     })
@@ -29,41 +30,86 @@ describe('TextStrings', () => {
     var jsonDataCheck = []
     var jsonDataTranslate = []
 
-    languageCodes.forEach(languageCode => {
-      stringTagData.push(stringTranslationTags(getTextStrings(languageCode), languageCode))
-    })
-    var textStringsTypes = ['server', 'templates']
+    var textStringsTypes = ['server', 'templates', 'client']
 
     var textStrings = {}
-    textStringsTypes.forEach(textStringsType => { textStrings[textStringsType] = {} })
     textStringsTypes.forEach(textStringsType => {
-      languageCodes.forEach(lang => { textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`) })
+      textStrings[textStringsType] = {}
     })
     textStringsTypes.forEach(textStringsType => {
       languageCodes.forEach(lang => {
-        languageCodes.forEach(languageCode => {
-          stringTagData.push(stringTranslationTags(getTextStrings(languageCode), languageCode, textStringsType))
-        })
+        textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
       })
     })
+    // server and templates string data
+    textStringsTypes.forEach(textStringsType => {
+      languageCodes.forEach(languageCode => {
+        stringTagData.push(stringTranslationTags(textStrings[textStringsType][languageCode], languageCode, textStringsType))
+      })
+    })
+
+    // get plz Check
     stringTagData.forEach(data => {
+      var path = data.path ? data.path : 'client'
+      var isAdded = false
       if (data.plzCheck > 0) {
-        var path = data.path ? data.path : 'client'
-        jsonDataCheck.push({lang: data.lang, path: path, count: data.plzCheck, link: '<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click here>'})
+        for (var i = 0; i < jsonDataCheck.length; i++) {
+          if (jsonDataCheck[i].lang === data.lang) {
+            jsonDataCheck[i].path.push(path)
+            jsonDataCheck[i].count.push(data.plzCheck)
+            jsonDataCheck[i].link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+            isAdded = true
+          }
+        }
+        if (!isAdded) {
+          var displayObject: Object = {
+            lang: '',
+            path: [],
+            count: [],
+            link: []
+          }
+          displayObject.lang = data.lang
+          displayObject.path.push(path)
+          displayObject.count.push(data.plzCheck)
+          displayObject.link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+          jsonDataCheck.push(displayObject)
+        }
       }
     })
+    // get plzTransalte
     stringTagData.forEach(data => {
+      var path = data.path ? data.path : 'client'
+      var isAdded = false
       if (data.plzTrans > 0) {
-        var path = data.path ? data.path : 'client'
-        jsonDataTranslate.push({lang: data.lang, path: path, count: data.plzTrans, link: '<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click here>'})
+        for (var i = 0; i < jsonDataTranslate.length; i++) {
+          if (jsonDataTranslate[i].lang === data.lang) {
+            jsonDataTranslate[i].path.push(path)
+            jsonDataTranslate[i].count.push(data.plzTrans)
+            jsonDataTranslate[i].link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+            isAdded = true
+          }
+        }
+        if (!isAdded) {
+          var displayObject: Object = {
+            lang: '',
+            path: [],
+            count: [],
+            link: []
+          }
+          displayObject.lang = data.lang
+          displayObject.path.push(path)
+          displayObject.count.push(data.plzTrans)
+          displayObject.link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+          jsonDataTranslate.push(displayObject)
+        }
       }
     })
+
     var attachmentPayload = {
       typeCheck: 'PLZ_CHECK',
       langFilesContCheck: jsonDataCheck,
       typeTrans: 'PLZ_TRANSLATE',
       langFilesContTranslate: jsonDataTranslate
-
     }
     SendToSlackTagStats(attachmentPayload)
   })

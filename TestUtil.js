@@ -1,6 +1,6 @@
 // @flow
 import IgnoredTextStrings from './IgnoredTextStrings.json'
-import {supportedLanguageCodes} from './index.js'
+import { supportedLanguageCodes } from './index.js'
 import defaultTextStrings from './text_strings/client/default.json'
 
 export let birgittaTemplate = 'PLZ_CHECK'
@@ -101,7 +101,7 @@ export let checkBirgittaInconsistencies = (firstLang: Object, secondLang: Object
   return errorMessages
 }
 
-export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string):Array<Object> => {
+export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string): Array<Object> => {
   var keys = Object.keys(firstLang)
 
   var longTextWarning = []
@@ -114,13 +114,15 @@ export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLang
       if (Math.abs(differencePerc) >= 0.20) {
         var actIncr = Math.abs(differencePerc)
         longTextWarning.push(`Lang: ${firstLangName}, Key: ${key} is 20% longer than: ${secondLangName} -> ${actIncr}`)
-        longTextSlackData.push({lang: firstLangName, title: key, secLang: secondLangName, value: differencePerc, short: true})
+        longTextSlackData.push({ lang: firstLangName, title: key, secLang: secondLangName, value: differencePerc, short: true })
       }
     }
     return true
   })
   // eslint-disable-next-line
-  if (longTextWarning.length >0) {console.warn(longTextWarning)}
+  if (longTextWarning.length > 0) {
+    console.warn(longTextWarning)
+  }
   return longTextSlackData
 }
 
@@ -137,10 +139,10 @@ export let countTranslationTemplates = (lang: Object, langName: string): Object 
       countUsesCheck.push(`Lang: ${langName}, Key: ${key}`)
     }
   })
-  return {lang: langName, countTranslate: countUsesTranslate.length, countCheck: countUsesCheck.length}
+  return { lang: langName, countTranslate: countUsesTranslate.length, countCheck: countUsesCheck.length }
 }
 
-export let stringLenghtStatistic = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string):Object => {
+export let stringLenghtStatistic = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string): Object => {
   var keys = Object.keys(firstLang)
 
   var longTextWarning = []
@@ -156,26 +158,23 @@ export let stringLenghtStatistic = (firstLang: Object, secondLang: Object, first
         differencePerc = differencePerc * 100
         var actIncr = Math.abs(differencePerc) + '%'
         longTextWarning.push(`Lang: ${firstLangName}, Key: ${key} is 20% longer than: ${secondLangName} -> ${actIncr}`)
-        longTextSlackData.push({title: key, value: actIncr, short: true})
+        longTextSlackData.push({ title: key, value: actIncr, short: true })
       }
     }
   })
-  return {data: longTextSlackData, status: veryLongText}
+  return { data: longTextSlackData, status: veryLongText }
 }
-export let stringTranslationTags = (lang: Object, languageCode: string, textStringsType: string):Object => {
+
+export let stringTranslationTags = (lang: Object, languageCode: string, textStringsType: string): Object => {
+
   var keys = Object.keys(lang)
   var numberPlzCheck = 0
   var numberPlzTransalte = 0
-  var completeNumber = 0
-  var moreThanHalfNotTranslated = false
   keys.forEach(key => {
     if (languageCode) {
-      completeNumber++
       if (lang[key].includes(birgittaTemplate)) numberPlzCheck++
       if (lang[key].includes(plzTranslateTemplate)) numberPlzTransalte++
     }
   })
-  if (completeNumber / 2 <= numberPlzTransalte) moreThanHalfNotTranslated = true
-  if (textStringsType) return {status: moreThanHalfNotTranslated, plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode, path: textStringsType}
-  return {status: moreThanHalfNotTranslated, plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode}
+  return { plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode, path: textStringsType }
 }
