@@ -1378,5 +1378,6 @@
   "milestone_box_edit": "PLZ_TRANSLATE Bewerken boost",
   "milestone_box_activate": "PLZ_TRANSLATE Activeer boost",
   "hours_and_minutes": "PLZ_TRANSLATE %1$d uur en %2$d minuten",
-  "deactivate": "PLZ_TRANSLATE deactiveren"
+  "deactivate": "PLZ_TRANSLATE deactiveren",
+  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d voltooid %2$d"
 }

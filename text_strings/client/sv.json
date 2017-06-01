@@ -1389,5 +1389,6 @@
   "milestone_box_edit": "Redigera boost",
   "milestone_box_activate": "Aktivera boost",
   "hours_and_minutes": "%1$d timmar och %2$d minuter",
-  "deactivate": "avaktivera"
+  "deactivate": "avaktivera",
+  "approve_task_popover_desc": "%1$d utförde %2$d"
 }

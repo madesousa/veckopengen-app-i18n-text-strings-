@@ -1378,5 +1378,6 @@
   "milestone_box_edit": "PLZ_TRANSLATE Edit boost",
   "milestone_box_activate": "PLZ_TRANSLATE Attiva lo spinta",
   "hours_and_minutes": "PLZ_TRANSLATE %1$d ore e %2$d minuti",
-  "deactivate": "PLZ_TRANSLATE disattivare"
+  "deactivate": "PLZ_TRANSLATE disattivare",
+  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d completato %2$d"
 }
