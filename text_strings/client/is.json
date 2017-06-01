@@ -1377,5 +1377,6 @@
   "milestone_box_reached": "PLZ_TRANSLATE Náð áfangastaðnum",
   "milestone_box_edit": "PLZ_TRANSLATE Breyta uppörvun",
   "milestone_box_activate": "PLZ_TRANSLATE Virkja uppörvun",
-  "hours_and_minutes": "PLZ_TRANSLATE %1$d klukkustundir og %2$d mínútur"
+  "hours_and_minutes": "PLZ_TRANSLATE %1$d klukkustundir og %2$d mínútur",
+  "deactivate": "PLZ_TRANSLATE Slökkva á"
 }

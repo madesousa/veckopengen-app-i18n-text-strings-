@@ -1377,5 +1377,6 @@
   "milestone_box_reached": "PLZ_TRANSLATE Oppnådde milepælen",
   "milestone_box_edit": "PLZ_TRANSLATE Rediger boost",
   "milestone_box_activate": "PLZ_TRANSLATE Aktiver boost",
-  "hours_and_minutes": "PLZ_TRANSLATE %1$d timer og %2$d minutter"
+  "hours_and_minutes": "PLZ_TRANSLATE %1$d timer og %2$d minutter",
+  "deactivate": "PLZ_TRANSLATE deaktivere"
 }

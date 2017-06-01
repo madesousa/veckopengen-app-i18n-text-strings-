@@ -1388,5 +1388,6 @@
   "milestone_box_reached": "Uppnådde milstolpen",
   "milestone_box_edit": "Redigera boost",
   "milestone_box_activate": "Aktivera boost",
-  "hours_and_minutes": "%1$d timmar och %2$d minuter"
+  "hours_and_minutes": "%1$d timmar och %2$d minuter",
+  "deactivate": "avaktivera"
 }

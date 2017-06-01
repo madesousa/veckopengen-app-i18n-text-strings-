@@ -1377,5 +1377,6 @@
   "milestone_box_reached": "PLZ_TRANSLATE дасягнуты рубеж",
   "milestone_box_edit": "PLZ_TRANSLATE рэдагаваць падштурхоўвання",
   "milestone_box_activate": "PLZ_TRANSLATE актываваць імпульс",
-  "hours_and_minutes": "PLZ_TRANSLATE %1$d %2$d гадзін і хвілін"
+  "hours_and_minutes": "PLZ_TRANSLATE %1$d %2$d гадзін і хвілін",
+  "deactivate": "PLZ_TRANSLATE дэзактываваць"
 }
