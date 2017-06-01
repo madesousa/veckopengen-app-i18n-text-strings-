@@ -1379,5 +1379,7 @@
   "milestone_box_activate": "PLZ_TRANSLATE Activar impulso",
   "hours_and_minutes": "PLZ_TRANSLATE %1$d horas y %2$d minutos",
   "deactivate": "PLZ_TRANSLATE desactivar",
-  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d terminado %2$d"
+  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d terminado %2$d",
+  "reward_collected": "Belöning inkasserad",
+  "task_approved_desc": "PLZ_TRANSLATE %1$d fue aprobado y usted ha recogido %2$d en la alcancía!"
 }

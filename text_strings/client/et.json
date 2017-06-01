@@ -1379,5 +1379,7 @@
   "milestone_box_activate": "PLZ_TRANSLATE Aktiveeri tõuke",
   "hours_and_minutes": "PLZ_TRANSLATE %1$d tundi ja %2$d minutit",
   "deactivate": "PLZ_TRANSLATE deaktiveerima",
-  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d lõppenud %2$d"
+  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d lõppenud %2$d",
+  "reward_collected": "Belöning inkasserad",
+  "task_approved_desc": "PLZ_TRANSLATE %1$d kiideti heaks ja olete kogunud %2$d sisse notsu panga!"
 }

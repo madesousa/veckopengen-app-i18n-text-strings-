@@ -1379,5 +1379,7 @@
   "milestone_box_activate": "PLZ_TRANSLATE Virkja uppörvun",
   "hours_and_minutes": "PLZ_TRANSLATE %1$d klukkustundir og %2$d mínútur",
   "deactivate": "PLZ_TRANSLATE Slökkva á",
-  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d lauk %2$d"
+  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d lauk %2$d",
+  "reward_collected": "Belöning inkasserad",
+  "task_approved_desc": "PLZ_TRANSLATE %1$d var samþykkt og þú hefur safnað %2$d í grís bankanum!"
 }

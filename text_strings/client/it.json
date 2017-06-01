@@ -1379,5 +1379,7 @@
   "milestone_box_activate": "PLZ_TRANSLATE Attiva lo spinta",
   "hours_and_minutes": "PLZ_TRANSLATE %1$d ore e %2$d minuti",
   "deactivate": "PLZ_TRANSLATE disattivare",
-  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d completato %2$d"
+  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d completato %2$d",
+  "reward_collected": "Belöning inkasserad",
+  "task_approved_desc": "PLZ_TRANSLATE %1$d è stato approvato e hai raccolto %2$d nella banca salvadana!"
 }

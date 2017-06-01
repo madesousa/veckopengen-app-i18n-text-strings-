@@ -1379,5 +1379,7 @@
   "milestone_box_activate": "PLZ_TRANSLATE Aktivoi boost",
   "hours_and_minutes": "PLZ_TRANSLATE %1$d tuntia ja %2$d minuuttia",
   "deactivate": "PLZ_TRANSLATE deaktivoida",
-  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d päättynyt %2$d"
+  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d päättynyt %2$d",
+  "reward_collected": "Belöning inkasserad",
+  "task_approved_desc": "PLZ_TRANSLATE %1$d hyväksyttiin ja olet kerännyt %2$d vuonna säästöpossu!"
 }

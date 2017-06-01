@@ -1379,5 +1379,7 @@
   "milestone_box_activate": "PLZ_TRANSLATE Activer le boost",
   "hours_and_minutes": "PLZ_TRANSLATE %1$d heures et %2$d minutes",
   "deactivate": "PLZ_TRANSLATE désactiver",
-  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d terminé %2$d"
+  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d terminé %2$d",
+  "reward_collected": "Belöning inkasserad",
+  "task_approved_desc": "PLZ_TRANSLATE %1$d a été approuvé et vous avez récolté %2$d dans la tireloue!"
 }

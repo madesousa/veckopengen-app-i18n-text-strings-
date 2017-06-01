@@ -1379,5 +1379,7 @@
   "milestone_box_activate": "Activate boost",
   "hours_and_minutes": "%1$d hours and %2$d minutes",
   "deactivate": "deactivate",
-  "approve_task_popover_desc": "%1$d finished %2$d"
+  "approve_task_popover_desc": "%1$d finished %2$d",
+  "reward_collected": "Belöning inkasserad",
+  "task_approved_desc": "%1$d was approved and you have collected %2$d in the piggy bank!"
 }

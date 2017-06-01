@@ -1390,5 +1390,7 @@
   "milestone_box_activate": "Aktivera boost",
   "hours_and_minutes": "%1$d timmar och %2$d minuter",
   "deactivate": "avaktivera",
-  "approve_task_popover_desc": "%1$d utförde %2$d"
+  "approve_task_popover_desc": "%1$d utförde %2$d",
+  "reward_collected": "Belöning inkasserad",
+  "task_approved_desc": "%1$d godkändes och du har inkasserat %2$d till spargrisen!"
 }

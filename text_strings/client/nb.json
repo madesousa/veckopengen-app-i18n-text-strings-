@@ -1379,5 +1379,7 @@
   "milestone_box_activate": "PLZ_TRANSLATE Aktiver boost",
   "hours_and_minutes": "PLZ_TRANSLATE %1$d timer og %2$d minutter",
   "deactivate": "PLZ_TRANSLATE deaktivere",
-  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d ferdig %2$d"
+  "approve_task_popover_desc": "PLZ_TRANSLATE %1$d ferdig %2$d",
+  "reward_collected": "Belöning inkasserad",
+  "task_approved_desc": "PLZ_TRANSLATE %1$d ble godkjent og du har samlet %2$d i spargrisen!"
 }
