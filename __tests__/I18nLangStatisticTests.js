@@ -111,7 +111,15 @@ describe('TextStrings', () => {
       typeTrans: 'PLZ_TRANSLATE',
       langFilesContTranslate: jsonDataTranslate
     }
-    SendToSlackTagStats(attachmentPayload)
+
+    var text = `PLZ_CHECK
+${jsonDataCheck.map((i) => JSON.stringify(i)).join('\n')}
+PLZ_TRANSLATE
+${jsonDataTranslate.map((i) => JSON.stringify(i)).join('\n')}`
+//eslint-disable-next-line
+
+    text = text.replace(/['"]+/g, '')
+    SendToSlackTagStats(text)
   })
 })
 
@@ -127,10 +135,10 @@ export let SendToSlackStats = (attachmentPayload: Array<Object>, languageCode: s
     link_names: 1
   })
 }
-export let SendToSlackTagStats = (attachmentPayload: Array<Object>, languageCode: string) => {
+export let SendToSlackTagStats = (text: Array<Object>, languageCode: string) => {
   var slack = new Slack('https://hooks.slack.com/services/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')
   slack.send({
-    text: 'i18n Client Language files ' + JSON.stringify(attachmentPayload, undefined, 2),
+    text,
     channel: '#i18n_translation_tags',
     username: 'I18nLangStatistics',
     icon_emoji: ':ramen:',
