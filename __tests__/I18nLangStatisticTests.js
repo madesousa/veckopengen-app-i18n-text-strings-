@@ -105,13 +105,6 @@ describe('TextStrings', () => {
       }
     })
 
-    var attachmentPayload = {
-      typeCheck: 'PLZ_CHECK',
-      langFilesContCheck: jsonDataCheck,
-      typeTrans: 'PLZ_TRANSLATE',
-      langFilesContTranslate: jsonDataTranslate
-    }
-
     var text = `PLZ_CHECK
 ${jsonDataCheck.map((i) => JSON.stringify(i)).join('\n')}
 PLZ_TRANSLATE

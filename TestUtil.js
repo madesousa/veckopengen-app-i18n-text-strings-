@@ -119,8 +119,9 @@ export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLang
     }
     return true
   })
-  // eslint-disable-next-line
+
   if (longTextWarning.length > 0) {
+    // eslint-disable-next-line
     console.warn(longTextWarning)
   }
   return longTextSlackData
@@ -166,7 +167,6 @@ export let stringLenghtStatistic = (firstLang: Object, secondLang: Object, first
 }
 
 export let stringTranslationTags = (lang: Object, languageCode: string, textStringsType: string): Object => {
-
   var keys = Object.keys(lang)
   var numberPlzCheck = 0
   var numberPlzTransalte = 0
