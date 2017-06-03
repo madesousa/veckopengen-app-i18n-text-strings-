@@ -131,8 +131,8 @@
   "push_new_weekly_tasks_4": "Salut! Vous avez des nouvelles tâches!",
   "push_goal_activated": "{goal.updated_by.name} a créé un objectif d'épargne {goal.title}.",
   "push_goal_sponsored": "{goal.updated_by.name} a parrainé un objectif d'épargne {goal.title}!",
-  "push_goal_boost_decreased": "PLZ_TRANSLATE Vous avez perdu un coup de fouet sur votre carte des objectifs d'épargne!",
-  "push_goal_boosts_decreased": "PLZ_TRANSLATE Vous avez perdu des gains sur votre carte des objectifs d'épargne!",
-  "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Perdu un coup de fouet sur la carte des objectifs d'épargne.",
-  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Les gains perdus sur la carte des objectifs d'épargne."
+  "push_goal_boost_decreased": "Vous avez perdu un gain dans votre carte des objectifs d'épargne!",
+  "push_goal_boosts_decreased": "Vous avez perdu des gains sur votre carte des objectifs d'épargne!",
+  "dashboard_goal_boost_decreased": "A Perdu un gain sur la carte des objectifs d'épargne.",
+  "dashboard_goal_boosts_decreased": "Les gains perdus sur la carte des objectifs d'épargne."
 }
