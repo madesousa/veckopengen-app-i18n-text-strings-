@@ -1371,6 +1371,7 @@
   "task_per_hour_headline_done": "Vous avez terminé!",
   "handle_goal": "Gérer l'objectif d'épargne",
   "milestone_box_headline": "Jalon %1$d sur %2$d",
+  "milestone_box_to_go": "PLZ_TRANSLATE Laissé à l'étape",
   "milestone_box_percentage_of_goal": "de l'objectif",
   "milestone_box_boost": "Accélérer le jalon",
   "milestone_box_reached": "A atteint le jalon",

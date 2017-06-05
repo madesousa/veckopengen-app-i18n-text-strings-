@@ -1371,7 +1371,7 @@
   "task_per_hour_headline_done": "Du er færdig!",
   "handle_goal": "Administrer opsparingsmål",
   "milestone_box_headline": "Milepæl %1$d af %2$d",
-  "milestone_box_to_go": "Tilbage til milepælen",
+  "milestone_box_to_go": "PLZ_TRANSLATE Tilbage til milepælen",
   "milestone_box_percentage_of_goal": "Af målet",
   "milestone_box_boost": "Boost på milepælen",
   "milestone_box_reached": "Nåede milepælen",
