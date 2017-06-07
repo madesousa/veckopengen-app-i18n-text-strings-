@@ -1381,5 +1381,9 @@
   "deactivate": "PLZ_TRANSLATE disattivare",
   "approve_task_popover_desc": "PLZ_TRANSLATE %1$d completato %2$d",
   "reward_collected": "Belöning inkasserad",
-  "task_approved_desc": "PLZ_TRANSLATE %1$d è stato approvato e hai raccolto %2$d nella banca salvadana!"
+  "task_approved_desc": "PLZ_TRANSLATE %1$d è stato approvato e hai raccolto %2$d nella banca salvadana!",
+  "edit_boost_title": "PLZ_TRANSLATE Frusta o carota?",
+  "edit_boost_subtitle": "PLZ_TRANSLATE Aiuta %1$d incrementando le pietre miliari. Tuttavia, non è solo l'alleluia, un rimborso compiuto verrà rimborsato se %1$d scende al di sotto di una pietra miliare",
+  "edit_boost_input_title": "PLZ_TRANSLATE Spinta a pietre miliari",
+  "edit_boost_description": "PLZ_TRANSLATE %1$d viene aggiunto quando %2$d passa a una delle 9 tappe."
 }

@@ -1381,5 +1381,9 @@
   "deactivate": "Deaktivere",
   "approve_task_popover_desc": "%1$d færdig %2$d",
   "reward_collected": "Belønning modtaget",
-  "task_approved_desc": "%1$d blev godkendt, og du har opsparet %2$d i spargrisen!"
+  "task_approved_desc": "%1$d blev godkendt, og du har opsparet %2$d i spargrisen!",
+  "edit_boost_title": "PLZ_TRANSLATE Pisk eller gulerod?",
+  "edit_boost_subtitle": "PLZ_TRANSLATE Hjælp %1$d ved at øge på milepæle. Men det er ikke bare hallelujah, et gennemført boost vil blive refunderet, hvis %1$d kommer under en milepæl igen",
+  "edit_boost_input_title": "PLZ_TRANSLATE Boost på milepæle",
+  "edit_boost_description": "PLZ_TRANSLATE %1$d tilføjes, når %2$d passerer nogen af ​​de 9 milepæle."
 }

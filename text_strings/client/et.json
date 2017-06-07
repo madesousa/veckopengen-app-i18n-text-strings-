@@ -1381,5 +1381,9 @@
   "deactivate": "PLZ_TRANSLATE deaktiveerima",
   "approve_task_popover_desc": "PLZ_TRANSLATE %1$d lõppenud %2$d",
   "reward_collected": "Belöning inkasserad",
-  "task_approved_desc": "PLZ_TRANSLATE %1$d kiideti heaks ja olete kogunud %2$d sisse notsu panga!"
+  "task_approved_desc": "PLZ_TRANSLATE %1$d kiideti heaks ja olete kogunud %2$d sisse notsu panga!",
+  "edit_boost_title": "PLZ_TRANSLATE Whip või porgand?",
+  "edit_boost_subtitle": "PLZ_TRANSLATE Abi %1$d tõstes kell verstapostid. Kuid see ei ole ainult halleluuja saavutatud hoogu tagastatakse, kui %1$d langeb alla verstapost uuesti",
+  "edit_boost_input_title": "PLZ_TRANSLATE Boost on verstapostid",
+  "edit_boost_description": "PLZ_TRANSLATE %1$d lisatakse kui %2$d läbib mistahes 9 vahe."
 }

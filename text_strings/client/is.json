@@ -1381,5 +1381,9 @@
   "deactivate": "PLZ_TRANSLATE Slökkva á",
   "approve_task_popover_desc": "PLZ_TRANSLATE %1$d lauk %2$d",
   "reward_collected": "Belöning inkasserad",
-  "task_approved_desc": "PLZ_TRANSLATE %1$d var samþykkt og þú hefur safnað %2$d í grís bankanum!"
+  "task_approved_desc": "PLZ_TRANSLATE %1$d var samþykkt og þú hefur safnað %2$d í grís bankanum!",
+  "edit_boost_title": "PLZ_TRANSLATE Hvíta eða gulrót?",
+  "edit_boost_subtitle": "PLZ_TRANSLATE Hjálp %1$d með því að auka á áfangastaði. Hins vegar er það ekki bara hallelujah, fullgerð uppörvun verður endurgreidd ef %1$d fær undir áfangastað aftur",
+  "edit_boost_input_title": "PLZ_TRANSLATE Uppörvun á áfangastöðum",
+  "edit_boost_description": "PLZ_TRANSLATE %1$d er bætt við þegar %2$d nær einhverju 9 áfanga."
 }

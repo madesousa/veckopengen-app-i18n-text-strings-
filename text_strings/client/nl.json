@@ -1381,5 +1381,9 @@
   "deactivate": "PLZ_TRANSLATE deactiveren",
   "approve_task_popover_desc": "PLZ_TRANSLATE %1$d voltooid %2$d",
   "reward_collected": "Belöning inkasserad",
-  "task_approved_desc": "PLZ_TRANSLATE %1$d is goedgekeurd en u heeft %2$d in de spaarpot verzameld!"
+  "task_approved_desc": "PLZ_TRANSLATE %1$d is goedgekeurd en u heeft %2$d in de spaarpot verzameld!",
+  "edit_boost_title": "PLZ_TRANSLATE Zweep of wortel?",
+  "edit_boost_subtitle": "PLZ_TRANSLATE Help %1$d door mijlpalen te versterken. Het is echter niet alleen hallelujah, een voldaan boost zal terugbetaald worden als %1$d weer onder een mijlpaal komt",
+  "edit_boost_input_title": "PLZ_TRANSLATE Boost op mijlpalen",
+  "edit_boost_description": "PLZ_TRANSLATE %1$d wordt toegevoegd wanneer %2$d een van de 9 mijlpalen passeert."
 }

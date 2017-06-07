@@ -1381,6 +1381,9 @@
   "deactivate": "PLZ_TRANSLATE дэзактываваць",
   "approve_task_popover_desc": "PLZ_TRANSLATE %1$d %2$d скончыў",
   "reward_collected": "Belöning inkasserad",
-  "task_approved_desc": "PLZ_TRANSLATE %1$d быў зацверджаны, і вы сабралі %2$d ў скарбонку!"
-  
+  "task_approved_desc": "PLZ_TRANSLATE %1$d быў зацверджаны, і вы сабралі %2$d ў скарбонку!",
+  "edit_boost_title": "PLZ_TRANSLATE Пуга ці пернік?",
+  "edit_boost_subtitle": "PLZ_TRANSLATE Дапамога %1$d за кошт павышэння на вех. Тым не менш, гэта не проста алілуя, дасведчаны імпульс будзе вернуты, калі %1$d зноў становіцца ніжэй вехі",
+  "edit_boost_input_title": "PLZ_TRANSLATE Павышэнне на вехах",
+  "edit_boost_description": "PLZ_TRANSLATE %1$d дадаецца, калі %2$d праходзіць любога з 9 этапаў."
 }
