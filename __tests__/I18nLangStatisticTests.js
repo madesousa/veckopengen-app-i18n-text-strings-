@@ -1,6 +1,6 @@
 import { getTextStrings, languageCodes } from '../index'
 import { stringLenghtStatistic, stringTranslationTags } from '../TestUtil'
-
+var languageCodesHolder = languageCodes
 var Slack = require('node-slack')
 
 jest.disableAutomock()
@@ -30,20 +30,24 @@ describe('TextStrings', () => {
     var jsonDataCheck = []
     var jsonDataTranslate = []
 
-    var textStringsTypes = ['server', 'templates', 'client']
+    var textStringsTypes = ['server', 'templates', 'client', 'gimi-web']
 
     var textStrings = {}
     textStringsTypes.forEach(textStringsType => {
       textStrings[textStringsType] = {}
     })
     textStringsTypes.forEach(textStringsType => {
-      languageCodes.forEach(lang => {
+      if (textStringsType === 'gimi-web') { languageCodesHolder = ['da', 'en', 'fi', 'fr', 'nl', 'no', 'sv'] }
+      if (textStringsType !== 'gimi-web') { languageCodesHolder = languageCodes }
+      languageCodesHolder.forEach(lang => {
         textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
       })
     })
     // server and templates string data
     textStringsTypes.forEach(textStringsType => {
-      languageCodes.forEach(languageCode => {
+      if (textStringsType === 'gimi-web') { languageCodesHolder = ['da', 'en', 'fi', 'fr', 'nl', 'no', 'sv'] }
+      if (textStringsType !== 'gimi-web') { languageCodesHolder = languageCodes }
+      languageCodesHolder.forEach(languageCode => {
         stringTagData.push(stringTranslationTags(textStrings[textStringsType][languageCode], languageCode, textStringsType))
       })
     })
@@ -106,10 +110,10 @@ describe('TextStrings', () => {
     })
 
     var text = `PLZ_CHECK
-${jsonDataCheck.map((i) => JSON.stringify(i)).join('\n')}
-PLZ_TRANSLATE
-${jsonDataTranslate.map((i) => JSON.stringify(i)).join('\n')}`
-//eslint-disable-next-line
+    ${jsonDataCheck.map((i) => JSON.stringify(i)).join('\n')}
+    PLZ_TRANSLATE
+    ${jsonDataTranslate.map((i) => JSON.stringify(i)).join('\n')}`
+    //eslint-disable-next-line
 
     text = text.replace(/['"]+/g, '')
     SendToSlackTagStats(text)
