@@ -40,7 +40,9 @@ describe('TextStrings', () => {
       if (textStringsType === 'gimi-web') { languageCodesHolder = ['da', 'en', 'fi', 'fr', 'nl', 'no', 'sv'] }
       if (textStringsType !== 'gimi-web') { languageCodesHolder = languageCodes }
       languageCodesHolder.forEach(lang => {
-        textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
+        try {
+          textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
+        } catch (e) { expect(`Cant parse ${textStringsType}/${lang} ${e.message}`).toEqual('') }
       })
     })
     // server and templates string data
