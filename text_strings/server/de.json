@@ -135,5 +135,6 @@
   "push_goal_boost_decreased": "PLZ_TRANSLATE Sie haben einen Schub auf Ihre Sparkurskarte verloren!",
   "push_goal_boosts_decreased": "PLZ_TRANSLATE Du hast auf deiner Sparkurskarte Verstärkung verloren!",
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Verloren einen Aufschwung auf Sparkurskarte.",
-  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Verlorene Verstärkung auf Sparkurskarte."
+  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Verlorene Verstärkung auf Sparkurskarte.",
+  "push_goal_almost_completed": "PLZ_TRANSLATE Gute Arbeit! Du bist fast mit deinem Sparkiel fertig!"
 }

@@ -135,5 +135,6 @@
   "push_goal_boost_decreased": "PLZ_TRANSLATE Du har mistet et løft på dit opsparingsmål!",
   "push_goal_boosts_decreased": "PLZ_TRANSLATE Du har tabt boosts på dit opsparingsmål!",
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Mistet et løft på opsparingsmålkartet.",
-  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Mistet øger på opsparing mål map."
+  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Mistet øger på opsparing mål map.",
+  "push_goal_almost_completed": "PLZ_TRANSLATE Godt arbejde! Du er næsten færdig med dit opsparingsmål!"
 }

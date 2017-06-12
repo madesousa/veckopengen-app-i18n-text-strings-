@@ -135,5 +135,6 @@
   "push_goal_boost_decreased": "PLZ_TRANSLATE Du har mistet et løft på målsparingen din!",
   "push_goal_boosts_decreased": "PLZ_TRANSLATE Du har mistet økningen på din besparelses målkart!",
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Mistet et løft på målkart for besparelser.",
-  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Mistet øker på besparelser målkart."
+  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Mistet øker på besparelser målkart.",
+  "push_goal_almost_completed": "PLZ_TRANSLATE Godt jobba! Du er nesten ferdig med ditt sparemål!"
 }

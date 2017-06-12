@@ -135,5 +135,6 @@
   "push_goal_boost_decreased": "Olet menettänyt säästösi boostin!",
   "push_goal_boosts_decreased": "Olet menettänyt säästäjesi boostit!",
   "dashboard_goal_boost_decreased": "Olet menettänyt säästötavoitteesi boostin.",
-  "dashboard_goal_boosts_decreased": "Olet menettänyt säästötavoitteidesi boostit."
+  "dashboard_goal_boosts_decreased": "Olet menettänyt säästötavoitteidesi boostit.",
+  "push_goal_almost_completed": "PLZ_TRANSLATE Hyvää työtä! Melkein valmista kanssa säästöjä tavoite!"
 }

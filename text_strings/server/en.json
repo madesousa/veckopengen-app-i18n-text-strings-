@@ -135,5 +135,6 @@
   "push_goal_boost_decreased": "You've lost a boost on your savings goal map!",
   "push_goal_boosts_decreased": "You've lost boosts on your savings goal map!",
   "dashboard_goal_boost_decreased": "Lost a boost on savings goal map.",
-  "dashboard_goal_boosts_decreased": "Lost boosts on savings goal map."
+  "dashboard_goal_boosts_decreased": "Lost boosts on savings goal map.",
+  "push_goal_almost_completed": "Good work! You're almost done with your savings goal!"
 }

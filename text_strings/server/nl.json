@@ -135,5 +135,6 @@
   "push_goal_boost_decreased": "Je hebt een boost op je spaardoel gemist!",
   "push_goal_boosts_decreased": "Je hebt de boosts op je spaardoelkaart gemist!",
   "dashboard_goal_boost_decreased": "Verloor een boost op de spaarkaart.",
-  "dashboard_goal_boosts_decreased": "Verloor verhogingen op de doelkaart van het spaargeld."
+  "dashboard_goal_boosts_decreased": "Verloor verhogingen op de doelkaart van het spaargeld.",
+  "push_goal_almost_completed": "PLZ_TRANSLATE Goed werk! Je bent bijna klaar met je spaardoel!"
 }

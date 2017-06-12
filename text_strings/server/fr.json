@@ -135,5 +135,6 @@
   "push_goal_boost_decreased": "Vous avez perdu un gain dans votre carte des objectifs d'épargne!",
   "push_goal_boosts_decreased": "Vous avez perdu des gains sur votre carte des objectifs d'épargne!",
   "dashboard_goal_boost_decreased": "A Perdu un gain sur la carte des objectifs d'épargne.",
-  "dashboard_goal_boosts_decreased": "Les gains perdus sur la carte des objectifs d'épargne."
+  "dashboard_goal_boosts_decreased": "Les gains perdus sur la carte des objectifs d'épargne.",
+  "push_goal_almost_completed": "PLZ_TRANSLATE Bon travail! Vous avez presque fini avec votre objectif d'épargne!"
 }

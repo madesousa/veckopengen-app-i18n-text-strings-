@@ -135,5 +135,6 @@
   "push_goal_boost_decreased": "Du har tappat en boost på sparkartan!",
   "push_goal_boosts_decreased": "Du har tappat flera boosts på sparkartan!",
   "dashboard_goal_boost_decreased": "Tappade en boost på sparkartan.",
-  "dashboard_goal_boosts_decreased": "Tappade flera boosts på sparkartan."
+  "dashboard_goal_boosts_decreased": "Tappade flera boosts på sparkartan.",
+  "push_goal_almost_completed": "Bra jobbat med sparandet! Du har nästan uppnått ett sparmål!"
 }

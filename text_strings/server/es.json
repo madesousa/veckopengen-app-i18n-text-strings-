@@ -135,5 +135,6 @@
   "push_goal_boost_decreased": "PLZ_TRANSLATE Ha perdido un impulso en su mapa de metas de ahorro!",
   "push_goal_boosts_decreased": "PLZ_TRANSLATE ¡Has perdido aumentos en tu mapa de metas de ahorro!",
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Perdió un impulso en el mapa de metas de ahorro.",
-  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Aumentos perdidos en el mapa de metas de ahorro."
+  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Aumentos perdidos en el mapa de metas de ahorro.",
+  "push_goal_almost_completed": "PLZ_TRANSLATE ¡Buen trabajo! Casi has terminado con tu meta de ahorro!"
 }

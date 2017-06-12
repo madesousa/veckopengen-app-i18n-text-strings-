@@ -135,5 +135,6 @@
   "push_goal_boost_decreased": "PLZ_TRANSLATE Hai perso una spinta nella tua mappa del risparmio!",
   "push_goal_boosts_decreased": "PLZ_TRANSLATE Hai perso incrementi sulla tua mappa di risparmio!",
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Ha perso una spinta sulla mappa degli obiettivi di risparmio.",
-  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE La perdita aumenta sulla mappa degli obiettivi di risparmio."
+  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE La perdita aumenta sulla mappa degli obiettivi di risparmio.",
+  "push_goal_almost_completed": "PLZ_TRANSLATE Buon lavoro! Sei quasi finito con il tuo obiettivo di risparmio!"
 }

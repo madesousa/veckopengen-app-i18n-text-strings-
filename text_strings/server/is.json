@@ -135,5 +135,6 @@
   "push_goal_boost_decreased": "PLZ_TRANSLATE Þú hefur misst uppörvun á sparisjóðum þínum!",
   "push_goal_boosts_decreased": "PLZ_TRANSLATE Þú hefur misst uppörvun á sparnaðarmarkmiðinu þínu!",
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Lost uppörvun á sparnaðarmarkmið.",
-  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Lost uppörvun á sparnaðarmarkmiði."
+  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Lost uppörvun á sparnaðarmarkmiði.",
+  "push_goal_almost_completed": "PLZ_TRANSLATE Góð vinna! Þú ert næstum búinn með sparnaðarmarkmið þitt!"
 }

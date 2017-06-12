@@ -135,5 +135,6 @@
   "push_goal_boost_decreased": "PLZ_TRANSLATE Вы страцілі імпульс на вашай ашчаднай мэты карты!",
   "push_goal_boosts_decreased": "PLZ_TRANSLATE Вы страцілі падштурхоўвання на вашай ашчаднай мэты карты!",
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Страчаны імпульс на зберажэнні мэты карты.",
-  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Страчаныя фарсіруе на зберажэнні мэты карты."
+  "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Страчаныя фарсіруе на зберажэнні мэты карты.",
+  "push_goal_almost_completed": "PLZ_TRANSLATE Добрая праца! Вы амаль скончылі з вашай ашчаднай мэтай!"
 }
