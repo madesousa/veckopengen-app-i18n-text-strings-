@@ -1391,5 +1391,7 @@
   "edit_boost_description": "PLZ_TRANSLATE %1$d er bætt við þegar %2$d nær einhverju 9 áfanga.",
   "task_per_hour_card_text": "PLZ_TRANSLATE Verðlaunin eru reiknuð með því að nota tímann!",
   "time_minute": "PLZ_TRANSLATE %1$d mínútu",
-  "time_minutes": "PLZ_TRANSLATE %1$d mínútur"
+  "time_minutes": "PLZ_TRANSLATE %1$d mínútur",
+  "trustly_settings_payout_info_weekly": "PLZ_TRANSLATE Innborgað á %1$d og afturkölluð á %2$d",
+  "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Innborgað %1$d og afturkallað %2$d"
 }

@@ -1391,5 +1391,7 @@
   "edit_boost_description": "PLZ_TRANSLATE %1$d lisätään, kun %2$d kulkee minkä tahansa 9 virstanpylväitä.",
   "task_per_hour_card_text": "PLZ_TRANSLATE Palkkio lasketaan ajastin!",
   "time_minute": "PLZ_TRANSLATE %1$d minuutti",
-  "time_minutes": "PLZ_TRANSLATE %1$d minuuttia"
+  "time_minutes": "PLZ_TRANSLATE %1$d minuuttia",
+  "trustly_settings_payout_info_weekly": "PLZ_TRANSLATE Talletettiin %1$d ja peruutettiin %2$d",
+  "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Talletetaan %1$d ja peruuttanut %2$d"
 }

@@ -1391,5 +1391,7 @@
   "edit_boost_description": "PLZ_TRANSLATE %1$d lisatakse kui %2$d läbib mistahes 9 vahe.",
   "task_per_hour_card_text": "PLZ_TRANSLATE Tasu arvutatakse taimer!",
   "time_minute": "PLZ_TRANSLATE %1$d hetke",
-  "time_minutes": "PLZ_TRANSLATE %1$d minutit"
+  "time_minutes": "PLZ_TRANSLATE %1$d minutit",
+  "trustly_settings_payout_info_weekly": "PLZ_TRANSLATE Hoiule %1$d ja võeti %2$d",
+  "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Hoiule %1$d ja tühistanud %2$d"
 }
