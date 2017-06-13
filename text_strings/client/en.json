@@ -1389,5 +1389,7 @@
   "edit_boost_subtitle": "Help %1$d by boosting at milestones. However, it's not just hallelujah, an accomplished boost will be refunded if %1$d gets below a milestone again",
   "edit_boost_input_title": "Boost at milestones",
   "edit_boost_description": "%1$d is added when %2$d passes any of the 9 milestones.",
-  "task_per_hour_card_text": "The reward is calculated using the timer!"
+  "task_per_hour_card_text": "The reward is calculated using the timer!",
+  "time_minute": "%1$d minute",
+  "time_minutes": "%1$d minutes"
 }

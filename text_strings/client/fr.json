@@ -1389,5 +1389,7 @@
   "edit_boost_subtitle": "PLZ_TRANSLATE Aidez le %1$d en stimulant les jalons. Cependant, ce n'est pas seulement l'alléluia, un renfort accompli sera remboursé si %1$d devient inférieur à un jalon",
   "edit_boost_input_title": "PLZ_TRANSLATE Accélérer les jalons",
   "edit_boost_description": "PLZ_TRANSLATE %1$d est ajouté lorsque %2$d passe l'un des 9 jalons.",
-  "task_per_hour_card_text": "PLZ_TRANSLATE La récompense est calculée à l'aide de la minuterie!"
+  "task_per_hour_card_text": "PLZ_TRANSLATE La récompense est calculée à l'aide de la minuterie!",
+  "time_minute": "PLZ_TRANSLATE %1$d minute",
+  "time_minutes": "PLZ_TRANSLATE %1$d minutes"
 }

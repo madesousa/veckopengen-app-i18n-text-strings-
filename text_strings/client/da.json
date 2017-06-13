@@ -1389,5 +1389,7 @@
   "edit_boost_subtitle": "PLZ_TRANSLATE Hjælp %1$d ved at øge på milepæle. Men det er ikke bare hallelujah, et gennemført boost vil blive refunderet, hvis %1$d kommer under en milepæl igen",
   "edit_boost_input_title": "PLZ_TRANSLATE Boost på milepæle",
   "edit_boost_description": "PLZ_TRANSLATE %1$d tilføjes, når %2$d passerer nogen af ​​de 9 milepæle.",
-  "task_per_hour_card_text": "PLZ_TRANSLATE Belønningen beregnes ved hjælp af timeren!"
+  "task_per_hour_card_text": "PLZ_TRANSLATE Belønningen beregnes ved hjælp af timeren!",
+  "time_minute": "PLZ_TRANSLATE %1$d minut",
+  "time_minutes": "PLZ_TRANSLATE %1$d minutter"
 }

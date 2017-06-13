@@ -1389,5 +1389,7 @@
   "edit_boost_subtitle": "PLZ_TRANSLATE Aiuta %1$d incrementando le pietre miliari. Tuttavia, non è solo l'alleluia, un rimborso compiuto verrà rimborsato se %1$d scende al di sotto di una pietra miliare",
   "edit_boost_input_title": "PLZ_TRANSLATE Spinta a pietre miliari",
   "edit_boost_description": "PLZ_TRANSLATE %1$d viene aggiunto quando %2$d passa a una delle 9 tappe.",
-  "task_per_hour_card_text": "PLZ_TRANSLATE La ricompensa viene calcolata usando il timer!"
+  "task_per_hour_card_text": "PLZ_TRANSLATE La ricompensa viene calcolata usando il timer!",
+  "time_minute": "PLZ_TRANSLATE %1$d minuti",
+  "time_minutes": "PLZ_TRANSLATE %1$d minuti"
 }

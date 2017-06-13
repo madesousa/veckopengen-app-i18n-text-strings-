@@ -1389,5 +1389,7 @@
   "edit_boost_subtitle": "PLZ_TRANSLATE Дапамога %1$d за кошт павышэння на вех. Тым не менш, гэта не проста алілуя, дасведчаны імпульс будзе вернуты, калі %1$d зноў становіцца ніжэй вехі",
   "edit_boost_input_title": "PLZ_TRANSLATE Павышэнне на вехах",
   "edit_boost_description": "PLZ_TRANSLATE %1$d дадаецца, калі %2$d праходзіць любога з 9 этапаў.",
-  "task_per_hour_card_text": "PLZ_TRANSLATE Ўзнагароджанне разлічваецца з дапамогай таймера!"
+  "task_per_hour_card_text": "PLZ_TRANSLATE Ўзнагароджанне разлічваецца з дапамогай таймера!",
+  "time_minute": "PLZ_TRANSLATE %1$d хвілін",
+  "time_minutes": "PLZ_TRANSLATE %1$d хвілін"
 }

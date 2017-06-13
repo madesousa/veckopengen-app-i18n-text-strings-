@@ -1389,5 +1389,7 @@
   "edit_boost_subtitle": "PLZ_TRANSLATE Hjálp %1$d með því að auka á áfangastaði. Hins vegar er það ekki bara hallelujah, fullgerð uppörvun verður endurgreidd ef %1$d fær undir áfangastað aftur",
   "edit_boost_input_title": "PLZ_TRANSLATE Uppörvun á áfangastöðum",
   "edit_boost_description": "PLZ_TRANSLATE %1$d er bætt við þegar %2$d nær einhverju 9 áfanga.",
-  "task_per_hour_card_text": "PLZ_TRANSLATE Verðlaunin eru reiknuð með því að nota tímann!"
+  "task_per_hour_card_text": "PLZ_TRANSLATE Verðlaunin eru reiknuð með því að nota tímann!",
+  "time_minute": "PLZ_TRANSLATE %1$d mínútu",
+  "time_minutes": "PLZ_TRANSLATE %1$d mínútur"
 }

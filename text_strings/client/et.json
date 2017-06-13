@@ -1389,5 +1389,7 @@
   "edit_boost_subtitle": "PLZ_TRANSLATE Abi %1$d tõstes kell verstapostid. Kuid see ei ole ainult halleluuja saavutatud hoogu tagastatakse, kui %1$d langeb alla verstapost uuesti",
   "edit_boost_input_title": "PLZ_TRANSLATE Boost on verstapostid",
   "edit_boost_description": "PLZ_TRANSLATE %1$d lisatakse kui %2$d läbib mistahes 9 vahe.",
-  "task_per_hour_card_text": "PLZ_TRANSLATE Tasu arvutatakse taimer!"
+  "task_per_hour_card_text": "PLZ_TRANSLATE Tasu arvutatakse taimer!",
+  "time_minute": "PLZ_TRANSLATE %1$d hetke",
+  "time_minutes": "PLZ_TRANSLATE %1$d minutit"
 }

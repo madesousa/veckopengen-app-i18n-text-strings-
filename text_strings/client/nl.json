@@ -1389,5 +1389,7 @@
   "edit_boost_subtitle": "PLZ_TRANSLATE Help %1$d door mijlpalen te versterken. Het is echter niet alleen hallelujah, een voldaan boost zal terugbetaald worden als %1$d weer onder een mijlpaal komt",
   "edit_boost_input_title": "PLZ_TRANSLATE Boost op mijlpalen",
   "edit_boost_description": "PLZ_TRANSLATE %1$d wordt toegevoegd wanneer %2$d een van de 9 mijlpalen passeert.",
-  "task_per_hour_card_text": "PLZ_TRANSLATE De beloning wordt berekend met behulp van de timer!"
+  "task_per_hour_card_text": "PLZ_TRANSLATE De beloning wordt berekend met behulp van de timer!",
+  "time_minute": "PLZ_TRANSLATE %1$d minuut",
+  "time_minutes": "PLZ_TRANSLATE %1$d minuten"
 }
