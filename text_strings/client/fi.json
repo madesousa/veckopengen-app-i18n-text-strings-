@@ -1388,5 +1388,6 @@
   "edit_boost_title": "PLZ_TRANSLATE Piiskaa tai porkkana?",
   "edit_boost_subtitle": "PLZ_TRANSLATE Auttaa %1$d lisäämällä klo virstanpylväitä. Kuitenkin, se ei ole vain halleluja, taitava vauhtia palautetaan, jos %1$d alittaa virstanpylväs uudelleen",
   "edit_boost_input_title": "PLZ_TRANSLATE Pontta virstanpylväitä",
-  "edit_boost_description": "PLZ_TRANSLATE %1$d lisätään, kun %2$d kulkee minkä tahansa 9 virstanpylväitä."
+  "edit_boost_description": "PLZ_TRANSLATE %1$d lisätään, kun %2$d kulkee minkä tahansa 9 virstanpylväitä.",
+  "task_per_hour_card_text": "PLZ_TRANSLATE Palkkio lasketaan ajastin!"
 }
