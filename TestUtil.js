@@ -49,6 +49,10 @@ let testCompareKeysWithinTextString = (textString1: string, textString2: string,
   var keys1 = textString1.match(/\{(.*?)\}/g) || []
   var keys2 = textString2.match(/\{(.*?)\}/g) || []
 
+  // remove :possessive
+  keys1 = keys1.map((key) => key.replace(':possessive', ''))
+  keys2 = keys2.map((key) => key.replace(':possessive', ''))
+
   var errorMessages = keys1.map(key1 => {
     if (key1.indexOf(' ') !== -1) {
       return undefined
