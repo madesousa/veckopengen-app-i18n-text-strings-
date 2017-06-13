@@ -1393,5 +1393,6 @@
   "time_minute": "PLZ_TRANSLATE %1$d minute",
   "time_minutes": "PLZ_TRANSLATE %1$d Minuten",
   "trustly_settings_payout_info_weekly": "PLZ_TRANSLATE Abgesetzt auf %1$d und zurückgezogen auf %2$d",
-  "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Abgesetzt der %1$d und entzogen die %2$d"
+  "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Abgesetzt der %1$d und entzogen die %2$d",
+  "add_picture_proof": "PLZ_TRANSLATE Bildnachweis hinzufügen"
 }

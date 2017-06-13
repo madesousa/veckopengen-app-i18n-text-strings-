@@ -1393,5 +1393,6 @@
   "time_minute": "PLZ_TRANSLATE %1$d minuutti",
   "time_minutes": "PLZ_TRANSLATE %1$d minuuttia",
   "trustly_settings_payout_info_weekly": "PLZ_TRANSLATE Talletettiin %1$d ja peruutettiin %2$d",
-  "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Talletetaan %1$d ja peruuttanut %2$d"
+  "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Talletetaan %1$d ja peruuttanut %2$d",
+  "add_picture_proof": "PLZ_TRANSLATE Lisää kuva proof"
 }
