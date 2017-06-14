@@ -1383,7 +1383,7 @@
   "hours_and_minutes": "%1$d hours and %2$d minutes",
   "deactivate": "deactivate",
   "approve_task_popover_desc": "%1$d finished %2$d",
-  "reward_collected": "Belöning inkasserad",
+  "reward_collected": "Reward collected",
   "task_approved_desc": "%1$d was approved and you have collected %2$d in the piggy bank!",
   "edit_boost_title": "Whip or carrot?",
   "edit_boost_subtitle": "Help %1$d by boosting at milestones. However, it's not just hallelujah, an accomplished boost will be refunded if %1$d gets below a milestone again",

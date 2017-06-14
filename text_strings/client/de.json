@@ -1383,7 +1383,7 @@
   "hours_and_minutes": "PLZ_TRANSLATE %1$d Stunden und %2$d Minuten",
   "deactivate": "PLZ_TRANSLATE deaktivieren",
   "approve_task_popover_desc": "PLZ_TRANSLATE %1$d beendet %2$d",
-  "reward_collected": "Belöning inkasserad",
+  "reward_collected": "PLZ_TRANSLATE Belohnung inkasserad",
   "task_approved_desc": "PLZ_TRANSLATE %1$d wurde genehmigt und Sie haben %2$d im Sparschwein gesammelt!",
   "edit_boost_title": "PLZ_TRANSLATE Peitsche oder Karotte?",
   "edit_boost_subtitle": "PLZ_TRANSLATE Hilfe %1$d durch die Förderung von Meilensteinen. Allerdings ist es nicht nur Halleluja, ein gelungener Schub wird zurückerstattet, wenn %1$d wieder unter einen Meilenstein kommt",

@@ -1383,7 +1383,7 @@
   "hours_and_minutes": "%1$d heures et %2$d minutes",
   "deactivate": "désactiver",
   "approve_task_popover_desc": "%1$d a terminé %2$d",
-  "reward_collected": "PLZ_TRANSLATE Belöning inkasserad",
+  "reward_collected": "PLZ_TRANSLATE inkasserad récompense",
   "task_approved_desc": "La tâche %1$d a été approuvée et vous avez collecté %2$d dans la tirelire!",
   "edit_boost_title": "PLZ_TRANSLATE Fouetter ou carotte?",
   "edit_boost_subtitle": "PLZ_TRANSLATE Aidez le %1$d en stimulant les jalons. Cependant, ce n'est pas seulement l'alléluia, un renfort accompli sera remboursé si %1$d devient inférieur à un jalon",

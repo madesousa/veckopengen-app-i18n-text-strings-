@@ -1383,7 +1383,7 @@
   "hours_and_minutes": "PLZ_TRANSLATE %1$d horas y %2$d minutos",
   "deactivate": "PLZ_TRANSLATE desactivar",
   "approve_task_popover_desc": "PLZ_TRANSLATE %1$d terminado %2$d",
-  "reward_collected": "Belöning inkasserad",
+  "reward_collected": "PLZ_TRANSLATE inkasserad recompensa",
   "task_approved_desc": "PLZ_TRANSLATE %1$d fue aprobado y usted ha recogido %2$d en la alcancía!",
   "edit_boost_title": "PLZ_TRANSLATE Látigo o zanahoria",
   "edit_boost_subtitle": "PLZ_TRANSLATE Ayuda %1$d mediante el impulso en los hitos. Sin embargo, no es sólo aleluya, un impulso logrado será devuelto si %1$d vuelve a estar por debajo de un hito",

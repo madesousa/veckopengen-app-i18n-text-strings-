@@ -1383,7 +1383,7 @@
   "hours_and_minutes": "%1$d tuntia ja %2$d minuuttia",
   "deactivate": "deaktivoi",
   "approve_task_popover_desc": "%1$d suoritti %2$d",
-  "reward_collected": "Belöning inkasserad",
+  "reward_collected": "PLZ_TRANSLATE palkita inkasserad",
   "task_approved_desc": "PLZ_TRANSLATE %1$d hyväksyttiin ja olet kerännyt %2$d vuonna säästöpossu!",
   "edit_boost_title": "PLZ_TRANSLATE Piiskaa tai porkkana?",
   "edit_boost_subtitle": "PLZ_TRANSLATE Auttaa %1$d lisäämällä klo virstanpylväitä. Kuitenkin, se ei ole vain halleluja, taitava vauhtia palautetaan, jos %1$d alittaa virstanpylväs uudelleen",
