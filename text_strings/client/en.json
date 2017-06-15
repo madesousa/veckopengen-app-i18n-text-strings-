@@ -1398,5 +1398,6 @@
   "error_message_camera_permission": "Camera permissions are missing",
   "goal_share_popover_headline": "You are the best",
   "goal_share_popover_desc": "Share this with your friends to make them as good as you at saving.",
-  "goal_share_shared_text": "With the help of Gimi I have managed to save up to a %1$d, Yiipiieee."
+  "goal_share_shared_text": "With the help of Gimi I have managed to save up to a %1$d, Yiipiieee.",
+  "average": "Average"
 }

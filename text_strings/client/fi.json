@@ -1398,5 +1398,6 @@
   "error_message_camera_permission": "PLZ_TRANSLATE Kamera käyttöoikeudet puuttuvat",
   "goal_share_popover_headline": "PLZ_TRANSLATE Olet paras",
   "goal_share_popover_desc": "PLZ_TRANSLATE Jaa ystäviesi kanssa, jotta ne niin hyvä kuin on säästää.",
-  "goal_share_shared_text": "PLZ_TRANSLATE Avulla Gimi Olen onnistunut pelastamaan jopa %1$d, Yiipiieee."
+  "goal_share_shared_text": "PLZ_TRANSLATE Avulla Gimi Olen onnistunut pelastamaan jopa %1$d, Yiipiieee.",
+  "average": "PLZ_TRANSLATE Keskiverto"
 }

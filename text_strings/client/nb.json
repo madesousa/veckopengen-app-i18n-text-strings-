@@ -1398,5 +1398,6 @@
   "error_message_camera_permission": "PLZ_TRANSLATE Kameraet tillatelser mangler",
   "goal_share_popover_headline": "PLZ_TRANSLATE Du er den beste",
   "goal_share_popover_desc": "PLZ_TRANSLATE Del dette med vennene dine for å gjøre dem så gode som deg når du sparer.",
-  "goal_share_shared_text": "PLZ_TRANSLATE Med hjelp av Gimi har jeg klart å spare opp til en %1$d, Yiipiieee."
+  "goal_share_shared_text": "PLZ_TRANSLATE Med hjelp av Gimi har jeg klart å spare opp til en %1$d, Yiipiieee.",
+  "average": "PLZ_TRANSLATE Gjennomsnitt"
 }

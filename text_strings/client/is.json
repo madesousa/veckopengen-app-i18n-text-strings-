@@ -1398,5 +1398,6 @@
   "error_message_camera_permission": "PLZ_TRANSLATE Myndavélaréttindi vantar",
   "goal_share_popover_headline": "PLZ_TRANSLATE Þú ert bestur",
   "goal_share_popover_desc": "PLZ_TRANSLATE Deila þessu með vinum þínum til að gera þau eins góð og þú á að vista.",
-  "goal_share_shared_text": "PLZ_TRANSLATE Með hjálp Gimi hef ég tekist að spara upp í %1$d, Yiipiieee."
+  "goal_share_shared_text": "PLZ_TRANSLATE Með hjálp Gimi hef ég tekist að spara upp í %1$d, Yiipiieee.",
+  "average": "PLZ_TRANSLATE Meðaltal"
 }
