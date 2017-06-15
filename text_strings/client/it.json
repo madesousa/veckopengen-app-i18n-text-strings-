@@ -1403,5 +1403,7 @@
   "task_share_popover_title": "PLZ_TRANSLATE Vivere il tuo bambino!",
   "task_share_popover_text": "PLZ_TRANSLATE Condividi %1$d attività sui social media! Hashtag l'immagine con # %2$d :)",
   "task_share_headline": "PLZ_TRANSLATE %1$d Appena eseguito %2$d!",
-  "task_share_text": "PLZ_TRANSLATE %1$d ha appena eseguito %2$d attraverso l'applicazione %3$d. # %4$d"
+  "task_share_text": "PLZ_TRANSLATE %1$d ha appena eseguito %2$d attraverso l'applicazione %3$d. # %4$d",
+  "transaction_amount_illigal": "PLZ_TRANSLATE Questo tipo di transazione non dovrebbe essere sotto 0"
+
 }

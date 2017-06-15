@@ -1403,5 +1403,7 @@
   "task_share_popover_title": "PLZ_TRANSLATE Brag om dit barn!",
   "task_share_popover_text": "PLZ_TRANSLATE Del %1$d opgave på sociale medier! Hashtag billedet med # %2$d :)",
   "task_share_headline": "PLZ_TRANSLATE %1$d Bare udført %2$d!",
-  "task_share_text": "PLZ_TRANSLATE %1$d har lige udført %2$d gennem appen %3$d. # %4$d"
+  "task_share_text": "PLZ_TRANSLATE %1$d har lige udført %2$d gennem appen %3$d. # %4$d",
+  "transaction_amount_illigal": "PLZ_TRANSLATE Denne type transaktion bør ikke være under 0"
+
 }

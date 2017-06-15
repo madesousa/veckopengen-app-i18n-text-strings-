@@ -1403,5 +1403,6 @@
   "task_share_popover_title": "PLZ_TRANSLATE Schreeuw over je kind!",
   "task_share_popover_text": "PLZ_TRANSLATE Deel %1$d taak op sociale media! Hashtag de foto met # %2$d :)",
   "task_share_headline": "PLZ_TRANSLATE %1$d Gewoon uitgevoerd %2$d!",
-  "task_share_text": "PLZ_TRANSLATE %1$d heeft net %2$d uitgevoerd via de app %3$d. # %4$d"
+  "task_share_text": "PLZ_TRANSLATE %1$d heeft net %2$d uitgevoerd via de app %3$d. # %4$d",
+  "transaction_amount_illigal": "PLZ_TRANSLATE Dit type transactie mag niet onder 0 liggen"
 }
