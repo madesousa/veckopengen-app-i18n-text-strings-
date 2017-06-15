@@ -1410,5 +1410,9 @@
   "goal_share_popover_headline": "Du är bäst",
   "goal_share_popover_desc": "Dela det här med dina vänner för att dom ska bli lika bra som du på att spara.",
   "goal_share_shared_text": "Med hjälp av veckopengen har jag lyckats spara ihop till en %1$d, Yiipiieee.",
-  "average": "Medel"
+  "average": "Medel",
+  "task_share_popover_title": "Skryt om ditt barn!",
+  "task_share_popover_text": "Dela %1$d uppgift på sociala medier! Hashtagga gärna bilden med #%2$d :)",
+  "task_share_headline": "%1$d utförde precis %2$d!",
+  "task_share_text": "%1$d utförde precis %2$d genom appen %3$d. #%4$d"
 }

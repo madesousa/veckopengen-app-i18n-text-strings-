@@ -1399,5 +1399,9 @@
   "goal_share_popover_headline": "PLZ_TRANSLATE Jij bent de beste",
   "goal_share_popover_desc": "PLZ_TRANSLATE Deel dit met je vrienden om ze zo goed te maken als je bij het opslaan.",
   "goal_share_shared_text": "PLZ_TRANSLATE Met behulp van Gimi heb ik erin geslaagd om een ​​%1$d, Yiipiieee, op te slaan.",
-  "average": "PLZ_TRANSLATE Gemiddelde"
+  "average": "PLZ_TRANSLATE Gemiddelde",
+  "task_share_popover_title": "PLZ_TRANSLATE Schreeuw over je kind!",
+  "task_share_popover_text": "PLZ_TRANSLATE Deel %1$d taak op sociale media! Hashtag de foto met # %2$d :)",
+  "task_share_headline": "PLZ_TRANSLATE %1$d Gewoon uitgevoerd %2$d!",
+  "task_share_text": "PLZ_TRANSLATE %1$d heeft net %2$d uitgevoerd via de app %3$d. # %4$d"
 }

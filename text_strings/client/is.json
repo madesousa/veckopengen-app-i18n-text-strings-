@@ -1399,5 +1399,9 @@
   "goal_share_popover_headline": "PLZ_TRANSLATE Þú ert bestur",
   "goal_share_popover_desc": "PLZ_TRANSLATE Deila þessu með vinum þínum til að gera þau eins góð og þú á að vista.",
   "goal_share_shared_text": "PLZ_TRANSLATE Með hjálp Gimi hef ég tekist að spara upp í %1$d, Yiipiieee.",
-  "average": "PLZ_TRANSLATE Meðaltal"
+  "average": "PLZ_TRANSLATE Meðaltal",
+  "task_share_popover_title": "PLZ_TRANSLATE Bragðu um barnið þitt!",
+  "task_share_popover_text": "PLZ_TRANSLATE Deila %1$d verkefni á félagslegum fjölmiðlum! Hashtag myndina með # %2$d :)",
+  "task_share_headline": "PLZ_TRANSLATE %1$d Bara framkvæmt %2$d!",
+  "task_share_text": "PLZ_TRANSLATE %1$d lagði bara %2$d í gegnum appið %3$d. # %4$d"
 }

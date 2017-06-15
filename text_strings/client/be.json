@@ -1399,5 +1399,9 @@
   "goal_share_popover_headline": "PLZ_TRANSLATE Ты найлепшы",
   "goal_share_popover_desc": "PLZ_TRANSLATE Падзяліцеся з сябрамі, каб зрабіць іх так жа добра, як вы на выратаванне.",
   "goal_share_shared_text": "PLZ_TRANSLATE З дапамогай GIMI мне ўдалося захаваць да %1$d, Yiipiieee.",
-  "average": "PLZ_TRANSLATE сярэдні"
+  "average": "PLZ_TRANSLATE сярэдні",
+  "task_share_popover_title": "PLZ_TRANSLATE Хвальба аб Вашым дзіцяці!",
+  "task_share_popover_text": "PLZ_TRANSLATE Доля %1$d задачы ў сацыяльных сетках! Хэштэгу малюнак з # %2$d :)",
+  "task_share_headline": "PLZ_TRANSLATE %1$d Проста выконваецца %2$d!",
+  "task_share_text": "PLZ_TRANSLATE %1$d %2$d проста выконваецца праз прыкладанне %3$d. # %4$d"
 }

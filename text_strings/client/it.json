@@ -1399,5 +1399,9 @@
   "goal_share_popover_headline": "PLZ_TRANSLATE Sei il migliore",
   "goal_share_popover_desc": "PLZ_TRANSLATE Condividi questo con i tuoi amici per farli buoni come te al risparmio.",
   "goal_share_shared_text": "PLZ_TRANSLATE Con l'aiuto di Gimi sono riuscito a risparmiare fino a un %1$d, Yiipiieee.",
-  "average": "PLZ_TRANSLATE Media"
+  "average": "PLZ_TRANSLATE Media",
+  "task_share_popover_title": "PLZ_TRANSLATE Vivere il tuo bambino!",
+  "task_share_popover_text": "PLZ_TRANSLATE Condividi %1$d attività sui social media! Hashtag l'immagine con # %2$d :)",
+  "task_share_headline": "PLZ_TRANSLATE %1$d Appena eseguito %2$d!",
+  "task_share_text": "PLZ_TRANSLATE %1$d ha appena eseguito %2$d attraverso l'applicazione %3$d. # %4$d"
 }

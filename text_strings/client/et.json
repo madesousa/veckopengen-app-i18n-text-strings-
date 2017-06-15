@@ -1399,5 +1399,9 @@
   "goal_share_popover_headline": "PLZ_TRANSLATE Sa oled parim",
   "goal_share_popover_desc": "PLZ_TRANSLATE Jaga seda oma sõpradega, et muuta need nii hea, kui teid säästa.",
   "goal_share_shared_text": "PLZ_TRANSLATE Tänu Gimi olen suutnud päästa kuni %1$d, Yiipiieee.",
-  "average": "PLZ_TRANSLATE Keskmine"
+  "average": "PLZ_TRANSLATE Keskmine",
+  "task_share_popover_title": "PLZ_TRANSLATE Hoobelda oma lapsele!",
+  "task_share_popover_text": "PLZ_TRANSLATE Jagage %1$d ülesanne sotsiaalmeedias! HASHTAG pildil # %2$d :)",
+  "task_share_headline": "PLZ_TRANSLATE %1$d Just läbi %2$d!",
+  "task_share_text": "PLZ_TRANSLATE %1$d lihtsalt läbi %2$d rakenduse kaudu %3$d. # %4$d"
 }

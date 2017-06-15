@@ -1399,5 +1399,9 @@
   "goal_share_popover_headline": "You are the best",
   "goal_share_popover_desc": "Share this with your friends to make them as good as you at saving.",
   "goal_share_shared_text": "With the help of Gimi I have managed to save up to a %1$d, Yiipiieee.",
-  "average": "Average"
+  "average": "Average",
+  "task_share_popover_title": "Brag about your child!",
+  "task_share_popover_text": "Share %1$d task on social media! Hashtag the picture with #%2$d :)",
+  "task_share_headline": "%1$d Just performed %2$d!",
+  "task_share_text": "%1$d just performed %2$d through the app %3$d. #%4$d"
 }

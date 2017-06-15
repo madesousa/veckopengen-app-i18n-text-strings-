@@ -1399,5 +1399,9 @@
   "goal_share_popover_headline": "PLZ_TRANSLATE Du er den beste",
   "goal_share_popover_desc": "PLZ_TRANSLATE Del dette med vennene dine for å gjøre dem så gode som deg når du sparer.",
   "goal_share_shared_text": "PLZ_TRANSLATE Med hjelp av Gimi har jeg klart å spare opp til en %1$d, Yiipiieee.",
-  "average": "PLZ_TRANSLATE Gjennomsnitt"
+  "average": "PLZ_TRANSLATE Gjennomsnitt",
+  "task_share_popover_title": "PLZ_TRANSLATE Skryt om ditt barn!",
+  "task_share_popover_text": "PLZ_TRANSLATE Del %1$d oppgave på sosiale medier! Hashtag bildet med # %2$d :)",
+  "task_share_headline": "PLZ_TRANSLATE %1$d Bare utført %2$d!",
+  "task_share_text": "PLZ_TRANSLATE %1$d har nettopp utført %2$d gjennom appen %3$d. # %4$d"
 }
