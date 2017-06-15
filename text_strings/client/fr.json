@@ -1397,5 +1397,6 @@
   "add_picture_proof": "PLZ_TRANSLATE Ajouter une preuve d'image",
   "error_message_camera_permission": "PLZ_TRANSLATE Les autorisations de la caméra sont manquantes",
   "goal_share_popover_headline": "PLZ_TRANSLATE Tu es le meilleur",
-  "goal_share_popover_desc": "PLZ_TRANSLATE Partagez ceci avec vos amis pour les rendre aussi bons que vous pour économiser."
+  "goal_share_popover_desc": "PLZ_TRANSLATE Partagez ceci avec vos amis pour les rendre aussi bons que vous pour économiser.",
+  "goal_share_shared_text": "PLZ_TRANSLATE Avec l'aide de Gimi, j'ai réussi à enregistrer jusqu'à un %1$d, Yiipiieee."
 }

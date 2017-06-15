@@ -1397,5 +1397,6 @@
   "add_picture_proof": "PLZ_TRANSLATE Lisa pilt tõend",
   "error_message_camera_permission": "PLZ_TRANSLATE Kaamera load puuduvad",
   "goal_share_popover_headline": "PLZ_TRANSLATE Sa oled parim",
-  "goal_share_popover_desc": "PLZ_TRANSLATE Jaga seda oma sõpradega, et muuta need nii hea, kui teid säästa."
+  "goal_share_popover_desc": "PLZ_TRANSLATE Jaga seda oma sõpradega, et muuta need nii hea, kui teid säästa.",
+  "goal_share_shared_text": "PLZ_TRANSLATE Tänu Gimi olen suutnud päästa kuni %1$d, Yiipiieee."
 }

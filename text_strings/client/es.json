@@ -1397,5 +1397,6 @@
   "add_picture_proof": "PLZ_TRANSLATE Añadir prueba de imagen",
   "error_message_camera_permission": "PLZ_TRANSLATE Permisos de cámara perdidos",
   "goal_share_popover_headline": "PLZ_TRANSLATE Eress el mejor",
-  "goal_share_popover_desc": "PLZ_TRANSLATE Comparta esto con sus amigos para hacerlos tan buenos como usted en el ahorro."
+  "goal_share_popover_desc": "PLZ_TRANSLATE Comparta esto con sus amigos para hacerlos tan buenos como usted en el ahorro.",
+  "goal_share_shared_text": "PLZ_TRANSLATE Con la ayuda de Gimi he logrado ahorrar hasta un %1$d, Yiipiieee."
 }

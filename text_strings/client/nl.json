@@ -1397,5 +1397,6 @@
   "add_picture_proof": "PLZ_TRANSLATE Voeg beeldbestand toe",
   "error_message_camera_permission": "PLZ_TRANSLATE Camera toestemmingen ontbreken",
   "goal_share_popover_headline": "PLZ_TRANSLATE Jij bent de beste",
-  "goal_share_popover_desc": "PLZ_TRANSLATE Deel dit met je vrienden om ze zo goed te maken als je bij het opslaan."
+  "goal_share_popover_desc": "PLZ_TRANSLATE Deel dit met je vrienden om ze zo goed te maken als je bij het opslaan.",
+  "goal_share_shared_text": "PLZ_TRANSLATE Met behulp van Gimi heb ik erin geslaagd om een ​​%1$d, Yiipiieee, op te slaan."
 }
