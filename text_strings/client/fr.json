@@ -1395,5 +1395,7 @@
   "trustly_settings_payout_info_weekly": "PLZ_TRANSLATE Déposé sur %1$d et retiré le %2$d",
   "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Déposé le %1$d et retiré le %2$d",
   "add_picture_proof": "PLZ_TRANSLATE Ajouter une preuve d'image",
-  "error_message_camera_permission": "PLZ_TRANSLATE Les autorisations de la caméra sont manquantes"
+  "error_message_camera_permission": "PLZ_TRANSLATE Les autorisations de la caméra sont manquantes",
+  "goal_share_popover_headline": "PLZ_TRANSLATE Tu es le meilleur",
+  "goal_share_popover_desc": "PLZ_TRANSLATE Partagez ceci avec vos amis pour les rendre aussi bons que vous pour économiser."
 }

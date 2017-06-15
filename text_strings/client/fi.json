@@ -1395,5 +1395,7 @@
   "trustly_settings_payout_info_weekly": "PLZ_TRANSLATE Talletettiin %1$d ja peruutettiin %2$d",
   "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Talletetaan %1$d ja peruuttanut %2$d",
   "add_picture_proof": "PLZ_TRANSLATE Lisää kuva proof",
-  "error_message_camera_permission": "PLZ_TRANSLATE Kamera käyttöoikeudet puuttuvat"
+  "error_message_camera_permission": "PLZ_TRANSLATE Kamera käyttöoikeudet puuttuvat",
+  "goal_share_popover_headline": "PLZ_TRANSLATE Olet paras",
+  "goal_share_popover_desc": "PLZ_TRANSLATE Jaa ystäviesi kanssa, jotta ne niin hyvä kuin on säästää."
 }

@@ -1395,5 +1395,7 @@
   "trustly_settings_payout_info_weekly": "PLZ_TRANSLATE Innborgað á %1$d og afturkölluð á %2$d",
   "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Innborgað %1$d og afturkallað %2$d",
   "add_picture_proof": "PLZ_TRANSLATE Bæta við myndsönnun",
-  "error_message_camera_permission": "PLZ_TRANSLATE Myndavélaréttindi vantar"
+  "error_message_camera_permission": "PLZ_TRANSLATE Myndavélaréttindi vantar",
+  "goal_share_popover_headline": "PLZ_TRANSLATE Þú ert bestur",
+  "goal_share_popover_desc": "PLZ_TRANSLATE Deila þessu með vinum þínum til að gera þau eins góð og þú á að vista."
 }

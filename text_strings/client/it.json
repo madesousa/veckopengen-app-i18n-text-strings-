@@ -1395,5 +1395,7 @@
   "trustly_settings_payout_info_weekly": "PLZ_TRANSLATE Deposito su %1$d e ritirato su %2$d",
   "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Deposito l'%1$d e ritirato l'%2$d",
   "add_picture_proof": "PLZ_TRANSLATE Aggiungi prova di immagine",
-  "error_message_camera_permission": "PLZ_TRANSLATE Manca la fotocamera autorizzazioni"
+  "error_message_camera_permission": "PLZ_TRANSLATE Manca la fotocamera autorizzazioni",
+  "goal_share_popover_headline": "PLZ_TRANSLATE Sei il migliore",
+  "goal_share_popover_desc": "PLZ_TRANSLATE Condividi questo con i tuoi amici per farli buoni come te al risparmio."
 }

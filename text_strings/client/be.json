@@ -1395,5 +1395,7 @@
   "trustly_settings_payout_info_weekly": "PLZ_TRANSLATE Ашчаджалі %1$d і выведзены на %2$d",
   "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Здадзеныя ў %1$d і адкліканая %2$d",
   "add_picture_proof": "PLZ_TRANSLATE Дадаць доказ малюнка",
-  "error_message_camera_permission": "PLZ_TRANSLATE дазволу камеры адсутнічаюць"
+  "error_message_camera_permission": "PLZ_TRANSLATE дазволу камеры адсутнічаюць",
+  "goal_share_popover_headline": "PLZ_TRANSLATE Ты найлепшы",
+  "goal_share_popover_desc": "PLZ_TRANSLATE Падзяліцеся з сябрамі, каб зрабіць іх так жа добра, як вы на выратаванне."
 }
