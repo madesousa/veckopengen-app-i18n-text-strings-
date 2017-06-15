@@ -1394,5 +1394,6 @@
   "time_minutes": "PLZ_TRANSLATE %1$d minutos",
   "trustly_settings_payout_info_weekly": "PLZ_TRANSLATE Depositado en %1$d y retirado en %2$d",
   "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Depositó el %1$d y retiró el %2$d",
-  "add_picture_proof": "PLZ_TRANSLATE Añadir prueba de imagen"
+  "add_picture_proof": "PLZ_TRANSLATE Añadir prueba de imagen",
+  "error_message_camera_permission": "PLZ_TRANSLATE Permisos de cámara perdidos"
 }

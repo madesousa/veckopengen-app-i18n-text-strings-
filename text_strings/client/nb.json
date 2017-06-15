@@ -1394,5 +1394,6 @@
   "time_minutes": "PLZ_TRANSLATE %1$d minutter",
   "trustly_settings_payout_info_weekly": "PLZ_TRANSLATE Deponert på %1$d og trukket tilbake på %2$d",
   "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Innskrevet %1$d og trukket tilbake %2$d",
-  "add_picture_proof": "PLZ_TRANSLATE Legg til bildesikkerhet"
+  "add_picture_proof": "PLZ_TRANSLATE Legg til bildesikkerhet",
+  "error_message_camera_permission": "PLZ_TRANSLATE Kameraet tillatelser mangler"
 }

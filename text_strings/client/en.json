@@ -1394,5 +1394,6 @@
   "time_minutes": "%1$d minutes",
   "trustly_settings_payout_info_weekly": "Deposited on %1$d and withdrawn on %2$d",
   "trustly_settings_payout_info_monthly": "Deposited the %1$d and withdrawn the %2$d",
-  "add_picture_proof": "Add image proof"
+  "add_picture_proof": "Add image proof",
+  "error_message_camera_permission": "Camera permissions are missing"
 }
