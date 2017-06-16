@@ -1404,5 +1404,8 @@
   "task_share_popover_text": "PLZ_TRANSLATE Share %1$d Aufgabe auf Social Media! Hashtag das Bild mit # %2$d :)",
   "task_share_headline": "PLZ_TRANSLATE %1$d Nur durchgeführt %2$d!",
   "task_share_text": "PLZ_TRANSLATE %1$d gerade durchgeführt %2$d durch die app %3$d. # %4$d",
-  "transaction_amount_illigal": "PLZ_TRANSLATE Diese Art von Transaktion sollte nicht unter 0 sein"
+  "transaction_amount_illigal": "PLZ_TRANSLATE Diese Art von Transaktion sollte nicht unter 0 sein",
+  "share_app_popover_title": "PLZ_TRANSLATE %1$d ordnet das geld an",
+  "share_app_popover_text": "PLZ_TRANSLATE Ich habe eine App, die es meinen Eltern erlaubt, mir meine wöchentliche / monatliche Vergütung zu geben, wie sie es versprochen haben.",
+  "share_app_popover_shared_text": "PLZ_TRANSLATE Ich habe eine App, die meinen Eltern erlaubt, mir wirklich meine wöchentliche / monatliche Zulage zu geben, wie sie versprochen haben. Erhalten Sie Ihre wöchentliche / monatliche Vergütung?\nHolen Sie es auf AppStore oder Google Play"
 }

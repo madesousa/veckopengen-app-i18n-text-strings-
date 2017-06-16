@@ -1415,5 +1415,8 @@
   "task_share_popover_text": "Dela %1$d uppgift på sociala medier! Hashtagga gärna bilden med #%2$d :)",
   "task_share_headline": "%1$d utförde precis %2$d!",
   "task_share_text": "%1$d utförde precis %2$d genom appen %3$d. #%4$d",
-  "transaction_amount_illigal": "Denna typ av transaktion ska inte vara under 0"
+  "transaction_amount_illigal": "Denna typ av transaktion ska inte vara under 0",
+  "share_app_popover_title": "%1$d ordnar pengarna",
+  "share_app_popover_text": "Jag har en app som gör så att mina föräldrar verkligen ger mig Veckopeng/Månadspeng som de lovat.",
+  "share_app_popover_shared_text": "Jag har en app som gör så att mina föräldrar verkligen ger mig Veckopeng/Månadspeng som de lovat. Får du din veckopeng/månadspeng hela tiden?\nSkaffa på AppStore eller Google Play"
 }

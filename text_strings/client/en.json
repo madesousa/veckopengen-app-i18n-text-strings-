@@ -1404,5 +1404,8 @@
   "task_share_popover_text": "Share %1$d task on social media! Hashtag the picture with #%2$d :)",
   "task_share_headline": "%1$d Just performed %2$d!",
   "task_share_text": "%1$d just performed %2$d through the app %3$d. #%4$d",
-  "transaction_amount_illigal": "This type of transaction should not be under 0"
+  "transaction_amount_illigal": "This type of transaction should not be under 0",
+  "share_app_popover_title": "%1$d arranges the money",
+  "share_app_popover_text": "I have an app that allows my parents to really give me my weekly/monthly allowance as they promised.",
+  "share_app_popover_shared_text": "I have an app that allows my parents to really give me my Weekly/Monthly allowance as they promised. Do you receive your weekly/monthly allowance?\nGet it on AppStore or Google Play"
 }

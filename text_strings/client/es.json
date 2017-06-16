@@ -1404,5 +1404,8 @@
   "task_share_popover_text": "PLZ_TRANSLATE Compartir %1$d tarea en las redes sociales! Hashtag la imagen con # %2$d :)",
   "task_share_headline": "PLZ_TRANSLATE %1$d Acaba de realizar %2$d!",
   "task_share_text": "PLZ_TRANSLATE %1$d acaba de realizar %2$d a través de la aplicación %3$d. # %4$d",
-  "transaction_amount_illigal": "PLZ_TRANSLATE Este tipo de transacción no debe ser inferior a 0"
+  "transaction_amount_illigal": "PLZ_TRANSLATE Este tipo de transacción no debe ser inferior a 0",
+  "share_app_popover_title": "PLZ_TRANSLATE %1$d organiza el dinero",
+  "share_app_popover_text": "PLZ_TRANSLATE Tengo una aplicación que permite a mis padres que realmente me dan mi subsidio semanal / mensual, como lo prometieron.",
+  "share_app_popover_shared_text": "PLZ_TRANSLATE Tengo una aplicación que permite a mis padres a que realmente me dan mi asignación semanal / mensual como prometieron. ¿Recibe su subsidio semanal / mensual?\nConsígalo en AppStore o Google Play"
 }

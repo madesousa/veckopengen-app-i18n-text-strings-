@@ -1404,5 +1404,8 @@
   "task_share_popover_text": "PLZ_TRANSLATE Jagage %1$d ülesanne sotsiaalmeedias! HASHTAG pildil # %2$d :)",
   "task_share_headline": "PLZ_TRANSLATE %1$d Just läbi %2$d!",
   "task_share_text": "PLZ_TRANSLATE %1$d lihtsalt läbi %2$d rakenduse kaudu %3$d. # %4$d",
-  "transaction_amount_illigal": "PLZ_TRANSLATE Seda tüüpi tehing ei tohiks olla alla 0"
+  "transaction_amount_illigal": "PLZ_TRANSLATE Seda tüüpi tehing ei tohiks olla alla 0",
+  "share_app_popover_title": "PLZ_TRANSLATE %1$d korraldab raha",
+  "share_app_popover_text": "PLZ_TRANSLATE Mul on rakendus, mis võimaldab mu vanemad tõesti mulle mu nädala / kuu toetust, kui nad lubasid.",
+  "share_app_popover_shared_text": "PLZ_TRANSLATE Mul on rakendus, mis võimaldab mu vanemad tõesti mulle mu Weekly / igakuine toetus nagu nad lubasid. Kas saate oma nädala / kuu elatusraha?\nHankige see AppStore või Google Play"
 }

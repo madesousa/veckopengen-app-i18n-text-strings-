@@ -1404,5 +1404,8 @@
   "task_share_popover_text": "PLZ_TRANSLATE Del %1$d opgave på sociale medier! Hashtag billedet med # %2$d :)",
   "task_share_headline": "PLZ_TRANSLATE %1$d Bare udført %2$d!",
   "task_share_text": "PLZ_TRANSLATE %1$d har lige udført %2$d gennem appen %3$d. # %4$d",
-  "transaction_amount_illigal": "PLZ_TRANSLATE Denne type transaktion bør ikke være under 0"
+  "transaction_amount_illigal": "PLZ_TRANSLATE Denne type transaktion bør ikke være under 0",
+  "share_app_popover_title": "PLZ_TRANSLATE %1$d arrangerer pengene",
+  "share_app_popover_text": "PLZ_TRANSLATE Jeg har en app, der gør det muligt for mine forældre virkelig at give mig min ugentlige / månedlige godtgørelse som de lovede.",
+  "share_app_popover_shared_text": "PLZ_TRANSLATE Jeg har en app, der gør det muligt for mine forældre virkelig at give mig min ugentlige / månedlige godtgørelse som de lovede. Modtager du dit ugentlige / månedlige tillæg?\nFå det på AppStore eller Google Play"
 }
