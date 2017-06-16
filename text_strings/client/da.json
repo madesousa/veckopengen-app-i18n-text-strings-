@@ -1396,7 +1396,7 @@
   "trustly_settings_payout_info_monthly": "PLZ_TRANSLATE Indsendt %1$d og trukket tilbage %2$d",
   "add_picture_proof": "PLZ_TRANSLATE Tilføj billedbeskyttet",
   "error_message_camera_permission": "PLZ_TRANSLATE Kamera tilladelser mangler",
-  "goal_share_popover_headline": "PLZ_TRANSLATE Du er den bedste",
+  "goal_share_popover_headline": "PLZ_TRANSLATE Tillykke! Du nåede dit opsparingsmål",
   "goal_share_popover_desc": "PLZ_TRANSLATE Del dette med dine venner for at gøre dem så gode som dig til at spare.",
   "goal_share_shared_text": "PLZ_TRANSLATE Med hjælp fra Gimi har jeg formået at spare op til en %1$d, Yiipiieee.",
   "average": "PLZ_TRANSLATE Gennemsnit",
