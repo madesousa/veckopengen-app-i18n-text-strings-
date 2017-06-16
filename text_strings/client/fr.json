@@ -1386,7 +1386,7 @@
   "reward_collected": "PLZ_TRANSLATE inkasserad récompense",
   "task_approved_desc": "La tâche %1$d a été approuvée et vous avez collecté %2$d dans la tirelire!",
   "edit_boost_title": "PLZ_TRANSLATE Fouetter ou carotte?",
-  "edit_boost_subtitle": "PLZ_TRANSLATE Aidez le %1$d en stimulant les jalons. Cependant, ce n'est pas seulement l'alléluia, un renfort accompli sera remboursé si %1$d devient inférieur à un jalon",
+  "edit_boost_subtitle": "PLZ_TRANSLATE Aidez le %1$d en stimulant les jalons. Cependant, ce n'est pas seulement l'alléluia, un coup de pouce atteint est perdu si %1$d va au-dessous d'une étape encore",
   "edit_boost_input_title": "PLZ_TRANSLATE Accélérer les jalons",
   "edit_boost_description": "PLZ_TRANSLATE %1$d est ajouté lorsque %2$d passe l'un des 9 jalons.",
   "task_per_hour_card_text": "PLZ_TRANSLATE La récompense est calculée à l'aide de la minuterie!",
@@ -1405,5 +1405,4 @@
   "task_share_headline": "PLZ_TRANSLATE %1$d Juste effectué %2$d!",
   "task_share_text": "PLZ_TRANSLATE %1$d vient d'être exécuté %2$d via l'application %3$d. # %4$d",
   "transaction_amount_illigal": "PLZ_TRANSLATE Ce type de transaction ne doit pas être inférieur à 0"
-
 }

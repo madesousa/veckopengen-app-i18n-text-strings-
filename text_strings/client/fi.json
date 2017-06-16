@@ -1386,7 +1386,7 @@
   "reward_collected": "PLZ_TRANSLATE palkita inkasserad",
   "task_approved_desc": "PLZ_TRANSLATE %1$d hyväksyttiin ja olet kerännyt %2$d vuonna säästöpossu!",
   "edit_boost_title": "PLZ_TRANSLATE Piiskaa tai porkkana?",
-  "edit_boost_subtitle": "PLZ_TRANSLATE Auttaa %1$d lisäämällä klo virstanpylväitä. Kuitenkin, se ei ole vain halleluja, taitava vauhtia palautetaan, jos %1$d alittaa virstanpylväs uudelleen",
+  "edit_boost_subtitle": "PLZ_TRANSLATE Auttaa %1$d lisäämällä klo virstanpylväitä. Kuitenkin, se ei ole vain halleluja An saavutettu boost menetetään jos %1$d alittaa virstanpylväs uudelleen",
   "edit_boost_input_title": "PLZ_TRANSLATE Pontta virstanpylväitä",
   "edit_boost_description": "PLZ_TRANSLATE %1$d lisätään, kun %2$d kulkee minkä tahansa 9 virstanpylväitä.",
   "task_per_hour_card_text": "PLZ_TRANSLATE Palkkio lasketaan ajastin!",
@@ -1405,5 +1405,4 @@
   "task_share_headline": "PLZ_TRANSLATE %1$d Vain suoritettu %2$d!",
   "task_share_text": "PLZ_TRANSLATE %1$d juuri suoritettu %2$d sovelluksen kautta %3$d. # %4$d",
   "transaction_amount_illigal": "PLZ_TRANSLATE Tällaiseen toimintaan ei pitäisi olla alle 0"
-
 }

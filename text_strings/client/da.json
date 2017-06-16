@@ -1386,7 +1386,7 @@
   "reward_collected": "PLZ_TRANSLATE belønning inkasserad",
   "task_approved_desc": "%1$d blev godkendt, og du har opsparet %2$d i spargrisen!",
   "edit_boost_title": "PLZ_TRANSLATE Pisk eller gulerod?",
-  "edit_boost_subtitle": "PLZ_TRANSLATE Hjælp %1$d ved at øge på milepæle. Men det er ikke bare hallelujah, et gennemført boost vil blive refunderet, hvis %1$d kommer under en milepæl igen",
+  "edit_boost_subtitle": "PLZ_TRANSLATE Hjælp %1$d ved at øge på milepæle. Men det er ikke bare hallelujah, et opnået boost er tabt, hvis %1$d går under en milepæl igen",
   "edit_boost_input_title": "PLZ_TRANSLATE Boost på milepæle",
   "edit_boost_description": "PLZ_TRANSLATE %1$d tilføjes, når %2$d passerer nogen af ​​de 9 milepæle.",
   "task_per_hour_card_text": "PLZ_TRANSLATE Belønningen beregnes ved hjælp af timeren!",
@@ -1405,5 +1405,4 @@
   "task_share_headline": "PLZ_TRANSLATE %1$d Bare udført %2$d!",
   "task_share_text": "PLZ_TRANSLATE %1$d har lige udført %2$d gennem appen %3$d. # %4$d",
   "transaction_amount_illigal": "PLZ_TRANSLATE Denne type transaktion bør ikke være under 0"
-
 }

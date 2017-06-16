@@ -1397,7 +1397,7 @@
   "reward_collected": "Belöning inkasserad",
   "task_approved_desc": "%1$d godkändes och du har inkasserat %2$d till spargrisen!",
   "edit_boost_title": "Piska eller morot?",
-  "edit_boost_subtitle": "Hjälp %1$d genom att boosta vid milstolpar. Det är dock inte bara halleluja, en uppnådd boost betalas tillbaka om %1$d hamnar under en milstolpe igen",
+  "edit_boost_subtitle": "Hjälp %1$d genom att boosta vid milstolpar. Det är dock inte bara halleluja, en uppnådd boost förloras om %1$d hamnar under en milstolpe igen",
   "edit_boost_input_title": "Boosta vid milstolpar",
   "edit_boost_description": "%1$d läggs till när %2$d passerar någon av de 9 milstolparna.",
   "task_per_hour_card_text": "Belöningen räknas ut med hjälp av tidtagaruret!",

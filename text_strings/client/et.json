@@ -1386,7 +1386,7 @@
   "reward_collected": "PLZ_TRANSLATE tasu inkasserad",
   "task_approved_desc": "PLZ_TRANSLATE %1$d kiideti heaks ja olete kogunud %2$d sisse notsu panga!",
   "edit_boost_title": "PLZ_TRANSLATE Whip või porgand?",
-  "edit_boost_subtitle": "PLZ_TRANSLATE Abi %1$d tõstes kell verstapostid. Kuid see ei ole ainult halleluuja saavutatud hoogu tagastatakse, kui %1$d langeb alla verstapost uuesti",
+  "edit_boost_subtitle": "PLZ_TRANSLATE Abi %1$d tõstes kell verstapostid. Kuid see ei ole ainult halleluuja, mis on saavutatud hoogu on kadunud, kui %1$d läheb alla verstapost uuesti",
   "edit_boost_input_title": "PLZ_TRANSLATE Boost on verstapostid",
   "edit_boost_description": "PLZ_TRANSLATE %1$d lisatakse kui %2$d läbib mistahes 9 vahe.",
   "task_per_hour_card_text": "PLZ_TRANSLATE Tasu arvutatakse taimer!",
@@ -1405,5 +1405,4 @@
   "task_share_headline": "PLZ_TRANSLATE %1$d Just läbi %2$d!",
   "task_share_text": "PLZ_TRANSLATE %1$d lihtsalt läbi %2$d rakenduse kaudu %3$d. # %4$d",
   "transaction_amount_illigal": "PLZ_TRANSLATE Seda tüüpi tehing ei tohiks olla alla 0"
-
 }

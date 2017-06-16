@@ -1386,7 +1386,7 @@
   "reward_collected": "PLZ_TRANSLATE inkasserad recompensa",
   "task_approved_desc": "PLZ_TRANSLATE %1$d fue aprobado y usted ha recogido %2$d en la alcancía!",
   "edit_boost_title": "PLZ_TRANSLATE Látigo o zanahoria",
-  "edit_boost_subtitle": "PLZ_TRANSLATE Ayuda %1$d mediante el impulso en los hitos. Sin embargo, no es sólo aleluya, un impulso logrado será devuelto si %1$d vuelve a estar por debajo de un hito",
+  "edit_boost_subtitle": "PLZ_TRANSLATE Ayuda %1$d mediante el impulso en los hitos. Sin embargo, no es sólo aleluya, un impulso logrado se pierde si %1$d va por debajo de un hito de nuevo",
   "edit_boost_input_title": "PLZ_TRANSLATE Impulso en los hitos",
   "edit_boost_description": "PLZ_TRANSLATE %1$d se añade cuando %2$d pasa alguno de los 9 hitos.",
   "task_per_hour_card_text": "PLZ_TRANSLATE La recompensa se calcula usando el temporizador!",
@@ -1405,5 +1405,4 @@
   "task_share_headline": "PLZ_TRANSLATE %1$d Acaba de realizar %2$d!",
   "task_share_text": "PLZ_TRANSLATE %1$d acaba de realizar %2$d a través de la aplicación %3$d. # %4$d",
   "transaction_amount_illigal": "PLZ_TRANSLATE Este tipo de transacción no debe ser inferior a 0"
-
 }

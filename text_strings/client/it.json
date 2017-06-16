@@ -1386,7 +1386,7 @@
   "reward_collected": "PLZ_TRANSLATE premio inkasserad",
   "task_approved_desc": "PLZ_TRANSLATE %1$d è stato approvato e hai raccolto %2$d nella banca salvadana!",
   "edit_boost_title": "PLZ_TRANSLATE Frusta o carota?",
-  "edit_boost_subtitle": "PLZ_TRANSLATE Aiuta %1$d incrementando le pietre miliari. Tuttavia, non è solo l'alleluia, un rimborso compiuto verrà rimborsato se %1$d scende al di sotto di una pietra miliare",
+  "edit_boost_subtitle": "PLZ_TRANSLATE Aiuta %1$d incrementando le pietre miliari. Tuttavia, non è solo hallelujah, una spinta ottenuta viene persa se %1$d scende al di sotto di una pietra miliare",
   "edit_boost_input_title": "PLZ_TRANSLATE Spinta a pietre miliari",
   "edit_boost_description": "PLZ_TRANSLATE %1$d viene aggiunto quando %2$d passa a una delle 9 tappe.",
   "task_per_hour_card_text": "PLZ_TRANSLATE La ricompensa viene calcolata usando il timer!",
@@ -1405,5 +1405,4 @@
   "task_share_headline": "PLZ_TRANSLATE %1$d Appena eseguito %2$d!",
   "task_share_text": "PLZ_TRANSLATE %1$d ha appena eseguito %2$d attraverso l'applicazione %3$d. # %4$d",
   "transaction_amount_illigal": "PLZ_TRANSLATE Questo tipo di transazione non dovrebbe essere sotto 0"
-
 }

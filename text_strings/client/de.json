@@ -1386,7 +1386,7 @@
   "reward_collected": "PLZ_TRANSLATE Belohnung inkasserad",
   "task_approved_desc": "PLZ_TRANSLATE %1$d wurde genehmigt und Sie haben %2$d im Sparschwein gesammelt!",
   "edit_boost_title": "PLZ_TRANSLATE Peitsche oder Karotte?",
-  "edit_boost_subtitle": "PLZ_TRANSLATE Hilfe %1$d durch die Förderung von Meilensteinen. Allerdings ist es nicht nur Halleluja, ein gelungener Schub wird zurückerstattet, wenn %1$d wieder unter einen Meilenstein kommt",
+  "edit_boost_subtitle": "PLZ_TRANSLATE Hilfe %1$d durch die Förderung von Meilensteinen. Allerdings ist es nicht nur hallelujah, ein erreichter Schub geht verloren, wenn %1$d unter einen Meilenstein geht",
   "edit_boost_input_title": "PLZ_TRANSLATE Steigern Sie an Meilensteinen",
   "edit_boost_description": "PLZ_TRANSLATE %1$d wird hinzugefügt, wenn %2$d einen der 9 Meilensteine ​​passiert.",
   "task_per_hour_card_text": "PLZ_TRANSLATE Die Belohnung wird mit dem Timer berechnet!",
@@ -1405,5 +1405,4 @@
   "task_share_headline": "PLZ_TRANSLATE %1$d Nur durchgeführt %2$d!",
   "task_share_text": "PLZ_TRANSLATE %1$d gerade durchgeführt %2$d durch die app %3$d. # %4$d",
   "transaction_amount_illigal": "PLZ_TRANSLATE Diese Art von Transaktion sollte nicht unter 0 sein"
-
 }
